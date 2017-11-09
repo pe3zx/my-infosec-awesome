@@ -8,7 +8,7 @@ My curated list of awesome links, resources and tools
 - [My Awesome](#my-awesome)
 - [Articles](#article)
 - [Tools](#tools)
-	- [AWS](#aws)
+	- [AWS Security](#aws-security)
 
 ---
 
@@ -16,7 +16,7 @@ My curated list of awesome links, resources and tools
 
 ## Tools
 
-### AWS
+### AWS Security
 
 *Open source projects related to AWS security.*
 
