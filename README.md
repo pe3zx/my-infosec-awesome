@@ -9,6 +9,7 @@ My curated list of awesome links, resources and tools
 - [Articles](#article)
 - [Tools](#tools)
 	- [AWS Security](#aws-security)
+    - [Binary Analysis](#binary-analysis)
 
 ---
 
@@ -59,6 +60,21 @@ My curated list of awesome links, resources and tools
         </td>
         <td>
             Tool for AWS security assessment, auditing and hardening. It follows guidelines of the CIS Amazon Web Services Foundations Benchmark.
+        </td>
+    </tr>
+</table>
+
+### Binary Analysis
+
+*Binary analysis tools, including decompilers, deobfuscators, disassemblers, etc.*
+
+<table>
+    <tr>
+        <td>
+            <a href="https://github.com/katjahahn/PortEx" target="_blank">katjahahn/PortEx</a>
+        </td>
+        <td>
+            Java library to analyse Portable Executable files with a special focus on malware analysis and PE malformation robustness
         </td>
     </tr>
 </table>
