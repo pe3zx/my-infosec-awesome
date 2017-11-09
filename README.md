@@ -10,6 +10,7 @@ My curated list of awesome links, resources and tools
 - [Tools](#tools)
 	- [AWS Security](#aws-security)
     - [Binary Analysis](#binary-analysis)
+    - [Digital Forensics and Incident Response](#digital-forensics-and-incident-response)
 
 ---
 
@@ -91,6 +92,53 @@ My curated list of awesome links, resources and tools
         </td>
         <td>
             Pure Python parser and analyzer for IDA Pro database files (.idb).
+        </td>
+    </tr>
+</table>
+
+### Digital Forensics and Incident Response
+
+*Open source projects related to DFIR topic.*
+
+<table>
+    <tr>
+        <td>
+            <a href="https://github.com/Invoke-IR/PowerForensics">Invoke-IR/PowerForensics</a>
+        </td>
+        <td>
+            PowerForensics provides an all in one platform for live disk forensic analysis
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://github.com/nannib/Imm2Virtual">nannib/Imm2Virtual</a>
+        </td>
+        <td>
+            This is a GUI (for Windows 64 bit) for a procedure to virtualize your EWF(E01), DD(Raw), AFF disk image file without converting it, directly with VirtualBox, forensically proof.
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://github.com/nshalabi/SysmonTools">nshalabi/SysmonTools</a>
+        </td>
+        <td>
+            Utilities for Sysmon (Sysmon View and Sysmon Shell)
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://github.com/THIBER-ORG/userline">THIBER-ORG/userline</a>
+        </td>
+        <td>
+            Query and report user logons relations from MS Windows Security Events
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://github.com/TryCatchHCF/DumpsterFire">TryCatchHCF/DumpsterFire</a>
+        </td>
+        <td>
+            "Security Incidents In A Box!" A modular, menu-driven, cross-platform tool for building customized, time-delayed, distributed security events. Easily create custom event chains for Blue Team drills and sensor / alert mapping. Red Teams can create decoy incidents, distractions, and lures to support and scale their operations. Build event sequence…
         </td>
     </tr>
 </table>
