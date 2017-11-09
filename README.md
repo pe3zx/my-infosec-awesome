@@ -18,7 +18,7 @@ My curated list of awesome links, resources and tools
 
 ### AWS
 
-*Open source projects related to AWS Security.*
+*Open source projects related to AWS security.*
 
 <table>
     <tr>
