@@ -154,7 +154,7 @@ My curated list of awesome links, resources and tools
         <td>
             A logic issue existed in the handling of the parent-tab. This issue was addressed with improved state management. Processing maliciously crafted web content may lead to universal cross site scripting.
             <ul>
-                <li><a href="https://github.com/Bo0oM/CVE-2017/7089">Bo0oM/CVE-2017-7089</a></li>
+                <li><a href="https://github.com/Bo0oM/CVE-2017-7089">Bo0oM/CVE-2017-7089</a></li>
             </ul>
         </td>
     </tr>
