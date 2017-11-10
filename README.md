@@ -174,7 +174,7 @@ My curated list of awesome links, resources and tools
         <td>This database contains information regarding CVE(s) that affect various language modules. We currently store version information corresponding to respective modules as understood by select sources.</td>
     </tr>
     <tr>
-        <td><a href="https://github.com/xairy/kernel-exploits"xairy/kernel-exploits></a></td>
+        <td><a href="https://github.com/xairy/kernel-exploits">xairy/kernel-exploits</a></td>
         <td>A bunch of proof-of-concept exploits for the Linux kernel</td>
     </tr>
 </table>
