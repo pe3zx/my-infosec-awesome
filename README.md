@@ -24,6 +24,18 @@ My curated list of awesome links, resources and tools
 - CCleaner's backdoor analysis
     - [Protecting the Software Supply Chain: Deep Insights into the CCleaner Backdoor](https://www.crowdstrike.com/blog/protecting-software-supply-chain-deep-insights-ccleaner-backdoor/)
     - [In-Depth Analysis of the CCleaner Backdoor Stage 2 Dropper and Its Payload](https://www.crowdstrike.com/blog/in-depth-analysis-of-the-ccleaner-backdoor-stage-2-dropper-and-its-payload/)
+- List of interesting Windows APIs used by malware
+
+<table>
+    <tr>
+        <td>`WNetAddConnection`</td>
+        <td>The WNetAddConnection function enables the calling application to connect a local device to a network resource. A successful connection is persistent, meaning that the system automatically restores the connection during subsequent logon operations. An example of malware that implement this function can be found below:
+            <ul>
+                <li><a href="https://securityintelligence.com/new-banking-trojan-icedid-discovered-by-ibm-x-force-research/">Icedid trojan in its network propagation function</a><li>
+            <ul>
+        </td>
+    </tr>
+</table>
 
 ## Tools
 
