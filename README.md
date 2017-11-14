@@ -7,6 +7,7 @@ My curated list of awesome links, resources and tools
 
 - [My Awesome](#my-awesome)
 - [Articles](#article)
+    - [Malware Analysis](#malware-analysis)
 - [Tools](#tools)
 	- [AWS Security](#aws-security)
     - [Binary Analysis](#binary-analysis)
@@ -17,6 +18,12 @@ My curated list of awesome links, resources and tools
 ---
 
 ## Articles
+
+### Malware Analysis
+
+- CCleaner's backdoor analysis
+    - [Protecting the Software Supply Chain: Deep Insights into the CCleaner Backdoor](https://www.crowdstrike.com/blog/protecting-software-supply-chain-deep-insights-ccleaner-backdoor/)
+    - [In-Depth Analysis of the CCleaner Backdoor Stage 2 Dropper and Its Payload](https://www.crowdstrike.com/blog/in-depth-analysis-of-the-ccleaner-backdoor-stage-2-dropper-and-its-payload/)
 
 ## Tools
 
