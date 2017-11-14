@@ -12,6 +12,7 @@ My curated list of awesome links, resources and tools
     - [Binary Analysis](#binary-analysis)
     - [Digital Forensics and Incident Response](#digital-forensics-and-incident-response)
     - [Exploits](#exploits)
+    - [Social Engineering](#social-engineering)
 
 ---
 
@@ -210,5 +211,20 @@ My curated list of awesome links, resources and tools
     <tr>
         <td><a href="https://github.com/xairy/kernel-exploits">xairy/kernel-exploits</a></td>
         <td>A bunch of proof-of-concept exploits for the Linux kernel</td>
+    </tr>
+</table>
+
+### Social Engineering
+
+*Tools related to social engineering attack and human hacking*
+
+<table>
+    <tr>
+        <td>
+            <a href="https://github.com/UndeadSec/EvilURL">Undeadsec/EvilURL</a>
+        </td>
+        <td>
+            An unicode domain phishing generator for IDN Homograph Attack
+        </td>
     </tr>
 </table>
