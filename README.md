@@ -28,11 +28,11 @@ My curated list of awesome links, resources and tools
 
 <table>
     <tr>
-        <td>`WNetAddConnection`</td>
+        <td>WNetAddConnection</td>
         <td>The WNetAddConnection function enables the calling application to connect a local device to a network resource. A successful connection is persistent, meaning that the system automatically restores the connection during subsequent logon operations. An example of malware that implement this function can be found below:
             <ul>
                 <li><a href="https://securityintelligence.com/new-banking-trojan-icedid-discovered-by-ibm-x-force-research/">Icedid trojan in its network propagation function</a><li>
-            <ul>
+            </ul>
         </td>
     </tr>
 </table>
