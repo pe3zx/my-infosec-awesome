@@ -13,6 +13,7 @@ My curated list of awesome links, resources and tools
     - [Binary Analysis](#binary-analysis)
     - [Digital Forensics and Incident Response](#digital-forensics-and-incident-response)
     - [Exploits](#exploits)
+    - [Malware analysis](#malware-analysis-1)
     - [Social Engineering](#social-engineering)
 
 ---
@@ -239,6 +240,15 @@ My curated list of awesome links, resources and tools
     <tr>
         <td><a href="https://github.com/xairy/kernel-exploits">xairy/kernel-exploits</a></td>
         <td>A bunch of proof-of-concept exploits for the Linux kernel</td>
+    </tr>
+</table>
+
+### Malware Analysis
+
+<table>
+    <tr>
+        <td><a href="https://www.malwaretracker.com/doc.php">Cryptam Document Scanner</a></td>
+        <td>Encrypted/obfuscated malicious document analyzer</td>
     </tr>
 </table>
 
