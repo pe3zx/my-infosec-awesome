@@ -256,6 +256,10 @@ My curated list of awesome links, resources and tools
         <td><a href="https://www.malwaretracker.com/doc.php">Cryptam Document Scanner</a></td>
         <td>Encrypted/obfuscated malicious document analyzer</td>
     </tr>
+    <tr>
+        <td><a href="https://github.com/quasar/QuasarRAT">quasar/QuasarRAT</a></td>
+        <td>Quasar is a fast and light-weight remote administration tool coded in C#. Providing high stability and an easy-to-use user interface, Quasar is the perfect remote administration solution for you.</td>
+    </tr>
 </table>
 
 ### Social Engineering
