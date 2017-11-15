@@ -245,6 +245,8 @@ My curated list of awesome links, resources and tools
 
 ### Malware Analysis
 
+*Tools related to malware analysis, malware development (for research purpose) and malware sample finding*
+
 <table>
     <tr>
         <td><a href="https://www.malwaretracker.com/doc.php">Cryptam Document Scanner</a></td>
