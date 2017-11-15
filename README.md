@@ -249,6 +249,10 @@ My curated list of awesome links, resources and tools
 
 <table>
     <tr>
+        <td><a href="https://github.com/adamkramer/rapid_env">adamkramer/rapid_env</a></td>
+        <td>Rapid deployment of Windows environment (files, registry keys, mutex etc) to facilitate malware analysis</td>
+    </tr>
+    <tr>
         <td><a href="https://www.malwaretracker.com/doc.php">Cryptam Document Scanner</a></td>
         <td>Encrypted/obfuscated malicious document analyzer</td>
     </tr>
