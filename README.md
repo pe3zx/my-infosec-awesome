@@ -483,6 +483,8 @@ My curated list of awesome links, resources and tools
 
 ### Vulnerable
 
+*Vulnerable software, application, VM for research purpose*
+
 <table>
     <tr>
         <td><a href="https://github.com/cliffe/SecGen">cliffe/SecGen</a></td>
