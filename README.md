@@ -11,6 +11,7 @@ My curated list of awesome links, resources and tools
 - [Tools](#tools)
 	- [AWS Security](#aws-security)
     - [Binary Analysis](#binary-analysis)
+    - [Data Exfiltration](#data-exfiltration)
     - [Digital Forensics and Incident Response](#digital-forensics-and-incident-response)
     - [Exploits](#exploits)
     - [Malware analysis](#malware-analysis-1)
@@ -118,6 +119,16 @@ My curated list of awesome links, resources and tools
             Pure Python parser and analyzer for IDA Pro database files (.idb).
         </td>
     </tr>
+</table>
+
+### Data Exfiltration
+
+<table>
+    <tr>
+        <td><a href="https://github.com/pentestpartners/PTP-RAT">pentestpartners/PTP-RAT</a></td>
+        <td>Exfiltrate data over screen interfaces. <a href="https://www.pentestpartners.com/security-blog/exfiltration-by-encoding-data-in-pixel-colour-values/">For more information.</a></td>
+    </tr>
+
 </table>
 
 ### Digital Forensics and Incident Response
