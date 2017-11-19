@@ -325,6 +325,17 @@ My curated list of awesome links, resources and tools
     </tr>
 </table>
 
+### Password Tools
+
+*Tools related to password cracking, bruteforcing and also wordlists*
+
+<table>
+    <tr>
+        <td><a href="https://github.com/fireeye/gocrack">fireeye/gocrack</a></td>
+        <td>GoCrack provides APIs to manage password cracking tasks across supported cracking engines.</td>
+    </tr>
+</table>
+
 ### Social Engineering
 
 *Tools related to social engineering attack and human hacking*
