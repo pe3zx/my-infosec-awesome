@@ -367,7 +367,7 @@ My curated list of awesome links, resources and tools
 
 <table>
     <tr>
-        <td colspan="2"><b><center>Burp Suite</center></b></td>
+        <td colspan="2"><center><b>Burp Suite</b></center></td>
     </tr>
     <tr>
         <td><a href="https://github.com/lightbulb-framework/lightbulb-framework">lightbulb-framework/lightbulb-framework</a></td>
