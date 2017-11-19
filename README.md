@@ -362,11 +362,13 @@ My curated list of awesome links, resources and tools
 
 ### Plugins
 
-**Plugins and extensions for tools**
+*Plugins and extensions for tools*
 
 <table>
     <tr>
         <td colspan="2">Burp Suite</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/lightbulb-framework/lightbulb-framework">lightbulb-framework/lightbulb-framework</a></td>
         <td>LightBulb is an open source python framework for auditing web application firewalls and filters.</td>
     </tr>
