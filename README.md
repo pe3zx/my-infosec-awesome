@@ -338,6 +338,10 @@ My curated list of awesome links, resources and tools
         <td><a href="https://github.com/fireeye/gocrack">fireeye/gocrack</a></td>
         <td>GoCrack provides APIs to manage password cracking tasks across supported cracking engines.</td>
     </tr>
+    <tr>
+        <td><a href="https://github.com/sc0tfree/mentalist">sc0tfree/mentalist</a></td>
+        <td>Mentalist is a graphical tool for custom wordlist generation. It utilizes common human paradigms for constructing passwords and can output the full wordlist as well as rules compatible with Hashcat and John the Ripper.</td>
+    </tr>
 </table>
 
 ### Social Engineering
