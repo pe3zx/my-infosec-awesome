@@ -367,14 +367,14 @@ My curated list of awesome links, resources and tools
 
 <table>
     <tr>
-        <td colspan="2"><center><b>Burp Suite</b></center></td>
+        <td colspan="2" style="text-align:center;"><b>Burp Suite</b></td>
     </tr>
     <tr>
         <td><a href="https://github.com/lightbulb-framework/lightbulb-framework">lightbulb-framework/lightbulb-framework</a></td>
         <td>LightBulb is an open source python framework for auditing web application firewalls and filters.</td>
     </tr>
     <tr>
-        <td colspan="2"><b><center>GDB</center></b></td>
+        <td colspan="2" style="text-align:center;"><b>GDB</b></td>
     </tr>
     <tr>
         <td><a href="https://github.com/cs01/gdbgui">cs01/gdbgui</a></td>
