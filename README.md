@@ -270,7 +270,10 @@ My curated list of awesome links, resources and tools
         <td><a href="https://github.com/quasar/QuasarRAT">quasar/QuasarRAT</a></td>
         <td>Quasar is a fast and light-weight remote administration tool coded in C#. Providing high stability and an easy-to-use user interface, Quasar is the perfect remote administration solution for you.</td>
     </tr>
-    tr>td>
+    <tr>
+        <td><a href="https://github.com/GoSecure/malboxes">GoSecure/malboxes</a></td>
+        <td>Builds malware analysis Windows VMs so that you don't have to.</td>
+    </tr>
 </table>
 
 ### Social Engineering
