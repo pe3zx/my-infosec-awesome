@@ -15,13 +15,14 @@ My curated list of awesome links, resources and tools
     - [Data Exfiltration](#data-exfiltration)
     - [Digital Forensics and Incident Response](#digital-forensics-and-incident-response)
     - [Exploits](#exploits)
-    - [Malware analysis](#malware-analysis-1)
+    - [Malware Analysis](#malware-analysis-1)
     - [Mobile Securtiy](#mobile-security)
     - [Network](#network)
     - [Plugins](#plugins)
     - [Social Engineering](#social-engineering)
     - [Vulnerable](#vulnerable)
     - [Web Application Security](#web-application-security)
+    - [Windows](#windows)
 
 ---
 
@@ -517,5 +518,36 @@ My curated list of awesome links, resources and tools
     <tr>
         <td><a href="https://github.com/mazen160/bfac">mazen160/bfac</a></td>
         <td>BFAC (Backup File Artifacts Checker): An automated tool that checks for backup artifacts that may disclose the web-application's source code.</td>
+    </tr>
+</table>
+
+### Windows
+
+*Tools for Windows only*
+
+<table>
+    <tr>
+        <td><a href="https://github.com/api0cradle/UltimateAppLockerByPassList"></a>api0cradle/UltimateAppLockerByPassList</td>
+        <td>The goal of this repository is to document the most common techniques to bypass AppLocker.</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/hlldz/Invoke-Phant0m">hlldz/Invoke-Phant0m</a></td>
+        <td>Windows Event Log Killer</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/jonatan1024/clrinject">jonatan1024/clrinject</a></td>
+        <td>Injects C# EXE or DLL Assembly into every CLR runtime and AppDomain of another process.</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/sevagas/macro_pack">sevagas/macro_pack</a></td>
+        <td>macro_pack is a tool used to automatize obfuscation and generation of MS Office documents for pentest, demo, and social engineering assessments. The goal of macro_pack is to simplify antimalware bypass and automatize the process from vba generation to final Office document generation.</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/Plazmaz/LNKUp">Plazmaz/LNKUp</a></td>
+        <td>Generates malicious LNK file payloads for data exfiltration</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/secretsquirrel/SigThief">secretsquirrel/SigThief</a></td>
+        <td>Stealing Signatures and Making One Invalid Signature at a Time</td>
     </tr>
 </table>
