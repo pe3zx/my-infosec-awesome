@@ -15,7 +15,7 @@ My curated list of awesome links, resources and tools
     - [Exploits](#exploits)
     - [Malware analysis](#malware-analysis-1)
     - [Mobile Securtiy](#mobile-security)
-    - [Networking](#networking)
+    - [Network](#network)
     - [Social Engineering](#social-engineering)
 
 ---
@@ -310,7 +310,7 @@ My curated list of awesome links, resources and tools
     </tr>
 </table>
 
-### Networking
+### Network
 
 *Network and network security related tools*
 
