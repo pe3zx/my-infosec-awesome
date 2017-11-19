@@ -312,6 +312,8 @@ My curated list of awesome links, resources and tools
 
 ### Networking
 
+*Network and network security related tools*
+
 <table>
     <tr>
         <td><a href="https://github.com/michenriksen/aquatone">michenriksen/aquatone</a></td>
