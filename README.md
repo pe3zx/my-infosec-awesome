@@ -267,6 +267,10 @@ My curated list of awesome links, resources and tools
         <td>Encrypted/obfuscated malicious document analyzer</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/OALabs/BlobRunner">OALabs/BlobRunner</a></td>
+        <td>Quickly debug shellcode extracted during malware analysis</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/quasar/QuasarRAT">quasar/QuasarRAT</a></td>
         <td>Quasar is a fast and light-weight remote administration tool coded in C#. Providing high stability and an easy-to-use user interface, Quasar is the perfect remote administration solution for you.</td>
     </tr>
