@@ -66,13 +66,19 @@ My curated list of awesome links, resources and tools
             </ul>
         </td>
     </tr>
+    <tr>
+        <td>Binary Ninja</td>
+        <td>
+            <ul>
+                <li><a href="https://blog.trailofbits.com/2016/06/03/2000-cuts-with-binary-ninja/">2000 cuts with Binary Ninja</a></li>
+                <li><a href="https://binary.ninja/2017/10/01/automated-opaque-predicate-removal.html">Automated Opaque Predicate Removal</a></li>
+                <li><a href="http://www.chokepoint.net/2017/10/pin-visual-coverage-tool-for-binary.html">Pin Visual Coverage Tool For Binary Ninja</a></li>
+                <li><a href="https://blog.ret2.io/2017/10/17/untangling-exotic-architectures-with-binary-ninja/">Untangling Exotic Architectures with Binary Ninja</a></li>
+            </ul>
+        </td>
+    </tr>
 </table>
 
-- Binary Ninja
-    - [2000 cuts with Binary Ninja](https://blog.trailofbits.com/2016/06/03/2000-cuts-with-binary-ninja/)
-    - [Automated Opaque Predicate Removal](https://binary.ninja/2017/10/01/automated-opaque-predicate-removal.html)
-    - [Pin Visual Coverage Tool For Binary Ninja](http://www.chokepoint.net/2017/10/pin-visual-coverage-tool-for-binary.html?m=1)
-    - [Untangling Exotic Architectures with Binary Ninja](https://blog.ret2.io/2017/10/17/untangling-exotic-architectures-with-binary-ninja/)
 - BloodHound
     - [Lay of the Land with BloodHound](http://threat.tevora.com/lay-of-the-land-with-bloodhound/)
 - Elasticsearch
