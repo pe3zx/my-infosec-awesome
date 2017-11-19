@@ -123,12 +123,17 @@ My curated list of awesome links, resources and tools
 
 ### Data Exfiltration
 
+*Tools related to data exfiltration and covert channels*
+
 <table>
     <tr>
         <td><a href="https://github.com/pentestpartners/PTP-RAT">pentestpartners/PTP-RAT</a></td>
         <td>Exfiltrate data over screen interfaces. <a href="https://www.pentestpartners.com/security-blog/exfiltration-by-encoding-data-in-pixel-colour-values/">For more information.</a></td>
     </tr>
-
+    <tr>
+        <td><a href="https://github.com/sensepost/DET">sensepost/DET</a></td>
+        <td>DET (is provided AS IS), is a proof of concept to perform Data Exfiltration using either single or multiple channel(s) at the same time.</td>
+    </tr>
 </table>
 
 ### Digital Forensics and Incident Response
