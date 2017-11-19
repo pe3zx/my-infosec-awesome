@@ -309,7 +309,7 @@ My curated list of awesome links, resources and tools
         <td>AppMon is an automated framework for monitoring and tampering system API calls of native macOS, iOS and android apps. It is based on Frida.</td>
     </tr>
     <tr>
-        <td><a href="https://www.htbridge.com/mobile">Mobile X-Ray</a>/td>
+        <td><a href="https://www.htbridge.com/mobile">Mobile X-Ray</a></td>
         <td>Just upload your iOS or Android mobile app to start a DAST, SAST and behavioral audit for OWASP Mobile Top 10 and other vulnerabilities</td>
     </tr>
 </table>
