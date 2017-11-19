@@ -14,6 +14,7 @@ My curated list of awesome links, resources and tools
     - [Digital Forensics and Incident Response](#digital-forensics-and-incident-response)
     - [Exploits](#exploits)
     - [Malware analysis](#malware-analysis-1)
+    - [Mobile](#mobile)
     - [Social Engineering](#social-engineering)
 
 ---
@@ -218,6 +219,7 @@ My curated list of awesome links, resources and tools
             <ul>
                 <li><a href="https://github.com/fupinglee/MyPython/blob/master/exploit/CVE-2017-8759/CVE-2017-8759_exploit_rtf.py">MyPython/exploit/CVE-2017-8759/CVE-2017-8759_exploit_rtf.py</a></li>
                 <li><a href="https://github.com/vysec/CVE-2017-8759">vysec/CVE-2017-8759</a></li>
+                <li><a href="https://twitter.com/PayloadSecurity/status/907911356460027904">CVE-2017-8759 - Malware Sample</a>
             </ul>
         </td>
     </tr>
@@ -267,6 +269,14 @@ My curated list of awesome links, resources and tools
         <td>Encrypted/obfuscated malicious document analyzer</td>
     </tr>
     <tr>
+        <td><a href="DAS MALWERK">http://dasmalwerk.eu/</a></td>
+        <td>DAS MALWERK - your one stop shop for fresh malware samples</td>
+    </tr>
+    <tr>
+        <td><a href="https://iris-h.malwageddon.com/">IRIS-H</a></td>
+        <td>IRIS-H is an online digital forensics tool that performs automated static analysis of files stored in a directory-based or strictly structured formats.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/OALabs/BlobRunner">OALabs/BlobRunner</a></td>
         <td>Quickly debug shellcode extracted during malware analysis</td>
     </tr>
@@ -277,6 +287,21 @@ My curated list of awesome links, resources and tools
     <tr>
         <td><a href="https://github.com/GoSecure/malboxes">GoSecure/malboxes</a></td>
         <td>Builds malware analysis Windows VMs so that you don't have to.</td>
+    </tr>
+    <tr>
+        <td><a href="https://malware.sekoia.fr/new">SEKOIA Dropper Analysis</a></td>
+        <td>SEKOIA Dropper Analysis</td>
+    </tr>
+</table>
+
+### Mobile Security
+
+*Tools related to mobile security, mobile application auditing/debugging and mobile penetration testing*
+
+<table>
+    <tr>
+        <td><a href="https://github.com/dpnishant/appmon">dpnishant/appmon</a></td>
+        <td>AppMon is an automated framework for monitoring and tampering system API calls of native macOS, iOS and android apps. It is based on Frida.</td>
     </tr>
 </table>
 
