@@ -226,7 +226,7 @@ My curated list of awesome links, resources and tools
             <td>Wi-Fi Protected Access (WPA and WPA2) that supports IEEE 802.11r allows reinstallation of the Pairwise Transient Key (PTK) Temporal Key (TK) during the fast BSS transmission (FT) handshake, allowing an attacker within radio range to replay, decrypt, or spoof frames.
                 <ul>
                     <li><a href="https://www.krackattacks.com">the KRACK attack website</a></li>
-                    <li><a href="https://papers.mathyvanhoef.com/ccs207.pdf">KRACK attack research paper</a></li>
+                    <li><a href="https://papers.mathyvanhoef.com/ccs2017.pdf">KRACK attack research paper</a></li>
                     <li><a href="https://github.com/vanhoefm/krackattacks-test-ap-ft">vanhoefm/krackttacks-test-ap-ft</a></li>
                 </ul>
             </td>
@@ -270,6 +270,7 @@ My curated list of awesome links, resources and tools
         <td><a href="https://github.com/quasar/QuasarRAT">quasar/QuasarRAT</a></td>
         <td>Quasar is a fast and light-weight remote administration tool coded in C#. Providing high stability and an easy-to-use user interface, Quasar is the perfect remote administration solution for you.</td>
     </tr>
+    tr>td>
 </table>
 
 ### Social Engineering
