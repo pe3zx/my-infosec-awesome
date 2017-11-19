@@ -46,6 +46,9 @@ My curated list of awesome links, resources and tools
     </tr>
 </table>
 
+- Malware analysis environment setup
+    - [Knowledge Fragment: Hardening Win7 x64 on VirtualBox for Malware Analysis](http://byte-atlas.blogspot.com/2017/02/hardening-vbox-win7x64.html)
+
 ### Tutorials
 
 *This section contains links about tool tutorials, cheat sheet and techniques.*
