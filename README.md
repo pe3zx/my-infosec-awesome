@@ -17,6 +17,7 @@ My curated list of awesome links, resources and tools
     - [Malware analysis](#malware-analysis-1)
     - [Mobile Securtiy](#mobile-security)
     - [Network](#network)
+    - [Plugins](#plugins)
     - [Social Engineering](#social-engineering)
 
 ---
