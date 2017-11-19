@@ -379,7 +379,12 @@ My curated list of awesome links, resources and tools
     <tr>
         <td><a href="https://github.com/cs01/gdbgui">cs01/gdbgui</a></td>
         <td>Browser-based frontend to gdb (gnu debugger). Add breakpoints, view the stack, visualize data structures, and more in C, C++, Go, Rust, and Fortran. Run gdbgui from the terminal and a new tab will open in your browser.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/cyrus-and/gdb-dashboard">cyrus-and/gdb-dashboard</a></td>
+        <td>Modular visual interface for GDB in Python</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/longld/peda">longld/peda</a></td>
         <td>PEDA - Python Exploit Development Assistance for GDB</td>
     </tr>
