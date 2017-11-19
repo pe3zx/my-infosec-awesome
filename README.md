@@ -53,12 +53,22 @@ My curated list of awesome links, resources and tools
 
 *This section contains links about tool tutorials, cheat sheet and techniques.*
 
-- American Fuzzy Lop (AFL)
-    - [Fuzzing Apache httpd server with American Fuzzy Lop + persistent mode](https://animal0day.blogspot.co.uk/2017/05/fuzzing-apache-httpd-server-with.html)
-    - [Fuzzing Irssi](https://irssi.org/2017/05/12/fuzzing-irssi/)
-    - [Fuzzing the MSXML6 library with WinAFL](https://symeonp.github.io/2017/09/17/fuzzing-winafl.html)
-    - [HACK THE HACKER – FUZZING MIMIKATZ ON WINDOWS WITH WINAFL & HEATMAPS (0DAY)](https://www.sec-consult.com/en/blog/2017/09/hack-the-hacker-fuzzing-mimikatz-on-windows-with-winafl-heatmaps-0day/index.html)
-    - [How we found a tcpdump vulnerability using cloud fuzzing](https://www.softscheck.com/en/identifying-security-vulnerabilities-with-cloud-fuzzing/)
+<table>
+    <tr>
+        <td>American Fuzzy Lop</td>
+        <td>
+            <ul>
+                <li><a href="https://animal0day.blogspot.co.uk/2017/05/fuzzing-apache-httpd-server-with.html">Fuzzing Apache httpd server with American Fuzzy Lop + persistent mode</a></li>
+                <li><a href="https://animal0day.blogspot.co.uk/2017/05/fuzzing-apache-httpd-server-with.html">Fuzzing Apache httpd server with American Fuzzy Lop + persistent mode</a></li>
+                <li><a href="https://irssi.org/2017/05/12/fuzzing-irssi/">Fuzzing Irssi</a></li>
+                <li><a href="https://symeonp.github.io/2017/09/17/fuzzing-winafl.html">Fuzzing the MSXML6 library with WinAFL</a></li>
+                <li><a href="https://www.sec-consult.com/en/blog/2017/09/hack-the-hacker-fuzzing-mimikatz-on-windows-with-winafl-heatmaps-0day/index.html">HACK THE HACKER – FUZZING MIMIKATZ ON WINDOWS WITH WINAFL & HEATMAPS (0DAY)</a></li>
+                <li><a href="https://www.softscheck.com/en/identifying-security-vulnerabilities-with-cloud-fuzzing/">How we found a tcpdump vulnerability using cloud fuzzing</a></li>
+            </ul>
+        </td>
+    </tr>
+</table>
+
 - Binary Ninja
     - [2000 cuts with Binary Ninja](https://blog.trailofbits.com/2016/06/03/2000-cuts-with-binary-ninja/)
     - [Automated Opaque Predicate Removal](https://binary.ninja/2017/10/01/automated-opaque-predicate-removal.html)
