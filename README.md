@@ -21,6 +21,7 @@ My curated list of awesome links, resources and tools
     - [Plugins](#plugins)
     - [Social Engineering](#social-engineering)
     - [Vulnerable](#vulnerable)
+    - [Web Application Security](#web-application-security)
 
 ---
 
@@ -497,5 +498,22 @@ My curated list of awesome links, resources and tools
     <tr>
         <td><a href="https://www.notsosecure.com/vulnerable-docker-vm/">Vulnerable Docker VM</a></td>
         <td>Ever fantasized about playing with docker misconfigurations, privilege escalation, etc. within a container?</td>
+    </tr>
+</table>
+
+### Web Application Security
+
+<table>
+    <tr>
+        <td><a href="https://github.com/anantshri/svn-extractor">anatshri/svn-extractor</a></td>
+        <td>Simple script to extract all web resources by means of .SVN folder exposed over network.</td>
+    </tr>
+    <tr>
+        <td><a href="https://illuminatejs.com">IlluminateJs</a></td>
+        <td>IlluminateJs is a static javascript analysis engine (a deobfuscator so to say) aimed to help analyst understand obfuscated and potentially malicious JavaScript Code.</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/mazen160/bfac">mazen160/bfac</a></td>
+        <td>BFAC (Backup File Artifacts Checker): An automated tool that checks for backup artifacts that may disclose the web-application's source code.</td>
     </tr>
 </table>
