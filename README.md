@@ -247,6 +247,10 @@ My curated list of awesome links, resources and tools
         <td>Kernel privilege escalation enumeration and exploitation framework</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/tunz/js-vuln-db">tunz/js-vuln-db</a></td>
+        <td>A collection of JavaScript engine CVEs with PoCs</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/victims/victims-cve-db">victims/victims-cve-db</a></td>
         <td>This database contains information regarding CVE(s) that affect various language modules. We currently store version information corresponding to respective modules as understood by select sources.</td>
     </tr>
