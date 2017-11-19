@@ -222,15 +222,13 @@ My curated list of awesome links, resources and tools
         </td>
     </tr>
     <tr>
-        <td>CVE-2017-13082</td>>
-            <td>Access Points (APs) might contain a vulnerable implementation of the Fast BSS Transition (FT) handshake. More precisely, a retransmitted or replayed FT Reassociation Request may trick the AP into reinstalling the pairwise key. If the AP does not process retransmitted FT reassociation requests, or if it does not reinstall the pairwise key, it is not vulnerable. If it does reinstall the pairwise key, the effect is similar to the attack against the 4-way handshake, except that the AP instead of the client is now reinstalling a key. More precisely, the AP will subsequently reuse packet numbers when sending frames protected using TKIP, CCMP, or GCMP. This causes nonce reuse, voiding any security these encryption schemes are supposed to provide. Since the packet number is also used as a replay counter for received frames, frames sent *towards* the AP can also be replayed.
-
-In contrast to the 4-way handshake and group key handshake, this is not an attack against the specification. That is, if the state machine as shown in Figure 13-15 of the 802.11-2016 standard is faithfully implemented, the AP will not reinstall the pairwise keys when receiving a retransmitted FT Reassociation Request. However, we found that many APs do process this frame and reinstall the pairwise key.
+        <td>CVE-2017-13082</td>
+            <td>Wi-Fi Protected Access (WPA and WPA2) that supports IEEE 802.11r allows reinstallation of the Pairwise Transient Key (PTK) Temporal Key (TK) during the fast BSS transmission (FT) handshake, allowing an attacker within radio range to replay, decrypt, or spoof frames.
                 <ul>
                     <li><a href="https://www.krackattacks.com">the KRACK attack website</a></li>
-                    <li><a href="https://papers..mathyvanhoef.com/ccs207.pdf">KRACK attack research paper</a></li>
+                    <li><a href="https://papers.mathyvanhoef.com/ccs207.pdf">KRACK attack research paper</a></li>
                     <li><a href="https://github.com/vanhoefm/krackattacks-test-ap-ft">vanhoefm/krackttacks-test-ap-ft</a></li>
-                </ul>>
+                </ul>
             </td>
     </tr>
     <tr>
