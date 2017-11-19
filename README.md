@@ -8,6 +8,7 @@ My curated list of awesome links, resources and tools
 - [My Awesome](#my-awesome)
 - [Articles](#article)
     - [Malware Analysis](#malware-analysis)
+    - [Tutorials](#tutorials)
 - [Tools](#tools)
 	- [AWS Security](#aws-security)
     - [Binary Analysis](#binary-analysis)
@@ -41,6 +42,22 @@ My curated list of awesome links, resources and tools
         </td>
     </tr>
 </table>
+
+### Tutorials
+
+*This section contains links about tool tutorials, cheat sheet and techniques.*
+
+- American Fuzzy Lop (AFI)
+    - [Fuzzing Apache httpd server with American Fuzzy Lop + persistent mode](https://animal0day.blogspot.co.uk/2017/05/fuzzing-apache-httpd-server-with.html)
+    - [Fuzzing Irssi](https://irssi.org/2017/05/12/fuzzing-irssi/)
+    - [Fuzzing the MSXML6 library with WinAFL](https://symeonp.github.io/2017/09/17/fuzzing-winafl.html)
+    - [HACK THE HACKER – FUZZING MIMIKATZ ON WINDOWS WITH WINAFL & HEATMAPS (0DAY)](https://www.sec-consult.com/en/blog/2017/09/hack-the-hacker-fuzzing-mimikatz-on-windows-with-winafl-heatmaps-0day/index.html)
+    - [How we found a tcpdump vulnerability using cloud fuzzing](https://www.softscheck.com/en/identifying-security-vulnerabilities-with-cloud-fuzzing/)
+- Binary Ninja
+    - [2000 cuts with Binary Ninja](https://blog.trailofbits.com/2016/06/03/2000-cuts-with-binary-ninja/)
+    - [Automated Opaque Predicate Removal](https://binary.ninja/2017/10/01/automated-opaque-predicate-removal.html)
+    - [Pin Visual Coverage Tool For Binary Ninja](http://www.chokepoint.net/2017/10/pin-visual-coverage-tool-for-binary.html?m=1)
+    - [Untangling Exotic Architectures with Binary Ninja](https://blog.ret2.io/2017/10/17/untangling-exotic-architectures-with-binary-ninja/)
 
 ## Tools
 
