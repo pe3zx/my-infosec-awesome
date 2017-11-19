@@ -367,14 +367,14 @@ My curated list of awesome links, resources and tools
 
 <table>
     <tr>
-        <td colspan="2" style="text-align:center;"><b>Burp Suite</b></td>
+        <td colspan="2"><b>Burp Suite</b></td>
     </tr>
     <tr>
         <td><a href="https://github.com/lightbulb-framework/lightbulb-framework">lightbulb-framework/lightbulb-framework</a></td>
         <td>LightBulb is an open source python framework for auditing web application firewalls and filters.</td>
     </tr>
     <tr>
-        <td colspan="2" style="text-align:center;"><b>GDB</b></td>
+        <td colspan="2"><b>GDB</b></td>
     </tr>
     <tr>
         <td><a href="https://github.com/cs01/gdbgui">cs01/gdbgui</a></td>
@@ -389,11 +389,26 @@ My curated list of awesome links, resources and tools
         <td>PEDA - Python Exploit Development Assistance for GDB</td>
     </tr>
     <tr>
-        <td colspan="2" style="text-align:center;"><b>IDA Pro</b></td>
+        <td colspan="2"><b>IDA Pro</b></td>
     </tr>
     <tr>
         <td><a href="https://github.com/gaasedelen/lighthouse">gaasedelen/lighthouse</a></td>
         <td>Lighthouse is a code coverage plugin for IDA Pro. The plugin leverages IDA as a platform to map, explore, and visualize externally collected code coverage data when symbols or source may not be available for a given binary.</td>
+    </tr>
+    <tr>
+        <td colspan="2">WinDBG</b></td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/comaeio/SwishDbgExt">comaeio/SwishDbgExt</a></td>
+        <td>Incident Response & Digital Forensics Debugging Extension</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/Microsoft/DbgShell">Microsoft/DbgShell</a></td>
+        <td>A PowerShell front-end for the Windows debugger engine.</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/swwwolf/wdbgark">swwwolf/wdbgark</a></td>
+        <td>WinDBG Anti-RootKit Extension</td>
     </tr>
 </table>
 
