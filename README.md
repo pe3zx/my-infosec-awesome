@@ -14,7 +14,8 @@ My curated list of awesome links, resources and tools
     - [Digital Forensics and Incident Response](#digital-forensics-and-incident-response)
     - [Exploits](#exploits)
     - [Malware analysis](#malware-analysis-1)
-    - [Mobile](#mobile)
+    - [Mobile Securtiy](#mobile-security)
+    - [Networking](#networking)
     - [Social Engineering](#social-engineering)
 
 ---
@@ -302,6 +303,23 @@ My curated list of awesome links, resources and tools
     <tr>
         <td><a href="https://github.com/dpnishant/appmon">dpnishant/appmon</a></td>
         <td>AppMon is an automated framework for monitoring and tampering system API calls of native macOS, iOS and android apps. It is based on Frida.</td>
+    </tr>
+    <tr>
+        <td><a href="https://www.htbridge.com/mobile">Mobile X-Ray</a>/td>
+        <td>Just upload your iOS or Android mobile app to start a DAST, SAST and behavioral audit for OWASP Mobile Top 10 and other vulnerabilities</td>
+    </tr>
+</table>
+
+### Networking
+
+<table>
+    <tr>
+        <td><a href="https://github.com/michenriksen/aquatone">michenriksen/aquatone</a></td>
+        <td>AQUATONE is a set of tools for performing reconnaissance on domain names. It can discover subdomains on a given domain by using open sources as well as the more common subdomain dictionary brute force approach. After subdomain discovery, AQUATONE can then scan the hosts for common web ports and HTTP headers, HTML bodies and screenshots can be gathered and consolidated into a report for easy analysis of the attack surface.</td>
+    </tr>
+    <tr>
+        <td><a href="https://wireedit.com/">WireEdit</a></td>
+        <td>First-Of-A-Kind And The Only Full Stack WYSIWYG Pcap Editor</td>
     </tr>
 </table>
 
