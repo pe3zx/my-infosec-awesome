@@ -67,8 +67,6 @@ My curated list of awesome links, resources and tools
     - [IDA series, part 2: debugging a .NET executable](https://qmemcpy.github.io/post/ida-series-2-debugging-net)
 - Masscan
     - [A Masscan Tutorial and Primer](https://danielmiessler.com/study/masscan/#gs.zhlnvjE)
-- MSBuild/.NET
-    - [subTee/stageonerelease.cs - Generic PE Loader For .NET](https://gist.github.com/subTee/53f2d73d66b913717db884ab550895450)
 - OSQuery
     - [Tracking a stolen code-signing certificate with osquery](https://blog.trailofbits.com/2017/10/10/tracking-a-stolen-code-signing-certificate-with-osquery/)
 - Splunk
