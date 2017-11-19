@@ -527,7 +527,7 @@ My curated list of awesome links, resources and tools
 
 <table>
     <tr>
-        <td><a href="https://github.com/api0cradle/UltimateAppLockerByPassList"></a>api0cradle/UltimateAppLockerByPassList</td>
+        <td><a href="https://github.com/api0cradle/UltimateAppLockerByPassList">api0cradle/UltimateAppLockerByPassList</a></td>
         <td>The goal of this repository is to document the most common techniques to bypass AppLocker.</td>
     </tr>
     <tr>
