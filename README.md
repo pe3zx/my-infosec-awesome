@@ -47,7 +47,7 @@ My curated list of awesome links, resources and tools
 
 *This section contains links about tool tutorials, cheat sheet and techniques.*
 
-- American Fuzzy Lop (AFI)
+- American Fuzzy Lop (AFL)
     - [Fuzzing Apache httpd server with American Fuzzy Lop + persistent mode](https://animal0day.blogspot.co.uk/2017/05/fuzzing-apache-httpd-server-with.html)
     - [Fuzzing Irssi](https://irssi.org/2017/05/12/fuzzing-irssi/)
     - [Fuzzing the MSXML6 library with WinAFL](https://symeonp.github.io/2017/09/17/fuzzing-winafl.html)
@@ -58,6 +58,44 @@ My curated list of awesome links, resources and tools
     - [Automated Opaque Predicate Removal](https://binary.ninja/2017/10/01/automated-opaque-predicate-removal.html)
     - [Pin Visual Coverage Tool For Binary Ninja](http://www.chokepoint.net/2017/10/pin-visual-coverage-tool-for-binary.html?m=1)
     - [Untangling Exotic Architectures with Binary Ninja](https://blog.ret2.io/2017/10/17/untangling-exotic-architectures-with-binary-ninja/)
+- BloodHound
+    - [Lay of the Land with BloodHound](http://threat.tevora.com/lay-of-the-land-with-bloodhound/)
+- Elasticsearch
+    - [A Practical Introduction to Elasticsearch](https://www.elastic.co/blog/a-practical-introduction-to-elasticsearch)
+- IDA Pro
+    - [IDA series, part 1: the Hex-Rays decompiler](https://qmemcpy.github.io/post/ida-series-1-hex-rays)
+    - [IDA series, part 2: debugging a .NET executable](https://qmemcpy.github.io/post/ida-series-2-debugging-net)
+- Masscan
+    - [A Masscan Tutorial and Primer](https://danielmiessler.com/study/masscan/#gs.zhlnvjE)
+- MSBuild/.NET
+    - [subTee/stageonerelease.cs - Generic PE Loader For .NET](https://gist.github.com/subTee/53f2d73d66b913717db884ab550895450)
+- OSQuery
+    - [Tracking a stolen code-signing certificate with osquery](https://blog.trailofbits.com/2017/10/10/tracking-a-stolen-code-signing-certificate-with-osquery/)
+- Splunk
+    - [The Windows Splunk Logging Cheat Sheet](https://www.malwarearchaeology.com/s/Windows-Splunk-Logging-Cheat-Sheet-v20-spjb.pdf)
+- Sysmon
+    - [Sysmon doing lines](http://www.hexacorn.com/blog/2017/10/02/sysmon-doing-lines/)
+    - [Mhaggis/sysmon-dfir](https://github.com/MHaggis/sysmon-dfir)
+- Radare2
+    - [A journey into Radare 2 – Part 1: Simple crackme](https://www.megabeets.net/a-journey-into-radare-2-part-1/)
+    - [A journey into Radare 2 – Part 2: Exploitation](https://www.megabeets.net/a-journey-into-radare-2-part-2/)
+    - [Emulating Assembly in Radare2](http://blog.superponible.com/2017/04/15/emulating-assembly-in-radare2/)
+    - [Pwnable.kr - Passcode](https://github.com/chrysh/ctf_writeups/tree/master/pwnable.kr)
+    - [radare2 as an alternative to gdb-peda](https://monosource.github.io/2016/10/radare2-peda)
+- Volatility
+    - [Volatility, my own cheatsheet (Part 1): Image Identification](https://andreafortuna.org/volatility-my-own-cheatsheet-part-1-image-identification-9343c077f8da)
+    - [Volatility, my own cheatsheet (Part 2): Processes and DLLs](https://andreafortuna.org/volatility-my-own-cheatsheet-part-2-processes-and-dlls-ba22050ba25a)
+    - [Volatility, my own cheatsheet (Part 3): Process Memory](https://andreafortuna.org/volatility-my-own-cheatsheet-part-3-process-memory-a0470f378ad2)
+    - [Volatility, my own cheatsheet (Part 4): Kernel Memory and Objects](https://andreafortuna.org/volatility-my-own-cheatsheet-part-4-kernel-memory-and-objects-af9c022bf32c)
+    - [Volatility, my own cheatsheet (Part 5): Networking](https://andreafortuna.org/volatility-my-own-cheatsheet-part-5-networking-ae92834e2214)
+    - [Volatility, my own cheatsheet (Part 6): Windows Registry](https://andreafortuna.org/volatility-my-own-cheatsheet-part-6-windows-registry-ddbea0e15ff5)
+    - [Volatility, my own cheatsheet (Part 7): Analyze and convert crash dumps and hibernation files](https://andreafortuna.org/volatility-my-own-cheatsheet-part-7-analyze-and-convert-crash-dumps-and-hibernation-files-5d4b5b9c5194)
+    - [Volatility, my own cheatsheet (Part 8): Filesystem](https://andreafortuna.org/volatility-my-own-cheatsheet-part-8-filesystem-5c1b710b091f)
+    - [Using Yara rules with Volatility](https://isc.sans.edu/forums/diary/Using+Yara+rules+with+Volatility/22950/)
+- WinDBG
+    - [Anti-Antidebugging WinDbg Scripts](https://vallejo.cc/2017/07/16/anti-antidebugging-windbg-scripts/)
+    - [bulentrahimkazanci/Windbg-Cheat-Sheet](https://github.com/bulentrahimkazanci/Windbg-Cheat-Sheet)
+    - [WinDBG and JavaScript Analysis](http://blog.talosintelligence.com/2017/08/windbg-and-javascript-analysis.html)
 
 ## Tools
 
