@@ -396,7 +396,7 @@ My curated list of awesome links, resources and tools
         <td>Lighthouse is a code coverage plugin for IDA Pro. The plugin leverages IDA as a platform to map, explore, and visualize externally collected code coverage data when symbols or source may not be available for a given binary.</td>
     </tr>
     <tr>
-        <td colspan="2">WinDBG</b></td>
+        <td colspan="2"><b>WinDBG</b></td>
     </tr>
     <tr>
         <td><a href="https://github.com/comaeio/SwishDbgExt">comaeio/SwishDbgExt</a></td>
