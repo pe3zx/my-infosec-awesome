@@ -355,6 +355,10 @@ My curated list of awesome links, resources and tools
         <td>IRIS-H is an online digital forensics tool that performs automated static analysis of files stored in a directory-based or strictly structured formats.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/nsmfoo/antivmdetection">nsmfoo/antivmdetection</a></td>
+        <td>Script to create templates to use with VirtualBox to make vm detection harder</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/OALabs/BlobRunner">OALabs/BlobRunner</a></td>
         <td>Quickly debug shellcode extracted during malware analysis</td>
     </tr>
