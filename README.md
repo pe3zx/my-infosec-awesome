@@ -20,6 +20,7 @@ My curated list of awesome links, resources and tools
     - [Network](#network)
     - [Plugins](#plugins)
     - [Social Engineering](#social-engineering)
+    - [Vulnerable](#vulnerable)
 
 ---
 
@@ -477,5 +478,22 @@ My curated list of awesome links, resources and tools
         <td>
             An unicode domain phishing generator for IDN Homograph Attack
         </td>
+    </tr>
+</table>
+
+### Vulnerable
+
+<table>
+    <tr>
+        <td><a href="https://github.com/cliffe/SecGen">cliffe/SecGen</a></td>
+        <td>SecGen creates vulnerable virtual machines so students can learn security penetration testing techniques.</td>
+    </tr>
+    <tr>
+        <td><a href="https://tuts4you.com/download.php?list.17">Lenas Reversing for Newbies</a></td>
+        <td>Nice collection of tutorials aimed particularly for newbie reverse enginners...</td>
+    </tr>
+    <tr>
+        <td><a href="https://www.notsosecure.com/vulnerable-docker-vm/">Vulnerable Docker VM</a></td>
+        <td>Ever fantasized about playing with docker misconfigurations, privilege escalation, etc. within a container?</td>
     </tr>
 </table>
