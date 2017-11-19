@@ -503,6 +503,8 @@ My curated list of awesome links, resources and tools
 
 ### Web Application Security
 
+*Web application security tools*
+
 <table>
     <tr>
         <td><a href="https://github.com/anantshri/svn-extractor">anatshri/svn-extractor</a></td>
