@@ -347,7 +347,7 @@ My curated list of awesome links, resources and tools
         <td>Encrypted/obfuscated malicious document analyzer</td>
     </tr>
     <tr>
-        <td><a href="DAS MALWERK">http://dasmalwerk.eu/</a></td>
+        <td><a href="http://dasmalwerk.eu/">DAS MALWERK</a></td>
         <td>DAS MALWERK - your one stop shop for fresh malware samples</td>
     </tr>
     <tr>
