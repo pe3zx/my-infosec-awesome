@@ -77,44 +77,103 @@ My curated list of awesome links, resources and tools
             </ul>
         </td>
     </tr>
+    <tr>
+        <td>BloodHound</td>
+        <td>
+            <ul>
+                <li><a href="http://threat.tevora.com/lay-of-the-land-with-bloodhound/">Lay of the Land with BloodHound</a></li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td>Elasticsearch</td>
+        <td>
+            <ul>
+                <li><a href="https://www.elastic.co/blog/a-practical-introduction-to-elasticsearch">A Practical Introduction to Elasticsearch</a></li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td>IDA Pro</td>
+        <td>
+            <ul>
+                <li><a href="https://qmemcpy.github.io/post/ida-series-1-hex-rays">IDA series, part 1: the Hex-Rays decompiler</a></li>
+                <li><a href="https://qmemcpy.github.io/post/ida-series-2-debugging-net">IDA series, part 2: debugging a .NET executable</a></li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td>Masscan</td>
+        <td>
+            <ul>
+                <li><a href="https://danielmiessler.com/study/masscan/#gs.zhlnvjE">A Masscan Tutorial and Primer</a></li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td>osquery</td>
+        <td>
+            <ul>
+                <li><a href="https://blog.trailofbits.com/2017/10/10/tracking-a-stolen-code-signing-certificate-with-osquery/">Tracking a stolen code-signing certificate with osquery</a></li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td>Splunk</td>
+        <td>
+            <ul>
+                <li><a href="https://www.malwarearchaeology.com/s/Windows-Splunk-Logging-Cheat-Sheet-v20-spjb.pdf">The Windows Splunk Logging Cheat Sheet</a></li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td>Sysmon</td>
+        <td>
+            <ul>
+                <li><a href="http://www.hexacorn.com/blog/2017/10/02/sysmon-doing-lines/">Sysmon doing lines</a></li>
+                <li><a href="https://github.com/MHaggis/sysmon-dfir">Mhaggis/sysmon-dfir</a></li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td>Radare2</td>
+        <td>
+            <ul>
+                <li><a href="https://www.megabeets.net/a-journey-into-radare-2-part-1/">A journey into Radare 2 – Part 1: Simple crackme</a></li>
+                <li><a href="https://www.megabeets.net/a-journey-into-radare-2-part-2/">A journey into Radare 2 – Part 2: Exploitation</a></li>
+                <li><a href="http://blog.superponible.com/2017/04/15/emulating-assembly-in-radare2/">Emulating Assembly in Radare2</a></li>
+                <li><a href="https://github.com/chrysh/ctf_writeups/tree/master/pwnable.kr">Pwnable.kr - Passcode</a></li>
+                <li><a href="https://monosource.github.io/2016/10/radare2-peda">radare2 as an alternative to gdb-peda</a></li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td>Volatility</td>
+        <td>
+            <ul>
+                <li><a href="https://andreafortuna.org/volatility-my-own-cheatsheet-part-1-image-identification-9343c077f8da">Volatility, my own cheatsheet (Part 1): Image Identification</a></li>
+                <li><a href="https://andreafortuna.org/volatility-my-own-cheatsheet-part-2-processes-and-dlls-ba22050ba25a">Volatility, my own cheatsheet (Part 2): Processes and DLLs</a></li>
+                <li><a href="https://andreafortuna.org/volatility-my-own-cheatsheet-part-3-process-memory-a0470f378ad2">Volatility, my own cheatsheet (Part 3): Process Memory</a></li>
+                <li><a href="https://andreafortuna.org/volatility-my-own-cheatsheet-part-4-kernel-memory-and-objects-af9c022bf32c">Volatility, my own cheatsheet (Part 4): Kernel Memory and Objects</a></li>
+                <li><a href="https://andreafortuna.org/volatility-my-own-cheatsheet-part-5-networking-ae92834e2214">Volatility, my own cheatsheet (Part 5): Networking</a></li>
+                <li><a href="https://andreafortuna.org/volatility-my-own-cheatsheet-part-6-windows-registry-ddbea0e15ff5">Volatility, my own cheatsheet (Part 6): Windows Registry</a></li>
+                <li><a href="https://andreafortuna.org/volatility-my-own-cheatsheet-part-7-analyze-and-convert-crash-dumps-and-hibernation-files-5d4b5b9c5194">Volatility, my own cheatsheet (Part 7): Analyze and convert crash dumps and hibernation files</a></li>
+                <li><a href="https://andreafortuna.org/volatility-my-own-cheatsheet-part-8-filesystem-5c1b710b091f">Volatility, my own cheatsheet (Part 8): Filesystem</a></li>
+                <li><a href="https://isc.sans.edu/forums/diary/Using+Yara+rules+with+Volatility/22950/">Using Yara rules with Volatility</a></li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td>WinDBG</td>
+        <td>
+            <ul>
+                <li><a href="https://vallejo.cc/2017/07/16/anti-antidebugging-windbg-scripts/">Anti-Antidebugging WinDbg Scripts</a></li>
+                <li><a href="https://github.com/bulentrahimkazanci/Windbg-Cheat-Sheet">bulentrahimkazanci/Windbg-Cheat-Sheet</a></li>
+                <li><a href="http://blog.talosintelligence.com/2017/08/windbg-and-javascript-analysis.html">WinDBG and JavaScript Analysis</a></li>
+            </ul>
+        </td>
+    </tr>
 </table>
-
-- BloodHound
-    - [Lay of the Land with BloodHound](http://threat.tevora.com/lay-of-the-land-with-bloodhound/)
-- Elasticsearch
-    - [A Practical Introduction to Elasticsearch](https://www.elastic.co/blog/a-practical-introduction-to-elasticsearch)
-- IDA Pro
-    - [IDA series, part 1: the Hex-Rays decompiler](https://qmemcpy.github.io/post/ida-series-1-hex-rays)
-    - [IDA series, part 2: debugging a .NET executable](https://qmemcpy.github.io/post/ida-series-2-debugging-net)
-- Masscan
-    - [A Masscan Tutorial and Primer](https://danielmiessler.com/study/masscan/#gs.zhlnvjE)
-- OSQuery
-    - [Tracking a stolen code-signing certificate with osquery](https://blog.trailofbits.com/2017/10/10/tracking-a-stolen-code-signing-certificate-with-osquery/)
-- Splunk
-    - [The Windows Splunk Logging Cheat Sheet](https://www.malwarearchaeology.com/s/Windows-Splunk-Logging-Cheat-Sheet-v20-spjb.pdf)
-- Sysmon
-    - [Sysmon doing lines](http://www.hexacorn.com/blog/2017/10/02/sysmon-doing-lines/)
-    - [Mhaggis/sysmon-dfir](https://github.com/MHaggis/sysmon-dfir)
-- Radare2
-    - [A journey into Radare 2 – Part 1: Simple crackme](https://www.megabeets.net/a-journey-into-radare-2-part-1/)
-    - [A journey into Radare 2 – Part 2: Exploitation](https://www.megabeets.net/a-journey-into-radare-2-part-2/)
-    - [Emulating Assembly in Radare2](http://blog.superponible.com/2017/04/15/emulating-assembly-in-radare2/)
-    - [Pwnable.kr - Passcode](https://github.com/chrysh/ctf_writeups/tree/master/pwnable.kr)
-    - [radare2 as an alternative to gdb-peda](https://monosource.github.io/2016/10/radare2-peda)
-- Volatility
-    - [Volatility, my own cheatsheet (Part 1): Image Identification](https://andreafortuna.org/volatility-my-own-cheatsheet-part-1-image-identification-9343c077f8da)
-    - [Volatility, my own cheatsheet (Part 2): Processes and DLLs](https://andreafortuna.org/volatility-my-own-cheatsheet-part-2-processes-and-dlls-ba22050ba25a)
-    - [Volatility, my own cheatsheet (Part 3): Process Memory](https://andreafortuna.org/volatility-my-own-cheatsheet-part-3-process-memory-a0470f378ad2)
-    - [Volatility, my own cheatsheet (Part 4): Kernel Memory and Objects](https://andreafortuna.org/volatility-my-own-cheatsheet-part-4-kernel-memory-and-objects-af9c022bf32c)
-    - [Volatility, my own cheatsheet (Part 5): Networking](https://andreafortuna.org/volatility-my-own-cheatsheet-part-5-networking-ae92834e2214)
-    - [Volatility, my own cheatsheet (Part 6): Windows Registry](https://andreafortuna.org/volatility-my-own-cheatsheet-part-6-windows-registry-ddbea0e15ff5)
-    - [Volatility, my own cheatsheet (Part 7): Analyze and convert crash dumps and hibernation files](https://andreafortuna.org/volatility-my-own-cheatsheet-part-7-analyze-and-convert-crash-dumps-and-hibernation-files-5d4b5b9c5194)
-    - [Volatility, my own cheatsheet (Part 8): Filesystem](https://andreafortuna.org/volatility-my-own-cheatsheet-part-8-filesystem-5c1b710b091f)
-    - [Using Yara rules with Volatility](https://isc.sans.edu/forums/diary/Using+Yara+rules+with+Volatility/22950/)
-- WinDBG
-    - [Anti-Antidebugging WinDbg Scripts](https://vallejo.cc/2017/07/16/anti-antidebugging-windbg-scripts/)
-    - [bulentrahimkazanci/Windbg-Cheat-Sheet](https://github.com/bulentrahimkazanci/Windbg-Cheat-Sheet)
-    - [WinDBG and JavaScript Analysis](http://blog.talosintelligence.com/2017/08/windbg-and-javascript-analysis.html)
 
 ## Tools
 
