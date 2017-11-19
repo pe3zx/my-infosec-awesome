@@ -388,6 +388,13 @@ My curated list of awesome links, resources and tools
         <td><a href="https://github.com/longld/peda">longld/peda</a></td>
         <td>PEDA - Python Exploit Development Assistance for GDB</td>
     </tr>
+    <tr>
+        <td colspan="2" style="text-align:center;"><b>IDA Pro</b></td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/gaasedelen/lighthouse">gaasedelen/lighthouse</a></td>
+        <td>Lighthouse is a code coverage plugin for IDA Pro. The plugin leverages IDA as a platform to map, explore, and visualize externally collected code coverage data when symbols or source may not be available for a given binary.</td>
+    </tr>
 </table>
 
 ### Social Engineering
