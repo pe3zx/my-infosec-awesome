@@ -428,6 +428,10 @@ My curated list of awesome links, resources and tools
         <td>DAS MALWERK - your one stop shop for fresh malware samples</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/hasherezade/libpeconv/tree/master/run_pe">hasherezade/libpeconv/runpe</a></td>
+        <td>RunPE (aka Process Hollowing) is a well known technique allowing to injecting a new PE into a remote processes, imprersonating this process. The given implementation works for PE 32bit as well as 64bit.</td>
+    </tr>
+    <tr>
         <td><a href="https://iris-h.malwageddon.com/">IRIS-H</a></td>
         <td>IRIS-H is an online digital forensics tool that performs automated static analysis of files stored in a directory-based or strictly structured formats.</td>
     </tr>
