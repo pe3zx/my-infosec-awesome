@@ -542,6 +542,10 @@ My curated list of awesome links, resources and tools
         <td>Lighthouse is a code coverage plugin for IDA Pro. The plugin leverages IDA as a platform to map, explore, and visualize externally collected code coverage data when symbols or source may not be available for a given binary.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/hasherezade/ida_ifl">hasherezade/ida_ifl</a></td>
+        <td>IFL - Interactive Functions List (plugin for IDA Pro)</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/onethawt/idaplugins-list">onethawt/idaplugins-list</a></td>
         <td>A list of IDA Plugins</td>
     </tr>
