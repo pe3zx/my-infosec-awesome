@@ -442,12 +442,16 @@ My curated list of awesome links, resources and tools
         <td>RunPE (aka Process Hollowing) is a well known technique allowing to injecting a new PE into a remote processes, imprersonating this process. The given implementation works for PE 32bit as well as 64bit.</td>
     </tr>
     <tr>
-        <td><a href="https://github.com/LordNoteworthy/al-khaser">LordNoteworthy/al-khaser</a></td>
-        <td>Public malware techniques used in the wild: Virtual Machine, Emulation, Debuggers, Sandbox detection.</td>
-    </tr>
-    <tr>
         <td><a href="https://iris-h.malwageddon.com/">IRIS-H</a></td>
         <td>IRIS-H is an online digital forensics tool that performs automated static analysis of files stored in a directory-based or strictly structured formats.</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/katjahahn/PortEx">katjahahn/PortEx</a></td>
+        <td>Java library to analyse Portable Executable files with a special focus on malware analysis and PE malformation robustness</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/LordNoteworthy/al-khaser">LordNoteworthy/al-khaser</a></td>
+        <td>Public malware techniques used in the wild: Virtual Machine, Emulation, Debuggers, Sandbox detection.</td>
     </tr>
     <tr>
         <td><a href="https://github.com/nsmfoo/antivmdetection">nsmfoo/antivmdetection</a></td>
