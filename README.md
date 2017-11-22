@@ -240,14 +240,6 @@ My curated list of awesome links, resources and tools
     </tr>
     <tr>
         <td>
-            <a href="https://github.com/katjahahn/PortEx" target="_blank">katjahahn/PortEx</a>
-        </td>
-        <td>
-            Java library to analyse Portable Executable files with a special focus on malware analysis and PE malformation robustness
-        </td>
-    </tr>
-    <tr>
-        <td>
             <a href="https://github.com/williballenthin/python-idb">williballenthin/python-idb</a>
         </td>
         <td>
