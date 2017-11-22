@@ -380,6 +380,7 @@ My curated list of awesome links, resources and tools
         <td>Microsoft Office 2007 Service Pack 3, Microsoft Office 2010 Service Pack 2, Microsoft Office 2013 Service Pack 1, and Microsoft Office 2016 allow an attacker to run arbitrary code in the context of the current user by failing to properly handle objects in memory, aka "Microsoft Office Memory Corruption Vulnerability". This CVE ID is unique from CVE-2017-11884.
             <ul>
                 <li><a href="https://github.com/embedi/CVE-2017-11882">embedi/CVE-2017-11882</a></li>
+                <li><a href="https://twitter.com/hybridanalysis/status/932954160395444230">Sample of malware used CVE-2017-11882</a></li>
             </ul>
         </td>
     </tr>
