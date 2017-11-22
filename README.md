@@ -254,6 +254,10 @@ My curated list of awesome links, resources and tools
 
 <table>
     <tr>
+        <td><a href="https://github.com/evilsocket/sg1">evilsocket/sg1</a></td>
+        <td>A wanna be swiss army knife for data encryption, exfiltration and covert communication.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/pentestpartners/PTP-RAT">pentestpartners/PTP-RAT</a></td>
         <td>Exfiltrate data over screen interfaces. <a href="https://www.pentestpartners.com/security-blog/exfiltration-by-encoding-data-in-pixel-colour-values/">For more information.</a></td>
     </tr>
