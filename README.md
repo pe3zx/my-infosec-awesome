@@ -589,6 +589,10 @@ My curated list of awesome links, resources and tools
 
 <table>
     <tr>
+        <td><a href="https://github.com/securestate/king-phisher/">securestate/king-phisher</a></td>
+        <td>Phishing Campaign Toolkit</td>
+    </tr>
+    <tr>
         <td>
             <a href="https://github.com/UndeadSec/EvilURL">Undeadsec/EvilURL</a>
         </td>
