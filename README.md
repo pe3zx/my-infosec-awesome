@@ -267,6 +267,17 @@ My curated list of awesome links, resources and tools
     </tr>
 </table>
 
+### DevSecOps
+
+*DevSecOps stuff, or SevDevOps, or DevOpsSec, or SecDevSecOpsSec!?*
+
+<table>
+    <tr>
+        <td><a href="https://github.com/GoogleCloudPlatform/container-diff">GoogleCloudPlatform/container-diff</a></td>
+        <td>container-diff is a tool for analyzing and comparing container images. container-diff can examine images along several different criteria, including: Docker Image History, Image file system, packages, etc.</td>
+    </tr>
+</table>
+
 ### Digital Forensics and Incident Response
 
 *Open source projects related to DFIR topic.*
