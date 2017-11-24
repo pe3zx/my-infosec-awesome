@@ -267,7 +267,7 @@ My curated list of awesome links, resources and tools
     </tr>
 </table>
 
-### DevSecOps
+### DevOps
 
 *DevSecOps stuff, or SevDevOps, or DevOpsSec, or SecDevSecOpsSec!?*
 
