@@ -243,6 +243,10 @@ My curated list of awesome links, resources and tools
         </td>
     </tr>
     <tr>
+        <td><a href="https://lief.quarkslab.com/">LIEF</a></td>
+        <td>Library to Instrument Executable Formats</td>
+    </tr>
+    <tr>
         <td>
             <a href="https://github.com/williballenthin/python-idb">williballenthin/python-idb</a>
         </td>
