@@ -643,6 +643,10 @@ My curated list of awesome links, resources and tools
             An unicode domain phishing generator for IDN Homograph Attack
         </td>
     </tr>
+    <tr>
+        <td><a href="https://github.com/ustayready/CredSniper">ustayready/CredSniper</a></td>
+        <td>CredSniper is a phishing framework written with the Python micro-framework Flask and Jinja2 templating which supports capturing 2FA tokens.</td>
+    </tr>
 </table>
 
 ### Vulnerable
