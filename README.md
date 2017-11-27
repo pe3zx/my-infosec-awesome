@@ -638,6 +638,10 @@ My curated list of awesome links, resources and tools
 
 <table>
     <tr>
+        <td><a href="https://github.com/appsecco/spaces-finder">appsecco/spaces-finder</a></td>
+        <td>A tool to hunt for publicly accessible DigitalOcean Spaces</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/anantshri/svn-extractor">anatshri/svn-extractor</a></td>
         <td>Simple script to extract all web resources by means of .SVN folder exposed over network.</td>
     </tr>
