@@ -604,6 +604,10 @@ My curated list of awesome links, resources and tools
 
 <table>
     <tr>
+        <td><a href="https://github.com/boxug/trape">boxug/trape</a></td>
+        <td>People tracker on the Internet: Learn to track the world, to avoid being traced.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/securestate/king-phisher/">securestate/king-phisher</a></td>
         <td>Phishing Campaign Toolkit</td>
     </tr>
