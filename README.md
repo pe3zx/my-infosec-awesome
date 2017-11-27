@@ -612,7 +612,7 @@ My curated list of awesome links, resources and tools
 
 ### Social Engineering
 
-*Tools related to social engineering attack and human hacking*
+*Tools related to social engineering attack, OSINT and human hacking*
 
 <table>
     <tr>
@@ -626,6 +626,10 @@ My curated list of awesome links, resources and tools
     <tr>
         <td><a href="https://github.com/securestate/king-phisher/">securestate/king-phisher</a></td>
         <td>Phishing Campaign Toolkit</td>
+    </tr>
+    <tr>
+        <td><a href="http://www.spiderfoot.net/">SpiderFoot</a></td>
+        <td>SpiderFoot - Opensource Intelligence Automation</td>
     </tr>
     <tr>
         <td>
