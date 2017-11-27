@@ -608,6 +608,10 @@ My curated list of awesome links, resources and tools
         <td>People tracker on the Internet: Learn to track the world, to avoid being traced.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/DataSploit/datasploit">DataSploit/datasploit</a></td>
+        <td>An #OSINT Framework to perform various recon techniques on Companies, People, Phone Number, Bitcoin Addresses, etc., aggregate all the raw data, and give data in multiple formats.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/securestate/king-phisher/">securestate/king-phisher</a></td>
         <td>Phishing Campaign Toolkit</td>
     </tr>
