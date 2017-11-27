@@ -94,6 +94,14 @@ My curated list of awesome links, resources and tools
         </td>
     </tr>
     <tr>
+        <td>Frida</td>
+        <td>
+            <ul>
+                <li><a href="http://www.fuzzysecurity.com/tutorials/29.html">Application Introspection & Hooking With Frida</a></li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
         <td>IDA Pro</td>
         <td>
             <ul>
