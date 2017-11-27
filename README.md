@@ -133,6 +133,10 @@ My curated list of awesome links, resources and tools
             <ul>
                 <li><a href="http://www.hexacorn.com/blog/2017/10/02/sysmon-doing-lines/">Sysmon doing lines</a></li>
                 <li><a href="https://github.com/MHaggis/sysmon-dfir">Mhaggis/sysmon-dfir</a></li>
+                <li><a href="http://syspanda.com/index.php/2017/02/28/deploying-sysmon-through-gpo/">Deploying Sysmon through Group Policy (GPO)</a></li>
+                <li><a href="http://syspanda.com/index.php/2017/03/03/sysmon-filtering-using-logstash/">Advanced Sysmon filtering using Logstash</a></li>
+                <li><a href="http://syspanda.com/index.php/2017/10/10/threat-hunting-sysmon-word-document-macro/">Threat Hunting with Sysmon: Word Document with Macro</a></li>
+                <li><a href="http://syspanda.com/index.php/2017/10/31/monitoring-monitor-sysmon-status/">Monitoring the monitor: Sysmon status</a></li>
             </ul>
         </td>
     </tr>
