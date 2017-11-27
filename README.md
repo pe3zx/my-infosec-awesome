@@ -485,6 +485,10 @@ My curated list of awesome links, resources and tools
         <td>Builds malware analysis Windows VMs so that you don't have to.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/SafeBreach-Labs/mkmalwarefrom">SafeBreach-Labs/mkmalwarefrom</a></td>
+        <td>Proof-of-concept two-stage dropper generator that uses bits from external sources</td>
+    </tr>
+    <tr>
         <td><a href="https://malware.sekoia.fr/new">SEKOIA Dropper Analysis</a></td>
         <td>SEKOIA Dropper Analysis</td>
     </tr>
