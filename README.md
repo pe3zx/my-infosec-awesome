@@ -136,6 +136,14 @@ My curated list of awesome links, resources and tools
         </td>
     </tr>
     <tr>
+        <td>RunPE</td>
+        <td>
+            <ul>
+                <li><a href="https://www.adlice.com/runpe-hide-code-behind-legit-process/">RunPE: How to hide code behind a legit process</a></li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
         <td>Splunk</td>
         <td>
             <ul>
