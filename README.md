@@ -312,6 +312,10 @@ My curated list of awesome links, resources and tools
         </td>
     </tr>
     <tr>
+        <td><a href="https://github.com/MalwareSoup/MitreAttack">MalwareSoup/MitreAttack</a></td>
+        <td>Python wrapper for the Mitre ATT&CK framework API</td>
+    </tr>
+    <tr>
         <td>
             <a href="https://github.com/nannib/Imm2Virtual">nannib/Imm2Virtual</a>
         </td>
