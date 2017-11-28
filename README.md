@@ -559,6 +559,10 @@ My curated list of awesome links, resources and tools
         <td>AQUATONE is a set of tools for performing reconnaissance on domain names. It can discover subdomains on a given domain by using open sources as well as the more common subdomain dictionary brute force approach. After subdomain discovery, AQUATONE can then scan the hosts for common web ports and HTTP headers, HTML bodies and screenshots can be gathered and consolidated into a report for easy analysis of the attack surface.</td>
     </tr>
     <tr>
+        <td><a href="https://packettotal.com/">PacketTotal</a></td>
+        <td>A free, online PCAP analysis engine</td>
+    </tr>
+    <tr>
         <td><a href="https://wireedit.com/">WireEdit</a></td>
         <td>First-Of-A-Kind And The Only Full Stack WYSIWYG Pcap Editor</td>
     </tr>
