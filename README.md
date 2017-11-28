@@ -320,6 +320,10 @@ My curated list of awesome links, resources and tools
 
 <table>
     <tr>
+        <td><a href="https://github.com/intezer/linux-explorer">intezer/linux-explorer</a></td>
+        <td>Easy-to-use live forensics toolbox for Linux endpoints</td>
+    </tr>
+    <tr>
         <td>
             <a href="https://github.com/Invoke-IR/PowerForensics">Invoke-IR/PowerForensics</a>
         </td>
