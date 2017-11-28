@@ -48,6 +48,9 @@ My curated list of awesome links, resources and tools
 
 - Malware analysis environment setup
     - [Knowledge Fragment: Hardening Win7 x64 on VirtualBox for Malware Analysis](http://byte-atlas.blogspot.com/2017/02/hardening-vbox-win7x64.html)
+- Use `Trust access to the VBA project object model` to circumvent security control of VBA script on Microsoft Office
+    - Original stories can be found on [MS Office Built-In Feature Could be Exploited to Create Self-Replicating Malware](https://thehackernews.com/2017/11/ms-office-macro-malware.html) and [Virus Bulletin June 2001](https://www.virusbulletin.com/uploads/pdf/magazine/2001/200106.pdf)
+    - The option `Trust access to the VBA project object model`, according to [Office Support](https://support.office.com/en-us/article/Enable-or-disable-macros-in-Office-files-12b036fd-d140-4e74-b45e-16fed1a7e5c6), can be used to allow programmatic access to the VBA object model from an automation client. This option is controlled by registry key available on `HKCU\Software\Microsoft\Office\14.0\Word\Security` with `AccessVBOM`, `0` for disable and `1` for enable.
 
 ### Tutorials
 
