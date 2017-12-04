@@ -633,6 +633,10 @@ My curated list of awesome links, resources and tools
         <td>IFL - Interactive Functions List (plugin for IDA Pro)</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/OALabs/FindYara">OALabs/FindYara</a></td>
+        <td>IDA python plugin to scan binary with Yara rules</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/onethawt/idaplugins-list">onethawt/idaplugins-list</a></td>
         <td>A list of IDA Plugins</td>
     </tr>
