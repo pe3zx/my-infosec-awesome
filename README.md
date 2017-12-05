@@ -641,6 +641,10 @@ My curated list of awesome links, resources and tools
         <td>A list of IDA Plugins</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/tintinweb/ida-batch_decompile">tintinweb/ida-batch_decompile</a></td>
+        <td>*Decompile All the Things* - IDA Batch Decompile plugin and script for Hex-Ray's IDA Pro that adds the ability to batch decompile multiple files and their imports with additional annotations (xref, stack var size) to the pseudocode .c file</td>
+    </tr>
+    <tr>
         <td colspan="2"><b>WinDBG</b></td>
     </tr>
     <tr>
