@@ -516,6 +516,10 @@ My curated list of awesome links, resources and tools
         <td>Public malware techniques used in the wild: Virtual Machine, Emulation, Debuggers, Sandbox detection.</td>
     </tr>
     <tr>
+        <td><a href="https://malpedia.caad.fkie.fraunhofer.de/">Malpedia</a></td>
+        <td>The primary goal of Malpedia is to provide a resource for rapid identification and actionable context when investigating malware. Openness to curated contributions shall ensure an accountable level of quality in order to foster meaningful and reproducible research.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/nsmfoo/antivmdetection">nsmfoo/antivmdetection</a></td>
         <td>Script to create templates to use with VirtualBox to make vm detection harder</td>
     </tr>
