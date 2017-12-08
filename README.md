@@ -32,37 +32,7 @@ My curated list of awesome links, resources and tools
 ### Anti Forensics
 
 - [Removing Your PDF Metadata & Protecting PDF Files](https://blog.joshlemon.com.au/protecting-your-pdf-files-and-metadata/)
-    - This guideline used `exiftool` to gather and validate current file's metadata. `qpdf` and `pdftk` for cleaning
-    - The function below can be used to remove metadata and create new encrypted PDF with 128-bit AES.
-
-```sh
-strip_pdf() {
- echo "Original Metadata for $1"
- exiftool $1
-
- echo "Removing Metadata...."
- echo ""
- qpdf --linearize $1 striped1-$1
- exiftool -all:all= striped1-$1
- qpdf --linearize striped1-$1 striped2-$1
- rm striped1-$1
- rm striped1-$1_original
-
- echo "New Metadata for striped2-$1"
- exiftool striped2-$1
- echo ""
-
- echo "Securing striped2-$1...."
- password=$(cat /dev/urandom | tr -dc 'a-zA-Z0-9' | fold -w 40 | head -n 1)
- echo "Password will be: $password"
- echo ""
- qpdf --linearize --encrypt "" $password 128 --print=full --modify=none --extract=n --use-aes=y -- striped2-$1 striped-$1
- rm striped2-$1
-
- echo "Final status of striped-$1"
- pdfinfo striped-$1
-}
-```
+    - Mirror copy of the script in this article is available at [files/anti-forensics/cleaning-pdf.sh](files/anti-forensics/cleaning-pdf.sh)
 
 ### Malware Analysis
 
