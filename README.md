@@ -171,6 +171,22 @@ My curated list of awesome links, resources and tools
     - Original stories can be found on [MS Office Built-In Feature Could be Exploited to Create Self-Replicating Malware](https://thehackernews.com/2017/11/ms-office-macro-malware.html) and [Virus Bulletin June 2001](https://www.virusbulletin.com/uploads/pdf/magazine/2001/200106.pdf)
     - The option `Trust access to the VBA project object model`, according to [Office Support](https://support.office.com/en-us/article/Enable-or-disable-macros-in-Office-files-12b036fd-d140-4e74-b45e-16fed1a7e5c6), can be used to allow programmatic access to the VBA object model from an automation client. This option is controlled by registry key available on `HKCU\Software\Microsoft\Office\14.0\Word\Security` with `AccessVBOM`, `0` for disable and `1` for enable.
 
+#### Malware Variants
+
+![Comparing EternalPetya and Badrabbit](https://1.bp.blogspot.com/-aNjjtabL-kY/WfQ8tXO4gCI/AAAAAAAAB48/3mA3jXGAOwoeqliVWEaftIQ0flQD_YD3QCLcBGAs/s640/EP-BR-comparison.PNG)
+
+- Badrabbit
+    - Source for image above: [Comparing EternalPetya and BadRabbit](https://bartblaze.blogspot.com/2017/10/comparing-eternalpetya-and-badrabbit.html)
+    - [‘BadRabbit’ Ransomware Burrows Into Russia, Ukraine](https://securingtomorrow.mcafee.com/mcafee-labs/badrabbit-ransomware-burrows-russia-ukraine/)
+    - [BadRabbit: a closer look at the new version of Petya/NotPetya](https://blog.malwarebytes.com/threat-analysis/2017/10/badrabbit-closer-look-new-version-petyanotpetya/)
+    - [Bad Rabbit: Not-Petya is back with improved ransomware](https://www.welivesecurity.com/2017/10/24/bad-rabbit-not-petya-back/)
+    - [Bad Rabbit – A New Ransomware Outbreak Targeting Ukraine and Russia.](https://blog.checkpoint.com/2017/10/24/bad-rabbit-new-ransomware-outbreak-targeting-ukraine-russia/)
+    - [Bad Rabbit ransomware](https://securelist.com/bad-rabbit-ransomware/82851/)
+    - [Bad Rabbit Ransomware Spreads via Network, Hits Ukraine and Russia](http://blog.trendmicro.com/trendlabs-security-intelligence/bad-rabbit-ransomware-spreads-via-network-hits-ukraine-russia/)
+    - [Bad Rabbit Ransomware Strikes Ukraine, Likely related to GoldenEye](https://labs.bitdefender.com/2017/10/bad-rabbit-ransomware-strikes-ukraine-likely-related-to-goldeneye/)
+    - [NotPetya Returns as Bad Rabbit](http://www.intezer.com/notpetya-returns-bad-rabbit/)
+    - [Threat Spotlight: Follow the Bad Rabbit](http://blog.talosintelligence.com/2017/10/bad-rabbit.html)
+
 ### Tutorials
 
 *This section contains links about tool tutorials, cheat sheet and techniques.*
