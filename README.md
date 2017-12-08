@@ -47,7 +47,9 @@ My curated list of awesome links, resources and tools
 
 ### Exploitation
 
-#### Linux
+#### Software Exploitation
+
+##### Linux
 
 - [64-bit Linux Return-Oriented Programming](https://crypto.stanford.edu/~blynn/rop/)
 - [Blocking double-free in Linux kernel](http://blog.ptsecurity.com/2017/08/linux-block-double-free.html)
@@ -68,7 +70,7 @@ My curated list of awesome links, resources and tools
 - [Reversing DirtyC0W](http://blog.tetrane.com/2017/09/dirtyc0w-1.html)
 - [xairy/linux-kernel-exploitation](https://github.com/xairy/linux-kernel-exploitation)
 
-#### Windows
+##### Windows
 
 - [0patching the "Immortal" CVE-2017-7269](https://0patch.blogspot.com/2017/03/0patching-immortal-cve-2017-7269.html)
 - [15 Ways to Bypass the PowerShell Execution Policy](https://blog.netspi.com/15-ways-to-bypass-the-powershell-execution-policy/)
@@ -146,6 +148,44 @@ My curated list of awesome links, resources and tools
 - [Zero Day Zen Garden: Windows Exploit Development - Part 1 [Stack Buffer Overflow Intro]](http://www.shogunlab.com/blog/2017/08/19/zdzg-windows-exploit-1.html)
 - [Zero Day Zen Garden: Windows Exploit Development - Part 2 [JMP to Locate Shellcode]](http://www.shogunlab.com/blog/2017/08/26/zdzg-windows-exploit-2.html)
 - [Zero Day Zen Garden: Windows Exploit Development - Part 3 [Egghunter to Locate Shellcode]](http://www.shogunlab.com/blog/2017/09/02/zdzg-windows-exploit-3.html)
+
+#### Techniques
+
+##### Bypassing ASLR
+
+- [Bypassing ASLR – Part I](https://sploitfun.wordpress.com/2015/05/08/bypassing-aslr-part-i/)
+- [Bypassing ASLR – Part II](https://sploitfun.wordpress.com/2015/05/08/bypassing-aslr-part-ii/)
+- [Bypassing ASLR – Part III](https://sploitfun.wordpress.com/2015/05/08/bypassing-aslr-part-iii/)
+
+##### Format Strings
+
+- [Format String Exploitation Primer](https://borgandrew.blogspot.com/2017/01/h1-margin-bottom-0.html)
+- [X86 EXPLOITATION 101: “FORMAT STRINGS” – I’LL TELL YA WHAT TO SAY](https://gbmaster.wordpress.com/2015/12/08/x86-exploitation-101-format-strings-ill-tell-ya-what-to-say/)
+
+##### Heap Exploitation
+
+- [Heap Exploitation](https://www.gitbook.com/book/dhavalkapil/heap-exploitation/details)
+- [Heap Exploitation ~ Fastbin Attack](https://0x00sec.org/t/heap-exploitation-fastbin-attack/3627)
+- [Heap Exploitation ~ Abusing Use-After-Free](https://0x00sec.org/t/heap-exploitation-abusing-use-after-free/3580)
+- [Heap overflow using unlink](https://sploitfun.wordpress.com/2015/02/26/heap-overflow-using-unlink/)
+- [Heap overflow using Malloc Maleficarum](https://sploitfun.wordpress.com/2015/03/04/heap-overflow-using-malloc-maleficarum/)
+- [shellphishi/how2heap](https://github.com/shellphish/how2heap)
+- [X86 EXPLOITATION 101: HEAP OVERFLOWS… UNLINK ME, WOULD YOU PLEASE?](https://gbmaster.wordpress.com/2014/08/11/x86-exploitation-101-heap-overflows-unlink-me-would-you-please/)
+- [X86 EXPLOITATION 101: THIS IS THE FIRST WITCHY HOUSE](https://gbmaster.wordpress.com/2014/08/24/x86-exploitation-101-this-is-the-first-witchy-house/)
+- [X86 EXPLOITATION 101: “HOUSE OF MIND” – UNDEAD AND LOVING IT…](https://gbmaster.wordpress.com/2015/06/15/x86-exploitation-101-house-of-mind-undead-and-loving-it/)
+- [X86 EXPLOITATION 101: “HOUSE OF FORCE” – JEDI OVERFLOW](https://gbmaster.wordpress.com/2015/06/28/x86-exploitation-101-house-of-force-jedi-overflow/)
+- [X86 EXPLOITATION 101: “HOUSE OF LORE” – PEOPLE AND TRADITIONS](https://gbmaster.wordpress.com/2015/07/16/x86-exploitation-101-house-of-lore-people-and-traditions/)
+- [Understanding the Heap & Exploiting Heap Overflows](http://www.mathyvanhoef.com/2013/02/understanding-heap-exploiting-heap.html)
+
+##### Integer Overflow
+
+- [Integer Overflow](https://sploitfun.wordpress.com/2015/06/23/integer-overflow/)
+- [X86 EXPLOITATION 101: “INTEGER OVERFLOW” – ADDING ONE MORE… AAAAAAAAAAAND IT’S GONE](https://gbmaster.wordpress.com/2015/08/13/x86-exploitation-101-integer-overflow-adding-one-more-aaaaaaaaaaand-its-gone/)
+
+##### Off-By-One
+
+- [Off-By-One Vulnerability (Heap Based)](https://sploitfun.wordpress.com/2015/06/09/off-by-one-vulnerability-heap-based/)
+- [X86 EXPLOITATION 101: “OFF-BY-ONE” AND AN UNINVITED FRIEND JOINS THE PARTY](https://gbmaster.wordpress.com/2015/08/03/x86-exploitation-101-off-by-one-and-an-uninvited-friend-joins-the-party/)
 
 ### Malware Analysis
 
