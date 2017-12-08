@@ -14,6 +14,7 @@ My curated list of awesome links, resources and tools
 - [Tools](#tools)
 	- [AWS Security](#aws-security)
     - [Binary Analysis](#binary-analysis)
+    - [Cryptography](#cryptography)
     - [Data Exfiltration](#data-exfiltration)
     - [Digital Forensics and Incident Response](#digital-forensics-and-incident-response)
     - [Exploits](#exploits)
@@ -308,6 +309,25 @@ My curated list of awesome links, resources and tools
         <td>
             Pure Python parser and analyzer for IDA Pro database files (.idb).
         </td>
+    </tr>
+</table>
+
+### Cryptography
+
+*Cryptography related tools*
+
+<table>
+    <tr>
+        <td><a href="https://github.com/mpgn/BEAST-PoC">mpgn/BEAST-PoC</a></td>
+        <td>Poc of BEAST attack against SSL/TLS</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/mpgn/Padding-oracle-attack">mpgn/Padding-oracle-attack</a></td>
+        <td>Padding oracle attack against PKCS7</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/mpgn/poodle-PoC">mpgn/poodle-PoC</a></td>
+        <td>Poodle (Padding Oracle On Downgraded Legacy Encryption) attack</td>
     </tr>
 </table>
 
