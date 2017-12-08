@@ -32,7 +32,7 @@ My curated list of awesome links, resources and tools
 ### Anti Forensics
 
 - [Removing Your PDF Metadata & Protecting PDF Files](https://blog.joshlemon.com.au/protecting-your-pdf-files-and-metadata/)
-    - This guideline used `exiftool` to gather metdata. `qpdf` and `pdftk` for cleaning
+    - This guideline used `exiftool` to gather and validate current file's metadata. `qpdf` and `pdftk` for cleaning
     - The function below can be used to remove metadata and create new encrypted PDF with 128-bit AES.
 
 ```sh
