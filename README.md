@@ -8,6 +8,7 @@ My curated list of awesome links, resources and tools
 - [My Awesome](#my-awesome)
 - [Articles](#article)
     - [Anti Forensics](#anti-forensics)
+    - [Certifications](#certifications)
     - [Malware Analysis](#malware-analysis)
     - [Tutorials](#tutorials)
 - [Tools](#tools)
@@ -33,6 +34,15 @@ My curated list of awesome links, resources and tools
 
 - [Removing Your PDF Metadata & Protecting PDF Files](https://blog.joshlemon.com.au/protecting-your-pdf-files-and-metadata/)
     - Mirror copy of the script in this article is available at [files/anti-forensics/cleaning-pdf.sh](files/anti-forensics/cleaning-pdf.sh)
+
+### Certifications
+
+- OSCE
+    - [OSCE/CTP PREP GUIDE](https://tulpa-security.com/2017/07/18/288/)
+    - [OSCE Study Plan](http://www.abatchy.com/2017/03/osce-study-plan.html)
+- OSCP
+    - [frizb/OSCP-Survival-Guide](https://github.com/frizb/OSCP-Survival-Guide/blob/master/README.md)
+    - [Offensive Security Certified Professional (OSCP) Review](https://www.jimwilbur.com/2017/07/oscp-review/)
 
 ### Malware Analysis
 
