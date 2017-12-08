@@ -76,6 +76,14 @@ My curated list of awesome links, resources and tools
         </td>
     </tr>
     <tr>
+        <td>Amazon Web Services (AWS)</td>
+        <td>
+            <ul>
+                <li><a href="https://github.com/open-guides/og-aws">open-guides/og-aws</a></li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
         <td>Binary Ninja</td>
         <td>
             <ul>
