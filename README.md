@@ -182,10 +182,38 @@ My curated list of awesome links, resources and tools
 - [Integer Overflow](https://sploitfun.wordpress.com/2015/06/23/integer-overflow/)
 - [X86 EXPLOITATION 101: “INTEGER OVERFLOW” – ADDING ONE MORE… AAAAAAAAAAAND IT’S GONE](https://gbmaster.wordpress.com/2015/08/13/x86-exploitation-101-integer-overflow-adding-one-more-aaaaaaaaaaand-its-gone/)
 
-##### Off-By-One
+##### Return Oriented Programming
 
-- [Off-By-One Vulnerability (Heap Based)](https://sploitfun.wordpress.com/2015/06/09/off-by-one-vulnerability-heap-based/)
-- [X86 EXPLOITATION 101: “OFF-BY-ONE” AND AN UNINVITED FRIEND JOINS THE PARTY](https://gbmaster.wordpress.com/2015/08/03/x86-exploitation-101-off-by-one-and-an-uninvited-friend-joins-the-party/)
+- [A ROP Primer solution 64-bit style](https://blog.techorganic.com/2015/10/09/a-rop-primer-solution-64-bit-style/)
+- [Blind Return Oriented Programming 102](https://oddcoder.com/BROP-102/)
+- [Intro to ROP: ROP Emporium — Split](https://medium.com/@iseethieves/intro-to-rop-rop-emporium-split-9b2ec6d4db08)
+- [Introduction to Return Oriented Programming (ROP)](https://ketansingh.net/Introduction-to-Return-Oriented-Programming-ROP/index.html)
+- [Return-Oriented Programming (ROP) 101](https://www.tripwire.com/state-of-security/off-topic/vert-vuln-school-return-oriented-programming-rop-101/)
+- [ROP Emporium](https://ropemporium.com/)
+- [ROP Primer](https://speakerdeck.com/barrebas/rop-primer)
+- [Sigreturn Oriented Programming](https://0x00sec.org/t/srop-signals-you-say/2890)
+
+##### return-to-libc
+
+- [Bypassing NX bit using return-to-libc](https://sploitfun.wordpress.com/2015/05/08/bypassing-nx-bit-using-return-to-libc/)
+- [Bypassing NX bit using chained return-to-libc](https://sploitfun.wordpress.com/2015/05/08/bypassing-nx-bit-using-chained-return-to-libc/)
+
+##### Stack Exploitation
+
+- [Buffer Overflow Explotation](https://0x00sec.org/t/buffer-overflow-explotation/3846/1)
+- [Classic Stack Based Buffer Overflow](https://sploitfun.wordpress.com/2015/05/08/classic-stack-based-buffer-overflow/)
+- [Exploiting 1-byte buffer overflows](https://www.welivesecurity.com/2016/05/10/exploiting-1-byte-buffer-overflows/)
+- [PLAYING WITH CANARIES](https://www.elttam.com.au/blog/playing-with-canaries/)
+- [Stack Clashing for Fun and Profit](http://nullprogram.com/blog/2017/06/21/)
+- [When is something overflowing](https://www.slideshare.net/PeterHlavaty/overflow-48573748)
+- [X86 EXPLOITATION 101: WHEN THE STACK GETS OVER ITS HEAD](https://gbmaster.wordpress.com/2014/06/18/x86-exploitation-101-when-the-stack-gets-over-its-head/)
+- [X86 EXPLOITATION 101: BORN IN A SHELL](https://gbmaster.wordpress.com/2014/07/01/x86-exploitation-101-born-in-a-shell/)
+- [X86 EXPLOITATION 101: “HOUSE OF SPIRIT” – FRIENDLY STACK OVERFLOW](https://gbmaster.wordpress.com/2015/07/21/x86-exploitation-101-house-of-spirit-friendly-stack-overflow/)
+- [Your First Buffer Overflow](https://medium.com/@mackwage/your-first-buffer-overflow-89141a9a2941)
+
+##### Use-After-Free
+
+- [Use-After-Free](https://sploitfun.wordpress.com/2015/06/16/use-after-free/)
 
 ### Malware Analysis
 
