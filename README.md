@@ -11,6 +11,7 @@ My curated list of awesome links, resources and tools
     - [Certifications](#certifications)
     - [Exploitation](#exploitation)
     - [Malware Analysis](#malware-analysis)
+    - [Reverse Engineering](#reverse-engineering)
     - [Tutorials](#tutorials)
 - [Tools](#tools)
 	- [AWS Security](#aws-security)
@@ -272,6 +273,12 @@ My curated list of awesome links, resources and tools
     - [Reverse engineering malware: TrickBot (part 1 - packer)](https://qmemcpy.github.io/post/reverse-engineering-malware-trickbot-part-1-packer)
     - [Reverse engineering malware: TrickBot (part 2 - loader)](https://qmemcpy.github.io/post/reverse-engineering-malware-trickbot-part-2-loader)
     - [Reverse engineering malware: TrickBot (part 3 - core)](https://qmemcpy.io/post/reverse-engineering-malware-trickbot-part-3-core)
+
+### Reverse Engineering
+
+- [A Gentle Primer on Reverse Engineering](https://emily.st/2015/01/27/reverse-engineering/)
+- [FAQ: How to learn reverse-engineering?](http://gynvael.coldwind.pl/?id=664)
+- [Reverse Engineering 101](https://osandamalith.com/2014/12/31/reverse-engineering-101/)
 
 ### Tutorials
 
