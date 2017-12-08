@@ -43,7 +43,6 @@ My curated list of awesome links, resources and tools
     - [OSCE/CTP PREP GUIDE](https://tulpa-security.com/2017/07/18/288/)
     - [OSCE Study Plan](http://www.abatchy.com/2017/03/osce-study-plan.html)
 - OSCP
-    - [frizb/OSCP-Survival-Guide](https://github.com/frizb/OSCP-Survival-Guide/blob/master/README.md)
     - [Offensive Security Certified Professional (OSCP) Review](https://www.jimwilbur.com/2017/07/oscp-review/)
 
 ### Exploitation
@@ -73,7 +72,6 @@ My curated list of awesome links, resources and tools
 
 - [0patching the "Immortal" CVE-2017-7269](https://0patch.blogspot.com/2017/03/0patching-immortal-cve-2017-7269.html)
 - [15 Ways to Bypass the PowerShell Execution Policy](https://blog.netspi.com/15-ways-to-bypass-the-powershell-execution-policy/)
-- [5 Known Application Whitelisting Bypass Techniques in One File](https://github.com/subTee/AllTheThings/blob/master/TestCases/Instructions.md)
 - [A Bug Has No Name: Multiple Heap Buffer Overflows In the Windows DNS Client](https://www.bishopfox.com/blog/2017/10/a-bug-has-no-name-multiple-heap-buffer-overflows-in-the-windows-dns-client/)
 - [Abusing A Writable Windows Service](https://blog.didierstevens.com/2017/09/05/abusing-a-writable-windows-service/)
 - [Abusing Delay Load DLLs for Remote Code Injection](http://hatriot.github.io/blog/2017/09/19/abusing-delay-load-dll/)
@@ -85,8 +83,6 @@ My curated list of awesome links, resources and tools
 - [Breaking backwards compatibility: a 5 year old bug deep within Windows](http://www.triplefault.io/2017/07/breaking-backwards-compatibility-5-year.html)
 - [Breaking out of Restricted Windows Environment](https://weirdgirlweb.wordpress.com/2017/06/14/first-blog-post/)
 - [Bringing Call Gates Back](http://www.alex-ionescu.com/?p=340)
-- [Back to Basics or Bypassing Control Flow Guard with Structured Exception Handler](https://improsec.com/blog//back-to-basics-or-bypassing-control-flow-guard-with-structured-exception-handler)
-- [Bypassing Control Flow Guard in Windows 10](https://improsec.com/blog//bypassing-control-flow-guard-in-windows-10)
 - [Bypassing Microsoft's Patch for CVE-2017-0199](http://justhaifei1.blogspot.com.br/2017/07/bypassing-microsofts-cve-2017-0199-patch.html)
 - [C# Inject a Dll into a Process (w/ CreateRemoteThread)](http://www.codingvision.net/miscellaneous/c-inject-a-dll-into-a-process-w-createremotethread)
 - [DEFEATING DEVICE GUARD: A LOOK INTO CVE-2017-0007](https://enigma0x3.net/2017/04/03/defeating-device-guard-a-look-into-cve-2017-0007/)
@@ -102,7 +98,6 @@ My curated list of awesome links, resources and tools
 - [From Out Of Memory to Remote Code Execution](https://speakerdeck.com/yukichen/from-out-of-memory-to-remote-code-execution)
 - [Getting Code Execution on Windows by Abusing Default Kernel Debugging Setting](https://tyranidslair.blogspot.com/2017/03/getting-code-execution-on-windows-by.html)
 - [Hardening Windows 10 with zero-day exploit mitigations](https://blogs.technet.microsoft.com/mmpc/2017/01/13/hardening-windows-10-with-zero-day-exploit-mitigations/)
-- [Hardening Windows 10 With Zero Day Exploit Mitigations Under The Microscope](https://improsec.com/blog//hardening-windows-10-with-zero-day-exploit-mitigations-under-the-microscope)
 - [Inject All the Things](http://blog.deniable.org/blog/2017/07/16/inject-all-the-things/)
 - [Introduction to IA-32e hardware paging](http://www.triplefault.io/2017/07/introduction-to-ia-32e-hardware-paging.html)
 - [Introduction to Windows Kernel Driver Exploitation (Pt. 1) - Environment Setup](https://glennmcgui.re/introduction-to-windows-kernel-exploitation-pt-1/)
@@ -147,8 +142,6 @@ My curated list of awesome links, resources and tools
 - [Windows Kernel Exploitation Part 3](http://resources.infosecinstitute.com/kernel-exploitation-part-3/)
 - [Windows Kernel Exploitation – Arbitrary Overwrite](https://osandamalith.com/2017/06/14/windows-kernel-exploitation-arbitrary-overwrite/)
 - [Windows Kernel Exploitation : This Time Font hunt you down in 4 bytes](https://www.slideshare.net/PeterHlavaty/windows-kernel-exploitation-this-time-font-hunt-you-down-in-4-bytes)
-- [Windows Kernel Shellcode on Windows 10 – Part 1](https://improsec.com/blog//windows-kernel-shellcode-on-windows-10-part-1)
-- [Windows Kernel Shellcode on Windows 10 – Part 2](https://improsec.com/blog//windows-kernel-shellcode-on-windows-10-part-2)
 - [Zero Day Zen Garden: Windows Exploit Development - Part 0 [Dev Setup & Advice]](http://www.shogunlab.com/blog/2017/08/11/zdzg-windows-exploit-0.html)
 - [Zero Day Zen Garden: Windows Exploit Development - Part 1 [Stack Buffer Overflow Intro]](http://www.shogunlab.com/blog/2017/08/19/zdzg-windows-exploit-1.html)
 - [Zero Day Zen Garden: Windows Exploit Development - Part 2 [JMP to Locate Shellcode]](http://www.shogunlab.com/blog/2017/08/26/zdzg-windows-exploit-2.html)
