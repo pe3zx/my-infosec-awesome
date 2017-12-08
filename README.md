@@ -173,10 +173,7 @@ My curated list of awesome links, resources and tools
 
 #### Malware Variants
 
-![Comparing EternalPetya and Badrabbit](https://1.bp.blogspot.com/-aNjjtabL-kY/WfQ8tXO4gCI/AAAAAAAAB48/3mA3jXGAOwoeqliVWEaftIQ0flQD_YD3QCLcBGAs/s640/EP-BR-comparison.PNG)
-
 - Badrabbit
-    - Source for image above: [Comparing EternalPetya and BadRabbit](https://bartblaze.blogspot.com/2017/10/comparing-eternalpetya-and-badrabbit.html)
     - [‘BadRabbit’ Ransomware Burrows Into Russia, Ukraine](https://securingtomorrow.mcafee.com/mcafee-labs/badrabbit-ransomware-burrows-russia-ukraine/)
     - [BadRabbit: a closer look at the new version of Petya/NotPetya](https://blog.malwarebytes.com/threat-analysis/2017/10/badrabbit-closer-look-new-version-petyanotpetya/)
     - [Bad Rabbit: Not-Petya is back with improved ransomware](https://www.welivesecurity.com/2017/10/24/bad-rabbit-not-petya-back/)
@@ -186,6 +183,28 @@ My curated list of awesome links, resources and tools
     - [Bad Rabbit Ransomware Strikes Ukraine, Likely related to GoldenEye](https://labs.bitdefender.com/2017/10/bad-rabbit-ransomware-strikes-ukraine-likely-related-to-goldeneye/)
     - [NotPetya Returns as Bad Rabbit](http://www.intezer.com/notpetya-returns-bad-rabbit/)
     - [Threat Spotlight: Follow the Bad Rabbit](http://blog.talosintelligence.com/2017/10/bad-rabbit.html)
+- Bankbot
+    - [A Look Into The New Strain of BankBot](https://blog.fortinet.com/2017/09/19/a-look-into-the-new-strain-of-bankbot)
+- Emotet
+    - [Emotet lives another day using Fake O2 invoice notifications](https://www.trustwave.com/Resources/SpiderLabs-Blog/Emotet-lives-another-day-using-Fake-O2-invoice-notifications/)
+- Hajime
+    - [Is Hajime botnet dead?](http://blog.netlab.360.com/hajime-status-report-en/)
+- Locky
+    - [Locky Part 1: Lukitus Spam Campaigns and Their Love for Game of Thrones](https://www.trustwave.com/Resources/SpiderLabs-Blog/Locky-Part-1--Lukitus-Spam-Campaigns-and-Their-Love-for-Game-of-Thrones/)
+    - [Locky Part 2: As the Seasons Change so is Locky](https://www.trustwave.com/Resources/SpiderLabs-Blog/Locky-Part-2--As-the-Seasons-Change-so-is-Locky/)
+- Kangaroo
+    - [Threat Analysis: Don’t Forget About Kangaroo Ransomware](https://www.carbonblack.com/2017/10/02/threat-analysis-dont-forget-about-kangaroo-ransomware/)
+- MAN1
+    - [Threat Spotlight - MAN1 Malware: Temple of Doom](https://www.cylance.com/en_us/blog/threat-spotlight-man1-malware-group-resurfaces.html)
+    - [Threat Spotlight: MAN1 Malware - The Last Crusade?](https://www.cylance.com/en_us/blog/threat-spotlight-man1-malware-the-last-crusade.html)
+- Poison Ivy
+    - [Deep Analysis of New Poison Ivy Variant](http://blog.fortinet.com/2017/08/23/deep-analysis-of-new-poison-ivy-variant)
+    - [Deep Analysis of New Poison Ivy/PlugX Variant - Part II](https://blog.fortinet.com/2017/09/15/deep-analysis-of-new-poison-ivy-plugx-variant-part-ii)
+- Trickbot
+    - [How TrickBot tricks its victims with web injects](https://www.uperesia.com/how-trickbot-tricks-its-victims)
+    - [Reverse engineering malware: TrickBot (part 1 - packer)](https://qmemcpy.github.io/post/reverse-engineering-malware-trickbot-part-1-packer)
+    - [Reverse engineering malware: TrickBot (part 2 - loader)](https://qmemcpy.github.io/post/reverse-engineering-malware-trickbot-part-2-loader)
+    - [Reverse engineering malware: TrickBot (part 3 - core)](https://qmemcpy.io/post/reverse-engineering-malware-trickbot-part-3-core)
 
 ### Tutorials
 
