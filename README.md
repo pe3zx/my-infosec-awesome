@@ -1040,6 +1040,10 @@ My curated list of awesome links, resources and tools
         <td>macro_pack is a tool used to automatize obfuscation and generation of MS Office documents for pentest, demo, and social engineering assessments. The goal of macro_pack is to simplify antimalware bypass and automatize the process from vba generation to final Office document generation.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/peewpw/Invoke-WCMDump">peewpw/Invoke-WCMDump</a></td>
+        <td>PowerShell Script to Dump Windows Credentials from the Credential Manager</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/Plazmaz/LNKUp">Plazmaz/LNKUp</a></td>
         <td>Generates malicious LNK file payloads for data exfiltration</td>
     </tr>
