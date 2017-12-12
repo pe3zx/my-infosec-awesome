@@ -7,6 +7,7 @@ My curated list of awesome links, resources and tools
 
 - [My Awesome](#my-awesome)
 - [Articles](#article)
+    - [Awesome](#awesome)
     - [Anti Forensics](#anti-forensics)
     - [Certifications](#certifications)
     - [Exploitation](#exploitation)
@@ -32,6 +33,10 @@ My curated list of awesome links, resources and tools
 ---
 
 ## Articles
+
+### Awesome
+
+- [dsasmblr/game-hacking - Tutorials, tools, and more as related to reverse engineering video games.](https://github.com/dsasmblr/game-hacking)
 
 ### Anti Forensics
 
