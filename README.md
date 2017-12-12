@@ -10,6 +10,7 @@ My curated list of awesome links, resources and tools
     - [Awesome](#awesome)
     - [Anti Forensics](#anti-forensics)
     - [Certifications](#certifications)
+    - [Digital Forensics and Incident Response](#digital-forensics-and-incident-response)
     - [Exploitation](#exploitation)
     - [Malware Analysis](#malware-analysis)
     - [Reverse Engineering](#reverse-engineering)
@@ -51,6 +52,11 @@ My curated list of awesome links, resources and tools
 - OSCP
     - [Offensive Security Certified Professional (OSCP) Review](https://www.jimwilbur.com/2017/07/oscp-review/)
     - [OSCP Course & Exam Preparation](https://411hall.github.io/OSCP-Preparation/)
+
+### Digital Forensics and Incident Response
+
+- [Windows Privileged Access Reference](https://docs.microsoft.com/en-us/windows-server/identity/securing-privileged-access/securing-privileged-access-reference-material#ATLT_BM)
+	- Mirror copy of the table is available at [files/dfir/windows-privileged-access.md](files/dfir/windows-privileged-access.md)
 
 ### Exploitation
 
