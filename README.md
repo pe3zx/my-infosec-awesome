@@ -55,6 +55,8 @@ My curated list of awesome links, resources and tools
 
 ### Digital Forensics and Incident Response
 
+- [Beyond good ol' Run key Series](http://www.hexacorn.com/blog/?s=Beyond+good+ol%E2%80%99+Run+key%2C)
+	- Mirror copy and TLDR version of articles are available at [files/dfir/beyod-good-ol-run-key.md](files/dfir/beyond-good-ol-run-key.md)
 - [Windows Privileged Access Reference](https://docs.microsoft.com/en-us/windows-server/identity/securing-privileged-access/securing-privileged-access-reference-material#ATLT_BM)
 	- Mirror copy of the table is available at [files/dfir/windows-privileged-access-reference.md](files/dfir/windows-privileged-access-reference.md)
 

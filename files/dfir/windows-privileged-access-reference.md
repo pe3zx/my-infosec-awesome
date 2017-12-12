@@ -1,3 +1,5 @@
+# Windows Privileged Access Reference
+
 <table>
   <tr>
     <th>Connectionmethod</th>
