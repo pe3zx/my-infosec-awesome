@@ -56,7 +56,7 @@ My curated list of awesome links, resources and tools
 ### Digital Forensics and Incident Response
 
 - [Windows Privileged Access Reference](https://docs.microsoft.com/en-us/windows-server/identity/securing-privileged-access/securing-privileged-access-reference-material#ATLT_BM)
-	- Mirror copy of the table is available at [files/dfir/windows-privileged-access.md](files/dfir/windows-privileged-access.md)
+	- Mirror copy of the table is available at [files/dfir/windows-privileged-access-reference.md](files/dfir/windows-privileged-access-reference.md)
 
 ### Exploitation
 
