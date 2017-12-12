@@ -50,6 +50,7 @@ My curated list of awesome links, resources and tools
     - [OSCE Study Plan](http://www.abatchy.com/2017/03/osce-study-plan.html)
 - OSCP
     - [Offensive Security Certified Professional (OSCP) Review](https://www.jimwilbur.com/2017/07/oscp-review/)
+    - [OSCP Course & Exam Preparation](https://411hall.github.io/OSCP-Preparation/)
 
 ### Exploitation
 
