@@ -922,6 +922,13 @@ My curated list of awesome links, resources and tools
         <td>*Decompile All the Things* - IDA Batch Decompile plugin and script for Hex-Ray's IDA Pro that adds the ability to batch decompile multiple files and their imports with additional annotations (xref, stack var size) to the pseudocode .c file</td>
     </tr>
     <tr>
+        <td colspan="2">radare2</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/radareorg/cutter">radareorg/cutter</a></td>
+        <td>A Qt and C++ GUI for radare2 reverse engineering framework</td>
+    </tr>
+    <tr>
         <td colspan="2"><b>WinDBG</b></td>
     </tr>
     <tr>
