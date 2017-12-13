@@ -1014,6 +1014,10 @@ My curated list of awesome links, resources and tools
         <td>IlluminateJs is a static javascript analysis engine (a deobfuscator so to say) aimed to help analyst understand obfuscated and potentially malicious JavaScript Code.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/jonluca/Anubis">jonluca/Anubis</a></td>
+        <td>Subdomain enumeration and information gathering tool</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/mazen160/bfac">mazen160/bfac</a></td>
         <td>BFAC (Backup File Artifacts Checker): An automated tool that checks for backup artifacts that may disclose the web-application's source code.</td>
     </tr>
