@@ -512,6 +512,10 @@ My curated list of awesome links, resources and tools
 
 <table>
     <tr>
+        <td><a href="https://github.com/avast-tl/retdec">avast-tl/retdec</a></td>
+        <td>RetDec is a retargetable machine-code decompiler based on LLVM</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/enkomio/shed">enkomio/shed</a></td>
         <td>.NET runtine inspector. <a href="http://antonioparata.blogspot.it/2017/11/shed-inspect-net-malware-like-sir.html">Shed - Inspect .NET malware like a Sir</a></td>
     </tr>
