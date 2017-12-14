@@ -728,6 +728,10 @@ My curated list of awesome links, resources and tools
         <td>The PHP Security Advisories Database references known security vulnerabilities in various PHP projects and libraries. This database must not serve as the primary source of information for security issues, it is not authoritative for any referenced software, but it allows to centralize information for convenience and easy consumption.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/gellin/TeamViewer_Permissions_Hook_V1"></a>gellin/TeamViewer_Permissions_Hook_V1</td>
+        <td>A proof of concept injectable C++ dll, that uses naked inline hooking and direct memory modification to change your TeamViewer permissions.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/ScottyBauer/Android_Kernel_CVE_POCs">ScottyBauer/Android_Kernel_CVE_POCs</a></td>
         <td>A list of my CVE's with POCs</td>
     </tr>
