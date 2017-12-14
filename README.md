@@ -1031,6 +1031,10 @@ My curated list of awesome links, resources and tools
         <td>Vagrant & Packer scripts to build a lab environment complete with security tooling and logging best practices</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/mitre/caldera">mitre/caldera</a></td>
+        <td>The CALDERA automated adversary emulation system</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/cliffe/SecGen">cliffe/SecGen</a></td>
         <td>SecGen creates vulnerable virtual machines so students can learn security penetration testing techniques.</td>
     </tr>
