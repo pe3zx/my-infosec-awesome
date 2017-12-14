@@ -731,6 +731,10 @@ My curated list of awesome links, resources and tools
         <td>A list of my CVE's with POCs</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/Spajed/processrefund">Spajed/processrefund</a></td>
+        <td>An attempt at Process Doppelgänging</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/spencerdodd/kernelpop">spencerdodd/kernelpop</a></td>
         <td>Kernel privilege escalation enumeration and exploitation framework</td>
     </tr>
