@@ -423,6 +423,7 @@ My curated list of awesome links, resources and tools
             <ul>
                 <li><a href="https://www.megabeets.net/a-journey-into-radare-2-part-1/">A journey into Radare 2 – Part 1: Simple crackme</a></li>
                 <li><a href="https://www.megabeets.net/a-journey-into-radare-2-part-2/">A journey into Radare 2 – Part 2: Exploitation</a></li>
+                <li><a href="https://leotindall.com/tutorial/an-intro-to-x86_64-reverse-engineering/">An Intro to x86_64 Reverse Engineering</a></li>
                 <li><a href="http://blog.superponible.com/2017/04/15/emulating-assembly-in-radare2/">Emulating Assembly in Radare2</a></li>
                 <li><a href="https://github.com/chrysh/ctf_writeups/tree/master/pwnable.kr">Pwnable.kr - Passcode</a></li>
                 <li><a href="https://monosource.github.io/2016/10/radare2-peda">radare2 as an alternative to gdb-peda</a></li>
