@@ -26,6 +26,7 @@ My curated list of awesome links, resources and tools
     - [Mobile Securtiy](#mobile-security)
     - [Network](#network)
     - [Plugins](#plugins)
+    - [Privacy](#privacy)
     - [Social Engineering](#social-engineering)
     - [Vulnerable](#vulnerable)
     - [Web Application Security](#web-application-security)
@@ -948,6 +949,10 @@ My curated list of awesome links, resources and tools
         <td>WinDBG Anti-RootKit Extension</td>
     </tr>
 </table>
+
+### Privacy
+
+*Increase your privacy and/or operational security with this tools*
 
 ### Social Engineering
 
