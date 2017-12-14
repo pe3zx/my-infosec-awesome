@@ -380,6 +380,14 @@ My curated list of awesome links, resources and tools
         </td>
     </tr>
     <tr>
+        <td>Mimikatz</td>
+        <td>
+            <ul>
+                <li><a href="https://adsecurity.org/?page_id=1821">Unofficial Guide to Mimikatz & Command Reference</a></li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
         <td>osquery</td>
         <td>
             <ul>
