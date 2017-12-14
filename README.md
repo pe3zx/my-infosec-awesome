@@ -954,6 +954,13 @@ My curated list of awesome links, resources and tools
 
 *Increase your privacy and/or operational security with this tools*
 
+<table>
+    <tr>
+        <td><a href="https://securityplanner.org/">Security Planner</a></td>
+        <td>Improve your online safety with advice from experts</td>
+    </tr>
+</table>
+
 ### Social Engineering
 
 *Tools related to social engineering attack, OSINT and human hacking*
