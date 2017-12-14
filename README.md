@@ -910,6 +910,10 @@ My curated list of awesome links, resources and tools
         <td>IFL - Interactive Functions List (plugin for IDA Pro)</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/joxeankoret/diaphora">joxeankoret/diaphora</a></td>
+        <td>Diaphora, a Free and Open Source program diffing tool</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/OALabs/FindYara">OALabs/FindYara</a></td>
         <td>IDA python plugin to scan binary with Yara rules</td>
     </tr>
