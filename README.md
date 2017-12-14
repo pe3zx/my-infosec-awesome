@@ -1010,6 +1010,10 @@ My curated list of awesome links, resources and tools
 
 <table>
     <tr>
+        <td><a href="https://github.com/clong/DetectionLab">clong/DetectionLab</a></td>
+        <td>Vagrant & Packer scripts to build a lab environment complete with security tooling and logging best practices</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/cliffe/SecGen">cliffe/SecGen</a></td>
         <td>SecGen creates vulnerable virtual machines so students can learn security penetration testing techniques.</td>
     </tr>
