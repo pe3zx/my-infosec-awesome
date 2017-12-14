@@ -1006,7 +1006,7 @@ My curated list of awesome links, resources and tools
 
 ### Vulnerable
 
-*Vulnerable software, application, VM for research purpose*
+*Vulnerable software, application, VM for research purpose and virtual environment for security testing*
 
 <table>
     <tr>
