@@ -125,7 +125,6 @@ My curated list of awesome links, resources and tools
 - [Kernel Exploitation Case Study - "Wild" Pool Overflow on Win10 x64 RS2 (CVE-2016-3309 Reloaded)](https://siberas.de/blog/2017/10/05/exploitation_case_study_wild_pool_overflow_CVE-2016-3309_reloaded.html)
 - [Kernel Pool Overflow Exploitation In Real World – Windows 7](http://trackwatch.com/kernel-pool-overflow-exploitation-in-real-world-windows-7/)
 - [Kernel Pool Overflow Exploitation In Real World – Windows 10](http://trackwatch.com/kernel-pool-overflow-exploitation-in-real-world-windows-10/)
-- [Memory analysis of Eternalblue](http://markus.co/memory-forensics/2017/06/04/eternalblue-smb.html)
 - [Microsoft Kills Potential Remote Code Execution Vulnerability in Office (CVE-2017-8630)](https://securingtomorrow.mcafee.com/mcafee-labs/microsoft-kills-potential-remote-code-execution-vulnerability-in-office-cve-2017-8630/)
 - [MS17-010: EternalBlue’s Large Non-Paged Pool Overflow in SRV Driver](http://blog.trendmicro.com/trendlabs-security-intelligence/ms17-010-eternalblue/)
 - [MS OFFICE EXPLOIT ANALYSIS – CVE-2015-1641](http://www.sekoia.fr/blog/ms-office-exploit-analysis-cve-2015-1641/)
