@@ -648,7 +648,7 @@ My curated list of awesome links, resources and tools
 
 ### Exploits
 
-*Interesting exploits. For research purpose only*
+*Interesting exploits and PoC code. For research purpose only*
 
 <table>
     <tr>
