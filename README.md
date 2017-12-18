@@ -219,6 +219,7 @@ My curated list of awesome links, resources and tools
 - [Classic Stack Based Buffer Overflow](https://sploitfun.wordpress.com/2015/05/08/classic-stack-based-buffer-overflow/)
 - [Exploiting 1-byte buffer overflows](https://www.welivesecurity.com/2016/05/10/exploiting-1-byte-buffer-overflows/)
 - [PLAYING WITH CANARIES](https://www.elttam.com.au/blog/playing-with-canaries/)
+- [Simple buffer overflow on a modern system](http://liveoverflow.com/blog/stack0_buffer_overflow_on_ubuntu.html)
 - [Stack Clashing for Fun and Profit](http://nullprogram.com/blog/2017/06/21/)
 - [When is something overflowing](https://www.slideshare.net/PeterHlavaty/overflow-48573748)
 - [X86 EXPLOITATION 101: WHEN THE STACK GETS OVER ITS HEAD](https://gbmaster.wordpress.com/2014/06/18/x86-exploitation-101-when-the-stack-gets-over-its-head/)
