@@ -436,6 +436,7 @@ My curated list of awesome links, resources and tools
                 <li><a href="http://blog.superponible.com/2017/04/15/emulating-assembly-in-radare2/">Emulating Assembly in Radare2</a></li>
                 <li><a href="https://github.com/chrysh/ctf_writeups/tree/master/pwnable.kr">Pwnable.kr - Passcode</a></li>
                 <li><a href="https://monosource.github.io/2016/10/radare2-peda">radare2 as an alternative to gdb-peda</a></li>
+                <li><a href="https://medium.com/@jacob16682/reverse-engineering-using-radare2-588775ea38d5">Reverse Engineering Using Radare2</a></li>
             </ul>
         </td>
     </tr>
