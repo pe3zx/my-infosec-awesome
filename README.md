@@ -539,6 +539,10 @@ My curated list of awesome links, resources and tools
         </td>
     </tr>
     <tr>
+        <td><a href="https://github.com/hasherezade/hook_finder">hasherezade/hook_finder</a></td>
+        <td>a small tool for investigating inline hooks (and other in-memory code patches)</td>
+    </tr>
+    <tr>
         <td><a href="https://lief.quarkslab.com/">LIEF</a></td>
         <td>Library to Instrument Executable Formats</td>
     </tr>
