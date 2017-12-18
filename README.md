@@ -737,6 +737,10 @@ My curated list of awesome links, resources and tools
         <td>The PHP Security Advisories Database references known security vulnerabilities in various PHP projects and libraries. This database must not serve as the primary source of information for security issues, it is not authoritative for any referenced software, but it allows to centralize information for convenience and easy consumption.</td>
     </tr>
     <tr>
+        <td><a href="hasherezade/process_doppelganging">https://github.com/hasherezade/process_doppelganging</a></td>
+        <td>My implementation of enSilo's Process Doppelganging (PE injection technique)</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/gellin/TeamViewer_Permissions_Hook_V1"></a>gellin/TeamViewer_Permissions_Hook_V1</td>
         <td>A proof of concept injectable C++ dll, that uses naked inline hooking and direct memory modification to change your TeamViewer permissions.</td>
     </tr>
