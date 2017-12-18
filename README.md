@@ -845,6 +845,10 @@ My curated list of awesome links, resources and tools
         <td><a href="https://malware.sekoia.fr/new">SEKOIA Dropper Analysis</a></td>
         <td>SEKOIA Dropper Analysis</td>
     </tr>
+    <tr>
+        <td><a href="https://pan-unit42.github.io/playbook_viewer/">UNIT 42: Playbook Viewver</a></td>
+        <td>Viewing PAN Unit 42's adversary playbook via web interface</td>
+    </tr>
 </table>
 
 ### Mobile Security
