@@ -63,6 +63,14 @@ My curated list of awesome links, resources and tools
 
 ### Exploitation
 
+### Platforms
+
+#### ARM Exploitation
+
+- [ARM exploitation for IoT – Episode 1](https://quequero.org/2017/07/arm-exploitation-iot-episode-1/)
+- [ARM exploitation for IoT – Episode 2](https://quequero.org/2017/09/arm-exploitation-iot-episode-2/)
+- [ARM exploitation for IoT – Episode 3](https://quequero.org/2017/11/arm-exploitation-iot-episode-3/)
+
 #### Software Exploitation
 
 ##### Linux
