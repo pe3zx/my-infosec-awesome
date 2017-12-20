@@ -234,6 +234,14 @@ My curated list of awesome links, resources and tools
 - [Bypassing NX bit using return-to-libc](https://sploitfun.wordpress.com/2015/05/08/bypassing-nx-bit-using-return-to-libc/)
 - [Bypassing NX bit using chained return-to-libc](https://sploitfun.wordpress.com/2015/05/08/bypassing-nx-bit-using-chained-return-to-libc/)
 
+#### Shellcoding
+
+*Art of crafting shellcode*
+
+- [SLAE: Bind TCP Shell – Assignment 1](http://0xdeadcode.se/archives/637)
+- [SLAE: Reverse TCP Shell – Assignment 2](http://0xdeadcode.se/archives/689)
+- [SLAE: Egg Hunter – Assignment 3](http://0xdeadcode.se/archives/707)
+
 ##### Stack Exploitation
 
 *Corrupt the stack*
