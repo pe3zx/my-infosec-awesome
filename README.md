@@ -515,7 +515,7 @@ My curated list of awesome links, resources and tools
 *Web application security related articles and tutorials*
 
 - [Gaining access for HTTPS certificate by abusing RFC2142.](https://twitter.com/spazef0rze/status/942800411941048320)
-    - Using `admin@`, `administrator@`, `hostmaster@`, postmaster@`, `webmaster@` for email address
+    - Using `admin@`, `administrator@`, `hostmaster@`, `postmaster@`, `webmaster@` for email address
 
 ### SQL Injection
 
