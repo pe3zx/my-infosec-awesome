@@ -249,6 +249,13 @@ My curated list of awesome links, resources and tools
 - [X86 EXPLOITATION 101: “HOUSE OF SPIRIT” – FRIENDLY STACK OVERFLOW](https://gbmaster.wordpress.com/2015/07/21/x86-exploitation-101-house-of-spirit-friendly-stack-overflow/)
 - [Your First Buffer Overflow](https://medium.com/@mackwage/your-first-buffer-overflow-89141a9a2941)
 
+
+#### Trusted Execution
+
+**Various techniques to execute malicious binary with trusted, bypassing security protection**
+
+- [Execute unsigned binary via signed Tracker.exe (required Tracker.exe and TrackerUI.dll)](https://twitter.com/sudhanshu_c/status/943011972261412864?ref_src=twcamp%5Eshare%7Ctwsrc%5Eios%7Ctwgr%5Eother)
+
 ##### Use-After-Free
 
 **Use-After-Free related arcitles**
