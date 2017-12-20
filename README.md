@@ -15,6 +15,7 @@ My curated list of awesome links, resources and tools
     - [Malware Analysis](#malware-analysis)
     - [Reverse Engineering](#reverse-engineering)
     - [Tutorials](#tutorials)
+    - [Web Application Security](#web-application-security-1)
 - [Tools](#tools)
 	- [AWS Security](#aws-security)
     - [Binary Analysis](#binary-analysis)
@@ -500,6 +501,14 @@ My curated list of awesome links, resources and tools
         </td>
     </tr>
 </table>
+
+## Web Application Security
+
+**Web application security related articles and tutorials**
+
+### SQL Injection
+
+- [NetSPI SQL Injection Wiki](https://sqlwiki.netspi.com/)
 
 ## Tools
 
