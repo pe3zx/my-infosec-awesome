@@ -177,7 +177,7 @@ My curated list of awesome links, resources and tools
 
 ##### Bypassing ASLR
 
-**Any related techniques for ASLR bypassing**
+*Any related techniques for ASLR bypassing*
 
 - [Bypassing ASLR – Part I](https://sploitfun.wordpress.com/2015/05/08/bypassing-aslr-part-i/)
 - [Bypassing ASLR – Part II](https://sploitfun.wordpress.com/2015/05/08/bypassing-aslr-part-ii/)
@@ -185,14 +185,14 @@ My curated list of awesome links, resources and tools
 
 ##### Format Strings
 
-**Format strings exploitation**
+*Format strings exploitation*
 
 - [Format String Exploitation Primer](https://borgandrew.blogspot.com/2017/01/h1-margin-bottom-0.html)
 - [X86 EXPLOITATION 101: “FORMAT STRINGS” – I’LL TELL YA WHAT TO SAY](https://gbmaster.wordpress.com/2015/12/08/x86-exploitation-101-format-strings-ill-tell-ya-what-to-say/)
 
 ##### Heap Exploitation
 
-**Heap exploitation related articles and tutorials**
+*Heap exploitation related articles and tutorials*
 
 - [Heap Exploitation](https://www.gitbook.com/book/dhavalkapil/heap-exploitation/details)
 - [Heap Exploitation ~ Fastbin Attack](https://0x00sec.org/t/heap-exploitation-fastbin-attack/3627)
@@ -209,14 +209,14 @@ My curated list of awesome links, resources and tools
 
 ##### Integer Overflow
 
-**Integer overflow epxloitaion**
+*Integer overflow epxloitaion*
 
 - [Integer Overflow](https://sploitfun.wordpress.com/2015/06/23/integer-overflow/)
 - [X86 EXPLOITATION 101: “INTEGER OVERFLOW” – ADDING ONE MORE… AAAAAAAAAAAND IT’S GONE](https://gbmaster.wordpress.com/2015/08/13/x86-exploitation-101-integer-overflow-adding-one-more-aaaaaaaaaaand-its-gone/)
 
 ##### Return Oriented Programming
 
-**ROP cases and guidelines**
+*ROP cases and guidelines*
 
 - [A ROP Primer solution 64-bit style](https://blog.techorganic.com/2015/10/09/a-rop-primer-solution-64-bit-style/)
 - [Blind Return Oriented Programming 102](https://oddcoder.com/BROP-102/)
@@ -229,14 +229,14 @@ My curated list of awesome links, resources and tools
 
 ##### return-to-libc
 
-**return-to-libc techniques**
+*return-to-libc techniques*
 
 - [Bypassing NX bit using return-to-libc](https://sploitfun.wordpress.com/2015/05/08/bypassing-nx-bit-using-return-to-libc/)
 - [Bypassing NX bit using chained return-to-libc](https://sploitfun.wordpress.com/2015/05/08/bypassing-nx-bit-using-chained-return-to-libc/)
 
 ##### Stack Exploitation
 
-**Corrupt the stack**
+*Corrupt the stack*
 
 - [Buffer Overflow Explotation](https://0x00sec.org/t/buffer-overflow-explotation/3846/1)
 - [Classic Stack Based Buffer Overflow](https://sploitfun.wordpress.com/2015/05/08/classic-stack-based-buffer-overflow/)
@@ -253,13 +253,13 @@ My curated list of awesome links, resources and tools
 
 ##### Trusted Execution
 
-**Various techniques to execute malicious binary with trusted, bypassing security protection**
+*Various techniques to execute malicious binary with trusted, bypassing security protection*
 
 - [Execute unsigned binary via signed Tracker.exe (required Tracker.exe and TrackerUI.dll)](https://twitter.com/sudhanshu_c/status/943011972261412864?ref_src=twcamp%5Eshare%7Ctwsrc%5Eios%7Ctwgr%5Eother)
 
 ##### Use-After-Free
 
-**Use-After-Free related arcitles**
+*Use-After-Free related arcitles*
 
 - [Use-After-Free](https://sploitfun.wordpress.com/2015/06/16/use-after-free/)
 
@@ -504,7 +504,7 @@ My curated list of awesome links, resources and tools
 
 ## Web Application Security
 
-**Web application security related articles and tutorials**
+*Web application security related articles and tutorials*
 
 ### SQL Injection
 
