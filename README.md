@@ -64,6 +64,8 @@ My curated list of awesome links, resources and tools
 
 ### Exploitation
 
+- [Guest Diary (Etay Nir) Kernel Hooking Basics](https://isc.sans.edu/forums/diary/Guest+Diary+Etay+Nir+Kernel+Hooking+Basics/23155/)
+
 #### Platforms
 
 ##### ARM Exploitation
