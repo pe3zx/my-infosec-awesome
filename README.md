@@ -1176,6 +1176,10 @@ My curated list of awesome links, resources and tools
         <td>Injects C# EXE or DLL Assembly into every CLR runtime and AppDomain of another process.</td>
     </tr>
     <tr>
+        <td><a href="https://live.sysinternals.com/">Live Sysinternals Tools</a></td>
+        <td>Live version of Sysinternal Suites</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/sevagas/macro_pack">sevagas/macro_pack</a></td>
         <td>macro_pack is a tool used to automatize obfuscation and generation of MS Office documents for pentest, demo, and social engineering assessments. The goal of macro_pack is to simplify antimalware bypass and automatize the process from vba generation to final Office document generation.</td>
     </tr>
