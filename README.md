@@ -327,6 +327,8 @@ My curated list of awesome links, resources and tools
 - Poison Ivy
     - [Deep Analysis of New Poison Ivy Variant](http://blog.fortinet.com/2017/08/23/deep-analysis-of-new-poison-ivy-variant)
     - [Deep Analysis of New Poison Ivy/PlugX Variant - Part II](https://blog.fortinet.com/2017/09/15/deep-analysis-of-new-poison-ivy-plugx-variant-part-ii)
+- Rig EK
+    - [if you want to get #RigEK's enc key, please use this script](https://twitter.com/nao_sec/status/944038611590115328)
 - Trickbot
     - [Reverse engineering malware: TrickBot (part 1 - packer)](https://qmemcpy.github.io/post/reverse-engineering-malware-trickbot-part-1-packer)
     - [Reverse engineering malware: TrickBot (part 2 - loader)](https://qmemcpy.github.io/post/reverse-engineering-malware-trickbot-part-2-loader)
