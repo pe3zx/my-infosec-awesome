@@ -572,6 +572,10 @@ My curated list of awesome links, resources and tools
             Tool for AWS security assessment, auditing and hardening. It follows guidelines of the CIS Amazon Web Services Foundations Benchmark.
         </td>
     </tr>
+    <tr>
+        <td><a href="https://github.com/SecurityFTW/cs-suite">SecurityFTW/cs-suite</a></td>
+        <td>Cloud Security Suite - One stop tool for auditing the security posture of AWS infrastructure.</td>
+    </tr>
 </table>
 
 ### Binary Analysis
