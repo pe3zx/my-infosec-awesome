@@ -59,6 +59,8 @@ My curated list of awesome links, resources and tools
 
 - [Beyond good ol' Run key Series](http://www.hexacorn.com/blog/?s=Beyond+good+ol%E2%80%99+Run+key%2C)
 	- Mirror copy and TLDR version of articles are available at [files/dfir/beyod-good-ol-run-key.md](files/dfir/beyond-good-ol-run-key.md)
+- [Certificate Chain Cloning and Cloned Root Trust Attacks](https://posts.specterops.io/code-signing-certificate-cloning-attacks-and-defenses-6f98657fc6ec)
+    - Mirror copy (TLDR version) of the article is available at [files/dfir/rouge-certificate-dfir.md](files/dfir/rouge-certificate-dfir.md)
 - [Windows Privileged Access Reference](https://docs.microsoft.com/en-us/windows-server/identity/securing-privileged-access/securing-privileged-access-reference-material#ATLT_BM)
 	- Mirror copy of the table is available at [files/dfir/windows-privileged-access-reference.md](files/dfir/windows-privileged-access-reference.md)
 
