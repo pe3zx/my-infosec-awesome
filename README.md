@@ -608,6 +608,10 @@ My curated list of awesome links, resources and tools
         <td>Library to Instrument Executable Formats</td>
     </tr>
     <tr>
+        <td><a href="https://salmanarif.bitbucket.io/visual/index.html">VisUAL</a></td>
+        <td>A highly visual ARM emulator</td>
+    </tr>
+    <tr>
         <td>
             <a href="https://github.com/williballenthin/python-idb">williballenthin/python-idb</a>
         </td>
