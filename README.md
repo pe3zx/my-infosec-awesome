@@ -81,6 +81,7 @@ My curated list of awesome links, resources and tools
 ##### Linux
 
 - [64-bit Linux Return-Oriented Programming](https://crypto.stanford.edu/~blynn/rop/)
+- [Adapting the POC for CVE-2017-1000112 to Other Kernels](http://ricklarabee.blogspot.ch/2017/12/adapting-poc-for-cve-2017-1000112-to.html)
 - [Blocking double-free in Linux kernel](http://blog.ptsecurity.com/2017/08/linux-block-double-free.html)
 - [CVE-2016-2384: exploiting a double-free in the usb-midi linux kernel driver](https://xairy.github.io/blog/2016/cve-2016-2384)
 - [CVE-2017-2636: exploit the race condition in the n_hdlc Linux kernel driver bypassing SMEP](https://a13xp0p0v.github.io/2017/03/24/CVE-2017-2636.html)
