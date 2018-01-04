@@ -757,6 +757,19 @@ My curated list of awesome links, resources and tools
         </td>
     </tr>
     <tr>
+        <td>CVE-2017-5753, CVE-2017-5715, CVE-2017-5754</td>
+        <td>
+            Meltdown and Spectre exploit critical vulnerabilities in modern processors. These hardware bugs allow programs to steal data which is currently processed on the computer. While programs are typically not permitted to read data from other programs, a malicious program can exploit Meltdown and Spectre to get hold of secrets stored in the memory of other running programs. This might include your passwords stored in a password manager or browser, your personal photos, emails, instant messages and even business-critical documents.
+            <ul>
+                <li><a href="https://spectreattack.com/">Meltdown and Spectre</a></li>
+                <li><a href="https://googleprojectzero.blogspot.com/2018/01/reading-privileged-memory-with-side.html">Reading privileged memory with a side-channel</a></li>
+                <li><a href="http://www.kb.cert.org/vuls/id/584653">CPU hardware vulnerable to side-channel attacks</a></li>
+                <li><a href="https://twitter.com/aionescu/status/948794658926116864">Detection tool (1)</a></li>
+                <li><a href="https://twitter.com/x0rz/status/948832798391066624">Detection tool (2)</a></li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
         <td>CVE-2017-7089</td>
         <td>
             A logic issue existed in the handling of the parent-tab. This issue was addressed with improved state management. Processing maliciously crafted web content may lead to universal cross site scripting.
