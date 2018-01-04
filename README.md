@@ -527,6 +527,10 @@ My curated list of awesome links, resources and tools
 - [Gaining access for HTTPS certificate by abusing RFC2142.](https://twitter.com/spazef0rze/status/942800411941048320)
     - Using `admin@`, `administrator@`, `hostmaster@`, `postmaster@`, `webmaster@` for email address
 
+### Cross-site Request Forgery
+
+- [What is CSRF , Preventions? And How to bypass the CSRF protection via XSS?](https://medium.com/@agrawalsmart7/what-is-csrf-how-to-bypass-the-csrf-protection-via-xss-55695f5789d7)
+
 ### SQL Injection
 
 - [NetSPI SQL Injection Wiki](https://sqlwiki.netspi.com/)
