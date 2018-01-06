@@ -764,7 +764,7 @@ My curated list of awesome links, resources and tools
                 <li><a href="https://spectreattack.com/">Meltdown and Spectre</a></li>
                 <li><a href="https://googleprojectzero.blogspot.com/2018/01/reading-privileged-memory-with-side.html">Reading privileged memory with a side-channel</a></li>
                 <li><a href="http://www.kb.cert.org/vuls/id/584653">CPU hardware vulnerable to side-channel attacks</a></li>
-                <li><a href="https://twitter.com/aionescu/status/948794658926116864">Detection tool (1)</a></li>
+                <li><a href="https://github.com/ionescu007/SpecuCheck">ionescu007/SpecuCheck</a></li>
                 <li><a href="https://twitter.com/x0rz/status/948832798391066624">Detection tool (2)</a></li>
             </ul>
         </td>
