@@ -762,6 +762,7 @@ My curated list of awesome links, resources and tools
         <td>
             Meltdown and Spectre exploit critical vulnerabilities in modern processors. These hardware bugs allow programs to steal data which is currently processed on the computer. While programs are typically not permitted to read data from other programs, a malicious program can exploit Meltdown and Spectre to get hold of secrets stored in the memory of other running programs. This might include your passwords stored in a password manager or browser, your personal photos, emails, instant messages and even business-critical documents.
             <ul>
+                <li><a href="https://twitter.com/gsuberland/status/948907452786933762">Explanation threat by @gsuverland</a></li>
                 <li><a href="https://github.com/Eugnis/spectre-attack">Eugnis/spectre-attack</a></li>
                 <li><a href="https://github.com/paboldin/meltdown-exploit">paboldin/meltdown-exploit</a></li>
                 <li><a href="https://spectreattack.com/">Meltdown and Spectre</a></li>
