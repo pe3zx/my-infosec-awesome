@@ -327,7 +327,6 @@ My curated list of awesome links, resources and tools
 - [X86 EXPLOITATION 101: “HOUSE OF SPIRIT” – FRIENDLY STACK OVERFLOW](https://gbmaster.wordpress.com/2015/07/21/x86-exploitation-101-house-of-spirit-friendly-stack-overflow/)
 - [Your First Buffer Overflow](https://medium.com/@mackwage/your-first-buffer-overflow-89141a9a2941)
 
-
 ##### Trusted Execution
 
 *Various techniques to execute malicious binary with trusted, bypassing security protection*
@@ -342,10 +341,27 @@ My curated list of awesome links, resources and tools
 
 ### Malware Analysis
 
+- [A zebra in sheep’s clothing: How a Microsoft icon-display bug in Windows allows attackers to masquerade PE files with special icons](https://www.cybereason.com/labs-a-zebra-in-sheeps-clothing-how-a-microsoft-icon-display-bug-in-windows-allows-attackers-to-masquerade-pe-files-with-special-icons/)
 - [baderj/domain_generation_algorithms - Some results of my DGA reversing efforts](https://github.com/baderj/domain_generation_algorithms)
 - CCleaner's backdoor analysis
     - [Protecting the Software Supply Chain: Deep Insights into the CCleaner Backdoor](https://www.crowdstrike.com/blog/protecting-software-supply-chain-deep-insights-ccleaner-backdoor/)
     - [In-Depth Analysis of the CCleaner Backdoor Stage 2 Dropper and Its Payload](https://www.crowdstrike.com/blog/in-depth-analysis-of-the-ccleaner-backdoor-stage-2-dropper-and-its-payload/)
+- [Fast Flux networks: What are they and how do they work?](https://www.welivesecurity.com/2017/01/12/fast-flux-networks-work/)
+- [FIN7 Group Uses JavaScript and Stealer DLL Variant in New Attacks](http://blog.talosintelligence.com/2017/09/fin7-stealer.html#more)
+- [High-reputation Redirectors and Domain Fronting](https://blog.cobaltstrike.com/2017/02/06/high-reputation-redirectors-and-domain-fronting/)
+- [Hunting For In-Memory .NET Attacks](https://www.endgame.com/blog/technical-blog/hunting-memory-net-attacks)
+- [Hunting Malware with Memory Analysis](https://technical.nttsecurity.com/post/102egyy/hunting-malware-with-memory-analysis)
+- [Reverse Engineering Malware](https://www.hackers-arise.com/reverse-engineering-malware)
+- [Reverse Engineering Malware: Why YOU Should Study Reverse Engineering Malware](https://www.hackers-arise.com/single-post/2017/01/18/Reverse-Engineering-Malware-Why-YOU-Should-Study-Reverse-Engineering-Malware)
+- [Reverse Engineering Malware, Part 1: Getting Started](https://www.hackers-arise.com/single-post/2017/02/17/Reverse-Engineering-Malware-Part-1-Getting-Started)
+- [Reverse Engineering Malware, Part 2: Assembler Language Basics](https://www.hackers-arise.com/single-post/2017/02/27/Reverse-Engineering-Malware-Part-2-Assembler-Language-Basics)
+- [Reverse Engineering Malware, Part 3: IDA Pro Introduction](https://www.hackers-arise.com/single-post/2017/06/22/Reverse-Engineering-Malware-Part-3-IDA-Pro-Introduction)
+- [Reverse Engineering Malware, Part 4: Windows Internals](https://www.hackers-arise.com/single-post/2017/07/04/Reverse-Engineering-Malware-Part-4-Windows-Internals)
+- [Reverse Engineering Malware, Part 5: OllyDbg Basics](https://www.hackers-arise.com/single-post/2017/10/03/Reverse-Engineering-Malware-Part-5-OllyDbg-Basics)
+- [ThreatHuntingProject/ThreatHunting](https://github.com/ThreatHuntingProject/ThreatHunting)
+- [Tips for Reverse-Engineering Malicious Code](https://zeltser.com/reverse-engineering-malicious-code-tips/)
+- [Understanding Process Hollowing](https://andreafortuna.org/understanding-process-hollowing-b94ce77c3276)
+- [Use of DNS Tunneling for C&C Communications](https://securelist.com/use-of-dns-tunneling-for-cc-communications/78203/)
 - List of interesting Windows APIs used by malware
 
 <table>
@@ -364,6 +380,32 @@ My curated list of awesome links, resources and tools
 - Use `Trust access to the VBA project object model` to circumvent security control of VBA script on Microsoft Office
     - Original stories can be found on [MS Office Built-In Feature Could be Exploited to Create Self-Replicating Malware](https://thehackernews.com/2017/11/ms-office-macro-malware.html) and [Virus Bulletin June 2001](https://www.virusbulletin.com/uploads/pdf/magazine/2001/200106.pdf)
     - The option `Trust access to the VBA project object model`, according to [Office Support](https://support.office.com/en-us/article/Enable-or-disable-macros-in-Office-files-12b036fd-d140-4e74-b45e-16fed1a7e5c6), can be used to allow programmatic access to the VBA object model from an automation client. This option is controlled by registry key available on `HKCU\Software\Microsoft\Office\14.0\Word\Security` with `AccessVBOM`, `0` for disable and `1` for enable.
+- [Add-In Opportunities for Office Persistence](https://labs.mwrinfosecurity.com/blog/add-in-opportunities-for-office-persistence/)
+- [Anti-debugging Techniques Cheat Sheet](http://antukh.com/blog/2015/01/19/malware-techniques-cheat-sheet/)
+- [AntiForensics techniques : Process hiding in Kernel Mode](https://www.cert-devoteam.fr/publications/en/antiforensics-techniques-process-hiding-in-kernel-mode/)
+- [Borrowing Microsoft Code Signing Certificate](https://blog.conscioushacker.io/index.php/2017/09/27/borrowing-microsoft-code-signing-certificates/)
+- [Creating ransomware for Android](https://0x00sec.org/t/creating-ransomware-for-android/4063)
+- [Detecting Architecture in Windows](https://osandamalith.com/2017/09/24/detecting-architecture-in-windows/)
+- [HIDING YOUR PROCESS FROM SYSINTERNALS](https://riscybusiness.wordpress.com/2017/10/07/hiding-your-process-from-sysinternals/)
+- [If memory doesn’t serve me right…](http://www.hexacorn.com/blog/2017/07/10/if-memory-doesnt-serve-me-right/)
+- [Macro-less Code Exec in MSWord](https://sensepost.com/blog/2017/macro-less-code-exec-in-msword/)
+- [MetaTwin – Borrowing Microsoft Metadata and Digital Signatures to “Hide” Binaries](http://threatexpress.com/2017/10/metatwin-borrowing-microsoft-metadata-and-digital-signatures-to-hide-binaries/)
+- [PE File Infection Part I](https://0x00sec.org/t/pe-file-infection/401)
+- [PE File Infection Part II](https://0x00sec.org/t/pe-file-infection-part-ii/4135)
+- Persistence ideas:
+    - Use `IMAGE_FILE_EXECUTION_OPTION` in conjunction with `HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Run` or `HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Run` (required priveilleged)
+        - If there is some application that already in `HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Run`
+        - Under `HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options`, create a key named by some application and under this key create a `REG_SZ` titled `Debugger` with the value being `C:\WINDOWS\System32\cmd.exe`
+        - Test run with that some application
+    - Persistent on Services
+- [Running programs via Proxy & jumping on a EDR-bypass trampoline](http://www.hexacorn.com/blog/2017/05/01/running-programs-via-proxy-jumping-on-a-edr-bypass-trampoline/)
+- [Running programs via Proxy & jumping on a EDR-bypass trampoline, Part 2](http://www.hexacorn.com/blog/2017/10/04/running-programs-via-proxy-jumping-on-a-edr-bypass-trampoline-part-2/)
+- [Running programs via Proxy & jumping on a EDR-bypass trampoline, Part 3](http://www.hexacorn.com/blog/2017/10/22/running-programs-via-proxy-jumping-on-a-edr-bypass-trampoline-part-3/)
+- [Running programs via Proxy & jumping on a EDR-bypass trampoline, Part 4](http://www.hexacorn.com/blog/2017/10/29/running-programs-via-proxy-jumping-on-a-edr-bypass-trampoline-part-4/)
+- [Ten Process Injection Techniques: A Technical Survey Of Common And Trending Process Injection Techniques](https://www.endgame.com/blog/technical-blog/ten-process-injection-techniques-technical-survey-common-and-trending-process)
+- [The Archaeologologogology #3 – Downloading stuff with cmdln32](http://www.hexacorn.com/blog/2017/04/30/the-archaeologologogology-3-downloading-stuff-with-cmdln32/)
+
+
 
 #### Malware Variants
 
