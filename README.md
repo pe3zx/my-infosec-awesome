@@ -388,7 +388,6 @@ My curated list of awesome links, resources and tools
 - [Detecting Architecture in Windows](https://osandamalith.com/2017/09/24/detecting-architecture-in-windows/)
 - [HIDING YOUR PROCESS FROM SYSINTERNALS](https://riscybusiness.wordpress.com/2017/10/07/hiding-your-process-from-sysinternals/)
 - [If memory doesn’t serve me right…](http://www.hexacorn.com/blog/2017/07/10/if-memory-doesnt-serve-me-right/)
-- [Macro-less Code Exec in MSWord](https://sensepost.com/blog/2017/macro-less-code-exec-in-msword/)
 - [MetaTwin – Borrowing Microsoft Metadata and Digital Signatures to “Hide” Binaries](http://threatexpress.com/2017/10/metatwin-borrowing-microsoft-metadata-and-digital-signatures-to-hide-binaries/)
 - [PE File Infection Part I](https://0x00sec.org/t/pe-file-infection/401)
 - [PE File Infection Part II](https://0x00sec.org/t/pe-file-infection-part-ii/4135)
@@ -405,8 +404,6 @@ My curated list of awesome links, resources and tools
 - [Ten Process Injection Techniques: A Technical Survey Of Common And Trending Process Injection Techniques](https://www.endgame.com/blog/technical-blog/ten-process-injection-techniques-technical-survey-common-and-trending-process)
 - [The Archaeologologogology #3 – Downloading stuff with cmdln32](http://www.hexacorn.com/blog/2017/04/30/the-archaeologologogology-3-downloading-stuff-with-cmdln32/)
 
-
-
 #### Malware Variants
 
 - Badrabbit
@@ -416,7 +413,6 @@ My curated list of awesome links, resources and tools
     - [Bad Rabbit – A New Ransomware Outbreak Targeting Ukraine and Russia.](https://blog.checkpoint.com/2017/10/24/bad-rabbit-new-ransomware-outbreak-targeting-ukraine-russia/)
     - [Bad Rabbit ransomware](https://securelist.com/bad-rabbit-ransomware/82851/)
     - [Bad Rabbit Ransomware Spreads via Network, Hits Ukraine and Russia](http://blog.trendmicro.com/trendlabs-security-intelligence/bad-rabbit-ransomware-spreads-via-network-hits-ukraine-russia/)
-    - [Bad Rabbit Ransomware Strikes Ukraine, Likely related to GoldenEye](https://labs.bitdefender.com/2017/10/bad-rabbit-ransomware-strikes-ukraine-likely-related-to-goldeneye/)
     - [NotPetya Returns as Bad Rabbit](http://www.intezer.com/notpetya-returns-bad-rabbit/)
     - [Threat Spotlight: Follow the Bad Rabbit](http://blog.talosintelligence.com/2017/10/bad-rabbit.html)
 - Bankbot
