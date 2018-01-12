@@ -862,6 +862,7 @@ My curated list of awesome links, resources and tools
             <ul>
                 <li><a href="https://twitter.com/gsuberland/status/948907452786933762">Explanation threat by @gsuverland</a></li>
                 <li><a href="https://github.com/Eugnis/spectre-attack">Eugnis/spectre-attack</a></li>
+                <li><a href="https://github.com/IAIK/meltdown">IAIK/meltdown</a></li>
                 <li><a href="https://github.com/lgeek/spec_poc_arm">lgeek/spec_poc_arm</a></li>
                 <li><a href="https://github.com/paboldin/meltdown-exploit">paboldin/meltdown-exploit</a></li>
                 <li><a href="https://spectreattack.com/">Meltdown and Spectre</a></li>
