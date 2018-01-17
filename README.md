@@ -61,7 +61,6 @@ My curated list of awesome links, resources and tools
 - [Booting up evidence E01 image using free tools (FTK Imager & Virtualbox)](http://www.securityisfun.net/2014/06/booting-up-evidence-e01-image-using.html?m=1&utm_content=bufferb865d&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 - [Certificate Chain Cloning and Cloned Root Trust Attacks](https://posts.specterops.io/code-signing-certificate-cloning-attacks-and-defenses-6f98657fc6ec)
     - Mirror copy (TLDR version) of the article is available at [files/dfir/rouge-certificate-dfir.md](files/dfir/rouge-certificate-dfir.md)
-- [Computer Forensic Imaging - Data Collection in Computer Forensics and E-Discovery](https://www.linkedin.com/pulse/computer-forensic-imaging-data-collection-forensics-alistair/)
 - [Malicious USB Devices](http://blog.4n6ir.com/2017/10/malicious-usb-devices.html)
 - [certsocietegenerale/IRM - Incident Response Methodologies](https://github.com/certsocietegenerale/IRM)
 - [0x4D31/deception-as-detection - Deception based detection techniques mapped to the MITRE’s ATT&CK framework](https://github.com/0x4D31/deception-as-detection)
