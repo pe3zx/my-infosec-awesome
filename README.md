@@ -627,6 +627,7 @@ My curated list of awesome links, resources and tools
 
 ### Cross-site Request Forgery
 
+- [10 Methods to Bypass Cross Site Request Forgery (CSRF)](https://haiderm.com/10-methods-to-bypass-cross-site-request-forgery-csrf/)
 - [What is CSRF , Preventions? And How to bypass the CSRF protection via XSS?](https://medium.com/@agrawalsmart7/what-is-csrf-how-to-bypass-the-csrf-protection-via-xss-55695f5789d7)
 
 ### SQL Injection
