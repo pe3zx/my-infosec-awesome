@@ -1180,6 +1180,10 @@ My curated list of awesome links, resources and tools
         <td>*Decompile All the Things* - IDA Batch Decompile plugin and script for Hex-Ray's IDA Pro that adds the ability to batch decompile multiple files and their imports with additional annotations (xref, stack var size) to the pseudocode .c file</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/Riscure/DROP-IDA-plugin">Riscure/DROP-IDA-plugin</a></td>
+        <td>Experimental opaque predicate detection for IDA Pro</td>
+    </tr>
+    <tr>
         <td colspan="2"><b>Radare2</b></td>
     </tr>
     <tr>
