@@ -634,6 +634,7 @@ My curated list of awesome links, resources and tools
 
 - [Gaining access for HTTPS certificate by abusing RFC2142.](https://twitter.com/spazef0rze/status/942800411941048320)
     - Using `admin@`, `administrator@`, `hostmaster@`, `postmaster@`, `webmaster@` for email address
+- [The 2018 Guide to Building Secure PHP Software](https://paragonie.com/blog/2017/12/2018-guide-building-secure-php-software)
 
 ### Cross-site Request Forgery
 
