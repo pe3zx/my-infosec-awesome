@@ -539,6 +539,14 @@ My curated list of awesome links, resources and tools
         </td>
     </tr>
     <tr>
+        <td>MISP</td>
+        <td>
+            <ul>
+                <li><a href="https://github.com/remg427/misp42splunk/">remg427/misp42splunk</a></li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
         <td>osquery</td>
         <td>
             <ul>
