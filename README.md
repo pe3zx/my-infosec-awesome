@@ -948,6 +948,14 @@ My curated list of awesome links, resources and tools
         </td>
     </tr>
     <tr>
+        <td>CVE-2018-0743</td>
+        <td>Windows Subsystem for Linux in Windows 10 version 1703, Windows 10 version 1709, and Windows Server, version 1709 allows an elevation of privilege vulnerability due to the way objects are handled in memory, aka "Windows Subsystem for Linux Elevation of Privilege Vulnerability".
+            <ul>
+                <li><a href="https://github.com/saaramar/execve_exploit">saaramar/execve_exploit</a></li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/FriendsOfPHP/security-advisories">FriendsOfPHP/security-advisories</a></td>
         <td>The PHP Security Advisories Database references known security vulnerabilities in various PHP projects and libraries. This database must not serve as the primary source of information for security issues, it is not authoritative for any referenced software, but it allows to centralize information for convenience and easy consumption.</td>
     </tr>
