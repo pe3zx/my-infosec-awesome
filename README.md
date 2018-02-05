@@ -1022,6 +1022,10 @@ My curated list of awesome links, resources and tools
         <td>Rapid deployment of Windows environment (files, registry keys, mutex etc) to facilitate malware analysis</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/alphasoc/flightsim">alphasoc/flightsim</a></td>
+        <td>A utility to generate malicious network traffic and evaluate controls</td>
+    </tr>
+    <tr>
         <td><a href="https://www.malwaretracker.com/doc.php">Cryptam Document Scanner</a></td>
         <td>Encrypted/obfuscated malicious document analyzer</td>
     </tr>
