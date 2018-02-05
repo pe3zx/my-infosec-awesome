@@ -97,6 +97,7 @@ My curated list of awesome links, resources and tools
 - [iOS 11: HEVC and HEIF (heic) files](https://www.cclgroupltd.com/ios-11-hevc-heif-heic-files/)
 - [Monkey takes a .heic](http://cheeky4n6monkey.blogspot.com/2017/10/monkey-takes-heic.html)
 - [Mounting an APFS image in Linux](http://az4n6.blogspot.com/2018/01/mounting-apfs-image-in-linux.html)
+- [Reading Notes database on macOS](https://www.swiftforensics.com/2018/02/reading-notes-database-on-macos.html)
 - [The Hitchhiker’s Guide to macOS USB Forensics](http://cyberforensicator.com/2017/11/06/the-hitchhikers-guide-to-macos-usb-forensics/)
 - [There’s Gold In Them There Blobs!](https://www.ciofecaforensics.com/2017/10/13/theres-gold-in-them-there-blobs/)
 
