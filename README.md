@@ -805,6 +805,10 @@ My curated list of awesome links, resources and tools
         <td>Extract BITS jobs from QMGR queue and store them as CSV records</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/Cyb3rWard0g/HELK">Cyb3rWard0g/HELK</a></td>
+        <td>A Hunting ELK (Elasticsearch, Logstash, Kibana) with advanced analytic capabilities.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/google/grr">google/grr</a></td>
         <td>GRR is a python client (agent) that is installed on target systems, and python server infrastructure that can manage and talk to clients.</td>
     </tr>
