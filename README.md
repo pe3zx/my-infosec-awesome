@@ -1396,6 +1396,10 @@ My curated list of awesome links, resources and tools
         <td><a href="https://github.com/mazen160/bfac">mazen160/bfac</a></td>
         <td>BFAC (Backup File Artifacts Checker): An automated tool that checks for backup artifacts that may disclose the web-application's source code.</td>
     </tr>
+    <tr>
+        <td><a href="https://github.com/mindedsecurity/JStillery">mindedsecurity/JStillery</a></td>
+        <td>Advanced JS Deobfuscation via Partial Evaluation.</td>
+    </tr>
 </table>
 
 ### Windows
