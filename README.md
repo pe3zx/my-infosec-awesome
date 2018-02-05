@@ -967,6 +967,14 @@ My curated list of awesome links, resources and tools
         </td>
     </tr>
     <tr>
+        <td>CVE-2018-4878</td>
+        <td>A critical vulnerability (CVE-2018-4878) exists in Adobe Flash Player 28.0.0.137 and earlier versions. Successful exploitation could potentially allow an attacker to take control of the affected system.
+            <ul>
+                <li><a href="https://www.hybrid-analysis.com/sample/14c58e3894258c54e12d52d0fba0aafa258222ce9223a1fdc8a946fd169d8a12?environmentId=120">Malicious 0-day XLSX sample</a></li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/FriendsOfPHP/security-advisories">FriendsOfPHP/security-advisories</a></td>
         <td>The PHP Security Advisories Database references known security vulnerabilities in various PHP projects and libraries. This database must not serve as the primary source of information for security issues, it is not authoritative for any referenced software, but it allows to centralize information for convenience and easy consumption.</td>
     </tr>
