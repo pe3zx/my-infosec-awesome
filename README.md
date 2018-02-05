@@ -801,6 +801,10 @@ My curated list of awesome links, resources and tools
 
 <table>
     <tr>
+        <td><a href="https://github.com/ANSSI-FR/bits_parser">ANSSI-FR/bits_parser</a></td>
+        <td>Extract BITS jobs from QMGR queue and store them as CSV records</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/intezer/linux-explorer">intezer/linux-explorer</a></td>
         <td>Easy-to-use live forensics toolbox for Linux endpoints</td>
     </tr>
