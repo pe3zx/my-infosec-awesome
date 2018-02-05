@@ -216,6 +216,7 @@ My curated list of awesome links, resources and tools
 - [Reading Your Way Around UAC (Part 2)](https://tyranidslair.blogspot.com/2017/05/reading-your-way-around-uac-part-2.html)
 - [Reading Your Way Around UAC (Part 3)](https://tyranidslair.blogspot.com/2017/05/reading-your-way-around-uac-part-3.html)
 - [Reflective DLL Injection](https://0x00sec.org/t/reflective-dll-injection/3080)
+- [Rotten Potato – Privilege Escalation from Service Accounts to SYSTEM](https://foxglovesecurity.com/2016/09/26/rotten-potato-privilege-escalation-from-service-accounts-to-system/)
 - [sam-b/windows_kernel_resources](https://github.com/sam-b/windows_kernel_resources)
 - [Sharks in the Pool :: Mixed Object Exploitation in the Windows Kernel Pool](http://srcincite.io/blog/2017/09/06/sharks-in-the-pool-mixed-object-exploitation-in-the-windows-kernel-pool.html)
 - [Signing Mimikatz](https://twitter.com/subTee/status/912769644473098240)
