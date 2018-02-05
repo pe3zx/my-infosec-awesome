@@ -1203,6 +1203,10 @@ My curated list of awesome links, resources and tools
         <td>Binary code static analyser, with IDA integration. Performs value and taint analysis, type reconstruction.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/CrowdStrike/CrowdDetox">CrowdStrike/CrowdDetox</a></td>
+        <td>The CrowdDetox plugin for Hex-Rays automatically removes junk code and variables from Hex-Rays function decompilations.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/fireeye/SimplifyGraph">fireeye/SimplifyGraph</a></td>
         <td>IDA Pro plugin to assist with complex graphs</td>
     </tr>
