@@ -834,7 +834,7 @@ My curated list of awesome links, resources and tools
     </tr>
     <tr>
         <td><a href="https://www.sleuthkit.org/">The Sleuth Kit</a></td>
-        <td>https://www.sleuthkit.org/</td>
+        <td>sleuthkit.org is the official website for The Sleuth Kit®, Autopsy®, and other open source digital investigation tools. From here, you can find documents, case studies, and download the latest versions of the software.</td>
     </tr>
     <tr>
         <td>
@@ -851,6 +851,10 @@ My curated list of awesome links, resources and tools
         <td>
             "Security Incidents In A Box!" A modular, menu-driven, cross-platform tool for building customized, time-delayed, distributed security events. Easily create custom event chains for Blue Team drills and sensor / alert mapping. Red Teams can create decoy incidents, distractions, and lures to support and scale their operations. Build event sequence…
         </td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/williballenthin/EVTXtract">williballenthin/EVTXtract</a></td>
+        <td>EVTXtract recovers and reconstructs fragments of EVTX log files from raw binary data, including unallocated space and memory images.</td>
     </tr>
 </table>
 
