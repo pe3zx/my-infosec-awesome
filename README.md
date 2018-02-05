@@ -809,6 +809,10 @@ My curated list of awesome links, resources and tools
         <td>A Hunting ELK (Elasticsearch, Logstash, Kibana) with advanced analytic capabilities.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/Invoke-IR/ACE">Invoke-IR/ACE</a></td>
+        <td>The Automated Collection and Enrichment (ACE) platform is a suite of tools for threat hunters to collect data from many endpoints in a network and automatically enrich the data. The data is collected by running scripts on each computer without installing any software on the target. ACE supports collecting from Windows, macOS, and Linux hosts.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/google/grr">google/grr</a></td>
         <td>GRR is a python client (agent) that is installed on target systems, and python server infrastructure that can manage and talk to clients.</td>
     </tr>
