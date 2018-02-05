@@ -462,6 +462,7 @@ My curated list of awesome links, resources and tools
                 <li><a href="https://symeonp.github.io/2017/09/17/fuzzing-winafl.html">Fuzzing the MSXML6 library with WinAFL</a></li>
                 <li><a href="https://www.sec-consult.com/en/blog/2017/09/hack-the-hacker-fuzzing-mimikatz-on-windows-with-winafl-heatmaps-0day/index.html">HACK THE HACKER – FUZZING MIMIKATZ ON WINDOWS WITH WINAFL & HEATMAPS (0DAY)</a></li>
                 <li><a href="https://www.softscheck.com/en/identifying-security-vulnerabilities-with-cloud-fuzzing/">How we found a tcpdump vulnerability using cloud fuzzing</a></li>
+                <li><a href="https://tunnelshade.in/blog/2018/01/afl-internals-compile-time-instrumentation/">Internals of AFL fuzzer - Compile Time Instrumentation</a></li>
             </ul>
         </td>
     </tr>
