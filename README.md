@@ -1433,6 +1433,10 @@ My curated list of awesome links, resources and tools
         <td>Live version of Sysinternal Suites</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/mattifestation/PoCSubjectInterfacePackage">mattifestation/PoCSubjectInterfacePackage</a></td>
+        <td>A PoC subject interface package (SIP) provider designed to educate about the required components of a SIP provider.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/sevagas/macro_pack">sevagas/macro_pack</a></td>
         <td>macro_pack is a tool used to automatize obfuscation and generation of MS Office documents for pentest, demo, and social engineering assessments. The goal of macro_pack is to simplify antimalware bypass and automatize the process from vba generation to final Office document generation.</td>
     </tr>
