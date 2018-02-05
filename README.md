@@ -226,6 +226,7 @@ My curated list of awesome links, resources and tools
 - [Starting with Windows Kernel Exploitation – part 3 – stealing the Access Token](https://hshrzd.wordpress.com/2017/06/22/starting-with-windows-kernel-exploitation-part-3-stealing-the-access-token/)
 - [Tales from the MSRC: from pixels to POC](https://blogs.technet.microsoft.com/srd/2017/06/20/tales-from-the-msrc-from-pixels-to-poc/)
 - [The Art of Becoming TrustedInstaller](https://tyranidslair.blogspot.co.id/2017/08/the-art-of-becoming-trustedinstaller.html)
+- [The lonely potato](https://decoder.cloud/2017/12/23/the-lonely-potato/)
 - [The Unpatched LSASS Remote Denial of Service (MS16-137)](https://www.coresecurity.com/blog/unpatched-lsass-remote-denial-service-ms16-137)
 - [Using Binary Diffing to Discover Windows Kernel Memory Disclosure Bugs](http://googleprojectzero.blogspot.com/2017/10/using-binary-diffing-to-discover.html)
 - [Windows 10 Creators Update 32-bit execution of ring-0 code from NULL page via NtQuerySystemInformation (class 185, Warbird functionality)](https://bugs.chromium.org/p/project-zero/issues/detail?id=1391)
