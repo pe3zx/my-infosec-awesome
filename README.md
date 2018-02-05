@@ -1098,6 +1098,10 @@ My curated list of awesome links, resources and tools
         <td>The primary goal of Malpedia is to provide a resource for rapid identification and actionable context when investigating malware. Openness to curated contributions shall ensure an accountable level of quality in order to foster meaningful and reproducible research.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/malwareinfosec/EKFiddle">malwareinfosec/EKFiddle</a></td>
+        <td>A framework based on the Fiddler web debugger to study Exploit Kits, malvertising and malicious traffic in general.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/Neo23x0/APTSimulator">Neo23x0/APTSimulator</a></td>
         <td>A toolset to make a system look as if it was the victim of an APT attack</td>
     </tr>
