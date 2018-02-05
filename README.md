@@ -805,6 +805,14 @@ My curated list of awesome links, resources and tools
         <td>Extract BITS jobs from QMGR queue and store them as CSV records</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/google/grr">google/grr</a></td>
+        <td>GRR is a python client (agent) that is installed on target systems, and python server infrastructure that can manage and talk to clients.</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/google/rekall">google/rekall</a></td>
+        <td>The Rekall Framework is a completely open collection of tools, implemented in Python under the Apache and GNU General Public License, for the extraction and analysis of digital artifacts computer systems.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/intezer/linux-explorer">intezer/linux-explorer</a></td>
         <td>Easy-to-use live forensics toolbox for Linux endpoints</td>
     </tr>
@@ -839,10 +847,6 @@ My curated list of awesome links, resources and tools
     <tr>
         <td><a href="https://github.com/refractionPOINT/limacharlie">refractionPOINT/limacharlie</a></td>
         <td>LC is an Open Source, cross-platform (Windows, MacOS, Linux ++), realtime Endpoint Detection and Response sensor. The extra-light sensor, once installed on a system provides Flight Data Recorder type information (telemetry on all aspects of the system like processes, DNS, network IO, file IO etc).</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/google/rekall">google/rekall</a></td>
-        <td>The Rekall Framework is a completely open collection of tools, implemented in Python under the Apache and GNU General Public License, for the extraction and analysis of digital artifacts computer systems.</td>
     </tr>
     <tr>
         <td><a href="https://www.sleuthkit.org/">The Sleuth Kit</a></td>
