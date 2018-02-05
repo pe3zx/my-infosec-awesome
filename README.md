@@ -445,6 +445,7 @@ My curated list of awesome links, resources and tools
 ### Reverse Engineering
 
 - [A Gentle Primer on Reverse Engineering](https://emily.st/2015/01/27/reverse-engineering/)
+- [ELF hacking with Rekall](http://blog.rekall-forensic.com/2018/01/elf-hacking-with-rekall.html)
 - [FAQ: How to learn reverse-engineering?](http://gynvael.coldwind.pl/?id=664)
 - [Reverse Engineering 101](https://osandamalith.com/2014/12/31/reverse-engineering-101/)
 
