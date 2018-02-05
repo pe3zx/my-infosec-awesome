@@ -833,6 +833,10 @@ My curated list of awesome links, resources and tools
         </td>
     </tr>
     <tr>
+        <td><a href="https://www.sleuthkit.org/">The Sleuth Kit</a></td>
+        <td>https://www.sleuthkit.org/</td>
+    </tr>
+    <tr>
         <td>
             <a href="https://github.com/THIBER-ORG/userline">THIBER-ORG/userline</a>
         </td>
