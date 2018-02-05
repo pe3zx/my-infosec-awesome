@@ -79,18 +79,18 @@ My curated list of awesome links, resources and tools
 - [Use Windows Event Forwarding to help with intrusion detection](https://docs.microsoft.com/en-us/windows/threat-protection/use-windows-event-forwarding-to-assist-in-instrusion-detection)
 - [Windows Event Forwarding for Network Defense](https://medium.com/@palantir/windows-event-forwarding-for-network-defense-cb208d5ff86f)
 
-### Unix/Linux
+#### Unix/Linux
 
 - [Can an SSH session be taken from memory?](https://security.stackexchange.com/questions/148082/can-an-ssh-session-be-taken-from-memory)
 - [INTRO TO LINUX FORENSICS](https://countuponsecurity.com/2017/04/12/intro-to-linux-forensics/)
 - [Linux Memory Forensics: Dissecting the User Space Process Heap](https://articles.forensicfocus.com/2017/10/16/linux-memory-forensics-dissecting-the-user-space-process-heap/)
 - [KIT-CERT Checklist for Linux Forensics](https://git.scc.kit.edu/KIT-CERT/Linux-Forensics-Checklist/blob/master/Linux-Forensics-Checklist.md)
 
-### IoT
+#### IoT
 
 - [Internet Of Things Mobility Forensics](https://articles.forensicfocus.com/2017/05/17/internet-of-things-mobility-forensics/)
 
-### MacOS/iOS
+#### MacOS/iOS
 
 - [APPLE FILE SYSTEM IN MAC FORENSIC IMAGING AND ANALYSIS](https://www.blackbagtech.com/blog/2017/10/05/apple-file-system-apfs-mac-forensic-imaging-analysis/)
 - [How to Acquire an iOS 11 Device Without the PIN/Passcode](https://www.magnetforensics.com/blog/how-to-acquire-an-ios-11-device-without-the-pinpasscode/)
@@ -100,7 +100,7 @@ My curated list of awesome links, resources and tools
 - [The Hitchhiker’s Guide to macOS USB Forensics](http://cyberforensicator.com/2017/11/06/the-hitchhikers-guide-to-macos-usb-forensics/)
 - [There’s Gold In Them There Blobs!](https://www.ciofecaforensics.com/2017/10/13/theres-gold-in-them-there-blobs/)
 
-### Windows
+#### Windows
 
 - [(Am)cache still rules everything around me (part 2 of 1)](https://binaryforay.blogspot.com/2017/10/amcache-still-rules-everything-around.html)
 - [Amcache and Shimcache in forensic analysis](https://andreafortuna.org/amcache-and-shimcache-in-forensic-analysis-8e55aa675d2f)
