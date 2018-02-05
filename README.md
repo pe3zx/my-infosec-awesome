@@ -841,6 +841,10 @@ My curated list of awesome links, resources and tools
         <td>LC is an Open Source, cross-platform (Windows, MacOS, Linux ++), realtime Endpoint Detection and Response sensor. The extra-light sensor, once installed on a system provides Flight Data Recorder type information (telemetry on all aspects of the system like processes, DNS, network IO, file IO etc).</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/google/rekall">google/rekall</a></td>
+        <td>The Rekall Framework is a completely open collection of tools, implemented in Python under the Apache and GNU General Public License, for the extraction and analysis of digital artifacts computer systems.</td>
+    </tr>
+    <tr>
         <td><a href="https://www.sleuthkit.org/">The Sleuth Kit</a></td>
         <td>sleuthkit.org is the official website for The Sleuth Kit®, Autopsy®, and other open source digital investigation tools. From here, you can find documents, case studies, and download the latest versions of the software.</td>
     </tr>
