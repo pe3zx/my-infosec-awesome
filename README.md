@@ -1316,6 +1316,10 @@ My curated list of awesome links, resources and tools
         <td>An #OSINT Framework to perform various recon techniques on Companies, People, Phone Number, Bitcoin Addresses, etc., aggregate all the raw data, and give data in multiple formats.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/fireeye/ReelPhish">fireeye/ReelPhish</a></td>
+        <td>ReelPhish: A Real-Time Two-Factor Phishing Tool</td>
+    </tr>
+    <tr>
         <td><a href="https://www.mailsploit.com/index">Mailsploit</a></td>
         <td>TL;DR: Mailsploit is a collection of bugs in email clients that allow effective sender spoofing and code injection attacks. The spoofing is not detected by Mail Transfer Agents (MTA) aka email servers, therefore circumventing spoofing protection mechanisms such as DMARC (DKIM/SPF) or spam filters.</td>
     </tr>
