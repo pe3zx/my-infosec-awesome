@@ -1461,4 +1461,8 @@ My curated list of awesome links, resources and tools
         <td><a href="https://github.com/secretsquirrel/SigThief">secretsquirrel/SigThief</a></td>
         <td>Stealing Signatures and Making One Invalid Signature at a Time</td>
     </tr>
+    <tr>
+        <td><a href="https://github.com/stephenfewer/ReflectiveDLLInjection">stephenfewer/ReflectiveDLLInjection</a></td>
+        <td>Reflective DLL injection is a library injection technique in which the concept of reflective programming is employed to perform the loading of a library from memory into a host process</td>
+    </tr>
 </table>
