@@ -648,6 +648,7 @@ My curated list of awesome links, resources and tools
 
 ### SQL Injection
 
+- [MySQL UDF Exploitation](https://osandamalith.com/2018/02/11/mysql-udf-exploitation/)
 - [NetSPI SQL Injection Wiki](https://sqlwiki.netspi.com/)
 - [Your Pokemon Guide for Essential SQL Pen Test Commands](https://pen-testing.sans.org/blog/2017/12/09/your-pokemon-guide-for-essential-sql-pen-test-commands)
 
