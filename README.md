@@ -254,6 +254,7 @@ My curated list of awesome links, resources and tools
 - [Bypassing ASLR – Part I](https://sploitfun.wordpress.com/2015/05/08/bypassing-aslr-part-i/)
 - [Bypassing ASLR – Part II](https://sploitfun.wordpress.com/2015/05/08/bypassing-aslr-part-ii/)
 - [Bypassing ASLR – Part III](https://sploitfun.wordpress.com/2015/05/08/bypassing-aslr-part-iii/)
+- [Exploit Mitigation Techniques - Address Space Layout Randomization (ASLR)](https://0x00sec.org/t/exploit-mitigation-techniques-address-space-layout-randomization-aslr/5452/1)
 
 ##### Format Strings
 
