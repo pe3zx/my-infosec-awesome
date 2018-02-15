@@ -28,6 +28,7 @@ My curated list of awesome links, resources and tools
     - [Network](#network)
     - [Plugins](#plugins)
     - [Privacy](#privacy)
+    - [Simulation](#simulation)
     - [Social Engineering](#social-engineering)
     - [Vulnerable](#vulnerable)
     - [Web Application Security](#web-application-security-1)
@@ -1305,6 +1306,10 @@ My curated list of awesome links, resources and tools
         <td>Improve your online safety with advice from experts</td>
     </tr>
 </table>
+
+### Simulation
+
+*Securtiy framework that can be used to simulate real attack scenario*
 
 ### Social Engineering
 
