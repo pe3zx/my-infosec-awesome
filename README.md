@@ -1311,6 +1311,13 @@ My curated list of awesome links, resources and tools
 
 *Securtiy framework that can be used to simulate real attack scenario*
 
+<table>
+    <tr>
+        <td><a href="https://github.com/mitre/caldera">mitre/caldera</a></td>
+        <td>An automated adversary emulation system</td>
+    </tr>
+</table>
+
 ### Social Engineering
 
 *Tools related to social engineering attack, OSINT and human hacking*
