@@ -1336,6 +1336,10 @@ My curated list of awesome links, resources and tools
         <td>An automated adversary emulation system</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/NextronSystems/APTSimulator">NextronSystems/APTSimulator</a></td>
+        <td>A toolset to make a system look as if it was the victim of an APT attack</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/uber-common/metta">uber-common/metta</a></td>
         <td>An information security preparedness tool to do adversarial simulation.</td>
     </tr>
