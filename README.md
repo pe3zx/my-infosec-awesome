@@ -811,6 +811,10 @@ My curated list of awesome links, resources and tools
 
 <table>
     <tr>
+        <td><a href="https://www.flashbackdata.com/free-forensics-tool-i-file-parser/">$I File Parser</a></td>
+        <td>Free Forensics Tool – $I File Parser</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/ANSSI-FR/bits_parser">ANSSI-FR/bits_parser</a></td>
         <td>Extract BITS jobs from QMGR queue and store them as CSV records</td>
     </tr>
