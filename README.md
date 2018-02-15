@@ -819,6 +819,10 @@ My curated list of awesome links, resources and tools
         <td>Extract BITS jobs from QMGR queue and store them as CSV records</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/ANSSI-FR/bmc-tools">ANSSI-FR/bmc-tools</a></td>
+        <td>RDP Bitmap Cache Parser</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/Cyb3rWard0g/HELK">Cyb3rWard0g/HELK</a></td>
         <td>A Hunting ELK (Elasticsearch, Logstash, Kibana) with advanced analytic capabilities.</td>
     </tr>
