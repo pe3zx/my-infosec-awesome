@@ -1140,6 +1140,10 @@ My curated list of awesome links, resources and tools
         <td>Quickly debug shellcode extracted during malware analysis</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/phage-nz/ph0neutria">phage-nz/ph0neutria</a></td>
+        <td>ph0neutria is a malware zoo builder that sources samples straight from the wild. Everything is stored in Viper for ease of access and manageability.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/quasar/QuasarRAT">quasar/QuasarRAT</a></td>
         <td>Quasar is a fast and light-weight remote administration tool coded in C#. Providing high stability and an easy-to-use user interface, Quasar is the perfect remote administration solution for you.</td>
     </tr>
