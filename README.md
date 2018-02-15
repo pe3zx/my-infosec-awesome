@@ -736,6 +736,10 @@ My curated list of awesome links, resources and tools
         <td>Library to Instrument Executable Formats</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/pierrezurek/Signsrch">pierrezurek/Signsrch</a></td>
+        <td>tool for searching signatures inside files, extremely useful in reversing engineering for figuring or having an initial idea of what encryption/compression algorithm is used for a proprietary protocol or file. it can recognize tons of compression, multimedia and encryption algorithms and many other things like known strings and anti-debugging code which can be also manually added since it's all based on a text signature file read at runtime and easy to modify.</td>
+    </tr>
+    <tr>
         <td><a href="https://salmanarif.bitbucket.io/visual/index.html">VisUAL</a></td>
         <td>A highly visual ARM emulator</td>
     </tr>
