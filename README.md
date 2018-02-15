@@ -1316,6 +1316,10 @@ My curated list of awesome links, resources and tools
         <td><a href="https://github.com/mitre/caldera">mitre/caldera</a></td>
         <td>An automated adversary emulation system</td>
     </tr>
+    <tr>
+        <td><a href="https://github.com/uber-common/metta">uber-common/metta</a></td>
+        <td>An information security preparedness tool to do adversarial simulation.</td>
+    </tr>
 </table>
 
 ### Social Engineering
