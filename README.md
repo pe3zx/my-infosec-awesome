@@ -855,6 +855,10 @@ My curated list of awesome links, resources and tools
         </td>
     </tr>
     <tr>
+        <td><a href="https://github.com/williballenthin/INDXParse">williballenthin/INDXParse</a></td>
+        <td>Tool suite for inspecting NTFS artifacts</td>
+    </tr>
+    <tr>
         <td>
             <a href="https://github.com/nshalabi/SysmonTools">nshalabi/SysmonTools</a>
         </td>
