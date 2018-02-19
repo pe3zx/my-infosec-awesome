@@ -82,6 +82,7 @@ My curated list of awesome links, resources and tools
 
 #### Unix/Linux
 
+- [Bruteforcing Linux Full Disk Encryption (LUKS) with hashcat - The Forensic way!](https://blog.pnb.io/2018/02/bruteforcing-linux-full-disk-encryption.html)
 - [Can an SSH session be taken from memory?](https://security.stackexchange.com/questions/148082/can-an-ssh-session-be-taken-from-memory)
 - [INTRO TO LINUX FORENSICS](https://countuponsecurity.com/2017/04/12/intro-to-linux-forensics/)
 - [Linux Memory Forensics: Dissecting the User Space Process Heap](https://articles.forensicfocus.com/2017/10/16/linux-memory-forensics-dissecting-the-user-space-process-heap/)
