@@ -847,6 +847,10 @@ My curated list of awesome links, resources and tools
         <td>Easy-to-use live forensics toolbox for Linux endpoints</td>
     </tr>
     <tr>
+        <td><a href="https://technet.microsoft.com/en-us/scriptcenter/dd919274.aspx">Log Parser</a></td>
+        <td>Log Parser 2.2 is a powerful, versatile tool that provides universal query access to text-based data such as log files, XML files and CSV files, as well as key data sources on the Windows operating system such as the Event Log, the Registry, the file system, and Active Directory</td>
+    </tr>
+    <tr>
         <td>
             <a href="https://github.com/Invoke-IR/PowerForensics">Invoke-IR/PowerForensics</a>
         </td>
