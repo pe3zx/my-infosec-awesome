@@ -1096,6 +1096,10 @@ My curated list of awesome links, resources and tools
         <td>A utility to generate malicious network traffic and evaluate controls</td>
     </tr>
     <tr>
+        <td><a href="https://cape.contextis.com/submit/">CAPE Sandbox</a></td>
+        <td>Malware Configuration And Payload Extraction</td>
+    </tr>
+    <tr>
         <td><a href="https://www.malwaretracker.com/doc.php">Cryptam Document Scanner</a></td>
         <td>Encrypted/obfuscated malicious document analyzer</td>
     </tr>
