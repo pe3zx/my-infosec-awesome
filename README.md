@@ -1496,6 +1496,10 @@ My curated list of awesome links, resources and tools
         <td>Shellcode implementation of Reflective DLL Injection. Convert DLLs to position independent shellcode</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/nccgroup/demiguise">nccgroup/demiguise</a></td>
+        <td>HTA encryption tool for RedTeams</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/peewpw/Invoke-PSImage">peewpw/Invoke-PSImage</a></td>
         <td>Embeds a PowerShell script in the pixels of a PNG file and generates a oneliner to execute</td>
     </tr>
