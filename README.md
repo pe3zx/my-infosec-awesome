@@ -45,7 +45,6 @@ My curated list of awesome links, resources and tools
 ### Anti Forensics
 
 - [Removing Your PDF Metadata & Protecting PDF Files](https://blog.joshlemon.com.au/protecting-your-pdf-files-and-metadata/)
-    - Mirror copy of the script in this article is available at [files/anti-forensics/cleaning-pdf.sh](files/anti-forensics/cleaning-pdf.sh)
 
 ### Certifications
 
@@ -58,27 +57,8 @@ My curated list of awesome links, resources and tools
 
 ### Digital Forensics and Incident Response
 
-- [A Newbie’s Guide to ESXi and VM Log Files](https://www.altaro.com/vmware/introduction-esxi-vm-log-files/)
-- [Booting up evidence E01 image using free tools (FTK Imager & Virtualbox)](http://www.securityisfun.net/2014/06/booting-up-evidence-e01-image-using.html?m=1&utm_content=bufferb865d&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
-- [Certificate Chain Cloning and Cloned Root Trust Attacks](https://posts.specterops.io/code-signing-certificate-cloning-attacks-and-defenses-6f98657fc6ec)
-    - Mirror copy (TLDR version) of the article is available at [files/dfir/rouge-certificate-dfir.md](files/dfir/rouge-certificate-dfir.md)
-- [Malicious USB Devices](http://blog.4n6ir.com/2017/10/malicious-usb-devices.html)
+- :pencil: [A Newbie’s Guide to ESXi and VM Log Files](https://www.altaro.com/vmware/introduction-esxi-vm-log-files/)
 - [certsocietegenerale/IRM - Incident Response Methodologies](https://github.com/certsocietegenerale/IRM)
-- [0x4D31/deception-as-detection - Deception based detection techniques mapped to the MITRE’s ATT&CK framework](https://github.com/0x4D31/deception-as-detection)
-- Detecting [APT28](http://blog.talosintelligence.com/2017/10/cyber-conflict-decoy-document.html), according to [Hacker Huricane](http://hackerhurricane.blogspot.com/2017/10/looking-at-apt28-latest-talos-security.html)
-    - Mirror copy (TLDR version) of the article is available at [files/dfir/detecting-apt28.md](files/dfir/detecting-apt28.md)
-- Detecting [malicious dynamic data exchange (DDE) to execute code in Microsoft Office documents](https://sensepost.com/blog/2017/macro-less-code-exec-in-msword/)
-    - [Detecting DDE in MS Office documents with YARA rules](https://blog.nviso.be/2017/10/11/detecting-dde-in-ms-office-documents/)
-    - Mirror copy (TLDR version) of the article is available at [files/dfir/detecting-dde.md](files/dfir/detecting-dde.md]
-- [[DFIR] DFIR on VDI deployments](https://lists.sans.org/mailman/private/dfir/2017-August/022817.html)
-- [Finding and Decoding Malicious PowerShell Scripts](http://az4n6.blogspot.com/2017/10/finding-and-decoding-malicious.html)
-- [Hidden Treasure: Intrusion Detection with ETW (Part 1)](https://blogs.technet.microsoft.com/office365security/hidden-treasure-intrusion-detection-with-etw-part-1/)
-- [Logging Keystrokes with Event Tracing for Windows (ETW)](https://www.cyberpointllc.com/srt/posts/srt-logging-keystrokes-with-event-tracing-for-windows-etw.html)
-- [Monitoring what matters – Windows Event Forwarding for everyone (even if you already have a SIEM.)](https://blogs.technet.microsoft.com/jepayne/2015/11/23/monitoring-what-matters-windows-event-forwarding-for-everyone-even-if-you-already-have-a-siem/)
-- [nccgroup/Cyber-Defence](https://github.com/nccgroup/Cyber-Defence)
-- [Tales of a Threat Hunter 1](https://www.eideon.com/2017-09-09-THL01-Mimikatz/)
-- [Use Windows Event Forwarding to help with intrusion detection](https://docs.microsoft.com/en-us/windows/threat-protection/use-windows-event-forwarding-to-assist-in-instrusion-detection)
-- [Windows Event Forwarding for Network Defense](https://medium.com/@palantir/windows-event-forwarding-for-network-defense-cb208d5ff86f)
 
 #### Unix/Linux
 
@@ -109,23 +89,30 @@ My curated list of awesome links, resources and tools
 - [Amcache and Shimcache in forensic analysis](https://andreafortuna.org/amcache-and-shimcache-in-forensic-analysis-8e55aa675d2f)
 - [Automating large-scale memory forensics](https://medium.com/@henrikjohansen/automating-large-scale-memory-forensics-fdc302dc3383)
 - [Carving EVTX](https://rawsec.lu/blog/posts/2017/Jun/23/carving-evtx/)
+- :pencil: [Certificate Chain Cloning and Cloned Root Trust Attacks](https://posts.specterops.io/code-signing-certificate-cloning-attacks-and-defenses-6f98657fc6ec)
+- :pencil: [Detecting DDE in MS Office documents with YARA rules](https://blog.nviso.be/2017/10/11/detecting-dde-in-ms-office-documents/)
 - [Forensic Analysis of Systems that have Windows Subsystem for Linux Installed](http://blog.1234n6.com/2017/10/forensic-analysis-of-systems-with.html)
+- [Hidden Treasure: Intrusion Detection with ETW (Part 1)](https://blogs.technet.microsoft.com/office365security/hidden-treasure-intrusion-detection-with-etw-part-1/)
 - [How to Crack Passwords for Password Protected MS Office Documents](https://www.blackhillsinfosec.com/crack-passwords-password-protected-ms-office-documents/)
 - [HUNTING EVENT LOGGING COVERUP](http://malwarenailed.blogspot.com/2017/10/update-to-hunting-mimikatz-using-sysmon.html)
+- [Logging Keystrokes with Event Tracing for Windows (ETW)](https://www.cyberpointllc.com/srt/posts/srt-logging-keystrokes-with-event-tracing-for-windows-etw.html)
+- :pencil: [Looking at APT28 latest Talos Security write up and how YOU could catch this type of behavior](https://hackerhurricane.blogspot.com/2017/10/looking-at-apt28-latest-talos-security.html)
 - [MAC(b) times in Windows forensic analysis](https://andreafortuna.org/mac-b-times-in-windows-forensics-analysis-c821d801a810)
 - [Memory Acquisition and Virtual Secure Mode](https://df-stream.com/2017/08/memory-acquisition-and-virtual-secure/)
 - [pwndizzle/CodeExecutionOnWindows - A list of ways to execute code on Windows using legitimate Windows tools](https://github.com/pwndizzle/CodeExecutionOnWindows)
 - [RecentApps Registry Key](https://df-stream.com/2017/10/recentapps/)
 - [Some reminders about Windows file times](https://medium.com/@4n68r/some-reminders-about-windows-file-times-2debe1edb978)
+- :pencil: [Tales of a Threat Hunter 1](https://www.eideon.com/2017-09-09-THL01-Mimikatz/)
 - [Volume Shadow Copies in forensic analysis](https://andreafortuna.org/volume-shadow-copies-in-forensics-analysis-7708adefe61c)
+- [Use Windows Event Forwarding to help with intrusion detection](https://docs.microsoft.com/en-us/windows/threat-protection/use-windows-event-forwarding-to-assist-in-instrusion-detection)
 - [Windows, Now with built in anti forensics!](http://www.hecfblog.com/2017/04/windows-now-built-in-anti-forensics.html)
 - [Windows Drive Acquisition](https://articles.forensicfocus.com/2017/10/19/windows-drive-acquisition/)
 - [Windows event logs in forensic analysis](https://andreafortuna.org/windows-event-logs-in-forensic-analysis-d80e2a134fdd)
 - [Windows Privileged Access Reference](https://docs.microsoft.com/en-us/windows-server/identity/securing-privileged-access/securing-privileged-access-reference-material#ATLT_BM)
-	- Mirror copy of the table is available at [files/dfir/windows-privileged-access-reference.md](files/dfir/windows-privileged-access-reference.md)
 - [Windows registry in forensic analysis](https://andreafortuna.org/windows-registry-in-forensic-analysis-7bf060d2da)
 - [Windows Security Identifiers (SIDs)](https://andreafortuna.org/windows-security-identifiers-sids-2196a5be2f4d)
 - [Windows Subsystem for Linux and Forensic Analysi](http://blog.1234n6.com/2017/10/windows-subsystem-for-linux-and.html)
+- [Windows Event Forwarding for Network Defense](https://medium.com/@palantir/windows-event-forwarding-for-network-defense-cb208d5ff86f)
 
 ### Exploitation
 
