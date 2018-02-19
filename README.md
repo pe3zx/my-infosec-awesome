@@ -1139,6 +1139,10 @@ My curated list of awesome links, resources and tools
         <td>Quickly debug shellcode extracted during malware analysis</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/OALabs/PyIATRebuild">OALabs/PyIATRebuild</a></td>
+        <td>Automatically rebuild Import Address Table for dumped PE file. With python bindings!</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/phage-nz/ph0neutria">phage-nz/ph0neutria</a></td>
         <td>ph0neutria is a malware zoo builder that sources samples straight from the wild. Everything is stored in Viper for ease of access and manageability.</td>
     </tr>
