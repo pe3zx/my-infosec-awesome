@@ -1345,6 +1345,10 @@ My curated list of awesome links, resources and tools
 
 <table>
     <tr>
+        <td><a href="https://github.com/alphasoc/flightsim">alphasoc/flightsim</a></td>
+        <td>A utility to generate malicious network traffic and evaluate controls</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/mitre/caldera">mitre/caldera</a></td>
         <td>An automated adversary emulation system</td>
     </tr>
