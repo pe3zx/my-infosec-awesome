@@ -330,6 +330,8 @@ My curated list of awesome links, resources and tools
 
 *Use-After-Free related arcitles*
 
+![https://twitter.com/bellis1000/status/930154591081070592](https://pbs.twimg.com/media/DOiSqmWX0AEVeya.jpg)
+
 - [Use-After-Free](https://sploitfun.wordpress.com/2015/06/16/use-after-free/)
 
 ### Malware Analysis
