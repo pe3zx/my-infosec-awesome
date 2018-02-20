@@ -1333,6 +1333,10 @@ My curated list of awesome links, resources and tools
         <td><a href="https://securityplanner.org/">Security Planner</a></td>
         <td>Improve your online safety with advice from experts</td>
     </tr>
+    <tr>
+        <td><a href="https://github.com/securitywithoutborders/hardentools">securitywithoutborders/hardentools</a></td>
+        <td>Hardentools is a utility that disables a number of risky Windows features</td>
+    </tr>
 </table>
 
 ### Simulation
