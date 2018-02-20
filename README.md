@@ -814,6 +814,14 @@ My curated list of awesome links, resources and tools
         <td>A Hunting ELK (Elasticsearch, Logstash, Kibana) with advanced analytic capabilities.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/google/grr">google/grr</a></td>
+        <td>GRR is a python client (agent) that is installed on target systems, and python server infrastructure that can manage and talk to clients.</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/google/rekall">google/rekall</a></td>
+        <td>The Rekall Framework is a completely open collection of tools, implemented in Python under the Apache and GNU General Public License, for the extraction and analysis of digital artifacts computer systems.</td>
+    </tr>
+    <tr>
         <td><a href="https://arsenalrecon.com/weapons/hibernation-recon/">Hibernation Recon</a></td>
         <td>The tools and techniques used for many years to analyze Microsoft Windows® hibernation files have left digital forensics experts in the dark… until now!</td>
     </tr>
@@ -822,12 +830,8 @@ My curated list of awesome links, resources and tools
         <td>The Automated Collection and Enrichment (ACE) platform is a suite of tools for threat hunters to collect data from many endpoints in a network and automatically enrich the data. The data is collected by running scripts on each computer without installing any software on the target. ACE supports collecting from Windows, macOS, and Linux hosts.</td>
     </tr>
     <tr>
-        <td><a href="https://github.com/google/grr">google/grr</a></td>
-        <td>GRR is a python client (agent) that is installed on target systems, and python server infrastructure that can manage and talk to clients.</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/google/rekall">google/rekall</a></td>
-        <td>The Rekall Framework is a completely open collection of tools, implemented in Python under the Apache and GNU General Public License, for the extraction and analysis of digital artifacts computer systems.</td>
+        <td><a href="https://github.com/JPCERTCC/LogonTracer">JPCERTCC/LogonTracer</a></td>
+        <td>Investigate malicious Windows logon by visualizing and analyzing Windows event log</td>
     </tr>
     <tr>
         <td><a href="https://github.com/intezer/linux-explorer">intezer/linux-explorer</a></td>
