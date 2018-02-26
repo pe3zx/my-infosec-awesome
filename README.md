@@ -1440,6 +1440,10 @@ My curated list of awesome links, resources and tools
         <td><a href="https://github.com/sagishahar/lpeworkshop">sagishahar/lpeworkshop</a></td>
         <td>Windows / Linux Local Privilege Escalation Workshop</td>
     </tr>
+    <tr>
+        <td><a href="http://www.cis.syr.edu/~wedu/seed/labs.html">SEED Labs</a></td>
+        <td>Various labs from SEED Project</td>
+    </tr>
 </table>
 
 ### Web Application Security
