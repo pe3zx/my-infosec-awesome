@@ -901,6 +901,10 @@ My curated list of awesome links, resources and tools
         </td>
     </tr>
     <tr>
+        <td><a href="http://www.kazamiya.net/en/usn_analytics">USN Analytics</a></td>
+        <td>USN Analytics is a tool that specializes in USN Journal ($UsnJrnl:$J) analysis</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/williballenthin/EVTXtract">williballenthin/EVTXtract</a></td>
         <td>EVTXtract recovers and reconstructs fragments of EVTX log files from raw binary data, including unallocated space and memory images.</td>
     </tr>
