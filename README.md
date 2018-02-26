@@ -7,9 +7,7 @@ My curated list of awesome links, resources and tools
 
 - [My Awesome](#my-awesome)
 - [Articles](#article)
-    - [Awesome](#awesome)
     - [Anti Forensics](#anti-forensics)
-    - [Certifications](#certifications)
     - [Digital Forensics and Incident Response](#digital-forensics-and-incident-response)
     - [Exploitation](#exploitation)
     - [Malware Analysis](#malware-analysis)
@@ -38,22 +36,11 @@ My curated list of awesome links, resources and tools
 
 ## Articles
 
-### Awesome
-
-- [dsasmblr/game-hacking - Tutorials, tools, and more as related to reverse engineering video games.](https://github.com/dsasmblr/game-hacking)
-
 ### Anti Forensics
 
 - [Removing Your PDF Metadata & Protecting PDF Files](https://blog.joshlemon.com.au/protecting-your-pdf-files-and-metadata/)
 
-### Certifications
-
-- OSCE
-    - [OSCE/CTP PREP GUIDE](https://tulpa-security.com/2017/07/18/288/)
-    - [OSCE Study Plan](http://www.abatchy.com/2017/03/osce-study-plan.html)
-- OSCP
-    - [Offensive Security Certified Professional (OSCP) Review](https://www.jimwilbur.com/2017/07/oscp-review/)
-    - [OSCP Course & Exam Preparation](https://411hall.github.io/OSCP-Preparation/)
+---
 
 ### Digital Forensics and Incident Response
 
@@ -115,21 +102,19 @@ My curated list of awesome links, resources and tools
 - [Windows Subsystem for Linux and Forensic Analysi](http://blog.1234n6.com/2017/10/windows-subsystem-for-linux-and.html)
 - [Windows Event Forwarding for Network Defense](https://medium.com/@palantir/windows-event-forwarding-for-network-defense-cb208d5ff86f)
 
+---
+
 ### Exploitation
 
 - [Guest Diary (Etay Nir) Kernel Hooking Basics](https://isc.sans.edu/forums/diary/Guest+Diary+Etay+Nir+Kernel+Hooking+Basics/23155/)
 
-#### Platforms
-
-##### ARM Exploitation
+#### Platform: ARM
 
 - [ARM exploitation for IoT – Episode 1](https://quequero.org/2017/07/arm-exploitation-iot-episode-1/)
 - [ARM exploitation for IoT – Episode 2](https://quequero.org/2017/09/arm-exploitation-iot-episode-2/)
 - [ARM exploitation for IoT – Episode 3](https://quequero.org/2017/11/arm-exploitation-iot-episode-3/)
 
-#### Software Exploitation
-
-##### Linux
+#### Platform: Linux
 
 - [64-bit Linux Return-Oriented Programming](https://crypto.stanford.edu/~blynn/rop/)
 - [Adapting the POC for CVE-2017-1000112 to Other Kernels](http://ricklarabee.blogspot.ch/2017/12/adapting-poc-for-cve-2017-1000112-to.html)
@@ -151,7 +136,7 @@ My curated list of awesome links, resources and tools
 - [Reversing DirtyC0W](http://blog.tetrane.com/2017/09/dirtyc0w-1.html)
 - [xairy/linux-kernel-exploitation](https://github.com/xairy/linux-kernel-exploitation)
 
-##### Windows
+#### Platform: Windows
 
 - [0patching the "Immortal" CVE-2017-7269](https://0patch.blogspot.com/2017/03/0patching-immortal-cve-2017-7269.html)
 - [15 Ways to Bypass the PowerShell Execution Policy](https://blog.netspi.com/15-ways-to-bypass-the-powershell-execution-policy/)
@@ -234,9 +219,7 @@ My curated list of awesome links, resources and tools
 - [Zero Day Zen Garden: Windows Exploit Development - Part 2 [JMP to Locate Shellcode]](http://www.shogunlab.com/blog/2017/08/26/zdzg-windows-exploit-2.html)
 - [Zero Day Zen Garden: Windows Exploit Development - Part 3 [Egghunter to Locate Shellcode]](http://www.shogunlab.com/blog/2017/09/02/zdzg-windows-exploit-3.html)
 
-#### Techniques
-
-##### Bypassing ASLR
+#### Technique: Bypassing ASLR
 
 *Any related techniques for ASLR bypassing*
 
@@ -245,14 +228,14 @@ My curated list of awesome links, resources and tools
 - [Bypassing ASLR – Part III](https://sploitfun.wordpress.com/2015/05/08/bypassing-aslr-part-iii/)
 - [Exploit Mitigation Techniques - Address Space Layout Randomization (ASLR)](https://0x00sec.org/t/exploit-mitigation-techniques-address-space-layout-randomization-aslr/5452/1)
 
-##### Format Strings
+#### Technique: Format Strings
 
 *Format strings exploitation*
 
 - [Format String Exploitation Primer](https://borgandrew.blogspot.com/2017/01/h1-margin-bottom-0.html)
 - [X86 EXPLOITATION 101: “FORMAT STRINGS” – I’LL TELL YA WHAT TO SAY](https://gbmaster.wordpress.com/2015/12/08/x86-exploitation-101-format-strings-ill-tell-ya-what-to-say/)
 
-##### Heap Exploitation
+#### Technique: Heap Exploitation
 
 *Heap exploitation related articles and tutorials*
 
@@ -269,16 +252,16 @@ My curated list of awesome links, resources and tools
 - [X86 EXPLOITATION 101: “HOUSE OF LORE” – PEOPLE AND TRADITIONS](https://gbmaster.wordpress.com/2015/07/16/x86-exploitation-101-house-of-lore-people-and-traditions/)
 - [Understanding the Heap & Exploiting Heap Overflows](http://www.mathyvanhoef.com/2013/02/understanding-heap-exploiting-heap.html)
 
-##### Integer Overflow
+#### Technique: Integer Overflow
 
-*Integer overflow epxloitaion*
+*Integer overflow exploitaion*
 
 - [Integer Overflow](https://sploitfun.wordpress.com/2015/06/23/integer-overflow/)
 - [X86 EXPLOITATION 101: “INTEGER OVERFLOW” – ADDING ONE MORE… AAAAAAAAAAAND IT’S GONE](https://gbmaster.wordpress.com/2015/08/13/x86-exploitation-101-integer-overflow-adding-one-more-aaaaaaaaaaand-its-gone/)
 
-##### Return Oriented Programming
+#### Technique: Return Oriented Programming
 
-*ROP cases and guidelines*
+*ROP examples and guidelines*
 
 - [A ROP Primer solution 64-bit style](https://blog.techorganic.com/2015/10/09/a-rop-primer-solution-64-bit-style/)
 - [Blind Return Oriented Programming 102](https://oddcoder.com/BROP-102/)
@@ -289,14 +272,14 @@ My curated list of awesome links, resources and tools
 - [ROP Primer](https://speakerdeck.com/barrebas/rop-primer)
 - [Sigreturn Oriented Programming](https://0x00sec.org/t/srop-signals-you-say/2890)
 
-##### return-to-libc
+#### Technique: return-to-libc
 
 *return-to-libc techniques*
 
 - [Bypassing NX bit using return-to-libc](https://sploitfun.wordpress.com/2015/05/08/bypassing-nx-bit-using-return-to-libc/)
 - [Bypassing NX bit using chained return-to-libc](https://sploitfun.wordpress.com/2015/05/08/bypassing-nx-bit-using-chained-return-to-libc/)
 
-#### Shellcoding
+#### Technique: Shellcoding
 
 *Art of crafting shellcode*
 
@@ -304,7 +287,7 @@ My curated list of awesome links, resources and tools
 - [SLAE: Reverse TCP Shell – Assignment 2](http://0xdeadcode.se/archives/689)
 - [SLAE: Egg Hunter – Assignment 3](http://0xdeadcode.se/archives/707)
 
-##### Stack Exploitation
+#### Technique: Stack Exploitation
 
 *Corrupt the stack*
 
@@ -320,13 +303,7 @@ My curated list of awesome links, resources and tools
 - [X86 EXPLOITATION 101: “HOUSE OF SPIRIT” – FRIENDLY STACK OVERFLOW](https://gbmaster.wordpress.com/2015/07/21/x86-exploitation-101-house-of-spirit-friendly-stack-overflow/)
 - [Your First Buffer Overflow](https://medium.com/@mackwage/your-first-buffer-overflow-89141a9a2941)
 
-##### Trusted Execution
-
-*Various techniques to execute malicious binary with trusted, bypassing security protection*
-
-- [Execute unsigned binary via signed Tracker.exe (required Tracker.exe and TrackerUI.dll)](https://twitter.com/sudhanshu_c/status/943011972261412864?ref_src=twcamp%5Eshare%7Ctwsrc%5Eios%7Ctwgr%5Eother)
-
-##### Use-After-Free
+#### Technique Use-After-Free
 
 *Use-After-Free related arcitles*
 
@@ -338,9 +315,8 @@ My curated list of awesome links, resources and tools
 
 - [A zebra in sheep’s clothing: How a Microsoft icon-display bug in Windows allows attackers to masquerade PE files with special icons](https://www.cybereason.com/labs-a-zebra-in-sheeps-clothing-how-a-microsoft-icon-display-bug-in-windows-allows-attackers-to-masquerade-pe-files-with-special-icons/)
 - [baderj/domain_generation_algorithms - Some results of my DGA reversing efforts](https://github.com/baderj/domain_generation_algorithms)
-- CCleaner's backdoor analysis
-    - [Protecting the Software Supply Chain: Deep Insights into the CCleaner Backdoor](https://www.crowdstrike.com/blog/protecting-software-supply-chain-deep-insights-ccleaner-backdoor/)
-    - [In-Depth Analysis of the CCleaner Backdoor Stage 2 Dropper and Its Payload](https://www.crowdstrike.com/blog/in-depth-analysis-of-the-ccleaner-backdoor-stage-2-dropper-and-its-payload/)
+- CCleaner: [Protecting the Software Supply Chain: Deep Insights into the CCleaner Backdoor](https://www.crowdstrike.com/blog/protecting-software-supply-chain-deep-insights-ccleaner-backdoor/)
+- CCleaner: [In-Depth Analysis of the CCleaner Backdoor Stage 2 Dropper and Its Payload](https://www.crowdstrike.com/blog/in-depth-analysis-of-the-ccleaner-backdoor-stage-2-dropper-and-its-payload/)
 - [Fast Flux networks: What are they and how do they work?](https://www.welivesecurity.com/2017/01/12/fast-flux-networks-work/)
 - [FIN7 Group Uses JavaScript and Stealer DLL Variant in New Attacks](http://blog.talosintelligence.com/2017/09/fin7-stealer.html#more)
 - [High-reputation Redirectors and Domain Fronting](https://blog.cobaltstrike.com/2017/02/06/high-reputation-redirectors-and-domain-fronting/)
@@ -357,24 +333,6 @@ My curated list of awesome links, resources and tools
 - [Tips for Reverse-Engineering Malicious Code](https://zeltser.com/reverse-engineering-malicious-code-tips/)
 - [Understanding Process Hollowing](https://andreafortuna.org/understanding-process-hollowing-b94ce77c3276)
 - [Use of DNS Tunneling for C&C Communications](https://securelist.com/use-of-dns-tunneling-for-cc-communications/78203/)
-- List of interesting Windows APIs used by malware
-
-<table>
-    <tr>
-        <td>WNetAddConnection</td>
-        <td>The WNetAddConnection function enables the calling application to connect a local device to a network resource. A successful connection is persistent, meaning that the system automatically restores the connection during subsequent logon operations. An example of malware that implement this function can be found below:
-            <ul>
-                <li><a href="https://securityintelligence.com/new-banking-trojan-icedid-discovered-by-ibm-x-force-research/">Icedid trojan in its network propagation function</a></li>
-            </ul>
-        </td>
-    </tr>
-</table>
-
-- Malware analysis environment setup
-    - [Knowledge Fragment: Hardening Win7 x64 on VirtualBox for Malware Analysis](http://byte-atlas.blogspot.com/2017/02/hardening-vbox-win7x64.html)
-- Use `Trust access to the VBA project object model` to circumvent security control of VBA script on Microsoft Office
-    - Original stories can be found on [MS Office Built-In Feature Could be Exploited to Create Self-Replicating Malware](https://thehackernews.com/2017/11/ms-office-macro-malware.html) and [Virus Bulletin June 2001](https://www.virusbulletin.com/uploads/pdf/magazine/2001/200106.pdf)
-    - The option `Trust access to the VBA project object model`, according to [Office Support](https://support.office.com/en-us/article/Enable-or-disable-macros-in-Office-files-12b036fd-d140-4e74-b45e-16fed1a7e5c6), can be used to allow programmatic access to the VBA object model from an automation client. This option is controlled by registry key available on `HKCU\Software\Microsoft\Office\14.0\Word\Security` with `AccessVBOM`, `0` for disable and `1` for enable.
 - [Add-In Opportunities for Office Persistence](https://labs.mwrinfosecurity.com/blog/add-in-opportunities-for-office-persistence/)
 - [Anti-debugging Techniques Cheat Sheet](http://antukh.com/blog/2015/01/19/malware-techniques-cheat-sheet/)
 - [AntiForensics techniques : Process hiding in Kernel Mode](https://www.cert-devoteam.fr/publications/en/antiforensics-techniques-process-hiding-in-kernel-mode/)
@@ -386,21 +344,12 @@ My curated list of awesome links, resources and tools
 - [MetaTwin – Borrowing Microsoft Metadata and Digital Signatures to “Hide” Binaries](http://threatexpress.com/2017/10/metatwin-borrowing-microsoft-metadata-and-digital-signatures-to-hide-binaries/)
 - [PE File Infection Part I](https://0x00sec.org/t/pe-file-infection/401)
 - [PE File Infection Part II](https://0x00sec.org/t/pe-file-infection-part-ii/4135)
-- Persistence ideas:
-    - Use `IMAGE_FILE_EXECUTION_OPTION` in conjunction with `HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Run` or `HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Run` (required priveilleged)
-        - If there is some application that already in `HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Run`
-        - Under `HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options`, create a key named by some application and under this key create a `REG_SZ` titled `Debugger` with the value being `C:\WINDOWS\System32\cmd.exe`
-        - Test run with that some application
-    - Persistent on Services
 - [Running programs via Proxy & jumping on a EDR-bypass trampoline](http://www.hexacorn.com/blog/2017/05/01/running-programs-via-proxy-jumping-on-a-edr-bypass-trampoline/)
 - [Running programs via Proxy & jumping on a EDR-bypass trampoline, Part 2](http://www.hexacorn.com/blog/2017/10/04/running-programs-via-proxy-jumping-on-a-edr-bypass-trampoline-part-2/)
 - [Running programs via Proxy & jumping on a EDR-bypass trampoline, Part 3](http://www.hexacorn.com/blog/2017/10/22/running-programs-via-proxy-jumping-on-a-edr-bypass-trampoline-part-3/)
 - [Running programs via Proxy & jumping on a EDR-bypass trampoline, Part 4](http://www.hexacorn.com/blog/2017/10/29/running-programs-via-proxy-jumping-on-a-edr-bypass-trampoline-part-4/)
 - [Ten Process Injection Techniques: A Technical Survey Of Common And Trending Process Injection Techniques](https://www.endgame.com/blog/technical-blog/ten-process-injection-techniques-technical-survey-common-and-trending-process)
 - [The Archaeologologogology #3 – Downloading stuff with cmdln32](http://www.hexacorn.com/blog/2017/04/30/the-archaeologologogology-3-downloading-stuff-with-cmdln32/)
-
-#### Malware Variants
-
 - ATM malware
     - [Bingo, Amigo! Jackpotting: ATM malware from Latin America to the World](https://securelist.com/atm-malware-from-latin-america-to-the-world/83836/)
 - Badrabbit
