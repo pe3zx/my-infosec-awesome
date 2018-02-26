@@ -1495,6 +1495,10 @@ My curated list of awesome links, resources and tools
         <td>Windows Event Log Killer</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/JohnLaTwC/PyPowerShellXray">JohnLaTwC/PyPowerShellXray</a></td>
+        <td>Python script to decode common encoded PowerShell scripts</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/jonatan1024/clrinject">jonatan1024/clrinject</a></td>
         <td>Injects C# EXE or DLL Assembly into every CLR runtime and AppDomain of another process.</td>
     </tr>
