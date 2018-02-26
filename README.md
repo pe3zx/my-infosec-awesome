@@ -1429,6 +1429,10 @@ My curated list of awesome links, resources and tools
         <td>Nice collection of tutorials aimed particularly for newbie reverse enginners...</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/rapid7/hackazon">rapid7/hackazon</a></td>
+        <td>A modern vulnerable web app</td>
+    </tr>
+    <tr>
         <td><a href="https://www.notsosecure.com/vulnerable-docker-vm/">Vulnerable Docker VM</a></td>
         <td>Ever fantasized about playing with docker misconfigurations, privilege escalation, etc. within a container?</td>
     </tr>
