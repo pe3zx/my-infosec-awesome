@@ -1432,6 +1432,10 @@ My curated list of awesome links, resources and tools
         <td><a href="https://www.notsosecure.com/vulnerable-docker-vm/">Vulnerable Docker VM</a></td>
         <td>Ever fantasized about playing with docker misconfigurations, privilege escalation, etc. within a container?</td>
     </tr>
+    <tr>
+        <td><a href="https://github.com/sagishahar/lpeworkshop">sagishahar/lpeworkshop</a></td>
+        <td>Windows / Linux Local Privilege Escalation Workshop</td>
+    </tr>
 </table>
 
 ### Web Application Security
