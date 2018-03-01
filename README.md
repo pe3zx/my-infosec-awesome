@@ -1281,6 +1281,10 @@ My curated list of awesome links, resources and tools
 
 <table>
     <tr>
+        <td><a href="https://github.com/agherzan/yubikey-full-disk-encryption">agherzan/yubikey-full-disk-encryption</a></td>
+        <td>Use YubiKey to unlock a LUKS partition</td>
+    </tr>
+    <tr>
         <td><a href="https://securityplanner.org/">Security Planner</a></td>
         <td>Improve your online safety with advice from experts</td>
     </tr>
