@@ -767,6 +767,10 @@ My curated list of awesome links, resources and tools
         <td>A Hunting ELK (Elasticsearch, Logstash, Kibana) with advanced analytic capabilities.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/ForensicArtifacts/artifacts">ForensicArtifacts/artifacts</a></td>
+        <td>Digital Forensics Artifact Repository</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/google/grr">google/grr</a></td>
         <td>GRR is a python client (agent) that is installed on target systems, and python server infrastructure that can manage and talk to clients.</td>
     </tr>
