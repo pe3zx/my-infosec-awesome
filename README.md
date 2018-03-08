@@ -931,6 +931,14 @@ My curated list of awesome links, resources and tools
         </td>
     </tr>
     <tr>
+        <td>CVE-2017-8750</td>
+        <td>Microsoft Office allows a remote code execution vulnerability due to the way that it handles objects in memory, aka "Microsoft Office Remote Code Execution Vulnerability". This CVE ID is unique from CVE-2017-0243.
+            <ul>
+                <li><a href="https://github.com/rxwx/CVE-2017-8570">Proof of Concept exploit for CVE-2017-8570</a></li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
         <td>CVE-2017-8759</td>
         <td>Microsoft .NET Framework 2.0, 3.5, 3.5.1, 4.5.2, 4.6, 4.6.1, 4.6.2 and 4.7 allow an attacker to execute code remotely via a malicious document or application, aka ".NET Framework Remote Code Execution Vulnerability."
             <ul>
