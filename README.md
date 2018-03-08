@@ -1375,6 +1375,10 @@ My curated list of awesome links, resources and tools
 
 <table>
     <tr>
+        <td><a href="https://github.com/Billy-Ellis/Exploit-Challenges">Billy-Ellis/Exploit-Challenges</a></td>
+        <td>A collection of vulnerable ARM binaries for practicing exploit development</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/bkerler/exploit_me">bkerler/exploit_me</a></td>
         <td>Very vulnerable ARM application (CTF style exploitation tutorial)</td>
     </tr>
