@@ -11,6 +11,7 @@ My curated list of awesome links, resources and tools
     - [Digital Forensics and Incident Response](#digital-forensics-and-incident-response)
     - [Exploitation](#exploitation)
     - [Malware Analysis](#malware-analysis)
+    - [Post Exploitation](#post-exploitation)
     - [Reverse Engineering](#reverse-engineering)
     - [Tutorials](#tutorials)
     - [Web Application Security](#web-application-security)
@@ -385,6 +386,12 @@ My curated list of awesome links, resources and tools
     - [Reverse engineering malware: TrickBot (part 1 - packer)](https://qmemcpy.github.io/post/reverse-engineering-malware-trickbot-part-1-packer)
     - [Reverse engineering malware: TrickBot (part 2 - loader)](https://qmemcpy.github.io/post/reverse-engineering-malware-trickbot-part-2-loader)
     - [Reverse engineering malware: TrickBot (part 3 - core)](https://qmemcpy.io/post/reverse-engineering-malware-trickbot-part-3-core)
+
+### Post Exploitation
+
+#### Windows Post Exploitation
+
+- [Top Five Ways I Got Domain Admin on Your Internal Network before Lunch (2018 Edition)](https://medium.com/@adam.toscher/top-five-ways-i-got-domain-admin-on-your-internal-network-before-lunch-2018-edition-82259ab73aaa)
 
 ### Reverse Engineering
 
