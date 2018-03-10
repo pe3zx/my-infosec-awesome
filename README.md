@@ -95,6 +95,7 @@ My curated list of awesome links, resources and tools
 - [Volume Shadow Copies in forensic analysis](https://andreafortuna.org/volume-shadow-copies-in-forensics-analysis-7708adefe61c)
 - [Use Windows Event Forwarding to help with intrusion detection](https://docs.microsoft.com/en-us/windows/threat-protection/use-windows-event-forwarding-to-assist-in-instrusion-detection)
 - [Windows, Now with built in anti forensics!](http://www.hecfblog.com/2017/04/windows-now-built-in-anti-forensics.html)
+- [Windows Credentials: Attack + Mitigation + Defense](https://www.first.org/resources/papers/conf2017/Windows-Credentials-Attacks-and-Mitigation-Techniques.pdf)
 - [Windows Drive Acquisition](https://articles.forensicfocus.com/2017/10/19/windows-drive-acquisition/)
 - [Windows event logs in forensic analysis](https://andreafortuna.org/windows-event-logs-in-forensic-analysis-d80e2a134fdd)
 - [Windows Privileged Access Reference](https://docs.microsoft.com/en-us/windows-server/identity/securing-privileged-access/securing-privileged-access-reference-material#ATLT_BM)
