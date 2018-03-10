@@ -1528,6 +1528,10 @@ My curated list of awesome links, resources and tools
         <td>Generates malicious LNK file payloads for data exfiltration</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/shellster/DCSYNCMonitor">shellster/DCSYNCMonitor</a></td>
+        <td>Monitors for DCSYNC and DCSHADOW attacks and create custom Windows Events for these events.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/secretsquirrel/SigThief">secretsquirrel/SigThief</a></td>
         <td>Stealing Signatures and Making One Invalid Signature at a Time</td>
     </tr>
