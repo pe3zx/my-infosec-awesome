@@ -1456,6 +1456,10 @@ My curated list of awesome links, resources and tools
         <td><a href="https://github.com/mindedsecurity/JStillery">mindedsecurity/JStillery</a></td>
         <td>Advanced JS Deobfuscation via Partial Evaluation.</td>
     </tr>
+    <tr>
+        <td><a href="https://publicwww.com/">Public WWW</a></td>
+        <td>Source Code Search Engine</td>
+    </tr>
 </table>
 
 ### Windows
