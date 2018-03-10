@@ -1087,6 +1087,10 @@ My curated list of awesome links, resources and tools
         <td>IRIS-H is an online digital forensics tool that performs automated static analysis of files stored in a directory-based or strictly structured formats.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/KasperskyLab/klara">KasperskyLab/klara</a></td>
+        <td>Klara project is aimed at helping Threat Intelligence researechers hunt for new malware using Yara.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/katjahahn/PortEx">katjahahn/PortEx</a></td>
         <td>Java library to analyse Portable Executable files with a special focus on malware analysis and PE malformation robustness</td>
     </tr>
