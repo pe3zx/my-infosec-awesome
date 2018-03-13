@@ -1193,6 +1193,10 @@ My curated list of awesome links, resources and tools
 
 <table>
     <tr>
+        <td><a href="https://github.com/berzerk0/Probable-Wordlists">berzerk0/Probable-Wordlists</a></td>
+        <td>Wordlists sorted by probability originally created for password generation and testing - make sure your passwords aren't popular!</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/fireeye/gocrack">fireeye/gocrack</a></td>
         <td>GoCrack provides APIs to manage password cracking tasks across supported cracking engines.</td>
     </tr>
