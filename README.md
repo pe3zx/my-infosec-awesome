@@ -598,6 +598,10 @@ My curated list of awesome links, resources and tools
 
 - [What is CSRF , Preventions? And How to bypass the CSRF protection via XSS?](https://medium.com/@agrawalsmart7/what-is-csrf-how-to-bypass-the-csrf-protection-via-xss-55695f5789d7)
 
+### Cross-site Scripting
+
+- [BRUTE XSS - Master the art of Cross Site Scripting](https://brutelogic.com.br/blog/)
+
 ### SQL Injection
 
 - [MySQL UDF Exploitation](https://osandamalith.com/2018/02/11/mysql-udf-exploitation/)
