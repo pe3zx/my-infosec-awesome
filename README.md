@@ -1365,6 +1365,10 @@ My curated list of awesome links, resources and tools
         <td>MailSniper is a penetration testing tool for searching through email in a Microsoft Exchange environment for specific terms (passwords, insider intel, network architecture information, etc.). It can be used as a non-administrative user to search their own email, or by an administrator to search the mailboxes of every user in a domain.</td>
     </tr>
     <tr>
+        <td><a href="https://www.hyperiongray.com/dark-web-map/">Dark Web Map</a></td>
+        <td>Dark Web Map - A visualization of 6.6k Tor onion services</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/DataSploit/datasploit">DataSploit/datasploit</a></td>
         <td>An #OSINT Framework to perform various recon techniques on Companies, People, Phone Number, Bitcoin Addresses, etc., aggregate all the raw data, and give data in multiple formats.</td>
     </tr>
