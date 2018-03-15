@@ -601,6 +601,7 @@ My curated list of awesome links, resources and tools
 ### Cross-site Scripting
 
 - [BRUTE XSS - Master the art of Cross Site Scripting](https://brutelogic.com.br/blog/)
+- [XSS Cheat Sheet](https://leanpub.com/xss)
 
 ### SQL Injection
 
