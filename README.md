@@ -110,6 +110,10 @@ My curated list of awesome links, resources and tools
 
 - [Guest Diary (Etay Nir) Kernel Hooking Basics](https://isc.sans.edu/forums/diary/Guest+Diary+Etay+Nir+Kernel+Hooking+Basics/23155/)
 
+#### Platform: Android
+
+- [CVE-2017-13253: Buffer overflow in multiple Android DRM services](https://blog.zimperium.com/cve-2017-13253-buffer-overflow-multiple-android-drm-services/)
+
 #### Platform: ARM
 
 - [ARM exploitation for IoT – Episode 1](https://quequero.org/2017/07/arm-exploitation-iot-episode-1/)
