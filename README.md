@@ -134,6 +134,7 @@ My curated list of awesome links, resources and tools
 - [Kernel Exploitation | Dereferencing a NULL pointer!](https://0x00sec.org/t/kernel-exploitation-dereferencing-a-null-pointer/3850)
 - [Linux (x86) Exploit Development Series](https://sploitfun.wordpress.com/2015/06/26/linux-x86-exploit-development-tutorial-series/)
 - [Linux Heap Exploitation Intro Series: The magicians cape – 1 Byte Overflow](https://sensepost.com/blog/2017/linux-heap-exploitation-intro-series-the-magicians-cape-1-byte-overflow/)
+- [Linux Heap Exploitation Intro Series: Set you free() – part 1](https://sensepost.com/blog/2018/linux-heap-exploitation-intro-series-set-you-free-part-1/)
 - [Linux Heap Exploitation Intro Series: Used and Abused – Use After Free](https://sensepost.com/blog/2017/linux-heap-exploitation-intro-series-used-and-abused-use-after-free/)
 - [Linux Kernel ROP - Ropping your way to # (Part 1)](https://www.trustwave.com/Resources/SpiderLabs-Blog/Linux-Kernel-ROP---Ropping-your-way-to---(Part-1)/)
 - [Linux Kernel ROP - Ropping your way to # (Part 2)](https://www.trustwave.com/Resources/SpiderLabs-Blog/Linux-Kernel-ROP---Ropping-your-way-to---(Part-2)/)
