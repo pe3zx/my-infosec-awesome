@@ -1090,6 +1090,10 @@ My curated list of awesome links, resources and tools
         <td>RunPE (aka Process Hollowing) is a well known technique allowing to injecting a new PE into a remote processes, imprersonating this process. The given implementation works for PE 32bit as well as 64bit.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/hasherezade/pe-sieve">hasherezade/pe-sieve</a></td>
+        <td>Scans a given process, searching for the modules containing in-memory code modifications. When found, it dumps the modified PE.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/hegusung/AVSignSeek">hegusung/AVSignSeek</a></td>
         <td>Tool written in python3 to determine where the AV signature is located in a binary/payload</td>
     </tr>
