@@ -1339,6 +1339,10 @@ My curated list of awesome links, resources and tools
         <td>Use YubiKey to unlock a LUKS partition</td>
     </tr>
     <tr>
+        <td><a href="https://www.getoutline.org/en/home">Outline</a></td>
+        <td>Making it safer to break the news</td>
+    </tr>
+    <tr>
         <td><a href="https://securityplanner.org/">Security Planner</a></td>
         <td>Improve your online safety with advice from experts</td>
     </tr>
