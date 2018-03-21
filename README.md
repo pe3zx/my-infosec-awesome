@@ -1432,6 +1432,10 @@ My curated list of awesome links, resources and tools
         <td>Very vulnerable ARM application (CTF style exploitation tutorial)</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/bkimminich/juice-shop">bkimminich/juice-shop</a></td>
+        <td>OWASP Juice Shop is an intentionally insecure webapp for security trainings written entirely in Javascript which encompasses the entire OWASP Top Ten and other severe security flaws.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/clong/DetectionLab">clong/DetectionLab</a></td>
         <td>Vagrant & Packer scripts to build a lab environment complete with security tooling and logging best practices</td>
     </tr>
