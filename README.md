@@ -999,6 +999,14 @@ My curated list of awesome links, resources and tools
         </td>
     </tr>
     <tr>
+        <td>CVE-2017-16995</td>
+        <td>The check_alu_op function in kernel/bpf/verifier.c in the Linux kernel through 4.14.8 allows local users to cause a denial of service (memory corruption) or possibly have unspecified other impact by leveraging incorrect sign extension.
+            <ul>
+                <li><a href="https://www.exploit-db.com/exploits/44298/">Linux Kernel < 4.4.0-116 (Ubuntu 16.04.4) - Local Privilege Escalation</a></li>
+            </ul>
+        </td>
+    </tr>
+    </tr>
         <td>CVE-2017-17215</td>
         <td>
             <ul>
