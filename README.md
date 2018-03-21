@@ -720,6 +720,10 @@ My curated list of awesome links, resources and tools
 
 <table>
     <tr>
+        <td><a href="https://certdb.com">CertDB</a></td>
+        <td>Internet-wide search engine for digital certificates</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/mpgn/BEAST-PoC">mpgn/BEAST-PoC</a></td>
         <td>Poc of BEAST attack against SSL/TLS</td>
     </tr>
