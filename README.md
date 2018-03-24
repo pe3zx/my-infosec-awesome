@@ -1197,8 +1197,16 @@ My curated list of awesome links, resources and tools
         <td>AppMon is an automated framework for monitoring and tampering system API calls of native macOS, iOS and android apps. It is based on Frida.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/linkedin/qark">linkedin/qark</a></td>
+        <td>Tool to look for several security related Android application vulnerabilities</td>
+    </tr>
+    <tr>
         <td><a href="https://www.htbridge.com/mobile">Mobile X-Ray</a></td>
         <td>Just upload your iOS or Android mobile app to start a DAST, SAST and behavioral audit for OWASP Mobile Top 10 and other vulnerabilities</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/MobSF/Mobile-Security-Framework-MobSF">MobSF/Mobile-Security-Framework-MobSF</a></td>
+        <td>Mobile Security Framework is an automated, all-in-one mobile application (Android/iOS/Windows) pen-testing framework capable of performing static analysis, dynamic analysis, malware analysis and web API testing</td>
     </tr>
 </table>
 
