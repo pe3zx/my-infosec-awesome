@@ -379,6 +379,8 @@ My curated list of awesome links, resources and tools
     - [Threat Spotlight: Follow the Bad Rabbit](http://blog.talosintelligence.com/2017/10/bad-rabbit.html)
 - Bankbot
     - [A Look Into The New Strain of BankBot](https://blog.fortinet.com/2017/09/19/a-look-into-the-new-strain-of-bankbot)
+- Dridex
+    - [Dridex v4 - Configuration Files, Network and Binaries](https://viql.github.io/dridex/)
 - Emotet
     - [Emotet lives another day using Fake O2 invoice notifications](https://www.trustwave.com/Resources/SpiderLabs-Blog/Emotet-lives-another-day-using-Fake-O2-invoice-notifications/)
 - Hajime
