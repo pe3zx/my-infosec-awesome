@@ -66,6 +66,9 @@ My curated list of awesome links, resources and tools
 
 - [How to Acquire an iOS 11 Device Without the PIN/Passcode](https://www.magnetforensics.com/blog/how-to-acquire-an-ios-11-device-without-the-pinpasscode/)
 - [iOS 11: HEVC and HEIF (heic) files](https://www.cclgroupltd.com/ios-11-hevc-heif-heic-files/)
+- [macOS Unified log: 1 why, what and how](https://eclecticlight.co/2018/03/19/macos-unified-log-1-why-what-and-how/)
+- [macOS Unified log: 2 content and extraction](https://eclecticlight.co/2018/03/20/macos-unified-log-2-content-and-extraction/)
+- [macOS Unified log: 3 finding your way](https://eclecticlight.co/2018/03/21/macos-unified-log-3-finding-your-way/)
 - [Monkey takes a .heic](http://cheeky4n6monkey.blogspot.com/2017/10/monkey-takes-heic.html)
 - [Mounting an APFS image in Linux](http://az4n6.blogspot.com/2018/01/mounting-apfs-image-in-linux.html)
 - [Reading Notes database on macOS](https://www.swiftforensics.com/2018/02/reading-notes-database-on-macos.html)
