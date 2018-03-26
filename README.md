@@ -64,7 +64,6 @@ My curated list of awesome links, resources and tools
 
 #### MacOS/iOS
 
-- [APPLE FILE SYSTEM IN MAC FORENSIC IMAGING AND ANALYSIS](https://www.blackbagtech.com/blog/2017/10/05/apple-file-system-apfs-mac-forensic-imaging-analysis/)
 - [How to Acquire an iOS 11 Device Without the PIN/Passcode](https://www.magnetforensics.com/blog/how-to-acquire-an-ios-11-device-without-the-pinpasscode/)
 - [iOS 11: HEVC and HEIF (heic) files](https://www.cclgroupltd.com/ios-11-hevc-heif-heic-files/)
 - [Monkey takes a .heic](http://cheeky4n6monkey.blogspot.com/2017/10/monkey-takes-heic.html)
