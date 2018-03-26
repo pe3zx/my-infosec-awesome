@@ -41,12 +41,13 @@ My curated list of awesome links, resources and tools
 ### Anti Forensics
 
 - [Removing Your PDF Metadata & Protecting PDF Files](https://blog.joshlemon.com.au/protecting-your-pdf-files-and-metadata/)
+    - `exiftool`, `qpdf` and `pdfinfo` are required before running [script](files/anti-forensics/removing-your-metadata-and-protecting-pdf-files.sh)
 
 ---
 
 ### Digital Forensics and Incident Response
 
-- :pencil: [A Newbie’s Guide to ESXi and VM Log Files](https://www.altaro.com/vmware/introduction-esxi-vm-log-files/)
+- [A Newbie’s Guide to ESXi and VM Log Files](https://www.altaro.com/vmware/introduction-esxi-vm-log-files/)
 - [certsocietegenerale/IRM - Incident Response Methodologies](https://github.com/certsocietegenerale/IRM)
 - [Tool Analysis Result Sheet](https://jpcertcc.github.io/ToolAnalysisResultSheet/)
 
@@ -82,20 +83,20 @@ My curated list of awesome links, resources and tools
 - [Amcache and Shimcache in forensic analysis](https://andreafortuna.org/amcache-and-shimcache-in-forensic-analysis-8e55aa675d2f)
 - [Automating large-scale memory forensics](https://medium.com/@henrikjohansen/automating-large-scale-memory-forensics-fdc302dc3383)
 - [Carving EVTX](https://rawsec.lu/blog/posts/2017/Jun/23/carving-evtx/)
-- :pencil: [Certificate Chain Cloning and Cloned Root Trust Attacks](https://posts.specterops.io/code-signing-certificate-cloning-attacks-and-defenses-6f98657fc6ec)
-- :pencil: [Detecting DDE in MS Office documents with YARA rules](https://blog.nviso.be/2017/10/11/detecting-dde-in-ms-office-documents/)
+- [Certificate Chain Cloning and Cloned Root Trust Attacks](https://posts.specterops.io/code-signing-certificate-cloning-attacks-and-defenses-6f98657fc6ec)
+-  [Detecting DDE in MS Office documents with YARA rules](https://blog.nviso.be/2017/10/11/detecting-dde-in-ms-office-documents/)
 - [Forensic Analysis of Systems that have Windows Subsystem for Linux Installed](http://blog.1234n6.com/2017/10/forensic-analysis-of-systems-with.html)
 - [Hidden Treasure: Intrusion Detection with ETW (Part 1)](https://blogs.technet.microsoft.com/office365security/hidden-treasure-intrusion-detection-with-etw-part-1/)
 - [How to Crack Passwords for Password Protected MS Office Documents](https://www.blackhillsinfosec.com/crack-passwords-password-protected-ms-office-documents/)
 - [HUNTING EVENT LOGGING COVERUP](http://malwarenailed.blogspot.com/2017/10/update-to-hunting-mimikatz-using-sysmon.html)
 - [Logging Keystrokes with Event Tracing for Windows (ETW)](https://www.cyberpointllc.com/srt/posts/srt-logging-keystrokes-with-event-tracing-for-windows-etw.html)
-- :pencil: [Looking at APT28 latest Talos Security write up and how YOU could catch this type of behavior](https://hackerhurricane.blogspot.com/2017/10/looking-at-apt28-latest-talos-security.html)
+- [Looking at APT28 latest Talos Security write up and how YOU could catch this type of behavior](https://hackerhurricane.blogspot.com/2017/10/looking-at-apt28-latest-talos-security.html)
 - [MAC(b) times in Windows forensic analysis](https://andreafortuna.org/mac-b-times-in-windows-forensics-analysis-c821d801a810)
 - [Memory Acquisition and Virtual Secure Mode](https://df-stream.com/2017/08/memory-acquisition-and-virtual-secure/)
 - [pwndizzle/CodeExecutionOnWindows - A list of ways to execute code on Windows using legitimate Windows tools](https://github.com/pwndizzle/CodeExecutionOnWindows)
 - [RecentApps Registry Key](https://df-stream.com/2017/10/recentapps/)
 - [Some reminders about Windows file times](https://medium.com/@4n68r/some-reminders-about-windows-file-times-2debe1edb978)
-- :pencil: [Tales of a Threat Hunter 1](https://www.eideon.com/2017-09-09-THL01-Mimikatz/)
+- [Tales of a Threat Hunter 1](https://www.eideon.com/2017-09-09-THL01-Mimikatz/)
 - [Volume Shadow Copies in forensic analysis](https://andreafortuna.org/volume-shadow-copies-in-forensics-analysis-7708adefe61c)
 - [Use Windows Event Forwarding to help with intrusion detection](https://docs.microsoft.com/en-us/windows/threat-protection/use-windows-event-forwarding-to-assist-in-instrusion-detection)
 - [Windows, Now with built in anti forensics!](http://www.hecfblog.com/2017/04/windows-now-built-in-anti-forensics.html)
@@ -335,8 +336,6 @@ My curated list of awesome links, resources and tools
 
 - [A zebra in sheep’s clothing: How a Microsoft icon-display bug in Windows allows attackers to masquerade PE files with special icons](https://www.cybereason.com/labs-a-zebra-in-sheeps-clothing-how-a-microsoft-icon-display-bug-in-windows-allows-attackers-to-masquerade-pe-files-with-special-icons/)
 - [baderj/domain_generation_algorithms - Some results of my DGA reversing efforts](https://github.com/baderj/domain_generation_algorithms)
-- CCleaner: [Protecting the Software Supply Chain: Deep Insights into the CCleaner Backdoor](https://www.crowdstrike.com/blog/protecting-software-supply-chain-deep-insights-ccleaner-backdoor/)
-- CCleaner: [In-Depth Analysis of the CCleaner Backdoor Stage 2 Dropper and Its Payload](https://www.crowdstrike.com/blog/in-depth-analysis-of-the-ccleaner-backdoor-stage-2-dropper-and-its-payload/)
 - [Fast Flux networks: What are they and how do they work?](https://www.welivesecurity.com/2017/01/12/fast-flux-networks-work/)
 - [FIN7 Group Uses JavaScript and Stealer DLL Variant in New Attacks](http://blog.talosintelligence.com/2017/09/fin7-stealer.html#more)
 - [High-reputation Redirectors and Domain Fronting](https://blog.cobaltstrike.com/2017/02/06/high-reputation-redirectors-and-domain-fronting/)
@@ -383,6 +382,9 @@ My curated list of awesome links, resources and tools
     - [Threat Spotlight: Follow the Bad Rabbit](http://blog.talosintelligence.com/2017/10/bad-rabbit.html)
 - Bankbot
     - [A Look Into The New Strain of BankBot](https://blog.fortinet.com/2017/09/19/a-look-into-the-new-strain-of-bankbot)
+- CCleaner
+   - [Protecting the Software Supply Chain: Deep Insights into the CCleaner Backdoor](https://www.crowdstrike.com/blog/protecting-software-supply-chain-deep-insights-ccleaner-backdoor/)
+    - [In-Depth Analysis of the CCleaner Backdoor Stage 2 Dropper and Its Payload](https://www.crowdstrike.com/blog/in-depth-analysis-of-the-ccleaner-backdoor-stage-2-dropper-and-its-payload/)
 - Dridex
     - [Dridex v4 - Configuration Files, Network and Binaries](https://viql.github.io/dridex/)
 - Emotet
