@@ -338,6 +338,12 @@ My curated list of awesome links, resources and tools
 
 - [Use-After-Free](https://sploitfun.wordpress.com/2015/06/16/use-after-free/)
 
+#### Vulnerability: Spectre and Meltdown
+
+- [An accessible overview of Meltdown and Spectre, Part 1](https://blog.trailofbits.com/2018/01/30/an-accessible-overview-of-meltdown-and-spectre-part-1/)
+- [An accessible overview of Meltdown and Spectre, Part 2](https://blog.trailofbits.com/2018/03/22/an-accessible-overview-of-meltdown-and-spectre-part-2/)
+- [KVA Shadow: Mitigating Meltdown on Windows](https://blogs.technet.microsoft.com/srd/2018/03/23/kva-shadow-mitigating-meltdown-on-windows/)
+
 ### Malware Analysis
 
 - [A zebra in sheep’s clothing: How a Microsoft icon-display bug in Windows allows attackers to masquerade PE files with special icons](https://www.cybereason.com/labs-a-zebra-in-sheeps-clothing-how-a-microsoft-icon-display-bug-in-windows-allows-attackers-to-masquerade-pe-files-with-special-icons/)
