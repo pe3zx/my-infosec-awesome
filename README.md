@@ -147,6 +147,7 @@ My curated list of awesome links, resources and tools
 - [Linux Kernel Vulnerability Can Lead to Privilege Escalation: Analyzing CVE-2017-1000112](https://securingtomorrow.mcafee.com/mcafee-labs/linux-kernel-vulnerability-can-lead-to-privilege-escalation-analyzing-cve-2017-1000112/#sf118405156)
 - [Linux System Call Table](http://thevivekpandey.github.io/posts/2017-09-25-linux-system-calls.html)
 - [Reversing DirtyC0W](http://blog.tetrane.com/2017/09/dirtyc0w-1.html)
+- [The Definitive Guide to Linux System Calls](https://blog.packagecloud.io/eng/2016/04/05/the-definitive-guide-to-linux-system-calls/)
 - [xairy/linux-kernel-exploitation](https://github.com/xairy/linux-kernel-exploitation)
 
 #### Platform: Windows
