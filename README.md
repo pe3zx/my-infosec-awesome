@@ -243,6 +243,7 @@ My curated list of awesome links, resources and tools
 
 *Any related techniques for ASLR bypassing*
 
+- [Bypass ASLR with partial EIP overwrite](http://ly0n.me/2015/07/30/bypass-aslr-with-partial-eip-overwrite/)
 - [Bypassing ASLR – Part I](https://sploitfun.wordpress.com/2015/05/08/bypassing-aslr-part-i/)
 - [Bypassing ASLR – Part II](https://sploitfun.wordpress.com/2015/05/08/bypassing-aslr-part-ii/)
 - [Bypassing ASLR – Part III](https://sploitfun.wordpress.com/2015/05/08/bypassing-aslr-part-iii/)
