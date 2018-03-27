@@ -237,6 +237,7 @@ My curated list of awesome links, resources and tools
 - [Windows Kernel Exploitation Tutorial Part 7: Uninitialized Heap Variable](https://rootkits.xyz/blog/2018/03/kernel-uninitialized-heap-variable/)
 - [Windows Kernel Exploitation – Arbitrary Overwrite](https://osandamalith.com/2017/06/14/windows-kernel-exploitation-arbitrary-overwrite/)
 - [Windows Kernel Exploitation : This Time Font hunt you down in 4 bytes](https://www.slideshare.net/PeterHlavaty/windows-kernel-exploitation-this-time-font-hunt-you-down-in-4-bytes)
+- [Windows Operating System Archaeology](https://www.slideshare.net/enigma0x3/windows-operating-system-archaeology)
 - [Zero Day Zen Garden: Windows Exploit Development - Part 0 [Dev Setup & Advice]](http://www.shogunlab.com/blog/2017/08/11/zdzg-windows-exploit-0.html)
 - [Zero Day Zen Garden: Windows Exploit Development - Part 1 [Stack Buffer Overflow Intro]](http://www.shogunlab.com/blog/2017/08/19/zdzg-windows-exploit-1.html)
 - [Zero Day Zen Garden: Windows Exploit Development - Part 2 [JMP to Locate Shellcode]](http://www.shogunlab.com/blog/2017/08/26/zdzg-windows-exploit-2.html)
