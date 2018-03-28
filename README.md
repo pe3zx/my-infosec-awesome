@@ -1327,6 +1327,10 @@ My curated list of awesome links, resources and tools
         <td>IDA Pro plugin to assist with complex graphs</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/IDAConnect/IDAConnect">IDAConnect/IDAConnect</a></td>
+        <td>[WIP] Collaborative Reverse Engineering plugin for IDA Pro & Hex-Rays</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/gaasedelen/lighthouse">gaasedelen/lighthouse</a></td>
         <td>Lighthouse is a code coverage plugin for IDA Pro. The plugin leverages IDA as a platform to map, explore, and visualize externally collected code coverage data when symbols or source may not be available for a given binary.</td>
     </tr>
