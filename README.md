@@ -315,6 +315,7 @@ My curated list of awesome links, resources and tools
 
 *Art of crafting shellcode*
 
+- [Shellcoding for Linux and Windows Tutorial](http://www.vividmachines.com/shellcode/shellcode.html)
 - [SLAE: Bind TCP Shell – Assignment 1](http://0xdeadcode.se/archives/637)
 - [SLAE: Reverse TCP Shell – Assignment 2](http://0xdeadcode.se/archives/689)
 - [SLAE: Egg Hunter – Assignment 3](http://0xdeadcode.se/archives/707)
