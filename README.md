@@ -162,6 +162,7 @@ My curated list of awesome links, resources and tools
 - [A deeper look at ms11-058](https://blog.skullsecurity.org/2011/a-deeper-look-at-ms11-058)
 - [An Inside Look at CVE-2017-0199 – HTA and Scriptlet File Handler Vulnerability](https://blog.fortinet.com/2017/06/05/an-inside-look-at-cve-2017-0199-hta-and-scriptlet-file-handler-vulnerability)
 - [Analysis of CVE-2017-11882 Exploit in the Wild](https://researchcenter.paloaltonetworks.com/2017/12/unit42-analysis-of-cve-2017-11882-exploit-in-the-wild/)
+- [aPAColypse now: Exploiting Windows 10 in a Local Network with WPAD/PAC and JScript](https://googleprojectzero.blogspot.com/2017/12/apacolypse-now-exploiting-windows-10-in_18.html)
 - [AtomBombing: Brand New Code Injection for Windows](https://breakingmalware.com/injection-techniques/atombombing-brand-new-code-injection-for-windows/)
 - [AtomBombing CFG Protected Processes](https://breakingmalware.com/injection-techniques/atombombing-cfg-protected-processes/)
 - [Breaking backwards compatibility: a 5 year old bug deep within Windows](http://www.triplefault.io/2017/07/breaking-backwards-compatibility-5-year.html)
