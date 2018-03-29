@@ -300,6 +300,7 @@ My curated list of awesome links, resources and tools
 - [Return-Oriented Programming (ROP) 101](https://www.tripwire.com/state-of-security/off-topic/vert-vuln-school-return-oriented-programming-rop-101/)
 - [ROP Emporium](https://ropemporium.com/)
 - [ROP Primer](https://speakerdeck.com/barrebas/rop-primer)
+- [ropchain](http://www.kvakil.me/posts/ropchain/)
 - [Sigreturn Oriented Programming](https://0x00sec.org/t/srop-signals-you-say/2890)
 
 #### Technique: return-to-libc
