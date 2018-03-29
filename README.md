@@ -733,6 +733,10 @@ My curated list of awesome links, resources and tools
         </td>
     </tr>
     <tr>
+        <td><a href="https://github.com/hasherezade/hollows_hunter">hasherezade/hollows_hunter</a></td>
+        <td>A process scanner detecting and dumping hollowed PE modules.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/hasherezade/hook_finder">hasherezade/hook_finder</a></td>
         <td>a small tool for investigating inline hooks (and other in-memory code patches)</td>
     </tr>
