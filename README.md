@@ -440,6 +440,7 @@ My curated list of awesome links, resources and tools
 
 #### Windows Post Exploitation
 
+- [Post Exploitation Using NetNTLM Downgrade Attacks](https://www.optiv.com/blog/post-exploitation-using-netntlm-downgrade-attacks)
 - [Top Five Ways I Got Domain Admin on Your Internal Network before Lunch (2018 Edition)](https://medium.com/@adam.toscher/top-five-ways-i-got-domain-admin-on-your-internal-network-before-lunch-2018-edition-82259ab73aaa)
 
 ### Reverse Engineering
