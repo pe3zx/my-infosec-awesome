@@ -1132,6 +1132,10 @@ My curated list of awesome links, resources and tools
         <td>FAME Automates Malware Evaluation</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/glmcdona/Process-Dump">glmcdona/Process-Dump</a></td>
+        <td>Windows tool for dumping malware PE files from memory back to disk for analysis.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/hasherezade/libpeconv/tree/master/run_pe">hasherezade/libpeconv/runpe</a></td>
         <td>RunPE (aka Process Hollowing) is a well known technique allowing to injecting a new PE into a remote processes, imprersonating this process. The given implementation works for PE 32bit as well as 64bit.</td>
     </tr>
