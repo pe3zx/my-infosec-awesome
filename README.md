@@ -272,6 +272,7 @@ My curated list of awesome links, resources and tools
 - [Heap Exploitation ~ Abusing Use-After-Free](https://0x00sec.org/t/heap-exploitation-abusing-use-after-free/3580)
 - [Heap overflow using unlink](https://sploitfun.wordpress.com/2015/02/26/heap-overflow-using-unlink/)
 - [Heap overflow using Malloc Maleficarum](https://sploitfun.wordpress.com/2015/03/04/heap-overflow-using-malloc-maleficarum/)
+- [Heap Safari - Thread Local Caching](https://0x00sec.org/t/heap-safari-thread-local-caching/5054)
 - [shellphishi/how2heap](https://github.com/shellphish/how2heap)
 - [X86 EXPLOITATION 101: HEAP OVERFLOWS… UNLINK ME, WOULD YOU PLEASE?](https://gbmaster.wordpress.com/2014/08/11/x86-exploitation-101-heap-overflows-unlink-me-would-you-please/)
 - [X86 EXPLOITATION 101: THIS IS THE FIRST WITCHY HOUSE](https://gbmaster.wordpress.com/2014/08/24/x86-exploitation-101-this-is-the-first-witchy-house/)
