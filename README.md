@@ -1593,6 +1593,10 @@ My curated list of awesome links, resources and tools
         <td>The goal of this repository is to document the most common techniques to bypass AppLocker.</td>
     </tr>
     <tr>
+        <td><a href="https://gist.github.com/caseysmithrc/24e7d02685ce5ab319269bd61a8f0350">caseysmithrc/Inject.cs</a></td>
+        <td>DotNetToJScript Build Walkthrough</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/DanMcInerney/icebreaker">DanMcInerney/icebreaker</a></td>
         <td>Gets plaintext Active Directory credentials if you're on the internal network but outside the AD environment</td>
     </tr>
