@@ -195,6 +195,7 @@ My curated list of awesome links, resources and tools
 - [Kernel Debugging 101 – Part2](https://vvalien1.wordpress.com/2017/01/01/kernel-debugging-101-part2/)
 - [Kernel Debugging 101 – Part3](https://vvalien1.wordpress.com/2017/01/01/kernel-debugging-101-part3/)
 - [Kernel Exploitation Case Study - "Wild" Pool Overflow on Win10 x64 RS2 (CVE-2016-3309 Reloaded)](https://siberas.de/blog/2017/10/05/exploitation_case_study_wild_pool_overflow_CVE-2016-3309_reloaded.html)
+- [Kernel Exploit Demo - Windows 10 privesc via WARBIRD](https://blog.xpnsec.com/windows-warbird-privesc/)
 - [Kernel Pool Overflow Exploitation In Real World – Windows 7](http://trackwatch.com/kernel-pool-overflow-exploitation-in-real-world-windows-7/)
 - [Kernel Pool Overflow Exploitation In Real World – Windows 10](http://trackwatch.com/kernel-pool-overflow-exploitation-in-real-world-windows-10/)
 - [Many Formulas, One Calc – Exploiting a New Office Equation Vulnerability](https://research.checkpoint.com/another-office-equation-rce-vulnerability/)
