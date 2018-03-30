@@ -67,6 +67,7 @@ My curated list of awesome links, resources and tools
 
 - [How to Acquire an iOS 11 Device Without the PIN/Passcode](https://www.magnetforensics.com/blog/how-to-acquire-an-ios-11-device-without-the-pinpasscode/)
 - [Live Forensic Acquisition From Mac Computers](http://www.computerpi.com/live-forensic-acquisition-from-mac-computers/)
+- [Inside iCloud Drive: uploading a file](https://eclecticlight.co/2018/03/30/inside-icloud-drive-uploading-a-file/)
 - [iOS 11: HEVC and HEIF (heic) files](https://www.cclgroupltd.com/ios-11-hevc-heif-heic-files/)
 - [macOS Unified log: 1 why, what and how](https://eclecticlight.co/2018/03/19/macos-unified-log-1-why-what-and-how/)
 - [macOS Unified log: 2 content and extraction](https://eclecticlight.co/2018/03/20/macos-unified-log-2-content-and-extraction/)
