@@ -652,6 +652,10 @@ My curated list of awesome links, resources and tools
 - [BRUTE XSS - Master the art of Cross Site Scripting](https://brutelogic.com.br/blog/)
 - [XSS Cheat Sheet](https://leanpub.com/xss)
 
+### PHP Object Injection
+
+- [Why You Should Never Pass Untrusted Data to Unserialize When Writing PHP Code](https://www.netsparker.com/blog/web-security/untrusted-data-unserialize-php/)
+
 ### SQL Injection
 
 - [MySQL UDF Exploitation](https://osandamalith.com/2018/02/11/mysql-udf-exploitation/)
