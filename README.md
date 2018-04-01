@@ -435,6 +435,8 @@ My curated list of awesome links, resources and tools
 
 ### Mobile Security
 
+- [Mobile Application Hacking Diary Ep.1](https://www.exploit-db.com/papers/26620/)
+- [Mobile Application Hacking Diary Ep.2](https://www.exploit-db.com/papers/44145/)
 - [tanprathan/MobileApp-Pentest-Cheatsheet](https://github.com/tanprathan/MobileApp-Pentest-Cheatsheet)
 
 ### Post Exploitation
