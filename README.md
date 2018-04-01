@@ -1292,6 +1292,10 @@ My curated list of awesome links, resources and tools
         <td>The iOS Security Testing Framework</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/nygard/class-dump">nygard/class-dump</a></td>
+        <td>Generate Objective-C headers from Mach-O files</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/pxb1988/dex2jar">pxb1988/dex2jar</a></td>
         <td>Tools to work with android .dex and java .class files</td>
     </tr>
