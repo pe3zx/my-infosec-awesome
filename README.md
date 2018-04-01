@@ -1414,6 +1414,10 @@ My curated list of awesome links, resources and tools
         <td>Uitkyk is a custom Android Frida libary which provides an API to analyze Android applications for malicious activity. This is a PoC library to illustrate the capabilities of performing runtime analysis on Android. Additionally Uitkyk is a collection of resources to assist in the identification of malicious Android applications at runtime.</td>
     </tr>
     <tr>
+        <td><a href="https://codeshare.frida.re/">Frida Codeshare</a></td>
+        <td>The Frida CodeShare project is comprised of developers from around the world working together with one goal - push Frida to its limits in new and innovative ways.</td>
+    </tr>
+    <tr>
         <td colspan="2"><b>IDA Pro</b></td>
     </tr>
     <tr>
