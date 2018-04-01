@@ -1308,6 +1308,10 @@ My curated list of awesome links, resources and tools
         <td>Dex to Java decompiler</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/stefanesser/dumpdecrypted">stefanesser/dumpdecrypted</a></td>
+        <td>Dumps decrypted mach-o files from encrypted iPhone applications from memory to disk. This tool is necessary for security researchers to be able to look under the hood of encryption.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/swdunlop/AndBug">swdunlop/AndBug</a></td>
         <td>Android Debugging Library</td>
     </tr>
