@@ -1248,6 +1248,10 @@ My curated list of awesome links, resources and tools
         <td>A tool for reverse engineering Android apk files</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/chaitin/passionfruit">chaitin/passionfruit</a></td>
+        <td>Simple iOS app blackbox assessment tool. Powered by frida.re and vuejs.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/dpnishant/appmon">dpnishant/appmon</a></td>
         <td>AppMon is an automated framework for monitoring and tampering system API calls of native macOS, iOS and android apps. It is based on Frida.</td>
     </tr>
