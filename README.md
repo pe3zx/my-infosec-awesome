@@ -1240,6 +1240,10 @@ My curated list of awesome links, resources and tools
 
 <table>
     <tr>
+        <td><a href="https://ibotpeaches.github.io/Apktool/">Apktool</a></td>
+        <td>A tool for reverse engineering Android apk files</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/dpnishant/appmon">dpnishant/appmon</a></td>
         <td>AppMon is an automated framework for monitoring and tampering system API calls of native macOS, iOS and android apps. It is based on Frida.</td>
     </tr>
