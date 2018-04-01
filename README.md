@@ -1275,6 +1275,10 @@ My curated list of awesome links, resources and tools
         <td><a href="https://github.com/skylot/jadx">skylot/jadx</a></td>
         <td>Dex to Java decompiler</td>
     </tr>
+    <tr>
+        <td><a href="https://github.com/swdunlop/AndBug">swdunlop/AndBug</a></td>
+        <td>Android Debugging Library</td>
+    </tr>
 </table>
 
 ### Network
