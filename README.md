@@ -1307,6 +1307,10 @@ My curated list of awesome links, resources and tools
         <td><a href="https://github.com/swdunlop/AndBug">swdunlop/AndBug</a></td>
         <td>Android Debugging Library</td>
     </tr>
+    <tr>
+        <td><a href="https://github.com/tcurdt/iProxy">tcurdt/iProxy</a></td>
+        <td>Let's you connect your laptop to the iPhone to surf the web.</td>
+    </tr>
 </table>
 
 ### Network
