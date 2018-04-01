@@ -1276,6 +1276,10 @@ My curated list of awesome links, resources and tools
         <td>Bypass SSL certificate pinning for most applications</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/KJCracks/Clutch">KJCracks/Clutch</a></td>
+        <td>Fast iOS executable dumper</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/linkedin/qark">linkedin/qark</a></td>
         <td>Tool to look for several security related Android application vulnerabilities</td>
     </tr>
