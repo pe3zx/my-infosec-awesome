@@ -66,7 +66,6 @@ My curated list of awesome links, resources and tools
 #### MacOS/iOS
 
 - [How to Acquire an iOS 11 Device Without the PIN/Passcode](https://www.magnetforensics.com/blog/how-to-acquire-an-ios-11-device-without-the-pinpasscode/)
-- [Live Forensic Acquisition From Mac Computers](http://www.computerpi.com/live-forensic-acquisition-from-mac-computers/)
 - [Inside iCloud Drive: uploading a file](https://eclecticlight.co/2018/03/30/inside-icloud-drive-uploading-a-file/)
 - [iOS 11: HEVC and HEIF (heic) files](https://www.cclgroupltd.com/ios-11-hevc-heif-heic-files/)
 - [macOS Unified log: 1 why, what and how](https://eclecticlight.co/2018/03/19/macos-unified-log-1-why-what-and-how/)
@@ -365,13 +364,6 @@ My curated list of awesome links, resources and tools
 - [High-reputation Redirectors and Domain Fronting](https://blog.cobaltstrike.com/2017/02/06/high-reputation-redirectors-and-domain-fronting/)
 - [Hunting For In-Memory .NET Attacks](https://www.endgame.com/blog/technical-blog/hunting-memory-net-attacks)
 - [Hunting Malware with Memory Analysis](https://technical.nttsecurity.com/post/102egyy/hunting-malware-with-memory-analysis)
-- [Reverse Engineering Malware](https://www.hackers-arise.com/reverse-engineering-malware)
-- [Reverse Engineering Malware: Why YOU Should Study Reverse Engineering Malware](https://www.hackers-arise.com/single-post/2017/01/18/Reverse-Engineering-Malware-Why-YOU-Should-Study-Reverse-Engineering-Malware)
-- [Reverse Engineering Malware, Part 1: Getting Started](https://www.hackers-arise.com/single-post/2017/02/17/Reverse-Engineering-Malware-Part-1-Getting-Started)
-- [Reverse Engineering Malware, Part 2: Assembler Language Basics](https://www.hackers-arise.com/single-post/2017/02/27/Reverse-Engineering-Malware-Part-2-Assembler-Language-Basics)
-- [Reverse Engineering Malware, Part 3: IDA Pro Introduction](https://www.hackers-arise.com/single-post/2017/06/22/Reverse-Engineering-Malware-Part-3-IDA-Pro-Introduction)
-- [Reverse Engineering Malware, Part 4: Windows Internals](https://www.hackers-arise.com/single-post/2017/07/04/Reverse-Engineering-Malware-Part-4-Windows-Internals)
-- [Reverse Engineering Malware, Part 5: OllyDbg Basics](https://www.hackers-arise.com/single-post/2017/10/03/Reverse-Engineering-Malware-Part-5-OllyDbg-Basics)
 - [ThreatHuntingProject/ThreatHunting](https://github.com/ThreatHuntingProject/ThreatHunting)
 - [Tips for Reverse-Engineering Malicious Code](https://zeltser.com/reverse-engineering-malicious-code-tips/)
 - [Understanding Process Hollowing](https://andreafortuna.org/understanding-process-hollowing-b94ce77c3276)
