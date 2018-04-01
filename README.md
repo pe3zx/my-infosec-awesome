@@ -1240,6 +1240,10 @@ My curated list of awesome links, resources and tools
 
 <table>
     <tr>
+        <td><a href="https://github.com/ac-pm/Inspeckage">ac-pm/Inspeckage</a></td>
+        <td>Android Package Inspector - dynamic analysis with api hooks, start unexported activities and more. (Xposed Module)</td>
+    </tr>
+    <tr>
         <td><a href="https://ibotpeaches.github.io/Apktool/">Apktool</a></td>
         <td>A tool for reverse engineering Android apk files</td>
     </tr>
