@@ -1280,6 +1280,10 @@ My curated list of awesome links, resources and tools
         <td>Mobile Security Framework is an automated, all-in-one mobile application (Android/iOS/Windows) pen-testing framework capable of performing static analysis, dynamic analysis, malware analysis and web API testing</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/mwrlabs/needle">mwrlabs/needle</a></td>
+        <td>The iOS Security Testing Framework</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/pxb1988/dex2jar">pxb1988/dex2jar</a></td>
         <td>Tools to work with android .dex and java .class files</td>
     </tr>
