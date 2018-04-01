@@ -1388,6 +1388,10 @@ My curated list of awesome links, resources and tools
         <td>LightBulb is an open source python framework for auditing web application firewalls and filters.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/summitt/Burp-Non-HTTP-Extension">summitt/Burp-Non-HTTP-Extension</a></td>
+        <td>Non-HTTP Protocol Extension (NoPE) Proxy and DNS for Burp Suite.</td>
+    </tr>
+    <tr>
         <td colspan="2"><b>GDB</b></td>
     </tr>
     <tr>
