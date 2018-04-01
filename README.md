@@ -1260,6 +1260,10 @@ My curated list of awesome links, resources and tools
         <td>Dynamic instrumentation toolkit for developers, reverse-engineers, and security researchers.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/iSECPartners/Android-SSL-TrustKiller">iSECPartners/Android-SSL-TrustKiller</a></td>
+        <td>Bypass SSL certificate pinning for most applications</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/linkedin/qark">linkedin/qark</a></td>
         <td>Tool to look for several security related Android application vulnerabilities</td>
     </tr>
