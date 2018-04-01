@@ -1256,6 +1256,10 @@ My curated list of awesome links, resources and tools
         <td>Comprehensive security and attack framework for Android</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/frida/frida">frida/frida</a></td>
+        <td>Dynamic instrumentation toolkit for developers, reverse-engineers, and security researchers.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/linkedin/qark">linkedin/qark</a></td>
         <td>Tool to look for several security related Android application vulnerabilities</td>
     </tr>
