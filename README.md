@@ -1260,6 +1260,10 @@ My curated list of awesome links, resources and tools
         <td>Mobile Security Framework is an automated, all-in-one mobile application (Android/iOS/Windows) pen-testing framework capable of performing static analysis, dynamic analysis, malware analysis and web API testing</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/pxb1988/dex2jar">pxb1988/dex2jar</a></td>
+        <td>Tools to work with android .dex and java .class files</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/sensepost/objection">sensepost/objection</a></td>
         <td>objection is a runtime mobile exploration toolkit, powered by Frida. It was built with the aim of helping assess mobile applications and their security posture without the need for a jailbroken or rooted mobile device.</td>
     </tr>
