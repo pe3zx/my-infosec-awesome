@@ -1256,6 +1256,14 @@ My curated list of awesome links, resources and tools
         <td>AppMon is an automated framework for monitoring and tampering system API calls of native macOS, iOS and android apps. It is based on Frida.</td>
     </tr>
     <tr>
+        <td><a href="http://www.cycript.org/">Cycript</a></td>
+        <td>Cycript allows developers to explore and modify running applications on either iOS or Mac OS X using a hybrid of Objective-C++ and JavaScript syntax through an interactive console that features syntax highlighting and tab completion</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/dmayer/idb">dmayer/idb</a></td>
+        <td>idb is a tool to simplify some common tasks for iOS pentesting and research</td>
+    </tr>
+    <tr>
         <td><a href="https://labs.mwrinfosecurity.com/tools/drozer/">Drozer</a></td>
         <td>Comprehensive security and attack framework for Android</td>
     </tr>
