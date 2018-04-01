@@ -1267,6 +1267,10 @@ My curated list of awesome links, resources and tools
         <td><a href="https://github.com/sensepost/objection">sensepost/objection</a></td>
         <td>objection is a runtime mobile exploration toolkit, powered by Frida. It was built with the aim of helping assess mobile applications and their security posture without the need for a jailbroken or rooted mobile device.</td>
     </tr>
+    <tr>
+        <td><a href="https://github.com/skylot/jadx">skylot/jadx</a></td>
+        <td>Dex to Java decompiler</td>
+    </tr>
 </table>
 
 ### Network
