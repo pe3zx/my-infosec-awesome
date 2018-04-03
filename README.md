@@ -257,6 +257,7 @@ My curated list of awesome links, resources and tools
 - [Bypassing ASLR – Part I](https://sploitfun.wordpress.com/2015/05/08/bypassing-aslr-part-i/)
 - [Bypassing ASLR – Part II](https://sploitfun.wordpress.com/2015/05/08/bypassing-aslr-part-ii/)
 - [Bypassing ASLR – Part III](https://sploitfun.wordpress.com/2015/05/08/bypassing-aslr-part-iii/)
+- [Bypass ASLR+NX Part 1](http://intx0x80.blogspot.com/2018/04/bypass-aslrnx-part-1.html)
 - [Exploit Mitigation Techniques - Address Space Layout Randomization (ASLR)](https://0x00sec.org/t/exploit-mitigation-techniques-address-space-layout-randomization-aslr/5452/1)
 - [New bypass and protection techniques for ASLR on Linux](http://blog.ptsecurity.com/2018/02/new-bypass-and-protection-techniques.html)
 
