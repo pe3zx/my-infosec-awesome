@@ -1664,6 +1664,10 @@ My curated list of awesome links, resources and tools
         <td>Advanced JS Deobfuscation via Partial Evaluation.</td>
     </tr>
     <tr>
+        <td><a href="https://erpscan.com/press-center/blog/oracle-ebs-penetration-testing-tool/">Oracle EBS Penetration testing tool</a></td>
+        <td>ERPScan EBS Pentesting Tool is a freeware for pentesters and security professionals. With the help of it, you can conduct penetration testing and vulnerability assessment of Oracle E-Business Suite systems using Black Box testing methodologies.</td>
+    </tr>
+    <tr>
         <td><a href="https://publicwww.com/">Public WWW</a></td>
         <td>Source Code Search Engine</td>
     </tr>
