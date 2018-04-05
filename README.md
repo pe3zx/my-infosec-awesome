@@ -691,16 +691,16 @@ My curated list of awesome links, resources and tools
         </td>
     </tr>
     <tr>
-        <td><a href="https://github.com/SecurityFTW/cs-suite">SecurityFTW/cs-suite</a></td>
-        <td>Cloud Security Suite - One stop tool for auditing the security posture of AWS infrastructure.</td>
-    </tr>
-    <tr>
         <td><a href="https://github.com/FishermansEnemy/bucket_finder">FishermansEnemy/bucket_finder</a></td>
         <td>Amazon bucket brute force tool</td>
     </tr>
     <tr>
         <td><a href="https://github.com/kromtech/s3-inspector">kromtech/s3-inspector</a></td>
         <td>Tool to check AWS S3 bucket permissions</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/jordanpotti/AWSBucketDump">jordanpotti/AWSBucketDump</a></td>
+        <td>Security Tool to Look For Interesting Files in S3 Buckets</td>
     </tr>
     <tr>
         <td>
@@ -721,6 +721,10 @@ My curated list of awesome links, resources and tools
     <tr>
         <td><a href="https://github.com/sa7mon/S3Scanner">sa7mon/S3Scanner</a></td>
         <td>Scan for open S3 buckets and dump</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/SecurityFTW/cs-suite">SecurityFTW/cs-suite</a></td>
+        <td>Cloud Security Suite - One stop tool for auditing the security posture of AWS infrastructure.</td>
     </tr>
 </table>
 
