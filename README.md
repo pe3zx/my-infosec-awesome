@@ -1341,6 +1341,10 @@ My curated list of awesome links, resources and tools
         <td>A free, online PCAP analysis engine</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/USArmyResearchLab/Dshell">USArmyResearchLab/Dshell</a></td>
+        <td>An extensible network forensic analysis framework. Enables rapid development of plugins to support the dissection of network packet captures.</td>
+    </tr>
+    <tr>
         <td><a href="https://wireedit.com/">WireEdit</a></td>
         <td>First-Of-A-Kind And The Only Full Stack WYSIWYG Pcap Editor</td>
     </tr>
