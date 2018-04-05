@@ -668,6 +668,14 @@ My curated list of awesome links, resources and tools
 <table>
     <tr>
         <td>
+            <a href="https://github.com/Alfresco/prowler" target="_blank">Alfresco/prowler</a>
+        </td>
+        <td>
+            Tool for AWS security assessment, auditing and hardening. It follows guidelines of the CIS Amazon Web Services Foundations Benchmark.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://github.com/airbnb/BinaryAlert" target="_blank">airbnb/BinaryAlert</a>
         </td>
         <td>
@@ -681,6 +689,10 @@ My curated list of awesome links, resources and tools
         <td>
             AWS security scanning checks
         </td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/SecurityFTW/cs-suite">SecurityFTW/cs-suite</a></td>
+        <td>Cloud Security Suite - One stop tool for auditing the security posture of AWS infrastructure.</td>
     </tr>
     <tr>
         <td><a href="https://github.com/FishermansEnemy/bucket_finder">FishermansEnemy/bucket_finder</a></td>
@@ -703,16 +715,8 @@ My curated list of awesome links, resources and tools
         </td>
     </tr>
     <tr>
-        <td>
-            <a href="https://github.com/Alfresco/prowler" target="_blank">Alfresco/prowler</a>
-        </td>
-        <td>
-            Tool for AWS security assessment, auditing and hardening. It follows guidelines of the CIS Amazon Web Services Foundations Benchmark.
-        </td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/SecurityFTW/cs-suite">SecurityFTW/cs-suite</a></td>
-        <td>Cloud Security Suite - One stop tool for auditing the security posture of AWS infrastructure.</td>
+        <td><a href="https://github.com/sa7mon/S3Scanner">sa7mon/S3Scanner</a></td>
+        <td>Scan for open S3 buckets and dump</td>
     </tr>
 </table>
 
