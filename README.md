@@ -1491,6 +1491,10 @@ My curated list of awesome links, resources and tools
         <td>A Qt and C++ GUI for radare2 reverse engineering framework</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/wargio/r2dec-js">wargio/r2dec-js</a></td>
+        <td>radare2 plugin - converts asm to pseudo-C code. (experimental)</td>
+    </tr>
+    <tr>
         <td colspan="2"><b>WinDBG</b></td>
     </tr>
     <tr>
