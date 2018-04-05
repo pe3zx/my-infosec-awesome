@@ -699,6 +699,10 @@ My curated list of awesome links, resources and tools
         <td>Amazon bucket brute force tool</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/kromtech/s3-inspector">kromtech/s3-inspector</a></td>
+        <td>Tool to check AWS S3 bucket permissions</td>
+    </tr>
+    <tr>
         <td>
             <a href="https://github.com/nccgroup/Scout2" target="_blank">nccgroup/Scout2</a>
         </td>
