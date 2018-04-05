@@ -683,6 +683,10 @@ My curated list of awesome links, resources and tools
         </td>
     </tr>
     <tr>
+        <td><a href="https://github.com/FishermansEnemy/bucket_finder">FishermansEnemy/bucket_finder</a></td>
+        <td>Amazon bucket brute force tool</td>
+    </tr>
+    <tr>
         <td>
             <a href="https://github.com/nccgroup/Scout2" target="_blank">nccgroup/Scout2</a>
         </td>
