@@ -1587,6 +1587,10 @@ My curated list of awesome links, resources and tools
         <td>TL;DR: Mailsploit is a collection of bugs in email clients that allow effective sender spoofing and code injection attacks. The spoofing is not detected by Mail Transfer Agents (MTA) aka email servers, therefore circumventing spoofing protection mechanisms such as DMARC (DKIM/SPF) or spam filters.</td>
     </tr>
     <tr>
+        <td><a href="https://data.occrp.org/">OCCRP Data</a></td>
+        <td>Search 102m public records and leaks from 179 sources</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/securestate/king-phisher/">securestate/king-phisher</a></td>
         <td>Phishing Campaign Toolkit</td>
     </tr>
