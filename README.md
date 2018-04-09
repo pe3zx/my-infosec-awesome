@@ -697,6 +697,10 @@ My curated list of awesome links, resources and tools
         <td>Amazon bucket brute force tool</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/glen-mac/goGetBucket">glen-mac/goGetBucket</a></td>
+        <td>A penetration testing tool to enumerate and analyse Amazon S3 Buckets owned by a domain.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/kromtech/s3-inspector">kromtech/s3-inspector</a></td>
         <td>Tool to check AWS S3 bucket permissions</td>
     </tr>
