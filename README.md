@@ -75,6 +75,7 @@ My curated list of awesome links, resources and tools
 - [macOS Unified log: 3 finding your way](https://eclecticlight.co/2018/03/21/macos-unified-log-3-finding-your-way/)
 - [Monkey takes a .heic](http://cheeky4n6monkey.blogspot.com/2017/10/monkey-takes-heic.html)
 - [Mounting an APFS image in Linux](http://az4n6.blogspot.com/2018/01/mounting-apfs-image-in-linux.html)
+- [pstirparo/mac4n6 - Collection of forensics artifacs location for Mac OS X and iOS](https://github.com/pstirparo/mac4n6)
 - [Reading Notes database on macOS](https://www.swiftforensics.com/2018/02/reading-notes-database-on-macos.html)
 - [The Hitchhiker’s Guide to macOS USB Forensics](http://cyberforensicator.com/2017/11/06/the-hitchhikers-guide-to-macos-usb-forensics/)
 - [There’s Gold In Them There Blobs!](https://www.ciofecaforensics.com/2017/10/13/theres-gold-in-them-there-blobs/)
