@@ -1740,6 +1740,10 @@ My curated list of awesome links, resources and tools
         <td>DotNetToJScript Build Walkthrough</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/danielbohannon/Invoke-Obfuscation">danielbohannon/Invoke-Obfuscation</a></td>
+        <td>Invoke-Obfuscation is a PowerShell v2.0+ compatible PowerShell command and script obfuscator</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/DanMcInerney/icebreaker">DanMcInerney/icebreaker</a></td>
         <td>Gets plaintext Active Directory credentials if you're on the internal network but outside the AD environment</td>
     </tr>
