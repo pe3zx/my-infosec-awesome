@@ -917,6 +917,10 @@ My curated list of awesome links, resources and tools
         <td>Distributed & real time digital forensics at the speed of the cloud</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/mozilla/MozDef">mozilla/MozDef</a></td>
+        <td>MozDef: The Mozilla Defense Platform</td>
+    </tr>
+    <tr>
         <td>
             <a href="https://github.com/nannib/Imm2Virtual">nannib/Imm2Virtual</a>
         </td>
