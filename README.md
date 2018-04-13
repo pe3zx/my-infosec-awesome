@@ -1737,6 +1737,10 @@ My curated list of awesome links, resources and tools
         <td>ERPScan EBS Pentesting Tool is a freeware for pentesters and security professionals. With the help of it, you can conduct penetration testing and vulnerability assessment of Oracle E-Business Suite systems using Black Box testing methodologies.</td>
     </tr>
     <tr>
+        <td><a href="https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project"></a>OWASP Zed Attack Proxy Project</td>
+        <td>The OWASP Zed Attack Proxy (ZAP) is one of the world’s most popular free security tools and is actively maintained by hundreds of international volunteers*. It can help you automatically find security vulnerabilities in your web applications while you are developing and testing your applications. Its also a great tool for experienced pentesters to use for manual security testing</td>
+    </tr>
+    <tr>
         <td><a href="https://publicwww.com/">Public WWW</a></td>
         <td>Source Code Search Engine</td>
     </tr>
