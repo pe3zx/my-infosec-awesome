@@ -1115,6 +1115,14 @@ My curated list of awesome links, resources and tools
         </td>
     </tr>
     <tr>
+        <td>CVE-2018-0886</td>
+        <td>The Credential Security Support Provider protocol (CredSSP) in Microsoft Windows Server 2008 SP2 and R2 SP1, Windows 7 SP1, Windows 8.1 and RT 8.1, Windows Server 2012 and R2, Windows 10 Gold, 1511, 1607, 1703, and 1709 Windows Server 2016 and Windows Server, version 1709 allows a remote code execution vulnerability due to how CredSSP validates request during the authentication process, aka "CredSSP Remote Code Execution Vulnerability".
+            <ul>
+                <li><a href="https://github.com/preempt/credssp">preempt/credssp</a></li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
         <td>CVE-2018-4878</td>
         <td>A critical vulnerability (CVE-2018-4878) exists in Adobe Flash Player 28.0.0.137 and earlier versions. Successful exploitation could potentially allow an attacker to take control of the affected system.
             <ul>
