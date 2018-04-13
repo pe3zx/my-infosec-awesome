@@ -905,6 +905,10 @@ My curated list of awesome links, resources and tools
         <td>Python wrapper for the Mitre ATT&CK framework API</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/mozilla/mig">mozilla/mig</a></td>
+        <td>Distributed & real time digital forensics at the speed of the cloud</td>
+    </tr>
+    <tr>
         <td>
             <a href="https://github.com/nannib/Imm2Virtual">nannib/Imm2Virtual</a>
         </td>
