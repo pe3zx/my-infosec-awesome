@@ -1748,6 +1748,10 @@ My curated list of awesome links, resources and tools
         <td><a href="https://github.com/pwntester/ysoserial.net">pwntester/ysoserial.net</a></td>
         <td>Deserialization payload generator for a variety of .NET formatters</td>
     </tr>
+    <tr>
+        <td><a href="https://snyk.io/">Snyk</a></td>
+        <td>Continuously find & fix vulnerabilities in your dependencies</td>
+    </tr>
 </table>
 
 ### Windows
