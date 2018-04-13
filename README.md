@@ -1103,6 +1103,16 @@ My curated list of awesome links, resources and tools
         </td>
     </tr>
     <tr>
+        <td>CVE-2018-7600</td>
+        <td>Drupal before 7.58, 8.x before 8.3.9, 8.4.x before 8.4.6, and 8.5.x before 8.5.1 allows remote attackers to execute arbitrary code because of an issue affecting multiple subsystems with default or common module configurations.
+            <ul>
+                <li><a href="https://www.exploit-db.com/exploits/44449">Drupal < 7.58 / < 8.3.9 / < 8.4.6 / < 8.5.1 - 'Drupalgeddon2' Remote Code Execution</a></li>
+                <li><a href="https://github.com/a2u/CVE-2018-7600">a2u/CVE-2018-7600</a></li>
+                <li><a href="https://research.checkpoint.com/uncovering-drupalgeddon-2/">Uncovering Drupalgeddon 2</a></li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/Eplox/TCP-Starvation">Eplox/TCP-Starvation</a></td>
         <td>The idea behind this attack is to close a TCP session on the attacker's side, while leaving it open for the victim. Looping this will quickly fill up the victim’s session limit, effectively denying other users to access the service.</td>
     </tr>
