@@ -513,6 +513,14 @@ My curated list of awesome links, resources and tools
         </td>
     </tr>
     <tr>
+        <td>ElasticSearch</td>
+        <td>
+            <ul>
+                <li><a href="https://elastalert.readthedocs.io/en/latest/elastalert.html">ElastAlert</a></li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
         <td>Frida</td>
         <td>
             <ul>
