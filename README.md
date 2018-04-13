@@ -1362,6 +1362,10 @@ My curated list of awesome links, resources and tools
 
 <table>
     <tr>
+        <td><a href="https://github.com/aol/moloch">aol/moloch</a></td>
+        <td>Moloch is an open source, large scale, full packet capturing, indexing, and database system</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/eldraco/domain_analyzer/">eldraco/domain_analyzer</a></td>
         <td>Analyze the security of any domain by finding all the information possible. Made in python.</td>
     </tr>
