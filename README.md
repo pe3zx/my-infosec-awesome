@@ -917,6 +917,10 @@ My curated list of awesome links, resources and tools
         </td>
     </tr>
     <tr>
+        <td><a href="https://ossec.github.io/">OSSEC</a></td>
+        <td>Open Source HIDS SECurity</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/williballenthin/INDXParse">williballenthin/INDXParse</a></td>
         <td>Tool suite for inspecting NTFS artifacts</td>
     </tr>
