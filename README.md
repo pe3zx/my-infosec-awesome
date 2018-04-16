@@ -321,6 +321,7 @@ My curated list of awesome links, resources and tools
 
 *Art of crafting shellcode*
 
+- [A Primer to Windows x64 shellcoding](https://blahcat.github.io/2017/08/14/a-primer-to-windows-x64-shellcoding/)
 - [Shellcoding for Linux and Windows Tutorial](http://www.vividmachines.com/shellcode/shellcode.html)
 - [SLAE: Bind TCP Shell – Assignment 1](http://0xdeadcode.se/archives/637)
 - [SLAE: Reverse TCP Shell – Assignment 2](http://0xdeadcode.se/archives/689)
