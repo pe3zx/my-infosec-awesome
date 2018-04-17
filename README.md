@@ -1593,6 +1593,10 @@ My curated list of awesome links, resources and tools
         <td>A utility to generate malicious network traffic and evaluate controls</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/endgameinc/RTA">endgameinc/RTA</a></td>
+        <td>RTA provides a framework of scripts designed to allow blue teams to test their detection capabilities against malicious tradecraft, modeled after MITRE ATT&CK</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/mitre/caldera">mitre/caldera</a></td>
         <td>An automated adversary emulation system</td>
     </tr>
