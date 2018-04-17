@@ -1625,6 +1625,10 @@ My curated list of awesome links, resources and tools
         <td>Small and highly portable detection tests based on MITRE's ATT&CK.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/redhuntlabs/RedHunt-OS">redhuntlabs/RedHunt-OS</a></td>
+        <td>Virtual Machine for Adversary Emulation and Threat Hunting</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/uber-common/metta">uber-common/metta</a></td>
         <td>An information security preparedness tool to do adversarial simulation.</td>
     </tr>
