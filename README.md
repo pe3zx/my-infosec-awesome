@@ -1605,6 +1605,10 @@ My curated list of awesome links, resources and tools
         <td>A toolset to make a system look as if it was the victim of an APT attack</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/redcanaryco/atomic-red-team">redcanaryco/atomic-red-team</a></td>
+        <td>Small and highly portable detection tests based on MITRE's ATT&CK.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/uber-common/metta">uber-common/metta</a></td>
         <td>An information security preparedness tool to do adversarial simulation.</td>
     </tr>
