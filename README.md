@@ -1597,6 +1597,10 @@ My curated list of awesome links, resources and tools
         <td>RTA provides a framework of scripts designed to allow blue teams to test their detection capabilities against malicious tradecraft, modeled after MITRE ATT&CK</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/guardicore/monkey"></a></td>
+        <td>Infection Monkey - An automated pentest tool</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/mitre/caldera">mitre/caldera</a></td>
         <td>An automated adversary emulation system</td>
     </tr>
