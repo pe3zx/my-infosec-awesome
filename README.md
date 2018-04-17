@@ -187,10 +187,7 @@ My curated list of awesome links, resources and tools
 - [From Out Of Memory to Remote Code Execution](https://speakerdeck.com/yukichen/from-out-of-memory-to-remote-code-execution)
 - [Getting Code Execution on Windows by Abusing Default Kernel Debugging Setting](https://tyranidslair.blogspot.com/2017/03/getting-code-execution-on-windows-by.html)
 - [Hardening Windows 10 with zero-day exploit mitigations](https://blogs.technet.microsoft.com/mmpc/2017/01/13/hardening-windows-10-with-zero-day-exploit-mitigations/)
-- [Inject All the Things](http://blog.deniable.org/blog/2017/07/16/inject-all-the-things/)
 - [Introduction to IA-32e hardware paging](http://www.triplefault.io/2017/07/introduction-to-ia-32e-hardware-paging.html)
-- [Introduction to Windows Kernel Driver Exploitation (Pt. 1) - Environment Setup](https://glennmcgui.re/introduction-to-windows-kernel-exploitation-pt-1/)
-- [Introduction to Windows Kernel Driver Exploitation (Pt. 2) - Stack Buffer Overflow to System Shell](https://glennmcgui.re/introduction-to-windows-kernel-driver-exploitation-pt-2/)
 - [Introduction to Windows shellcode development – Part 1](https://securitycafe.ro/2015/10/30/introduction-to-windows-shellcode-development-part1/)
 - [Introduction to Windows shellcode development – Part 2](https://securitycafe.ro/2015/12/14/introduction-to-windows-shellcode-development-part-2/)
 - [Introduction to Windows shellcode development – Part 3](https://securitycafe.ro/2016/02/15/introduction-to-windows-shellcode-development-part-3/) 
@@ -959,14 +956,6 @@ My curated list of awesome links, resources and tools
         </td>
         <td>
             Query and report user logons relations from MS Windows Security Events
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <a href="https://github.com/TryCatchHCF/DumpsterFire">TryCatchHCF/DumpsterFire</a>
-        </td>
-        <td>
-            "Security Incidents In A Box!" A modular, menu-driven, cross-platform tool for building customized, time-delayed, distributed security events. Easily create custom event chains for Blue Team drills and sensor / alert mapping. Red Teams can create decoy incidents, distractions, and lures to support and scale their operations. Build event sequence…
         </td>
     </tr>
     <tr>
@@ -1883,10 +1872,6 @@ My curated list of awesome links, resources and tools
     <tr>
         <td><a href="https://github.com/secretsquirrel/SigThief">secretsquirrel/SigThief</a></td>
         <td>Stealing Signatures and Making One Invalid Signature at a Time</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/shellster/DCSYNCMonitor">shellster/DCSYNCMonitor</a></td>
-        <td>Monitors for DCSYNC and DCSHADOW attacks and create custom Windows Events for these events.</td>
     </tr>
     <tr>
         <td><a href="https://github.com/stephenfewer/ReflectiveDLLInjection">stephenfewer/ReflectiveDLLInjection</a></td>
