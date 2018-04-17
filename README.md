@@ -1593,6 +1593,10 @@ My curated list of awesome links, resources and tools
         <td>A utility to generate malicious network traffic and evaluate controls</td>
     </tr>
     <tr>
+        <td><a href="https://www.encripto.no/en/downloads-2/tools/">Blue Team Training Toolkit</a></td>
+        <td>Blue Team Training Toolkit (BT3) is designed for network analysis training sessions, incident response drills and red team engagements. Based on adversary replication techniques, and with reusability in mind, BT3 allows individuals and organizations to create realistic computer attack scenarios, while reducing infrastructure costs, implementation time and risk.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/endgameinc/RTA">endgameinc/RTA</a></td>
         <td>RTA provides a framework of scripts designed to allow blue teams to test their detection capabilities against malicious tradecraft, modeled after MITRE ATT&CK</td>
     </tr>
