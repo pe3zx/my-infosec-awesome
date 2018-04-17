@@ -1613,6 +1613,10 @@ My curated list of awesome links, resources and tools
         <td>A toolset to make a system look as if it was the victim of an APT attack</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/TryCatchHCF/DumpsterFire">TryCatchHCF/DumpsterFire</a></td>
+        <td>"Security Incidents In A Box!" A modular, menu-driven, cross-platform tool for building customized, time-delayed, distributed security events. Easily create custom event chains for Blue Team drills and sensor / alert mapping. Red Teams can create decoy incidents, distractions, and lures to support and scale their operations. Build event sequence…</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/redcanaryco/atomic-red-team">redcanaryco/atomic-red-team</a></td>
         <td>Small and highly portable detection tests based on MITRE's ATT&CK.</td>
     </tr>
