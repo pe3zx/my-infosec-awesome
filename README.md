@@ -13,6 +13,7 @@ My curated list of awesome links, resources and tools
     - [Malware Analysis](#malware-analysis)
     - [Mobile Security](#mobile-security-1)
     - [Post Exploitation](#post-exploitation)
+    - [Privacy](#privacy)
     - [Reverse Engineering](#reverse-engineering)
     - [Tutorials](#tutorials)
     - [Web Application Security](#web-application-security)
@@ -27,7 +28,7 @@ My curated list of awesome links, resources and tools
     - [Mobile Securtiy](#mobile-security)
     - [Network](#network)
     - [Plugins](#plugins)
-    - [Privacy](#privacy)
+    - [Privacy](#privacy-1)
     - [Simulation](#simulation)
     - [Social Engineering](#social-engineering)
     - [Vulnerable](#vulnerable)
@@ -443,6 +444,10 @@ My curated list of awesome links, resources and tools
 
 - [Post Exploitation Using NetNTLM Downgrade Attacks](https://www.optiv.com/blog/post-exploitation-using-netntlm-downgrade-attacks)
 - [Top Five Ways I Got Domain Admin on Your Internal Network before Lunch (2018 Edition)](https://medium.com/@adam.toscher/top-five-ways-i-got-domain-admin-on-your-internal-network-before-lunch-2018-edition-82259ab73aaa)
+
+### Privacy
+
+- [The Field Guide to Security Training in the Newsroom](https://the-field-guide-to-security-training-in-the-newsroom.readthedocs.io/en/latest/)
 
 ### Reverse Engineering
 
