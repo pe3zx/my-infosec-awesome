@@ -359,6 +359,8 @@ My curated list of awesome links, resources and tools
 - [KVA Shadow: Mitigating Meltdown on Windows](https://blogs.technet.microsoft.com/srd/2018/03/23/kva-shadow-mitigating-meltdown-on-windows/)
 - [Total Meltdown?](https://blog.frizk.net/2018/03/total-meltdown.html)
 
+---
+
 ### Malware Analysis
 
 *Malware analysis articles, techniques and examples*
@@ -434,6 +436,8 @@ My curated list of awesome links, resources and tools
     - [Reverse engineering malware: TrickBot (part 2 - loader)](https://qmemcpy.github.io/post/reverse-engineering-malware-trickbot-part-2-loader)
     - [Reverse engineering malware: TrickBot (part 3 - core)](https://qmemcpy.io/post/reverse-engineering-malware-trickbot-part-3-core)
 
+---
+
 ### Mobile Security
 
 *Mobile security articles*
@@ -441,6 +445,8 @@ My curated list of awesome links, resources and tools
 - [Mobile Application Hacking Diary Ep.1](https://www.exploit-db.com/papers/26620/)
 - [Mobile Application Hacking Diary Ep.2](https://www.exploit-db.com/papers/44145/)
 - [tanprathan/MobileApp-Pentest-Cheatsheet](https://github.com/tanprathan/MobileApp-Pentest-Cheatsheet)
+
+---
 
 ### Post Exploitation
 
@@ -451,6 +457,8 @@ My curated list of awesome links, resources and tools
 - [Post Exploitation Using NetNTLM Downgrade Attacks](https://www.optiv.com/blog/post-exploitation-using-netntlm-downgrade-attacks)
 - [Top Five Ways I Got Domain Admin on Your Internal Network before Lunch (2018 Edition)](https://medium.com/@adam.toscher/top-five-ways-i-got-domain-admin-on-your-internal-network-before-lunch-2018-edition-82259ab73aaa)
 
+---
+
 ### Privacy
 
 *Privacy and internet security guidelines for cyber activists*
@@ -458,6 +466,8 @@ My curated list of awesome links, resources and tools
 - [The Field Guide to Security Training in the Newsroom](https://the-field-guide-to-security-training-in-the-newsroom.readthedocs.io/en/latest/)
 - [Protecting Your Source When Releasing Sensitive Documents](https://source.opennews.org/articles/how-protect-your-sources-when-releasing-sensitive-/)
 - [Security Education Companion](https://sec.eff.org/)
+
+---
 
 ### Reverse Engineering
 
@@ -468,6 +478,8 @@ My curated list of awesome links, resources and tools
 - [FAQ: How to learn reverse-engineering?](http://gynvael.coldwind.pl/?id=664)
 - [How to decompile any Python binary](https://countercept.com/our-thinking/how-to-decompile-any-python-binary/)
 - [Reverse Engineering 101](https://osandamalith.com/2014/12/31/reverse-engineering-101/)
+
+---
 
 ### Tutorials
 
@@ -661,6 +673,8 @@ My curated list of awesome links, resources and tools
     </tr>
 </table>
 
+---
+
 ## Web Application Security
 
 *Web application security related articles and tutorials*
@@ -687,6 +701,8 @@ My curated list of awesome links, resources and tools
 - [MySQL UDF Exploitation](https://osandamalith.com/2018/02/11/mysql-udf-exploitation/)
 - [NetSPI SQL Injection Wiki](https://sqlwiki.netspi.com/)
 - [Your Pokemon Guide for Essential SQL Pen Test Commands](https://pen-testing.sans.org/blog/2017/12/09/your-pokemon-guide-for-essential-sql-pen-test-commands)
+
+---
 
 ## Tools
 
