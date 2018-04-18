@@ -361,6 +361,8 @@ My curated list of awesome links, resources and tools
 
 ### Malware Analysis
 
+*Malware analysis articles, techniques and examples*
+
 ![Process Injection Info Graphic by struppigel](https://4.bp.blogspot.com/-ixv5E0LMZCw/WWi5yRjL-_I/AAAAAAAAAnk/WO99S4Yrd8w6lfg6tITwUV02CGDFYAORACLcBGAs/s640/Process%2BInjection%25281%2529.png)
 
 - [A zebra in sheep’s clothing: How a Microsoft icon-display bug in Windows allows attackers to masquerade PE files with special icons](https://www.cybereason.com/labs-a-zebra-in-sheeps-clothing-how-a-microsoft-icon-display-bug-in-windows-allows-attackers-to-masquerade-pe-files-with-special-icons/)
@@ -434,11 +436,15 @@ My curated list of awesome links, resources and tools
 
 ### Mobile Security
 
+*Mobile security articles*
+
 - [Mobile Application Hacking Diary Ep.1](https://www.exploit-db.com/papers/26620/)
 - [Mobile Application Hacking Diary Ep.2](https://www.exploit-db.com/papers/44145/)
 - [tanprathan/MobileApp-Pentest-Cheatsheet](https://github.com/tanprathan/MobileApp-Pentest-Cheatsheet)
 
 ### Post Exploitation
+
+*Art of post exploitation techniques*
 
 #### Windows Post Exploitation
 
@@ -447,11 +453,15 @@ My curated list of awesome links, resources and tools
 
 ### Privacy
 
+*Privacy and internet security guidelines for cyber activists*
+
 - [The Field Guide to Security Training in the Newsroom](https://the-field-guide-to-security-training-in-the-newsroom.readthedocs.io/en/latest/)
 - [Protecting Your Source When Releasing Sensitive Documents](https://source.opennews.org/articles/how-protect-your-sources-when-releasing-sensitive-/)
 - [Security Education Companion](https://sec.eff.org/)
 
 ### Reverse Engineering
+
+*Reverse engineering tutorials and primers*
 
 - [A Gentle Primer on Reverse Engineering](https://emily.st/2015/01/27/reverse-engineering/)
 - [ELF hacking with Rekall](http://blog.rekall-forensic.com/2018/01/elf-hacking-with-rekall.html)
