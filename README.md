@@ -466,6 +466,7 @@ My curated list of awesome links, resources and tools
 - [The Field Guide to Security Training in the Newsroom](https://the-field-guide-to-security-training-in-the-newsroom.readthedocs.io/en/latest/)
 - [Protecting Your Source When Releasing Sensitive Documents](https://source.opennews.org/articles/how-protect-your-sources-when-releasing-sensitive-/)
 - [Security Education Companion](https://sec.eff.org/)
+- [Surveillance Self-Defense Checklist](https://medium.com/theintercept/surveillance-self-defense-for-journalists-ce627e332db6)
 
 ---
 
