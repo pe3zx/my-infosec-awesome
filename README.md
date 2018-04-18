@@ -463,6 +463,7 @@ My curated list of awesome links, resources and tools
 
 *Privacy and internet security guidelines for cyber activists*
 
+- [Digital Privacy at the U.S. Border: Protecting the Data On Your Devices](https://www.eff.org/wp/digital-privacy-us-border-2017)
 - [Digital Security for Freelance Journalists](https://rorypecktrust.org/resources/digital-security)
 - [Protecting Your Source When Releasing Sensitive Documents](https://source.opennews.org/articles/how-protect-your-sources-when-releasing-sensitive-/)
 - [Secure Journalism at Protests](https://medium.com/@mshelton/secure-journalism-at-protests-a435b2d6398b)
