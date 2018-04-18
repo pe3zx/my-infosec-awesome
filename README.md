@@ -1919,4 +1919,8 @@ My curated list of awesome links, resources and tools
         <td><a href="https://github.com/stephenfewer/ReflectiveDLLInjection">stephenfewer/ReflectiveDLLInjection</a></td>
         <td>Reflective DLL injection is a library injection technique in which the concept of reflective programming is employed to perform the loading of a library from memory into a host process</td>
     </tr>
+    <tr>
+        <td><a href="https//github.com/trustedsec/unicorn">trustedsec/unicorn</a></td>
+        <td>Unicorn is a simple tool for using a PowerShell downgrade attack and inject shellcode straight into memory. Based on Matthew Graeber's powershell attacks and the powershell bypass technique presented by David Kennedy (TrustedSec) and Josh Kelly at Defcon 18.</td>
+    </tr>
 </table>
