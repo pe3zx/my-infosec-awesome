@@ -463,6 +463,7 @@ My curated list of awesome links, resources and tools
 
 *Privacy and internet security guidelines for cyber activists*
 
+- [Digital Security for Freelance Journalists](https://rorypecktrust.org/resources/digital-security)
 - [The Field Guide to Security Training in the Newsroom](https://the-field-guide-to-security-training-in-the-newsroom.readthedocs.io/en/latest/)
 - [Protecting Your Source When Releasing Sensitive Documents](https://source.opennews.org/articles/how-protect-your-sources-when-releasing-sensitive-/)
 - [Secure Journalism at Protests](https://medium.com/@mshelton/secure-journalism-at-protests-a435b2d6398b)
