@@ -1179,7 +1179,7 @@ My curated list of awesome links, resources and tools
         <td>My implementation of enSilo's Process Doppelganging (PE injection technique)</td>
     </tr>
     <tr>
-        <td><a href="https://github.com/gellin/TeamViewer_Permissions_Hook_V1"></a>gellin/TeamViewer_Permissions_Hook_V1</td>
+        <td><a href="https://github.com/gellin/TeamViewer_Permissions_Hook_V1">gellin/TeamViewer_Permissions_Hook_V1</a></td>
         <td>A proof of concept injectable C++ dll, that uses naked inline hooking and direct memory modification to change your TeamViewer permissions.</td>
     </tr>
     <tr>
@@ -1807,7 +1807,7 @@ My curated list of awesome links, resources and tools
         <td>ERPScan EBS Pentesting Tool is a freeware for pentesters and security professionals. With the help of it, you can conduct penetration testing and vulnerability assessment of Oracle E-Business Suite systems using Black Box testing methodologies.</td>
     </tr>
     <tr>
-        <td><a href="https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project"></a>OWASP Zed Attack Proxy Project</td>
+        <td><a href="https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project">OWASP Zed Attack Proxy Project</a></td>
         <td>The OWASP Zed Attack Proxy (ZAP) is one of the world’s most popular free security tools and is actively maintained by hundreds of international volunteers*. It can help you automatically find security vulnerabilities in your web applications while you are developing and testing your applications. Its also a great tool for experienced pentesters to use for manual security testing</td>
     </tr>
     <tr>
