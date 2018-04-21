@@ -5,35 +5,60 @@
 
 My curated list of awesome links, resources and tools
 
-- [My Awesome](#my-awesome)
-- [Articles](#article)
-    - [Anti Forensics](#anti-forensics)
-    - [Digital Forensics and Incident Response](#digital-forensics-and-incident-response)
-    - [Exploitation](#exploitation)
-    - [Malware Analysis](#malware-analysis)
-    - [Mobile Security](#mobile-security-1)
-    - [Post Exploitation](#post-exploitation)
-    - [Privacy](#privacy)
-    - [Reverse Engineering](#reverse-engineering)
-    - [Tutorials](#tutorials)
-    - [Web Application Security](#web-application-security)
-- [Tools](#tools)
-	- [AWS Security](#aws-security)
-    - [Binary Analysis](#binary-analysis)
-    - [Cryptography](#cryptography)
-    - [Data Exfiltration](#data-exfiltration)
-    - [Digital Forensics and Incident Response](#digital-forensics-and-incident-response-1)
-    - [Exploits](#exploits)
-    - [Malware Analysis](#malware-analysis-1)
-    - [Mobile Securtiy](#mobile-security)
-    - [Network](#network)
-    - [Plugins](#plugins)
-    - [Privacy](#privacy-1)
-    - [Simulation](#simulation)
-    - [Social Engineering](#social-engineering)
-    - [Vulnerable](#vulnerable)
-    - [Web Application Security](#web-application-security-1)
-    - [Windows](#windows)
+* [My Awesome](#my-awesome)
+  * [Articles](#articles)
+    * [Anti Forensics](#anti-forensics)
+    * [Digital Forensics and Incident Response](#digital-forensics-and-incident-response)
+      * [Unix/Linux](#unix-linux)
+      * [IoT](#iot)
+      * [MacOS/iOS](#macos-ios)
+      * [Windows](#windows)
+    * [Exploitation](#exploitation)
+      * [Platform: Android](#platform--android)
+      * [Platform: ARM](#platform--arm)
+      * [Platform: Linux](#platform--linux)
+      * [Platform: Windows](#platform--windows)
+      * [Technique: Bypassing ASLR](#technique--bypassing-aslr)
+      * [Technique: Format Strings](#technique--format-strings)
+      * [Technique: Heap Exploitation](#technique--heap-exploitation)
+      * [Technique: Integer Overflow](#technique--integer-overflow)
+      * [Technique: Return Oriented Programming](#technique--return-oriented-programming)
+      * [Technique: return-to-libc](#technique--return-to-libc)
+      * [Technique: Shellcoding](#technique--shellcoding)
+      * [Technique: Stack Exploitation](#technique--stack-exploitation)
+      * [Technique Use-After-Free](#technique-use-after-free)
+      * [Vulnerability: Spectre and Meltdown](#vulnerability--spectre-and-meltdown)
+    * [Malware Analysis](#malware-analysis)
+    * [Mobile Security](#mobile-security)
+    * [Post Exploitation](#post-exploitation)
+      * [Windows Post Exploitation](#windows-post-exploitation)
+    * [Privacy](#privacy)
+    * [Reverse Engineering](#reverse-engineering)
+    * [Tutorials](#tutorials)
+  * [Web Application Security](#web-application-security)
+    * [Cross-site Request Forgery](#cross-site-request-forgery)
+    * [Cross-site Scripting](#cross-site-scripting)
+    * [PHP Object Injection](#php-object-injection)
+    * [SQL Injection](#sql-injection)
+  * [Tools](#tools)
+    * [AWS Security](#aws-security)
+    * [Binary Analysis](#binary-analysis)
+    * [Cryptography](#cryptography)
+    * [Data Exfiltration](#data-exfiltration)
+    * [DevOps](#devops)
+    * [Digital Forensics and Incident Response](#digital-forensics-and-incident-response)
+    * [Exploits](#exploits)
+    * [Malware Analysis](#malware-analysis)
+    * [Mobile Security](#mobile-security)
+    * [Network](#network)
+    * [Password Tools](#password-tools)
+    * [Plugins](#plugins)
+    * [Privacy](#privacy)
+    * [Simulation](#simulation)
+    * [Social Engineering](#social-engineering)
+    * [Vulnerable](#vulnerable)
+    * [Web Application Security](#web-application-security)
+    * [Windows](#windows)
 
 ---
 
@@ -41,455 +66,455 @@ My curated list of awesome links, resources and tools
 
 ### Anti Forensics
 
-- [Removing Your PDF Metadata & Protecting PDF Files](https://blog.joshlemon.com.au/protecting-your-pdf-files-and-metadata/)
-    - `exiftool`, `qpdf` and `pdfinfo` are required before running [script](files/anti-forensics/removing-your-metadata-and-protecting-pdf-files.sh)
+* [Removing Your PDF Metadata & Protecting PDF Files](https://blog.joshlemon.com.au/protecting-your-pdf-files-and-metadata/)
+  * `exiftool`, `qpdf` and `pdfinfo` are required before running [script](files/anti-forensics/removing-your-metadata-and-protecting-pdf-files.sh)
 
 ---
 
 ### Digital Forensics and Incident Response
 
-- [A Newbie’s Guide to ESXi and VM Log Files](https://www.altaro.com/vmware/introduction-esxi-vm-log-files/)
-- [certsocietegenerale/IRM - Incident Response Methodologies](https://github.com/certsocietegenerale/IRM)
-- [Cloud Forensics: Analyzing MEGASync](http://cyberforensicator.com/2018/04/15/cloud-forensics-analyzing-megasync/)
-- [Tool Analysis Result Sheet](https://jpcertcc.github.io/ToolAnalysisResultSheet/)
+* [A Newbie’s Guide to ESXi and VM Log Files](https://www.altaro.com/vmware/introduction-esxi-vm-log-files/)
+* [certsocietegenerale/IRM - Incident Response Methodologies](https://github.com/certsocietegenerale/IRM)
+* [Cloud Forensics: Analyzing MEGASync](http://cyberforensicator.com/2018/04/15/cloud-forensics-analyzing-megasync/)
+* [Tool Analysis Result Sheet](https://jpcertcc.github.io/ToolAnalysisResultSheet/)
 
 #### Unix/Linux
 
-- [Bruteforcing Linux Full Disk Encryption (LUKS) with hashcat - The Forensic way!](https://blog.pnb.io/2018/02/bruteforcing-linux-full-disk-encryption.html)
-- [Can an SSH session be taken from memory?](https://security.stackexchange.com/questions/148082/can-an-ssh-session-be-taken-from-memory)
-- [INTRO TO LINUX FORENSICS](https://countuponsecurity.com/2017/04/12/intro-to-linux-forensics/)
-- [Linux Memory Forensics: Dissecting the User Space Process Heap](https://articles.forensicfocus.com/2017/10/16/linux-memory-forensics-dissecting-the-user-space-process-heap/)
-- [KIT-CERT Checklist for Linux Forensics](https://git.scc.kit.edu/KIT-CERT/Linux-Forensics-Checklist/blob/master/Linux-Forensics-Checklist.md)
+* [Bruteforcing Linux Full Disk Encryption (LUKS) with hashcat - The Forensic way!](https://blog.pnb.io/2018/02/bruteforcing-linux-full-disk-encryption.html)
+* [Can an SSH session be taken from memory?](https://security.stackexchange.com/questions/148082/can-an-ssh-session-be-taken-from-memory)
+* [INTRO TO LINUX FORENSICS](https://countuponsecurity.com/2017/04/12/intro-to-linux-forensics/)
+* [Linux Memory Forensics: Dissecting the User Space Process Heap](https://articles.forensicfocus.com/2017/10/16/linux-memory-forensics-dissecting-the-user-space-process-heap/)
+* [KIT-CERT Checklist for Linux Forensics](https://git.scc.kit.edu/KIT-CERT/Linux-Forensics-Checklist/blob/master/Linux-Forensics-Checklist.md)
 
 #### IoT
 
-- [Internet Of Things Mobility Forensics](https://articles.forensicfocus.com/2017/05/17/internet-of-things-mobility-forensics/)
+* [Internet Of Things Mobility Forensics](https://articles.forensicfocus.com/2017/05/17/internet-of-things-mobility-forensics/)
 
 #### MacOS/iOS
 
-- [How to Acquire an iOS 11 Device Without the PIN/Passcode](https://www.magnetforensics.com/blog/how-to-acquire-an-ios-11-device-without-the-pinpasscode/)
-- [Inside iCloud Drive: Downloading](https://eclecticlight.co/2018/04/04/inside-icloud-drive-downloading/)
-- [Inside iCloud Drive: Pushed updates, that syncing feeling](https://eclecticlight.co/2018/04/02/inside-icloud-drive-pushed-updates-that-syncing-feeling/)
-- [Inside iCloud Drive: uploading a file](https://eclecticlight.co/2018/03/30/inside-icloud-drive-uploading-a-file/)
-- [iOS 11: HEVC and HEIF (heic) files](https://www.cclgroupltd.com/ios-11-hevc-heif-heic-files/)
-- [macOS Unified log: 1 why, what and how](https://eclecticlight.co/2018/03/19/macos-unified-log-1-why-what-and-how/)
-- [macOS Unified log: 2 content and extraction](https://eclecticlight.co/2018/03/20/macos-unified-log-2-content-and-extraction/)
-- [macOS Unified log: 3 finding your way](https://eclecticlight.co/2018/03/21/macos-unified-log-3-finding-your-way/)
-- [Monkey takes a .heic](http://cheeky4n6monkey.blogspot.com/2017/10/monkey-takes-heic.html)
-- [Mounting an APFS image in Linux](http://az4n6.blogspot.com/2018/01/mounting-apfs-image-in-linux.html)
-- [pstirparo/mac4n6 - Collection of forensics artifacs location for Mac OS X and iOS](https://github.com/pstirparo/mac4n6)
-- [Reading Notes database on macOS](https://www.swiftforensics.com/2018/02/reading-notes-database-on-macos.html)
-- [The Hitchhiker’s Guide to macOS USB Forensics](http://cyberforensicator.com/2017/11/06/the-hitchhikers-guide-to-macos-usb-forensics/)
-- [There’s Gold In Them There Blobs!](https://www.ciofecaforensics.com/2017/10/13/theres-gold-in-them-there-blobs/)
+* [How to Acquire an iOS 11 Device Without the PIN/Passcode](https://www.magnetforensics.com/blog/how-to-acquire-an-ios-11-device-without-the-pinpasscode/)
+* [Inside iCloud Drive: Downloading](https://eclecticlight.co/2018/04/04/inside-icloud-drive-downloading/)
+* [Inside iCloud Drive: Pushed updates, that syncing feeling](https://eclecticlight.co/2018/04/02/inside-icloud-drive-pushed-updates-that-syncing-feeling/)
+* [Inside iCloud Drive: uploading a file](https://eclecticlight.co/2018/03/30/inside-icloud-drive-uploading-a-file/)
+* [iOS 11: HEVC and HEIF (heic) files](https://www.cclgroupltd.com/ios-11-hevc-heif-heic-files/)
+* [macOS Unified log: 1 why, what and how](https://eclecticlight.co/2018/03/19/macos-unified-log-1-why-what-and-how/)
+* [macOS Unified log: 2 content and extraction](https://eclecticlight.co/2018/03/20/macos-unified-log-2-content-and-extraction/)
+* [macOS Unified log: 3 finding your way](https://eclecticlight.co/2018/03/21/macos-unified-log-3-finding-your-way/)
+* [Monkey takes a .heic](http://cheeky4n6monkey.blogspot.com/2017/10/monkey-takes-heic.html)
+* [Mounting an APFS image in Linux](http://az4n6.blogspot.com/2018/01/mounting-apfs-image-in-linux.html)
+* [pstirparo/mac4n6 - Collection of forensics artifacs location for Mac OS X and iOS](https://github.com/pstirparo/mac4n6)
+* [Reading Notes database on macOS](https://www.swiftforensics.com/2018/02/reading-notes-database-on-macos.html)
+* [The Hitchhiker’s Guide to macOS USB Forensics](http://cyberforensicator.com/2017/11/06/the-hitchhikers-guide-to-macos-usb-forensics/)
+* [There’s Gold In Them There Blobs!](https://www.ciofecaforensics.com/2017/10/13/theres-gold-in-them-there-blobs/)
 
 #### Windows
 
-- [(Am)cache still rules everything around me (part 2 of 1)](https://binaryforay.blogspot.com/2017/10/amcache-still-rules-everything-around.html)
-- [Amcache and Shimcache in forensic analysis](https://andreafortuna.org/amcache-and-shimcache-in-forensic-analysis-8e55aa675d2f)
-- [Automating large-scale memory forensics](https://medium.com/@henrikjohansen/automating-large-scale-memory-forensics-fdc302dc3383)
-- [Carving EVTX](https://rawsec.lu/blog/posts/2017/Jun/23/carving-evtx/)
-- [Certificate Chain Cloning and Cloned Root Trust Attacks](https://posts.specterops.io/code-signing-certificate-cloning-attacks-and-defenses-6f98657fc6ec)
-- [Detecting DDE in MS Office documents with YARA rules](https://blog.nviso.be/2017/10/11/detecting-dde-in-ms-office-documents/)
-- [Forensic Analysis of Systems that have Windows Subsystem for Linux Installed](http://blog.1234n6.com/2017/10/forensic-analysis-of-systems-with.html)
-- [Getting to the Bottom of CVE-2018-0825 Heap Overflow Buffer](https://www.ixiacom.com/company/blog/getting-bottom-cve-2018-0825-heap-overflow-buffer)
-- [Hidden Treasure: Intrusion Detection with ETW (Part 1)](https://blogs.technet.microsoft.com/office365security/hidden-treasure-intrusion-detection-with-etw-part-1/)
-- [How to Crack Passwords for Password Protected MS Office Documents](https://www.blackhillsinfosec.com/crack-passwords-password-protected-ms-office-documents/)
-- [HUNTING EVENT LOGGING COVERUP](http://malwarenailed.blogspot.com/2017/10/update-to-hunting-mimikatz-using-sysmon.html)
-- [Logging Keystrokes with Event Tracing for Windows (ETW)](https://www.cyberpointllc.com/srt/posts/srt-logging-keystrokes-with-event-tracing-for-windows-etw.html)
-- [Looking at APT28 latest Talos Security write up and how YOU could catch this type of behavior](https://hackerhurricane.blogspot.com/2017/10/looking-at-apt28-latest-talos-security.html)
-- [MAC(b) times in Windows forensic analysis](https://andreafortuna.org/mac-b-times-in-windows-forensics-analysis-c821d801a810)
-- [Memory Acquisition and Virtual Secure Mode](https://df-stream.com/2017/08/memory-acquisition-and-virtual-secure/)
-- [pwndizzle/CodeExecutionOnWindows - A list of ways to execute code on Windows using legitimate Windows tools](https://github.com/pwndizzle/CodeExecutionOnWindows)
-- [RecentApps Registry Key](https://df-stream.com/2017/10/recentapps/)
-- [Some reminders about Windows file times](https://medium.com/@4n68r/some-reminders-about-windows-file-times-2debe1edb978)
-- [Tales of a Threat Hunter 1](https://www.eideon.com/2017-09-09-THL01-Mimikatz/)
-- [Volume Shadow Copies in forensic analysis](https://andreafortuna.org/volume-shadow-copies-in-forensics-analysis-7708adefe61c)
-- [Use Windows Event Forwarding to help with intrusion detection](https://docs.microsoft.com/en-us/windows/threat-protection/use-windows-event-forwarding-to-assist-in-instrusion-detection)
-- [Windows, Now with built in anti forensics!](http://www.hecfblog.com/2017/04/windows-now-built-in-anti-forensics.html)
-- [Windows Credentials: Attack + Mitigation + Defense](https://www.first.org/resources/papers/conf2017/Windows-Credentials-Attacks-and-Mitigation-Techniques.pdf)
-- [Windows Drive Acquisition](https://articles.forensicfocus.com/2017/10/19/windows-drive-acquisition/)
-- [Windows event logs in forensic analysis](https://andreafortuna.org/windows-event-logs-in-forensic-analysis-d80e2a134fdd)
-- [Windows Privileged Access Reference](https://docs.microsoft.com/en-us/windows-server/identity/securing-privileged-access/securing-privileged-access-reference-material#ATLT_BM)
-- [Windows registry in forensic analysis](https://andreafortuna.org/windows-registry-in-forensic-analysis-7bf060d2da)
-- [Windows Security Identifiers (SIDs)](https://andreafortuna.org/windows-security-identifiers-sids-2196a5be2f4d)
-- [Windows Subsystem for Linux and Forensic Analysi](http://blog.1234n6.com/2017/10/windows-subsystem-for-linux-and.html)
-- [Windows Event Forwarding for Network Defense](https://medium.com/@palantir/windows-event-forwarding-for-network-defense-cb208d5ff86f)
+* [(Am)cache still rules everything around me (part 2 of 1)](https://binaryforay.blogspot.com/2017/10/amcache-still-rules-everything-around.html)
+* [Amcache and Shimcache in forensic analysis](https://andreafortuna.org/amcache-and-shimcache-in-forensic-analysis-8e55aa675d2f)
+* [Automating large-scale memory forensics](https://medium.com/@henrikjohansen/automating-large-scale-memory-forensics-fdc302dc3383)
+* [Carving EVTX](https://rawsec.lu/blog/posts/2017/Jun/23/carving-evtx/)
+* [Certificate Chain Cloning and Cloned Root Trust Attacks](https://posts.specterops.io/code-signing-certificate-cloning-attacks-and-defenses-6f98657fc6ec)
+* [Detecting DDE in MS Office documents with YARA rules](https://blog.nviso.be/2017/10/11/detecting-dde-in-ms-office-documents/)
+* [Forensic Analysis of Systems that have Windows Subsystem for Linux Installed](http://blog.1234n6.com/2017/10/forensic-analysis-of-systems-with.html)
+* [Getting to the Bottom of CVE-2018-0825 Heap Overflow Buffer](https://www.ixiacom.com/company/blog/getting-bottom-cve-2018-0825-heap-overflow-buffer)
+* [Hidden Treasure: Intrusion Detection with ETW (Part 1)](https://blogs.technet.microsoft.com/office365security/hidden-treasure-intrusion-detection-with-etw-part-1/)
+* [How to Crack Passwords for Password Protected MS Office Documents](https://www.blackhillsinfosec.com/crack-passwords-password-protected-ms-office-documents/)
+* [HUNTING EVENT LOGGING COVERUP](http://malwarenailed.blogspot.com/2017/10/update-to-hunting-mimikatz-using-sysmon.html)
+* [Logging Keystrokes with Event Tracing for Windows (ETW)](https://www.cyberpointllc.com/srt/posts/srt-logging-keystrokes-with-event-tracing-for-windows-etw.html)
+* [Looking at APT28 latest Talos Security write up and how YOU could catch this type of behavior](https://hackerhurricane.blogspot.com/2017/10/looking-at-apt28-latest-talos-security.html)
+* [MAC(b) times in Windows forensic analysis](https://andreafortuna.org/mac-b-times-in-windows-forensics-analysis-c821d801a810)
+* [Memory Acquisition and Virtual Secure Mode](https://df-stream.com/2017/08/memory-acquisition-and-virtual-secure/)
+* [pwndizzle/CodeExecutionOnWindows - A list of ways to execute code on Windows using legitimate Windows tools](https://github.com/pwndizzle/CodeExecutionOnWindows)
+* [RecentApps Registry Key](https://df-stream.com/2017/10/recentapps/)
+* [Some reminders about Windows file times](https://medium.com/@4n68r/some-reminders-about-windows-file-times-2debe1edb978)
+* [Tales of a Threat Hunter 1](https://www.eideon.com/2017-09-09-THL01-Mimikatz/)
+* [Volume Shadow Copies in forensic analysis](https://andreafortuna.org/volume-shadow-copies-in-forensics-analysis-7708adefe61c)
+* [Use Windows Event Forwarding to help with intrusion detection](https://docs.microsoft.com/en-us/windows/threat-protection/use-windows-event-forwarding-to-assist-in-instrusion-detection)
+* [Windows, Now with built in anti forensics!](http://www.hecfblog.com/2017/04/windows-now-built-in-anti-forensics.html)
+* [Windows Credentials: Attack + Mitigation + Defense](https://www.first.org/resources/papers/conf2017/Windows-Credentials-Attacks-and-Mitigation-Techniques.pdf)
+* [Windows Drive Acquisition](https://articles.forensicfocus.com/2017/10/19/windows-drive-acquisition/)
+* [Windows event logs in forensic analysis](https://andreafortuna.org/windows-event-logs-in-forensic-analysis-d80e2a134fdd)
+* [Windows Privileged Access Reference](https://docs.microsoft.com/en-us/windows-server/identity/securing-privileged-access/securing-privileged-access-reference-material#ATLT_BM)
+* [Windows registry in forensic analysis](https://andreafortuna.org/windows-registry-in-forensic-analysis-7bf060d2da)
+* [Windows Security Identifiers (SIDs)](https://andreafortuna.org/windows-security-identifiers-sids-2196a5be2f4d)
+* [Windows Subsystem for Linux and Forensic Analysi](http://blog.1234n6.com/2017/10/windows-subsystem-for-linux-and.html)
+* [Windows Event Forwarding for Network Defense](https://medium.com/@palantir/windows-event-forwarding-for-network-defense-cb208d5ff86f)
 
 ---
 
 ### Exploitation
 
-- [Guest Diary (Etay Nir) Kernel Hooking Basics](https://isc.sans.edu/forums/diary/Guest+Diary+Etay+Nir+Kernel+Hooking+Basics/23155/)
+* [Guest Diary (Etay Nir) Kernel Hooking Basics](https://isc.sans.edu/forums/diary/Guest+Diary+Etay+Nir+Kernel+Hooking+Basics/23155/)
 
 #### Platform: Android
 
-- [Android Bluetooth Vulnerabilities in the March 2018 Security Bulletin](https://blog.quarkslab.com/android-bluetooth-vulnerabilities-in-the-march-2018-security-bulletin.html)
-- [CVE-2017-13253: Buffer overflow in multiple Android DRM services](https://blog.zimperium.com/cve-2017-13253-buffer-overflow-multiple-android-drm-services/)
+* [Android Bluetooth Vulnerabilities in the March 2018 Security Bulletin](https://blog.quarkslab.com/android-bluetooth-vulnerabilities-in-the-march-2018-security-bulletin.html)
+* [CVE-2017-13253: Buffer overflow in multiple Android DRM services](https://blog.zimperium.com/cve-2017-13253-buffer-overflow-multiple-android-drm-services/)
 
 #### Platform: ARM
 
-- [ARM exploitation for IoT – Episode 1](https://quequero.org/2017/07/arm-exploitation-iot-episode-1/)
-- [ARM exploitation for IoT – Episode 2](https://quequero.org/2017/09/arm-exploitation-iot-episode-2/)
-- [ARM exploitation for IoT – Episode 3](https://quequero.org/2017/11/arm-exploitation-iot-episode-3/)
+* [ARM exploitation for IoT – Episode 1](https://quequero.org/2017/07/arm-exploitation-iot-episode-1/)
+* [ARM exploitation for IoT – Episode 2](https://quequero.org/2017/09/arm-exploitation-iot-episode-2/)
+* [ARM exploitation for IoT – Episode 3](https://quequero.org/2017/11/arm-exploitation-iot-episode-3/)
 
 #### Platform: Linux
 
-- [64-bit Linux Return-Oriented Programming](https://crypto.stanford.edu/~blynn/rop/)
-- [Adapting the POC for CVE-2017-1000112 to Other Kernels](http://ricklarabee.blogspot.ch/2017/12/adapting-poc-for-cve-2017-1000112-to.html)
-- [Blocking double-free in Linux kernel](http://blog.ptsecurity.com/2017/08/linux-block-double-free.html)
-- [CVE-2016-2384: exploiting a double-free in the usb-midi linux kernel driver](https://xairy.github.io/blog/2016/cve-2016-2384)
-- [CVE-2017-2636: exploit the race condition in the n_hdlc Linux kernel driver bypassing SMEP](https://a13xp0p0v.github.io/2017/03/24/CVE-2017-2636.html)
-- [Dirty COW and why lying is bad even if you are the Linux kernel](https://chao-tic.github.io/blog/2017/05/24/dirty-cow)
-- [Enumeration for Linux Privilege Escalation](https://0x00sec.org/t/enumeration-for-linux-privilege-escalation/1959)
-- [Escaping Docker container using waitid() – CVE-2017-5123](https://www.twistlock.com/2017/12/27/escaping-docker-container-using-waitid-cve-2017-5123/)
-- [Exploiting the Linux kernel via packet sockets](https://googleprojectzero.blogspot.com/2017/05/exploiting-linux-kernel-via-packet.html)
-- [Kernel Exploitation | Dereferencing a NULL pointer!](https://0x00sec.org/t/kernel-exploitation-dereferencing-a-null-pointer/3850)
-- [Linux (x86) Exploit Development Series](https://sploitfun.wordpress.com/2015/06/26/linux-x86-exploit-development-tutorial-series/)
-- [Linux Heap Exploitation Intro Series: The magicians cape – 1 Byte Overflow](https://sensepost.com/blog/2017/linux-heap-exploitation-intro-series-the-magicians-cape-1-byte-overflow/)
-- [Linux Heap Exploitation Intro Series: Set you free() – part 1](https://sensepost.com/blog/2018/linux-heap-exploitation-intro-series-set-you-free-part-1/)
-- [Linux Heap Exploitation Intro Series: Used and Abused – Use After Free](https://sensepost.com/blog/2017/linux-heap-exploitation-intro-series-used-and-abused-use-after-free/)
-- [Linux Kernel ROP - Ropping your way to # (Part 1)](https://www.trustwave.com/Resources/SpiderLabs-Blog/Linux-Kernel-ROP---Ropping-your-way-to---(Part-1)/)
-- [Linux Kernel ROP - Ropping your way to # (Part 2)](https://www.trustwave.com/Resources/SpiderLabs-Blog/Linux-Kernel-ROP---Ropping-your-way-to---(Part-2)/)
-- [Linux Kernel Vulnerability Can Lead to Privilege Escalation: Analyzing CVE-2017-1000112](https://securingtomorrow.mcafee.com/mcafee-labs/linux-kernel-vulnerability-can-lead-to-privilege-escalation-analyzing-cve-2017-1000112/#sf118405156)
-- [Linux System Call Table](http://thevivekpandey.github.io/posts/2017-09-25-linux-system-calls.html)
-- [Reversing DirtyC0W](http://blog.tetrane.com/2017/09/dirtyc0w-1.html)
-- [The Definitive Guide to Linux System Calls](https://blog.packagecloud.io/eng/2016/04/05/the-definitive-guide-to-linux-system-calls/)
-- [xairy/linux-kernel-exploitation](https://github.com/xairy/linux-kernel-exploitation)
+* [64-bit Linux Return-Oriented Programming](https://crypto.stanford.edu/~blynn/rop/)
+* [Adapting the POC for CVE-2017-1000112 to Other Kernels](http://ricklarabee.blogspot.ch/2017/12/adapting-poc-for-cve-2017-1000112-to.html)
+* [Blocking double-free in Linux kernel](http://blog.ptsecurity.com/2017/08/linux-block-double-free.html)
+* [CVE-2016-2384: exploiting a double-free in the usb-midi linux kernel driver](https://xairy.github.io/blog/2016/cve-2016-2384)
+* [CVE-2017-2636: exploit the race condition in the n_hdlc Linux kernel driver bypassing SMEP](https://a13xp0p0v.github.io/2017/03/24/CVE-2017-2636.html)
+* [Dirty COW and why lying is bad even if you are the Linux kernel](https://chao-tic.github.io/blog/2017/05/24/dirty-cow)
+* [Enumeration for Linux Privilege Escalation](https://0x00sec.org/t/enumeration-for-linux-privilege-escalation/1959)
+* [Escaping Docker container using waitid() – CVE-2017-5123](https://www.twistlock.com/2017/12/27/escaping-docker-container-using-waitid-cve-2017-5123/)
+* [Exploiting the Linux kernel via packet sockets](https://googleprojectzero.blogspot.com/2017/05/exploiting-linux-kernel-via-packet.html)
+* [Kernel Exploitation | Dereferencing a NULL pointer!](https://0x00sec.org/t/kernel-exploitation-dereferencing-a-null-pointer/3850)
+* [Linux (x86) Exploit Development Series](https://sploitfun.wordpress.com/2015/06/26/linux-x86-exploit-development-tutorial-series/)
+* [Linux Heap Exploitation Intro Series: The magicians cape – 1 Byte Overflow](https://sensepost.com/blog/2017/linux-heap-exploitation-intro-series-the-magicians-cape-1-byte-overflow/)
+* [Linux Heap Exploitation Intro Series: Set you free() – part 1](https://sensepost.com/blog/2018/linux-heap-exploitation-intro-series-set-you-free-part-1/)
+* [Linux Heap Exploitation Intro Series: Used and Abused – Use After Free](https://sensepost.com/blog/2017/linux-heap-exploitation-intro-series-used-and-abused-use-after-free/)
+* [Linux Kernel ROP - Ropping your way to # (Part 1)](<https://www.trustwave.com/Resources/SpiderLabs-Blog/Linux-Kernel-ROP---Ropping-your-way-to---(Part-1)/>)
+* [Linux Kernel ROP - Ropping your way to # (Part 2)](<https://www.trustwave.com/Resources/SpiderLabs-Blog/Linux-Kernel-ROP---Ropping-your-way-to---(Part-2)/>)
+* [Linux Kernel Vulnerability Can Lead to Privilege Escalation: Analyzing CVE-2017-1000112](https://securingtomorrow.mcafee.com/mcafee-labs/linux-kernel-vulnerability-can-lead-to-privilege-escalation-analyzing-cve-2017-1000112/#sf118405156)
+* [Linux System Call Table](http://thevivekpandey.github.io/posts/2017-09-25-linux-system-calls.html)
+* [Reversing DirtyC0W](http://blog.tetrane.com/2017/09/dirtyc0w-1.html)
+* [The Definitive Guide to Linux System Calls](https://blog.packagecloud.io/eng/2016/04/05/the-definitive-guide-to-linux-system-calls/)
+* [xairy/linux-kernel-exploitation](https://github.com/xairy/linux-kernel-exploitation)
 
 #### Platform: Windows
 
-- [0patching the "Immortal" CVE-2017-7269](https://0patch.blogspot.com/2017/03/0patching-immortal-cve-2017-7269.html)
-- [15 Ways to Bypass the PowerShell Execution Policy](https://blog.netspi.com/15-ways-to-bypass-the-powershell-execution-policy/)
-- [A Bug Has No Name: Multiple Heap Buffer Overflows In the Windows DNS Client](https://www.bishopfox.com/blog/2017/10/a-bug-has-no-name-multiple-heap-buffer-overflows-in-the-windows-dns-client/)
-- [Abusing A Writable Windows Service](https://blog.didierstevens.com/2017/09/05/abusing-a-writable-windows-service/)
-- [Abusing Delay Load DLLs for Remote Code Injection](http://hatriot.github.io/blog/2017/09/19/abusing-delay-load-dll/)
-- [Abusing GDI objects: Bitmap object’s size in the kernel pool](http://theevilbit.blogspot.com/2017/10/abusing-gdi-objects-bitmap-objects-size.html)
-- [A deeper look at ms11-058](https://blog.skullsecurity.org/2011/a-deeper-look-at-ms11-058)
-- [An Inside Look at CVE-2017-0199 – HTA and Scriptlet File Handler Vulnerability](https://blog.fortinet.com/2017/06/05/an-inside-look-at-cve-2017-0199-hta-and-scriptlet-file-handler-vulnerability)
-- [Analysis of CVE-2017-11882 Exploit in the Wild](https://researchcenter.paloaltonetworks.com/2017/12/unit42-analysis-of-cve-2017-11882-exploit-in-the-wild/)
-- [aPAColypse now: Exploiting Windows 10 in a Local Network with WPAD/PAC and JScript](https://googleprojectzero.blogspot.com/2017/12/apacolypse-now-exploiting-windows-10-in_18.html)
-- [AtomBombing: Brand New Code Injection for Windows](https://breakingmalware.com/injection-techniques/atombombing-brand-new-code-injection-for-windows/)
-- [AtomBombing CFG Protected Processes](https://breakingmalware.com/injection-techniques/atombombing-cfg-protected-processes/)
-- [Breaking backwards compatibility: a 5 year old bug deep within Windows](http://www.triplefault.io/2017/07/breaking-backwards-compatibility-5-year.html)
-- [Breaking out of Restricted Windows Environment](https://weirdgirlweb.wordpress.com/2017/06/14/first-blog-post/)
-- [Bringing Call Gates Back](http://www.alex-ionescu.com/?p=340)
-- [Bypassing Microsoft's Patch for CVE-2017-0199](http://justhaifei1.blogspot.com.br/2017/07/bypassing-microsofts-cve-2017-0199-patch.html)
-- [C# Inject a Dll into a Process (w/ CreateRemoteThread)](http://www.codingvision.net/miscellaneous/c-inject-a-dll-into-a-process-w-createremotethread)
-- [Decrement Windows kernel for fun and profit](https://sww-it.ru/2018-01-29/1532)
-- [DEFEATING DEVICE GUARD: A LOOK INTO CVE-2017-0007](https://enigma0x3.net/2017/04/03/defeating-device-guard-a-look-into-cve-2017-0007/)
-- [Detecting and mitigating elevation-of-privilege exploit for CVE-2017-0005](https://blogs.technet.microsoft.com/mmpc/2017/03/27/detecting-and-mitigating-elevation-of-privilege-exploit-for-cve-2017-0005/)
-- [Digging Into a Windows Kernel Privilege Escalation Vulnerability: CVE-2016-7255](https://securingtomorrow.mcafee.com/mcafee-labs/digging-windows-kernel-privilege-escalation-vulnerability-cve-2016-7255/)
-- [Disarming EMET 5.52: Controlling it all with a single write action](https://blog.ropchain.com/2017/04/03/disarming-emet-5-52/)
-- [Enumerating process, thread, and image load notification callback routines in Windows](http://www.triplefault.io/2017/09/enumerating-process-thread-and-image.html)
-- [EternalBlue – Everything there is to know](https://research.checkpoint.com/eternalblue-everything-know/)
-- [Exploit Kit Rendezvous and CVE-2017-0022](https://0patch.blogspot.com/2017/09/exploit-kit-rendezvous-and-cve-2017-0022.html)
-- [Exploiting MS16-145: MS Edge TypedArray.sort Use-After-Free (CVE-2016-7288)](https://blog.quarkslab.com/exploiting-ms16-145-ms-edge-typedarraysort-use-after-free-cve-2016-7288.html)
-- [Exploiting MS16-098 RGNOBJ Integer Overflow on Windows 8.1 x64 bit by abusing GDI objects](https://sensepost.com/blog/2017/exploiting-ms16-098-rgnobj-integer-overflow-on-windows-8.1-x64-bit-by-abusing-gdi-objects/)
-- [Exploring Windows virtual memory management](http://www.triplefault.io/2017/08/exploring-windows-virtual-memory.html)
-- [From Out Of Memory to Remote Code Execution](https://speakerdeck.com/yukichen/from-out-of-memory-to-remote-code-execution)
-- [Getting Code Execution on Windows by Abusing Default Kernel Debugging Setting](https://tyranidslair.blogspot.com/2017/03/getting-code-execution-on-windows-by.html)
-- [Hardening Windows 10 with zero-day exploit mitigations](https://blogs.technet.microsoft.com/mmpc/2017/01/13/hardening-windows-10-with-zero-day-exploit-mitigations/)
-- [Introduction to IA-32e hardware paging](http://www.triplefault.io/2017/07/introduction-to-ia-32e-hardware-paging.html)
-- [Introduction to Windows shellcode development – Part 1](https://securitycafe.ro/2015/10/30/introduction-to-windows-shellcode-development-part1/)
-- [Introduction to Windows shellcode development – Part 2](https://securitycafe.ro/2015/12/14/introduction-to-windows-shellcode-development-part-2/)
-- [Introduction to Windows shellcode development – Part 3](https://securitycafe.ro/2016/02/15/introduction-to-windows-shellcode-development-part-3/) 
-- [Kernel Debugging 101 – Part1](https://vvalien1.wordpress.com/2016/12/26/kernel-debugging-101/)
-- [Kernel Debugging 101 – Part2](https://vvalien1.wordpress.com/2017/01/01/kernel-debugging-101-part2/)
-- [Kernel Debugging 101 – Part3](https://vvalien1.wordpress.com/2017/01/01/kernel-debugging-101-part3/)
-- [Kernel Exploitation Case Study - "Wild" Pool Overflow on Win10 x64 RS2 (CVE-2016-3309 Reloaded)](https://siberas.de/blog/2017/10/05/exploitation_case_study_wild_pool_overflow_CVE-2016-3309_reloaded.html)
-- [Kernel Exploit Demo - Windows 10 privesc via WARBIRD](https://blog.xpnsec.com/windows-warbird-privesc/)
-- [Kernel Pool Overflow Exploitation In Real World – Windows 7](http://trackwatch.com/kernel-pool-overflow-exploitation-in-real-world-windows-7/)
-- [Kernel Pool Overflow Exploitation In Real World – Windows 10](http://trackwatch.com/kernel-pool-overflow-exploitation-in-real-world-windows-10/)
-- [Many Formulas, One Calc – Exploiting a New Office Equation Vulnerability](https://research.checkpoint.com/another-office-equation-rce-vulnerability/)
-- [Microsoft Kills Potential Remote Code Execution Vulnerability in Office (CVE-2017-8630)](https://securingtomorrow.mcafee.com/mcafee-labs/microsoft-kills-potential-remote-code-execution-vulnerability-in-office-cve-2017-8630/)
-- [MS17-010: EternalBlue’s Large Non-Paged Pool Overflow in SRV Driver](http://blog.trendmicro.com/trendlabs-security-intelligence/ms17-010-eternalblue/)
-- [MS OFFICE EXPLOIT ANALYSIS – CVE-2015-1641](http://www.sekoia.fr/blog/ms-office-exploit-analysis-cve-2015-1641/)
-- [ON THE ROAD OF HIDING… PEB, PE FORMAT HANDLING AND DLL LOADING HOMEMADE APIS – PART 1](https://gbmaster.wordpress.com/2012/02/26/on-the-road-of-hiding-peb-pe-format-handling-and-dll-loading-homemade-apis-part-1/)
-- [ON THE ROAD OF HIDING… PEB, PE FORMAT HANDLING AND DLL LOADING HOMEMADE APIS – PART 2](https://gbmaster.wordpress.com/2012/03/02/on-the-road-of-hiding-peb-pe-format-handling-and-dll-loading-homemade-apis-part-2/)
-- [ON THE ROAD OF HIDING… PEB, PE FORMAT HANDLING AND DLL LOADING HOMEMADE APIS – PART 3](https://gbmaster.wordpress.com/2012/04/02/on-the-road-of-hiding-peb-pe-format-handling-and-dll-loading-homemade-apis-part-3/)
-- [ON THE ROAD OF HIDING… PEB, PE FORMAT HANDLING AND DLL LOADING HOMEMADE APIS – LAST PART](https://gbmaster.wordpress.com/2012/04/17/on-the-road-of-hiding-peb-pe-format-handling-and-dll-loading-homemade-apis-last-part/)
-- [Puppet Strings - Dirty Secret for Windows Ring 0 Code Execution](https://zerosum0x0.blogspot.com/2017/07/puppet-strings-dirty-secret-for-free.html?m=1)
-- [Reading Your Way Around UAC (Part 1)](https://tyranidslair.blogspot.com/2017/05/reading-your-way-around-uac-part-1.html)
-- [Reading Your Way Around UAC (Part 2)](https://tyranidslair.blogspot.com/2017/05/reading-your-way-around-uac-part-2.html)
-- [Reading Your Way Around UAC (Part 3)](https://tyranidslair.blogspot.com/2017/05/reading-your-way-around-uac-part-3.html)
-- [Reflective DLL Injection](https://0x00sec.org/t/reflective-dll-injection/3080)
-- [Rotten Potato – Privilege Escalation from Service Accounts to SYSTEM](https://foxglovesecurity.com/2016/09/26/rotten-potato-privilege-escalation-from-service-accounts-to-system/)
-- [sam-b/windows_kernel_resources](https://github.com/sam-b/windows_kernel_resources)
-- [Sharks in the Pool :: Mixed Object Exploitation in the Windows Kernel Pool](http://srcincite.io/blog/2017/09/06/sharks-in-the-pool-mixed-object-exploitation-in-the-windows-kernel-pool.html)
-- [Signing Mimikatz](https://twitter.com/subTee/status/912769644473098240)
-- [Skeleton in the closet. MS Office vulnerability you didn’t know about](https://embedi.com/blog/skeleton-closet-ms-office-vulnerability-you-didnt-know-about/)
-- [Starting with Windows Kernel Exploitation – part 1 – setting up the lab](https://hshrzd.wordpress.com/2017/05/28/starting-with-windows-kernel-exploitation-part-1-setting-up-the-lab/)
-- [Starting with Windows Kernel Exploitation – part 2 – getting familiar with HackSys Extreme Vulnerable Driver](https://hshrzd.wordpress.com/2017/06/05/starting-with-windows-kernel-exploitation-part-2/)
-- [Starting with Windows Kernel Exploitation – part 3 – stealing the Access Token](https://hshrzd.wordpress.com/2017/06/22/starting-with-windows-kernel-exploitation-part-3-stealing-the-access-token/)
-- [Tales from the MSRC: from pixels to POC](https://blogs.technet.microsoft.com/srd/2017/06/20/tales-from-the-msrc-from-pixels-to-poc/)
-- [The Art of Becoming TrustedInstaller](https://tyranidslair.blogspot.co.id/2017/08/the-art-of-becoming-trustedinstaller.html)
-- [The lonely potato](https://decoder.cloud/2017/12/23/the-lonely-potato/)
-- [The Unpatched LSASS Remote Denial of Service (MS16-137)](https://www.coresecurity.com/blog/unpatched-lsass-remote-denial-service-ms16-137)
-- [Using Binary Diffing to Discover Windows Kernel Memory Disclosure Bugs](http://googleprojectzero.blogspot.com/2017/10/using-binary-diffing-to-discover.html)
-- [Windows 10 Creators Update 32-bit execution of ring-0 code from NULL page via NtQuerySystemInformation (class 185, Warbird functionality)](https://bugs.chromium.org/p/project-zero/issues/detail?id=1391)
-- [Windows Exploitation Tricks: Arbitrary Directory Creation to Arbitrary File Read](https://googleprojectzero.blogspot.com/2017/08/windows-exploitation-tricks-arbitrary.html)
-- [Windows kernel pool spraying fun - Part 1 - Determine kernel object size](http://theevilbit.blogspot.com/2017/09/pool-spraying-fun-part-1.html)
-- [Windows kernel pool spraying fun - Part 2 - More objects](http://theevilbit.blogspot.com/2017/09/windows-kernel-pool-spraying-fun-part-2.html)
-- [Windows kernel pool spraying fun - Part 3 - Let's make holes](http://theevilbit.blogspot.com/2017/09/windows-kernel-pool-spraying-fun-part-3.html)
-- [Windows kernel pool spraying fun - Part 4 - object & pool headers, kex & putting it all together](http://theevilbit.blogspot.com/2017/09/windows-kernel-pool-spraying-fun-part-4.html)
-- [Windows Kernel Exploitation Part 1](http://resources.infosecinstitute.com/windows-kernel-exploitation-part-1/)
-- [Windows Kernel Exploitation Part 2](http://resources.infosecinstitute.com/kernel-exploitation-part-2/)
-- [Windows Kernel Exploitation Part 3](http://resources.infosecinstitute.com/kernel-exploitation-part-3/)
-- [Windows Kernel Exploitation Tutorial Part 1: Setting up the Environment](https://rootkits.xyz/blog/2017/06/kernel-setting-up/)
-- [Windows Kernel Exploitation Tutorial Part 2: Stack Overflow](https://rootkits.xyz/blog/2017/08/kernel-stack-overflow/)
-- [Windows Kernel Exploitation Tutorial Part 3: Arbitrary Memory Overwrite (Write-What-Where)](https://rootkits.xyz/blog/2017/09/kernel-write-what-where/)
-- [Windows Kernel Exploitation Tutorial Part 4: Pool Feng-Shui –> Pool Overflow](https://rootkits.xyz/blog/2017/11/kernel-pool-overflow/)
-- [Windows Kernel Exploitation Tutorial Part 5: NULL Pointer Dereference](https://rootkits.xyz/blog/2018/01/kernel-null-pointer-dereference/)
-- [Windows Kernel Exploitation Tutorial Part 6: Uninitialized Stack Variable](https://rootkits.xyz/blog/2018/01/kernel-uninitialized-stack-variable/)
-- [Windows Kernel Exploitation Tutorial Part 7: Uninitialized Heap Variable](https://rootkits.xyz/blog/2018/03/kernel-uninitialized-heap-variable/)
-- [Windows Kernel Exploitation – Arbitrary Overwrite](https://osandamalith.com/2017/06/14/windows-kernel-exploitation-arbitrary-overwrite/)
-- [Windows Kernel Exploitation : This Time Font hunt you down in 4 bytes](https://www.slideshare.net/PeterHlavaty/windows-kernel-exploitation-this-time-font-hunt-you-down-in-4-bytes)
-- [Windows Operating System Archaeology](https://www.slideshare.net/enigma0x3/windows-operating-system-archaeology)
-- [Zero Day Zen Garden: Windows Exploit Development - Part 0 [Dev Setup & Advice]](http://www.shogunlab.com/blog/2017/08/11/zdzg-windows-exploit-0.html)
-- [Zero Day Zen Garden: Windows Exploit Development - Part 1 [Stack Buffer Overflow Intro]](http://www.shogunlab.com/blog/2017/08/19/zdzg-windows-exploit-1.html)
-- [Zero Day Zen Garden: Windows Exploit Development - Part 2 [JMP to Locate Shellcode]](http://www.shogunlab.com/blog/2017/08/26/zdzg-windows-exploit-2.html)
-- [Zero Day Zen Garden: Windows Exploit Development - Part 3 [Egghunter to Locate Shellcode]](http://www.shogunlab.com/blog/2017/09/02/zdzg-windows-exploit-3.html)
+* [0patching the "Immortal" CVE-2017-7269](https://0patch.blogspot.com/2017/03/0patching-immortal-cve-2017-7269.html)
+* [15 Ways to Bypass the PowerShell Execution Policy](https://blog.netspi.com/15-ways-to-bypass-the-powershell-execution-policy/)
+* [A Bug Has No Name: Multiple Heap Buffer Overflows In the Windows DNS Client](https://www.bishopfox.com/blog/2017/10/a-bug-has-no-name-multiple-heap-buffer-overflows-in-the-windows-dns-client/)
+* [Abusing A Writable Windows Service](https://blog.didierstevens.com/2017/09/05/abusing-a-writable-windows-service/)
+* [Abusing Delay Load DLLs for Remote Code Injection](http://hatriot.github.io/blog/2017/09/19/abusing-delay-load-dll/)
+* [Abusing GDI objects: Bitmap object’s size in the kernel pool](http://theevilbit.blogspot.com/2017/10/abusing-gdi-objects-bitmap-objects-size.html)
+* [A deeper look at ms11-058](https://blog.skullsecurity.org/2011/a-deeper-look-at-ms11-058)
+* [An Inside Look at CVE-2017-0199 – HTA and Scriptlet File Handler Vulnerability](https://blog.fortinet.com/2017/06/05/an-inside-look-at-cve-2017-0199-hta-and-scriptlet-file-handler-vulnerability)
+* [Analysis of CVE-2017-11882 Exploit in the Wild](https://researchcenter.paloaltonetworks.com/2017/12/unit42-analysis-of-cve-2017-11882-exploit-in-the-wild/)
+* [aPAColypse now: Exploiting Windows 10 in a Local Network with WPAD/PAC and JScript](https://googleprojectzero.blogspot.com/2017/12/apacolypse-now-exploiting-windows-10-in_18.html)
+* [AtomBombing: Brand New Code Injection for Windows](https://breakingmalware.com/injection-techniques/atombombing-brand-new-code-injection-for-windows/)
+* [AtomBombing CFG Protected Processes](https://breakingmalware.com/injection-techniques/atombombing-cfg-protected-processes/)
+* [Breaking backwards compatibility: a 5 year old bug deep within Windows](http://www.triplefault.io/2017/07/breaking-backwards-compatibility-5-year.html)
+* [Breaking out of Restricted Windows Environment](https://weirdgirlweb.wordpress.com/2017/06/14/first-blog-post/)
+* [Bringing Call Gates Back](http://www.alex-ionescu.com/?p=340)
+* [Bypassing Microsoft's Patch for CVE-2017-0199](http://justhaifei1.blogspot.com.br/2017/07/bypassing-microsofts-cve-2017-0199-patch.html)
+* [C# Inject a Dll into a Process (w/ CreateRemoteThread)](http://www.codingvision.net/miscellaneous/c-inject-a-dll-into-a-process-w-createremotethread)
+* [Decrement Windows kernel for fun and profit](https://sww-it.ru/2018-01-29/1532)
+* [DEFEATING DEVICE GUARD: A LOOK INTO CVE-2017-0007](https://enigma0x3.net/2017/04/03/defeating-device-guard-a-look-into-cve-2017-0007/)
+* [Detecting and mitigating elevation-of-privilege exploit for CVE-2017-0005](https://blogs.technet.microsoft.com/mmpc/2017/03/27/detecting-and-mitigating-elevation-of-privilege-exploit-for-cve-2017-0005/)
+* [Digging Into a Windows Kernel Privilege Escalation Vulnerability: CVE-2016-7255](https://securingtomorrow.mcafee.com/mcafee-labs/digging-windows-kernel-privilege-escalation-vulnerability-cve-2016-7255/)
+* [Disarming EMET 5.52: Controlling it all with a single write action](https://blog.ropchain.com/2017/04/03/disarming-emet-5-52/)
+* [Enumerating process, thread, and image load notification callback routines in Windows](http://www.triplefault.io/2017/09/enumerating-process-thread-and-image.html)
+* [EternalBlue – Everything there is to know](https://research.checkpoint.com/eternalblue-everything-know/)
+* [Exploit Kit Rendezvous and CVE-2017-0022](https://0patch.blogspot.com/2017/09/exploit-kit-rendezvous-and-cve-2017-0022.html)
+* [Exploiting MS16-145: MS Edge TypedArray.sort Use-After-Free (CVE-2016-7288)](https://blog.quarkslab.com/exploiting-ms16-145-ms-edge-typedarraysort-use-after-free-cve-2016-7288.html)
+* [Exploiting MS16-098 RGNOBJ Integer Overflow on Windows 8.1 x64 bit by abusing GDI objects](https://sensepost.com/blog/2017/exploiting-ms16-098-rgnobj-integer-overflow-on-windows-8.1-x64-bit-by-abusing-gdi-objects/)
+* [Exploring Windows virtual memory management](http://www.triplefault.io/2017/08/exploring-windows-virtual-memory.html)
+* [From Out Of Memory to Remote Code Execution](https://speakerdeck.com/yukichen/from-out-of-memory-to-remote-code-execution)
+* [Getting Code Execution on Windows by Abusing Default Kernel Debugging Setting](https://tyranidslair.blogspot.com/2017/03/getting-code-execution-on-windows-by.html)
+* [Hardening Windows 10 with zero-day exploit mitigations](https://blogs.technet.microsoft.com/mmpc/2017/01/13/hardening-windows-10-with-zero-day-exploit-mitigations/)
+* [Introduction to IA-32e hardware paging](http://www.triplefault.io/2017/07/introduction-to-ia-32e-hardware-paging.html)
+* [Introduction to Windows shellcode development – Part 1](https://securitycafe.ro/2015/10/30/introduction-to-windows-shellcode-development-part1/)
+* [Introduction to Windows shellcode development – Part 2](https://securitycafe.ro/2015/12/14/introduction-to-windows-shellcode-development-part-2/)
+* [Introduction to Windows shellcode development – Part 3](https://securitycafe.ro/2016/02/15/introduction-to-windows-shellcode-development-part-3/)
+* [Kernel Debugging 101 – Part1](https://vvalien1.wordpress.com/2016/12/26/kernel-debugging-101/)
+* [Kernel Debugging 101 – Part2](https://vvalien1.wordpress.com/2017/01/01/kernel-debugging-101-part2/)
+* [Kernel Debugging 101 – Part3](https://vvalien1.wordpress.com/2017/01/01/kernel-debugging-101-part3/)
+* [Kernel Exploitation Case Study - "Wild" Pool Overflow on Win10 x64 RS2 (CVE-2016-3309 Reloaded)](https://siberas.de/blog/2017/10/05/exploitation_case_study_wild_pool_overflow_CVE-2016-3309_reloaded.html)
+* [Kernel Exploit Demo - Windows 10 privesc via WARBIRD](https://blog.xpnsec.com/windows-warbird-privesc/)
+* [Kernel Pool Overflow Exploitation In Real World – Windows 7](http://trackwatch.com/kernel-pool-overflow-exploitation-in-real-world-windows-7/)
+* [Kernel Pool Overflow Exploitation In Real World – Windows 10](http://trackwatch.com/kernel-pool-overflow-exploitation-in-real-world-windows-10/)
+* [Many Formulas, One Calc – Exploiting a New Office Equation Vulnerability](https://research.checkpoint.com/another-office-equation-rce-vulnerability/)
+* [Microsoft Kills Potential Remote Code Execution Vulnerability in Office (CVE-2017-8630)](https://securingtomorrow.mcafee.com/mcafee-labs/microsoft-kills-potential-remote-code-execution-vulnerability-in-office-cve-2017-8630/)
+* [MS17-010: EternalBlue’s Large Non-Paged Pool Overflow in SRV Driver](http://blog.trendmicro.com/trendlabs-security-intelligence/ms17-010-eternalblue/)
+* [MS OFFICE EXPLOIT ANALYSIS – CVE-2015-1641](http://www.sekoia.fr/blog/ms-office-exploit-analysis-cve-2015-1641/)
+* [ON THE ROAD OF HIDING… PEB, PE FORMAT HANDLING AND DLL LOADING HOMEMADE APIS – PART 1](https://gbmaster.wordpress.com/2012/02/26/on-the-road-of-hiding-peb-pe-format-handling-and-dll-loading-homemade-apis-part-1/)
+* [ON THE ROAD OF HIDING… PEB, PE FORMAT HANDLING AND DLL LOADING HOMEMADE APIS – PART 2](https://gbmaster.wordpress.com/2012/03/02/on-the-road-of-hiding-peb-pe-format-handling-and-dll-loading-homemade-apis-part-2/)
+* [ON THE ROAD OF HIDING… PEB, PE FORMAT HANDLING AND DLL LOADING HOMEMADE APIS – PART 3](https://gbmaster.wordpress.com/2012/04/02/on-the-road-of-hiding-peb-pe-format-handling-and-dll-loading-homemade-apis-part-3/)
+* [ON THE ROAD OF HIDING… PEB, PE FORMAT HANDLING AND DLL LOADING HOMEMADE APIS – LAST PART](https://gbmaster.wordpress.com/2012/04/17/on-the-road-of-hiding-peb-pe-format-handling-and-dll-loading-homemade-apis-last-part/)
+* [Puppet Strings - Dirty Secret for Windows Ring 0 Code Execution](https://zerosum0x0.blogspot.com/2017/07/puppet-strings-dirty-secret-for-free.html?m=1)
+* [Reading Your Way Around UAC (Part 1)](https://tyranidslair.blogspot.com/2017/05/reading-your-way-around-uac-part-1.html)
+* [Reading Your Way Around UAC (Part 2)](https://tyranidslair.blogspot.com/2017/05/reading-your-way-around-uac-part-2.html)
+* [Reading Your Way Around UAC (Part 3)](https://tyranidslair.blogspot.com/2017/05/reading-your-way-around-uac-part-3.html)
+* [Reflective DLL Injection](https://0x00sec.org/t/reflective-dll-injection/3080)
+* [Rotten Potato – Privilege Escalation from Service Accounts to SYSTEM](https://foxglovesecurity.com/2016/09/26/rotten-potato-privilege-escalation-from-service-accounts-to-system/)
+* [sam-b/windows_kernel_resources](https://github.com/sam-b/windows_kernel_resources)
+* [Sharks in the Pool :: Mixed Object Exploitation in the Windows Kernel Pool](http://srcincite.io/blog/2017/09/06/sharks-in-the-pool-mixed-object-exploitation-in-the-windows-kernel-pool.html)
+* [Signing Mimikatz](https://twitter.com/subTee/status/912769644473098240)
+* [Skeleton in the closet. MS Office vulnerability you didn’t know about](https://embedi.com/blog/skeleton-closet-ms-office-vulnerability-you-didnt-know-about/)
+* [Starting with Windows Kernel Exploitation – part 1 – setting up the lab](https://hshrzd.wordpress.com/2017/05/28/starting-with-windows-kernel-exploitation-part-1-setting-up-the-lab/)
+* [Starting with Windows Kernel Exploitation – part 2 – getting familiar with HackSys Extreme Vulnerable Driver](https://hshrzd.wordpress.com/2017/06/05/starting-with-windows-kernel-exploitation-part-2/)
+* [Starting with Windows Kernel Exploitation – part 3 – stealing the Access Token](https://hshrzd.wordpress.com/2017/06/22/starting-with-windows-kernel-exploitation-part-3-stealing-the-access-token/)
+* [Tales from the MSRC: from pixels to POC](https://blogs.technet.microsoft.com/srd/2017/06/20/tales-from-the-msrc-from-pixels-to-poc/)
+* [The Art of Becoming TrustedInstaller](https://tyranidslair.blogspot.co.id/2017/08/the-art-of-becoming-trustedinstaller.html)
+* [The lonely potato](https://decoder.cloud/2017/12/23/the-lonely-potato/)
+* [The Unpatched LSASS Remote Denial of Service (MS16-137)](https://www.coresecurity.com/blog/unpatched-lsass-remote-denial-service-ms16-137)
+* [Using Binary Diffing to Discover Windows Kernel Memory Disclosure Bugs](http://googleprojectzero.blogspot.com/2017/10/using-binary-diffing-to-discover.html)
+* [Windows 10 Creators Update 32-bit execution of ring-0 code from NULL page via NtQuerySystemInformation (class 185, Warbird functionality)](https://bugs.chromium.org/p/project-zero/issues/detail?id=1391)
+* [Windows Exploitation Tricks: Arbitrary Directory Creation to Arbitrary File Read](https://googleprojectzero.blogspot.com/2017/08/windows-exploitation-tricks-arbitrary.html)
+* [Windows kernel pool spraying fun - Part 1 - Determine kernel object size](http://theevilbit.blogspot.com/2017/09/pool-spraying-fun-part-1.html)
+* [Windows kernel pool spraying fun - Part 2 - More objects](http://theevilbit.blogspot.com/2017/09/windows-kernel-pool-spraying-fun-part-2.html)
+* [Windows kernel pool spraying fun - Part 3 - Let's make holes](http://theevilbit.blogspot.com/2017/09/windows-kernel-pool-spraying-fun-part-3.html)
+* [Windows kernel pool spraying fun - Part 4 - object & pool headers, kex & putting it all together](http://theevilbit.blogspot.com/2017/09/windows-kernel-pool-spraying-fun-part-4.html)
+* [Windows Kernel Exploitation Part 1](http://resources.infosecinstitute.com/windows-kernel-exploitation-part-1/)
+* [Windows Kernel Exploitation Part 2](http://resources.infosecinstitute.com/kernel-exploitation-part-2/)
+* [Windows Kernel Exploitation Part 3](http://resources.infosecinstitute.com/kernel-exploitation-part-3/)
+* [Windows Kernel Exploitation Tutorial Part 1: Setting up the Environment](https://rootkits.xyz/blog/2017/06/kernel-setting-up/)
+* [Windows Kernel Exploitation Tutorial Part 2: Stack Overflow](https://rootkits.xyz/blog/2017/08/kernel-stack-overflow/)
+* [Windows Kernel Exploitation Tutorial Part 3: Arbitrary Memory Overwrite (Write-What-Where)](https://rootkits.xyz/blog/2017/09/kernel-write-what-where/)
+* [Windows Kernel Exploitation Tutorial Part 4: Pool Feng-Shui –> Pool Overflow](https://rootkits.xyz/blog/2017/11/kernel-pool-overflow/)
+* [Windows Kernel Exploitation Tutorial Part 5: NULL Pointer Dereference](https://rootkits.xyz/blog/2018/01/kernel-null-pointer-dereference/)
+* [Windows Kernel Exploitation Tutorial Part 6: Uninitialized Stack Variable](https://rootkits.xyz/blog/2018/01/kernel-uninitialized-stack-variable/)
+* [Windows Kernel Exploitation Tutorial Part 7: Uninitialized Heap Variable](https://rootkits.xyz/blog/2018/03/kernel-uninitialized-heap-variable/)
+* [Windows Kernel Exploitation – Arbitrary Overwrite](https://osandamalith.com/2017/06/14/windows-kernel-exploitation-arbitrary-overwrite/)
+* [Windows Kernel Exploitation : This Time Font hunt you down in 4 bytes](https://www.slideshare.net/PeterHlavaty/windows-kernel-exploitation-this-time-font-hunt-you-down-in-4-bytes)
+* [Windows Operating System Archaeology](https://www.slideshare.net/enigma0x3/windows-operating-system-archaeology)
+* [Zero Day Zen Garden: Windows Exploit Development - Part 0 [Dev Setup & Advice]](http://www.shogunlab.com/blog/2017/08/11/zdzg-windows-exploit-0.html)
+* [Zero Day Zen Garden: Windows Exploit Development - Part 1 [Stack Buffer Overflow Intro]](http://www.shogunlab.com/blog/2017/08/19/zdzg-windows-exploit-1.html)
+* [Zero Day Zen Garden: Windows Exploit Development - Part 2 [JMP to Locate Shellcode]](http://www.shogunlab.com/blog/2017/08/26/zdzg-windows-exploit-2.html)
+* [Zero Day Zen Garden: Windows Exploit Development - Part 3 [Egghunter to Locate Shellcode]](http://www.shogunlab.com/blog/2017/09/02/zdzg-windows-exploit-3.html)
 
 #### Technique: Bypassing ASLR
 
-*Any related techniques for ASLR bypassing*
+_Any related techniques for ASLR bypassing_
 
-- [Bypass ASLR with partial EIP overwrite](http://ly0n.me/2015/07/30/bypass-aslr-with-partial-eip-overwrite/)
-- [Bypassing ASLR – Part I](https://sploitfun.wordpress.com/2015/05/08/bypassing-aslr-part-i/)
-- [Bypassing ASLR – Part II](https://sploitfun.wordpress.com/2015/05/08/bypassing-aslr-part-ii/)
-- [Bypassing ASLR – Part III](https://sploitfun.wordpress.com/2015/05/08/bypassing-aslr-part-iii/)
-- [Bypass ASLR+NX Part 1](http://intx0x80.blogspot.com/2018/04/bypass-aslrnx-part-1.html)
-- [Bypass ASLR+NX Part 2](https://intx0x80.blogspot.com/2018/04/bypass-aslrnx-part-2.html)
-- [Exploit Mitigation Techniques - Address Space Layout Randomization (ASLR)](https://0x00sec.org/t/exploit-mitigation-techniques-address-space-layout-randomization-aslr/5452/1)
-- [New bypass and protection techniques for ASLR on Linux](http://blog.ptsecurity.com/2018/02/new-bypass-and-protection-techniques.html)
+* [Bypass ASLR with partial EIP overwrite](http://ly0n.me/2015/07/30/bypass-aslr-with-partial-eip-overwrite/)
+* [Bypassing ASLR – Part I](https://sploitfun.wordpress.com/2015/05/08/bypassing-aslr-part-i/)
+* [Bypassing ASLR – Part II](https://sploitfun.wordpress.com/2015/05/08/bypassing-aslr-part-ii/)
+* [Bypassing ASLR – Part III](https://sploitfun.wordpress.com/2015/05/08/bypassing-aslr-part-iii/)
+* [Bypass ASLR+NX Part 1](http://intx0x80.blogspot.com/2018/04/bypass-aslrnx-part-1.html)
+* [Bypass ASLR+NX Part 2](https://intx0x80.blogspot.com/2018/04/bypass-aslrnx-part-2.html)
+* [Exploit Mitigation Techniques - Address Space Layout Randomization (ASLR)](https://0x00sec.org/t/exploit-mitigation-techniques-address-space-layout-randomization-aslr/5452/1)
+* [New bypass and protection techniques for ASLR on Linux](http://blog.ptsecurity.com/2018/02/new-bypass-and-protection-techniques.html)
 
 #### Technique: Format Strings
 
-*Format strings exploitation*
+_Format strings exploitation_
 
-- [Format String Exploitation Primer](https://borgandrew.blogspot.com/2017/01/h1-margin-bottom-0.html)
-- [X86 EXPLOITATION 101: “FORMAT STRINGS” – I’LL TELL YA WHAT TO SAY](https://gbmaster.wordpress.com/2015/12/08/x86-exploitation-101-format-strings-ill-tell-ya-what-to-say/)
+* [Format String Exploitation Primer](https://borgandrew.blogspot.com/2017/01/h1-margin-bottom-0.html)
+* [X86 EXPLOITATION 101: “FORMAT STRINGS” – I’LL TELL YA WHAT TO SAY](https://gbmaster.wordpress.com/2015/12/08/x86-exploitation-101-format-strings-ill-tell-ya-what-to-say/)
 
 #### Technique: Heap Exploitation
 
-*Heap exploitation related articles and tutorials*
+_Heap exploitation related articles and tutorials_
 
-- [Heap Exploitation](https://www.gitbook.com/book/dhavalkapil/heap-exploitation/details)
-- [Heap Exploitation ~ Fastbin Attack](https://0x00sec.org/t/heap-exploitation-fastbin-attack/3627)
-- [Heap Exploitation ~ Abusing Use-After-Free](https://0x00sec.org/t/heap-exploitation-abusing-use-after-free/3580)
-- [Heap overflow using unlink](https://sploitfun.wordpress.com/2015/02/26/heap-overflow-using-unlink/)
-- [Heap overflow using Malloc Maleficarum](https://sploitfun.wordpress.com/2015/03/04/heap-overflow-using-malloc-maleficarum/)
-- [Heap Safari - Thread Local Caching](https://0x00sec.org/t/heap-safari-thread-local-caching/5054)
-- [shellphishi/how2heap](https://github.com/shellphish/how2heap)
-- [X86 EXPLOITATION 101: HEAP OVERFLOWS… UNLINK ME, WOULD YOU PLEASE?](https://gbmaster.wordpress.com/2014/08/11/x86-exploitation-101-heap-overflows-unlink-me-would-you-please/)
-- [X86 EXPLOITATION 101: THIS IS THE FIRST WITCHY HOUSE](https://gbmaster.wordpress.com/2014/08/24/x86-exploitation-101-this-is-the-first-witchy-house/)
-- [X86 EXPLOITATION 101: “HOUSE OF MIND” – UNDEAD AND LOVING IT…](https://gbmaster.wordpress.com/2015/06/15/x86-exploitation-101-house-of-mind-undead-and-loving-it/)
-- [X86 EXPLOITATION 101: “HOUSE OF FORCE” – JEDI OVERFLOW](https://gbmaster.wordpress.com/2015/06/28/x86-exploitation-101-house-of-force-jedi-overflow/)
-- [X86 EXPLOITATION 101: “HOUSE OF LORE” – PEOPLE AND TRADITIONS](https://gbmaster.wordpress.com/2015/07/16/x86-exploitation-101-house-of-lore-people-and-traditions/)
-- [Understanding the Heap & Exploiting Heap Overflows](http://www.mathyvanhoef.com/2013/02/understanding-heap-exploiting-heap.html)
+* [Heap Exploitation](https://www.gitbook.com/book/dhavalkapil/heap-exploitation/details)
+* [Heap Exploitation ~ Fastbin Attack](https://0x00sec.org/t/heap-exploitation-fastbin-attack/3627)
+* [Heap Exploitation ~ Abusing Use-After-Free](https://0x00sec.org/t/heap-exploitation-abusing-use-after-free/3580)
+* [Heap overflow using unlink](https://sploitfun.wordpress.com/2015/02/26/heap-overflow-using-unlink/)
+* [Heap overflow using Malloc Maleficarum](https://sploitfun.wordpress.com/2015/03/04/heap-overflow-using-malloc-maleficarum/)
+* [Heap Safari - Thread Local Caching](https://0x00sec.org/t/heap-safari-thread-local-caching/5054)
+* [shellphishi/how2heap](https://github.com/shellphish/how2heap)
+* [X86 EXPLOITATION 101: HEAP OVERFLOWS… UNLINK ME, WOULD YOU PLEASE?](https://gbmaster.wordpress.com/2014/08/11/x86-exploitation-101-heap-overflows-unlink-me-would-you-please/)
+* [X86 EXPLOITATION 101: THIS IS THE FIRST WITCHY HOUSE](https://gbmaster.wordpress.com/2014/08/24/x86-exploitation-101-this-is-the-first-witchy-house/)
+* [X86 EXPLOITATION 101: “HOUSE OF MIND” – UNDEAD AND LOVING IT…](https://gbmaster.wordpress.com/2015/06/15/x86-exploitation-101-house-of-mind-undead-and-loving-it/)
+* [X86 EXPLOITATION 101: “HOUSE OF FORCE” – JEDI OVERFLOW](https://gbmaster.wordpress.com/2015/06/28/x86-exploitation-101-house-of-force-jedi-overflow/)
+* [X86 EXPLOITATION 101: “HOUSE OF LORE” – PEOPLE AND TRADITIONS](https://gbmaster.wordpress.com/2015/07/16/x86-exploitation-101-house-of-lore-people-and-traditions/)
+* [Understanding the Heap & Exploiting Heap Overflows](http://www.mathyvanhoef.com/2013/02/understanding-heap-exploiting-heap.html)
 
 #### Technique: Integer Overflow
 
-*Integer overflow exploitaion*
+_Integer overflow exploitaion_
 
-- [Integer Overflow](https://sploitfun.wordpress.com/2015/06/23/integer-overflow/)
-- [X86 EXPLOITATION 101: “INTEGER OVERFLOW” – ADDING ONE MORE… AAAAAAAAAAAND IT’S GONE](https://gbmaster.wordpress.com/2015/08/13/x86-exploitation-101-integer-overflow-adding-one-more-aaaaaaaaaaand-its-gone/)
+* [Integer Overflow](https://sploitfun.wordpress.com/2015/06/23/integer-overflow/)
+* [X86 EXPLOITATION 101: “INTEGER OVERFLOW” – ADDING ONE MORE… AAAAAAAAAAAND IT’S GONE](https://gbmaster.wordpress.com/2015/08/13/x86-exploitation-101-integer-overflow-adding-one-more-aaaaaaaaaaand-its-gone/)
 
 #### Technique: Return Oriented Programming
 
-*ROP examples and guidelines*
+_ROP examples and guidelines_
 
-- [A ROP Primer solution 64-bit style](https://blog.techorganic.com/2015/10/09/a-rop-primer-solution-64-bit-style/)
-- [Blind Return Oriented Programming 102](https://oddcoder.com/BROP-102/)
-- [Intro to ROP: ROP Emporium — Split](https://medium.com/@iseethieves/intro-to-rop-rop-emporium-split-9b2ec6d4db08)
-- [Introduction to Return Oriented Programming (ROP)](https://ketansingh.net/Introduction-to-Return-Oriented-Programming-ROP/index.html)
-- [Return-Oriented Programming (ROP) 101](https://www.tripwire.com/state-of-security/off-topic/vert-vuln-school-return-oriented-programming-rop-101/)
-- [ROP Emporium](https://ropemporium.com/)
-- [ROP Primer](https://speakerdeck.com/barrebas/rop-primer)
-- [ropchain](http://www.kvakil.me/posts/ropchain/)
-- [Sigreturn Oriented Programming](https://0x00sec.org/t/srop-signals-you-say/2890)
+* [A ROP Primer solution 64-bit style](https://blog.techorganic.com/2015/10/09/a-rop-primer-solution-64-bit-style/)
+* [Blind Return Oriented Programming 102](https://oddcoder.com/BROP-102/)
+* [Intro to ROP: ROP Emporium — Split](https://medium.com/@iseethieves/intro-to-rop-rop-emporium-split-9b2ec6d4db08)
+* [Introduction to Return Oriented Programming (ROP)](https://ketansingh.net/Introduction-to-Return-Oriented-Programming-ROP/index.html)
+* [Return-Oriented Programming (ROP) 101](https://www.tripwire.com/state-of-security/off-topic/vert-vuln-school-return-oriented-programming-rop-101/)
+* [ROP Emporium](https://ropemporium.com/)
+* [ROP Primer](https://speakerdeck.com/barrebas/rop-primer)
+* [ropchain](http://www.kvakil.me/posts/ropchain/)
+* [Sigreturn Oriented Programming](https://0x00sec.org/t/srop-signals-you-say/2890)
 
 #### Technique: return-to-libc
 
-*return-to-libc techniques*
+_return-to-libc techniques_
 
-- [Bypassing NX bit using return-to-libc](https://sploitfun.wordpress.com/2015/05/08/bypassing-nx-bit-using-return-to-libc/)
-- [Bypassing NX bit using chained return-to-libc](https://sploitfun.wordpress.com/2015/05/08/bypassing-nx-bit-using-chained-return-to-libc/)
+* [Bypassing NX bit using return-to-libc](https://sploitfun.wordpress.com/2015/05/08/bypassing-nx-bit-using-return-to-libc/)
+* [Bypassing NX bit using chained return-to-libc](https://sploitfun.wordpress.com/2015/05/08/bypassing-nx-bit-using-chained-return-to-libc/)
 
 #### Technique: Shellcoding
 
-*Art of crafting shellcode*
+_Art of crafting shellcode_
 
-- [A Primer to Windows x64 shellcoding](https://blahcat.github.io/2017/08/14/a-primer-to-windows-x64-shellcoding/)
-- [Shellcoding for Linux and Windows Tutorial](http://www.vividmachines.com/shellcode/shellcode.html)
-- [SLAE: Bind TCP Shell – Assignment 1](http://0xdeadcode.se/archives/637)
-- [SLAE: Reverse TCP Shell – Assignment 2](http://0xdeadcode.se/archives/689)
-- [SLAE: Egg Hunter – Assignment 3](http://0xdeadcode.se/archives/707)
+* [A Primer to Windows x64 shellcoding](https://blahcat.github.io/2017/08/14/a-primer-to-windows-x64-shellcoding/)
+* [Shellcoding for Linux and Windows Tutorial](http://www.vividmachines.com/shellcode/shellcode.html)
+* [SLAE: Bind TCP Shell – Assignment 1](http://0xdeadcode.se/archives/637)
+* [SLAE: Reverse TCP Shell – Assignment 2](http://0xdeadcode.se/archives/689)
+* [SLAE: Egg Hunter – Assignment 3](http://0xdeadcode.se/archives/707)
 
 #### Technique: Stack Exploitation
 
-*Corrupt the stack*
+_Corrupt the stack_
 
-- [Buffer Overflow Explotation](https://0x00sec.org/t/buffer-overflow-explotation/3846/1)
-- [Classic Stack Based Buffer Overflow](https://sploitfun.wordpress.com/2015/05/08/classic-stack-based-buffer-overflow/)
-- [Exploiting 1-byte buffer overflows](https://www.welivesecurity.com/2016/05/10/exploiting-1-byte-buffer-overflows/)
-- [PLAYING WITH CANARIES](https://www.elttam.com.au/blog/playing-with-canaries/)
-- [Simple buffer overflow on a modern system](http://liveoverflow.com/blog/stack0_buffer_overflow_on_ubuntu.html)
-- [Stack Based Buffer Overflows on x64 (Windows)](Stack Based Buffer Overflows on x64 (Windows))
-- [Stack Clashing for Fun and Profit](http://nullprogram.com/blog/2017/06/21/)
-- [When is something overflowing](https://www.slideshare.net/PeterHlavaty/overflow-48573748)
-- [X86 EXPLOITATION 101: WHEN THE STACK GETS OVER ITS HEAD](https://gbmaster.wordpress.com/2014/06/18/x86-exploitation-101-when-the-stack-gets-over-its-head/)
-- [X86 EXPLOITATION 101: BORN IN A SHELL](https://gbmaster.wordpress.com/2014/07/01/x86-exploitation-101-born-in-a-shell/)
-- [X86 EXPLOITATION 101: “HOUSE OF SPIRIT” – FRIENDLY STACK OVERFLOW](https://gbmaster.wordpress.com/2015/07/21/x86-exploitation-101-house-of-spirit-friendly-stack-overflow/)
-- [Your First Buffer Overflow](https://medium.com/@mackwage/your-first-buffer-overflow-89141a9a2941)
+* [Buffer Overflow Explotation](https://0x00sec.org/t/buffer-overflow-explotation/3846/1)
+* [Classic Stack Based Buffer Overflow](https://sploitfun.wordpress.com/2015/05/08/classic-stack-based-buffer-overflow/)
+* [Exploiting 1-byte buffer overflows](https://www.welivesecurity.com/2016/05/10/exploiting-1-byte-buffer-overflows/)
+* [PLAYING WITH CANARIES](https://www.elttam.com.au/blog/playing-with-canaries/)
+* [Simple buffer overflow on a modern system](http://liveoverflow.com/blog/stack0_buffer_overflow_on_ubuntu.html)
+* [Stack Based Buffer Overflows on x64 (Windows)](Stack Based Buffer Overflows on x64 (Windows))
+* [Stack Clashing for Fun and Profit](http://nullprogram.com/blog/2017/06/21/)
+* [When is something overflowing](https://www.slideshare.net/PeterHlavaty/overflow-48573748)
+* [X86 EXPLOITATION 101: WHEN THE STACK GETS OVER ITS HEAD](https://gbmaster.wordpress.com/2014/06/18/x86-exploitation-101-when-the-stack-gets-over-its-head/)
+* [X86 EXPLOITATION 101: BORN IN A SHELL](https://gbmaster.wordpress.com/2014/07/01/x86-exploitation-101-born-in-a-shell/)
+* [X86 EXPLOITATION 101: “HOUSE OF SPIRIT” – FRIENDLY STACK OVERFLOW](https://gbmaster.wordpress.com/2015/07/21/x86-exploitation-101-house-of-spirit-friendly-stack-overflow/)
+* [Your First Buffer Overflow](https://medium.com/@mackwage/your-first-buffer-overflow-89141a9a2941)
 
 #### Technique Use-After-Free
 
-*Use-After-Free related arcitles*
+_Use-After-Free related arcitles_
 
 ![https://twitter.com/bellis1000/status/930154591081070592](https://pbs.twimg.com/media/DOiSqmWX0AEVeya.jpg)
 
-- [Use-After-Free](https://sploitfun.wordpress.com/2015/06/16/use-after-free/)
+* [Use-After-Free](https://sploitfun.wordpress.com/2015/06/16/use-after-free/)
 
 #### Vulnerability: Spectre and Meltdown
 
-- [A Deep Dive Analysis of Microsoft’s Kernel Virtual Address Shadow Feature](A Deep Dive Analysis of Microsoft’s Kernel Virtual Address Shadow Feature)
-- [An accessible overview of Meltdown and Spectre, Part 1](https://blog.trailofbits.com/2018/01/30/an-accessible-overview-of-meltdown-and-spectre-part-1/)
-- [An accessible overview of Meltdown and Spectre, Part 2](https://blog.trailofbits.com/2018/03/22/an-accessible-overview-of-meltdown-and-spectre-part-2/)
-- [KVA Shadow: Mitigating Meltdown on Windows](https://blogs.technet.microsoft.com/srd/2018/03/23/kva-shadow-mitigating-meltdown-on-windows/)
-- [Total Meltdown?](https://blog.frizk.net/2018/03/total-meltdown.html)
+* [A Deep Dive Analysis of Microsoft’s Kernel Virtual Address Shadow Feature](A Deep Dive Analysis of Microsoft’s Kernel Virtual Address Shadow Feature)
+* [An accessible overview of Meltdown and Spectre, Part 1](https://blog.trailofbits.com/2018/01/30/an-accessible-overview-of-meltdown-and-spectre-part-1/)
+* [An accessible overview of Meltdown and Spectre, Part 2](https://blog.trailofbits.com/2018/03/22/an-accessible-overview-of-meltdown-and-spectre-part-2/)
+* [KVA Shadow: Mitigating Meltdown on Windows](https://blogs.technet.microsoft.com/srd/2018/03/23/kva-shadow-mitigating-meltdown-on-windows/)
+* [Total Meltdown?](https://blog.frizk.net/2018/03/total-meltdown.html)
 
 ---
 
 ### Malware Analysis
 
-*Malware analysis articles, techniques and examples*
+_Malware analysis articles, techniques and examples_
 
 ![Process Injection Info Graphic by struppigel](https://4.bp.blogspot.com/-ixv5E0LMZCw/WWi5yRjL-_I/AAAAAAAAAnk/WO99S4Yrd8w6lfg6tITwUV02CGDFYAORACLcBGAs/s640/Process%2BInjection%25281%2529.png)
 
-- [A zebra in sheep’s clothing: How a Microsoft icon-display bug in Windows allows attackers to masquerade PE files with special icons](https://www.cybereason.com/labs-a-zebra-in-sheeps-clothing-how-a-microsoft-icon-display-bug-in-windows-allows-attackers-to-masquerade-pe-files-with-special-icons/)
-- [baderj/domain_generation_algorithms - Some results of my DGA reversing efforts](https://github.com/baderj/domain_generation_algorithms)
-- [DOSfuscation: Exploring the Depths Cmd.exe Obfuscation and Detection Techniques](https://www.fireeye.com/content/dam/fireeye-www/blog/pdfs/dosfuscation-report.pdf)
-- [Fast Flux networks: What are they and how do they work?](https://www.welivesecurity.com/2017/01/12/fast-flux-networks-work/)
-- [FIN7 Group Uses JavaScript and Stealer DLL Variant in New Attacks](http://blog.talosintelligence.com/2017/09/fin7-stealer.html#more)
-- [High-reputation Redirectors and Domain Fronting](https://blog.cobaltstrike.com/2017/02/06/high-reputation-redirectors-and-domain-fronting/)
-- [Hunting For In-Memory .NET Attacks](https://www.endgame.com/blog/technical-blog/hunting-memory-net-attacks)
-- [Hunting Malware with Memory Analysis](https://technical.nttsecurity.com/post/102egyy/hunting-malware-with-memory-analysis)
-- [ThreatHuntingProject/ThreatHunting](https://github.com/ThreatHuntingProject/ThreatHunting)
-- [Tips for Reverse-Engineering Malicious Code](https://zeltser.com/reverse-engineering-malicious-code-tips/)
-- [Understanding Process Hollowing](https://andreafortuna.org/understanding-process-hollowing-b94ce77c3276)
-- [Use of DNS Tunneling for C&C Communications](https://securelist.com/use-of-dns-tunneling-for-cc-communications/78203/)
-- [Add-In Opportunities for Office Persistence](https://labs.mwrinfosecurity.com/blog/add-in-opportunities-for-office-persistence/)
-- [Anti-debugging Techniques Cheat Sheet](http://antukh.com/blog/2015/01/19/malware-techniques-cheat-sheet/)
-- [AntiForensics techniques : Process hiding in Kernel Mode](https://www.cert-devoteam.fr/publications/en/antiforensics-techniques-process-hiding-in-kernel-mode/)
-- [Borrowing Microsoft Code Signing Certificate](https://blog.conscioushacker.io/index.php/2017/09/27/borrowing-microsoft-code-signing-certificates/)
-- [Creating ransomware for Android](https://0x00sec.org/t/creating-ransomware-for-android/4063)
-- [Detecting Architecture in Windows](https://osandamalith.com/2017/09/24/detecting-architecture-in-windows/)
-- [HIDING YOUR PROCESS FROM SYSINTERNALS](https://riscybusiness.wordpress.com/2017/10/07/hiding-your-process-from-sysinternals/)
-- [If memory doesn’t serve me right…](http://www.hexacorn.com/blog/2017/07/10/if-memory-doesnt-serve-me-right/)
-- [MetaTwin – Borrowing Microsoft Metadata and Digital Signatures to “Hide” Binaries](http://threatexpress.com/2017/10/metatwin-borrowing-microsoft-metadata-and-digital-signatures-to-hide-binaries/)
-- [PE File Infection Part I](https://0x00sec.org/t/pe-file-infection/401)
-- [PE File Infection Part II](https://0x00sec.org/t/pe-file-infection-part-ii/4135)
-- [Running programs via Proxy & jumping on a EDR-bypass trampoline](http://www.hexacorn.com/blog/2017/05/01/running-programs-via-proxy-jumping-on-a-edr-bypass-trampoline/)
-- [Running programs via Proxy & jumping on a EDR-bypass trampoline, Part 2](http://www.hexacorn.com/blog/2017/10/04/running-programs-via-proxy-jumping-on-a-edr-bypass-trampoline-part-2/)
-- [Running programs via Proxy & jumping on a EDR-bypass trampoline, Part 3](http://www.hexacorn.com/blog/2017/10/22/running-programs-via-proxy-jumping-on-a-edr-bypass-trampoline-part-3/)
-- [Running programs via Proxy & jumping on a EDR-bypass trampoline, Part 4](http://www.hexacorn.com/blog/2017/10/29/running-programs-via-proxy-jumping-on-a-edr-bypass-trampoline-part-4/)
-- [Ten Process Injection Techniques: A Technical Survey Of Common And Trending Process Injection Techniques](https://www.endgame.com/blog/technical-blog/ten-process-injection-techniques-technical-survey-common-and-trending-process)
-- [The Archaeologologogology #3 – Downloading stuff with cmdln32](http://www.hexacorn.com/blog/2017/04/30/the-archaeologologogology-3-downloading-stuff-with-cmdln32/)
-- ATM malware
-    - [Bingo, Amigo! Jackpotting: ATM malware from Latin America to the World](https://securelist.com/atm-malware-from-latin-america-to-the-world/83836/)
-- Badrabbit
-    - [‘BadRabbit’ Ransomware Burrows Into Russia, Ukraine](https://securingtomorrow.mcafee.com/mcafee-labs/badrabbit-ransomware-burrows-russia-ukraine/)
-    - [BadRabbit: a closer look at the new version of Petya/NotPetya](https://blog.malwarebytes.com/threat-analysis/2017/10/badrabbit-closer-look-new-version-petyanotpetya/)
-    - [Bad Rabbit: Not-Petya is back with improved ransomware](https://www.welivesecurity.com/2017/10/24/bad-rabbit-not-petya-back/)
-    - [Bad Rabbit – A New Ransomware Outbreak Targeting Ukraine and Russia.](https://blog.checkpoint.com/2017/10/24/bad-rabbit-new-ransomware-outbreak-targeting-ukraine-russia/)
-    - [Bad Rabbit ransomware](https://securelist.com/bad-rabbit-ransomware/82851/)
-    - [Bad Rabbit Ransomware Spreads via Network, Hits Ukraine and Russia](http://blog.trendmicro.com/trendlabs-security-intelligence/bad-rabbit-ransomware-spreads-via-network-hits-ukraine-russia/)
-    - [NotPetya Returns as Bad Rabbit](http://www.intezer.com/notpetya-returns-bad-rabbit/)
-    - [Threat Spotlight: Follow the Bad Rabbit](http://blog.talosintelligence.com/2017/10/bad-rabbit.html)
-- Bankbot
-    - [A Look Into The New Strain of BankBot](https://blog.fortinet.com/2017/09/19/a-look-into-the-new-strain-of-bankbot)
-- CCleaner
-   - [Protecting the Software Supply Chain: Deep Insights into the CCleaner Backdoor](https://www.crowdstrike.com/blog/protecting-software-supply-chain-deep-insights-ccleaner-backdoor/)
-    - [In-Depth Analysis of the CCleaner Backdoor Stage 2 Dropper and Its Payload](https://www.crowdstrike.com/blog/in-depth-analysis-of-the-ccleaner-backdoor-stage-2-dropper-and-its-payload/)
-- Dridex
-    - [Dridex v4 - Configuration Files, Network and Binaries](https://viql.github.io/dridex/)
-- Emotet
-    - [Emotet lives another day using Fake O2 invoice notifications](https://www.trustwave.com/Resources/SpiderLabs-Blog/Emotet-lives-another-day-using-Fake-O2-invoice-notifications/)
-- Hajime
-    - [Is Hajime botnet dead?](http://blog.netlab.360.com/hajime-status-report-en/)
-- Locky
-    - [Locky Part 1: Lukitus Spam Campaigns and Their Love for Game of Thrones](https://www.trustwave.com/Resources/SpiderLabs-Blog/Locky-Part-1--Lukitus-Spam-Campaigns-and-Their-Love-for-Game-of-Thrones/)
-    - [Locky Part 2: As the Seasons Change so is Locky](https://www.trustwave.com/Resources/SpiderLabs-Blog/Locky-Part-2--As-the-Seasons-Change-so-is-Locky/)
-- Kangaroo
-    - [Threat Analysis: Don’t Forget About Kangaroo Ransomware](https://www.carbonblack.com/2017/10/02/threat-analysis-dont-forget-about-kangaroo-ransomware/)
-- MAN1
-    - [Threat Spotlight - MAN1 Malware: Temple of Doom](https://www.cylance.com/en_us/blog/threat-spotlight-man1-malware-group-resurfaces.html)
-    - [Threat Spotlight: MAN1 Malware - The Last Crusade?](https://www.cylance.com/en_us/blog/threat-spotlight-man1-malware-the-last-crusade.html)
-- Poison Ivy
-    - [Deep Analysis of New Poison Ivy Variant](http://blog.fortinet.com/2017/08/23/deep-analysis-of-new-poison-ivy-variant)
-    - [Deep Analysis of New Poison Ivy/PlugX Variant - Part II](https://blog.fortinet.com/2017/09/15/deep-analysis-of-new-poison-ivy-plugx-variant-part-ii)
-- Rig EK
-    - [if you want to get #RigEK's enc key, please use this script](https://twitter.com/nao_sec/status/944038611590115328)
-- Trickbot
-    - [Reverse engineering malware: TrickBot (part 1 - packer)](https://qmemcpy.github.io/post/reverse-engineering-malware-trickbot-part-1-packer)
-    - [Reverse engineering malware: TrickBot (part 2 - loader)](https://qmemcpy.github.io/post/reverse-engineering-malware-trickbot-part-2-loader)
-    - [Reverse engineering malware: TrickBot (part 3 - core)](https://qmemcpy.io/post/reverse-engineering-malware-trickbot-part-3-core)
+* [A zebra in sheep’s clothing: How a Microsoft icon-display bug in Windows allows attackers to masquerade PE files with special icons](https://www.cybereason.com/labs-a-zebra-in-sheeps-clothing-how-a-microsoft-icon-display-bug-in-windows-allows-attackers-to-masquerade-pe-files-with-special-icons/)
+* [baderj/domain_generation_algorithms - Some results of my DGA reversing efforts](https://github.com/baderj/domain_generation_algorithms)
+* [DOSfuscation: Exploring the Depths Cmd.exe Obfuscation and Detection Techniques](https://www.fireeye.com/content/dam/fireeye-www/blog/pdfs/dosfuscation-report.pdf)
+* [Fast Flux networks: What are they and how do they work?](https://www.welivesecurity.com/2017/01/12/fast-flux-networks-work/)
+* [FIN7 Group Uses JavaScript and Stealer DLL Variant in New Attacks](http://blog.talosintelligence.com/2017/09/fin7-stealer.html#more)
+* [High-reputation Redirectors and Domain Fronting](https://blog.cobaltstrike.com/2017/02/06/high-reputation-redirectors-and-domain-fronting/)
+* [Hunting For In-Memory .NET Attacks](https://www.endgame.com/blog/technical-blog/hunting-memory-net-attacks)
+* [Hunting Malware with Memory Analysis](https://technical.nttsecurity.com/post/102egyy/hunting-malware-with-memory-analysis)
+* [ThreatHuntingProject/ThreatHunting](https://github.com/ThreatHuntingProject/ThreatHunting)
+* [Tips for Reverse-Engineering Malicious Code](https://zeltser.com/reverse-engineering-malicious-code-tips/)
+* [Understanding Process Hollowing](https://andreafortuna.org/understanding-process-hollowing-b94ce77c3276)
+* [Use of DNS Tunneling for C&C Communications](https://securelist.com/use-of-dns-tunneling-for-cc-communications/78203/)
+* [Add-In Opportunities for Office Persistence](https://labs.mwrinfosecurity.com/blog/add-in-opportunities-for-office-persistence/)
+* [Anti-debugging Techniques Cheat Sheet](http://antukh.com/blog/2015/01/19/malware-techniques-cheat-sheet/)
+* [AntiForensics techniques : Process hiding in Kernel Mode](https://www.cert-devoteam.fr/publications/en/antiforensics-techniques-process-hiding-in-kernel-mode/)
+* [Borrowing Microsoft Code Signing Certificate](https://blog.conscioushacker.io/index.php/2017/09/27/borrowing-microsoft-code-signing-certificates/)
+* [Creating ransomware for Android](https://0x00sec.org/t/creating-ransomware-for-android/4063)
+* [Detecting Architecture in Windows](https://osandamalith.com/2017/09/24/detecting-architecture-in-windows/)
+* [HIDING YOUR PROCESS FROM SYSINTERNALS](https://riscybusiness.wordpress.com/2017/10/07/hiding-your-process-from-sysinternals/)
+* [If memory doesn’t serve me right…](http://www.hexacorn.com/blog/2017/07/10/if-memory-doesnt-serve-me-right/)
+* [MetaTwin – Borrowing Microsoft Metadata and Digital Signatures to “Hide” Binaries](http://threatexpress.com/2017/10/metatwin-borrowing-microsoft-metadata-and-digital-signatures-to-hide-binaries/)
+* [PE File Infection Part I](https://0x00sec.org/t/pe-file-infection/401)
+* [PE File Infection Part II](https://0x00sec.org/t/pe-file-infection-part-ii/4135)
+* [Running programs via Proxy & jumping on a EDR-bypass trampoline](http://www.hexacorn.com/blog/2017/05/01/running-programs-via-proxy-jumping-on-a-edr-bypass-trampoline/)
+* [Running programs via Proxy & jumping on a EDR-bypass trampoline, Part 2](http://www.hexacorn.com/blog/2017/10/04/running-programs-via-proxy-jumping-on-a-edr-bypass-trampoline-part-2/)
+* [Running programs via Proxy & jumping on a EDR-bypass trampoline, Part 3](http://www.hexacorn.com/blog/2017/10/22/running-programs-via-proxy-jumping-on-a-edr-bypass-trampoline-part-3/)
+* [Running programs via Proxy & jumping on a EDR-bypass trampoline, Part 4](http://www.hexacorn.com/blog/2017/10/29/running-programs-via-proxy-jumping-on-a-edr-bypass-trampoline-part-4/)
+* [Ten Process Injection Techniques: A Technical Survey Of Common And Trending Process Injection Techniques](https://www.endgame.com/blog/technical-blog/ten-process-injection-techniques-technical-survey-common-and-trending-process)
+* [The Archaeologologogology #3 – Downloading stuff with cmdln32](http://www.hexacorn.com/blog/2017/04/30/the-archaeologologogology-3-downloading-stuff-with-cmdln32/)
+* ATM malware
+  * [Bingo, Amigo! Jackpotting: ATM malware from Latin America to the World](https://securelist.com/atm-malware-from-latin-america-to-the-world/83836/)
+* Badrabbit
+  * [‘BadRabbit’ Ransomware Burrows Into Russia, Ukraine](https://securingtomorrow.mcafee.com/mcafee-labs/badrabbit-ransomware-burrows-russia-ukraine/)
+  * [BadRabbit: a closer look at the new version of Petya/NotPetya](https://blog.malwarebytes.com/threat-analysis/2017/10/badrabbit-closer-look-new-version-petyanotpetya/)
+  * [Bad Rabbit: Not-Petya is back with improved ransomware](https://www.welivesecurity.com/2017/10/24/bad-rabbit-not-petya-back/)
+  * [Bad Rabbit – A New Ransomware Outbreak Targeting Ukraine and Russia.](https://blog.checkpoint.com/2017/10/24/bad-rabbit-new-ransomware-outbreak-targeting-ukraine-russia/)
+  * [Bad Rabbit ransomware](https://securelist.com/bad-rabbit-ransomware/82851/)
+  * [Bad Rabbit Ransomware Spreads via Network, Hits Ukraine and Russia](http://blog.trendmicro.com/trendlabs-security-intelligence/bad-rabbit-ransomware-spreads-via-network-hits-ukraine-russia/)
+  * [NotPetya Returns as Bad Rabbit](http://www.intezer.com/notpetya-returns-bad-rabbit/)
+  * [Threat Spotlight: Follow the Bad Rabbit](http://blog.talosintelligence.com/2017/10/bad-rabbit.html)
+* Bankbot
+  * [A Look Into The New Strain of BankBot](https://blog.fortinet.com/2017/09/19/a-look-into-the-new-strain-of-bankbot)
+* CCleaner
+  * [Protecting the Software Supply Chain: Deep Insights into the CCleaner Backdoor](https://www.crowdstrike.com/blog/protecting-software-supply-chain-deep-insights-ccleaner-backdoor/)
+  * [In-Depth Analysis of the CCleaner Backdoor Stage 2 Dropper and Its Payload](https://www.crowdstrike.com/blog/in-depth-analysis-of-the-ccleaner-backdoor-stage-2-dropper-and-its-payload/)
+* Dridex
+  * [Dridex v4 - Configuration Files, Network and Binaries](https://viql.github.io/dridex/)
+* Emotet
+  * [Emotet lives another day using Fake O2 invoice notifications](https://www.trustwave.com/Resources/SpiderLabs-Blog/Emotet-lives-another-day-using-Fake-O2-invoice-notifications/)
+* Hajime
+  * [Is Hajime botnet dead?](http://blog.netlab.360.com/hajime-status-report-en/)
+* Locky
+  * [Locky Part 1: Lukitus Spam Campaigns and Their Love for Game of Thrones](https://www.trustwave.com/Resources/SpiderLabs-Blog/Locky-Part-1--Lukitus-Spam-Campaigns-and-Their-Love-for-Game-of-Thrones/)
+  * [Locky Part 2: As the Seasons Change so is Locky](https://www.trustwave.com/Resources/SpiderLabs-Blog/Locky-Part-2--As-the-Seasons-Change-so-is-Locky/)
+* Kangaroo
+  * [Threat Analysis: Don’t Forget About Kangaroo Ransomware](https://www.carbonblack.com/2017/10/02/threat-analysis-dont-forget-about-kangaroo-ransomware/)
+* MAN1
+  * [Threat Spotlight - MAN1 Malware: Temple of Doom](https://www.cylance.com/en_us/blog/threat-spotlight-man1-malware-group-resurfaces.html)
+  * [Threat Spotlight: MAN1 Malware - The Last Crusade?](https://www.cylance.com/en_us/blog/threat-spotlight-man1-malware-the-last-crusade.html)
+* Poison Ivy
+  * [Deep Analysis of New Poison Ivy Variant](http://blog.fortinet.com/2017/08/23/deep-analysis-of-new-poison-ivy-variant)
+  * [Deep Analysis of New Poison Ivy/PlugX Variant - Part II](https://blog.fortinet.com/2017/09/15/deep-analysis-of-new-poison-ivy-plugx-variant-part-ii)
+* Rig EK
+  * [if you want to get #RigEK's enc key, please use this script](https://twitter.com/nao_sec/status/944038611590115328)
+* Trickbot
+  * [Reverse engineering malware: TrickBot (part 1 - packer)](https://qmemcpy.github.io/post/reverse-engineering-malware-trickbot-part-1-packer)
+  * [Reverse engineering malware: TrickBot (part 2 - loader)](https://qmemcpy.github.io/post/reverse-engineering-malware-trickbot-part-2-loader)
+  * [Reverse engineering malware: TrickBot (part 3 - core)](https://qmemcpy.io/post/reverse-engineering-malware-trickbot-part-3-core)
 
 ---
 
 ### Mobile Security
 
-*Mobile security articles*
+_Mobile security articles_
 
-- [Mobile Application Hacking Diary Ep.1](https://www.exploit-db.com/papers/26620/)
-- [Mobile Application Hacking Diary Ep.2](https://www.exploit-db.com/papers/44145/)
-- [tanprathan/MobileApp-Pentest-Cheatsheet](https://github.com/tanprathan/MobileApp-Pentest-Cheatsheet)
+* [Mobile Application Hacking Diary Ep.1](https://www.exploit-db.com/papers/26620/)
+* [Mobile Application Hacking Diary Ep.2](https://www.exploit-db.com/papers/44145/)
+* [tanprathan/MobileApp-Pentest-Cheatsheet](https://github.com/tanprathan/MobileApp-Pentest-Cheatsheet)
 
 ---
 
 ### Post Exploitation
 
-*Art of post exploitation techniques*
+_Art of post exploitation techniques_
 
 #### Windows Post Exploitation
 
-- [Post Exploitation Using NetNTLM Downgrade Attacks](https://www.optiv.com/blog/post-exploitation-using-netntlm-downgrade-attacks)
-- [Top Five Ways I Got Domain Admin on Your Internal Network before Lunch (2018 Edition)](https://medium.com/@adam.toscher/top-five-ways-i-got-domain-admin-on-your-internal-network-before-lunch-2018-edition-82259ab73aaa)
+* [Post Exploitation Using NetNTLM Downgrade Attacks](https://www.optiv.com/blog/post-exploitation-using-netntlm-downgrade-attacks)
+* [Top Five Ways I Got Domain Admin on Your Internal Network before Lunch (2018 Edition)](https://medium.com/@adam.toscher/top-five-ways-i-got-domain-admin-on-your-internal-network-before-lunch-2018-edition-82259ab73aaa)
 
 ---
 
 ### Privacy
 
-*Privacy and internet security guidelines for cyber activists*
+_Privacy and internet security guidelines for cyber activists_
 
-- [Digital Privacy at the U.S. Border: Protecting the Data On Your Devices](https://www.eff.org/wp/digital-privacy-us-border-2017)
-- [Digital Security for Freelance Journalists](https://rorypecktrust.org/resources/digital-security)
-- [DIY Cybersecurity for Domestic Violence](https://hackblossom.org/domestic-violence/index.html)
-- [Protecting Your Source When Releasing Sensitive Documents](https://source.opennews.org/articles/how-protect-your-sources-when-releasing-sensitive-/)
-- [Secure Journalism at Protests](https://medium.com/@mshelton/secure-journalism-at-protests-a435b2d6398b)
-- [Security Education Companion](https://sec.eff.org/)
-- [Surveillance Self-Defense Checklist](https://medium.com/theintercept/surveillance-self-defense-for-journalists-ce627e332db6)
-- [The Field Guide to Security Training in the Newsroom](https://the-field-guide-to-security-training-in-the-newsroom.readthedocs.io/en/latest/)
-- [The Wired Guide to Digital Security](https://www.wired.com/2017/12/digital-security-guide/)
+* [Digital Privacy at the U.S. Border: Protecting the Data On Your Devices](https://www.eff.org/wp/digital-privacy-us-border-2017)
+* [Digital Security for Freelance Journalists](https://rorypecktrust.org/resources/digital-security)
+* [DIY Cybersecurity for Domestic Violence](https://hackblossom.org/domestic-violence/index.html)
+* [Protecting Your Source When Releasing Sensitive Documents](https://source.opennews.org/articles/how-protect-your-sources-when-releasing-sensitive-/)
+* [Secure Journalism at Protests](https://medium.com/@mshelton/secure-journalism-at-protests-a435b2d6398b)
+* [Security Education Companion](https://sec.eff.org/)
+* [Surveillance Self-Defense Checklist](https://medium.com/theintercept/surveillance-self-defense-for-journalists-ce627e332db6)
+* [The Field Guide to Security Training in the Newsroom](https://the-field-guide-to-security-training-in-the-newsroom.readthedocs.io/en/latest/)
+* [The Wired Guide to Digital Security](https://www.wired.com/2017/12/digital-security-guide/)
 
 ---
 
 ### Reverse Engineering
 
-*Reverse engineering tutorials and primers*
+_Reverse engineering tutorials and primers_
 
-- [A Gentle Primer on Reverse Engineering](https://emily.st/2015/01/27/reverse-engineering/)
-- [ELF hacking with Rekall](http://blog.rekall-forensic.com/2018/01/elf-hacking-with-rekall.html)
-- [FAQ: How to learn reverse-engineering?](http://gynvael.coldwind.pl/?id=664)
-- [How to decompile any Python binary](https://countercept.com/our-thinking/how-to-decompile-any-python-binary/)
-- [Reverse Engineering 101](https://osandamalith.com/2014/12/31/reverse-engineering-101/)
+* [A Gentle Primer on Reverse Engineering](https://emily.st/2015/01/27/reverse-engineering/)
+* [ELF hacking with Rekall](http://blog.rekall-forensic.com/2018/01/elf-hacking-with-rekall.html)
+* [FAQ: How to learn reverse-engineering?](http://gynvael.coldwind.pl/?id=664)
+* [How to decompile any Python binary](https://countercept.com/our-thinking/how-to-decompile-any-python-binary/)
+* [Reverse Engineering 101](https://osandamalith.com/2014/12/31/reverse-engineering-101/)
 
 ---
 
 ### Tutorials
 
-*This section contains links about tool tutorials, cheat sheet and techniques.*
+_This section contains links about tool tutorials, cheat sheet and techniques._
 
 <table>
     <tr>
@@ -683,30 +708,30 @@ My curated list of awesome links, resources and tools
 
 ## Web Application Security
 
-*Web application security related articles and tutorials*
+_Web application security related articles and tutorials_
 
-- [Gaining access for HTTPS certificate by abusing RFC2142.](https://twitter.com/spazef0rze/status/942800411941048320)
-    - Using `admin@`, `administrator@`, `hostmaster@`, `postmaster@`, `webmaster@` for email address
-- [The 2018 Guide to Building Secure PHP Software](https://paragonie.com/blog/2017/12/2018-guide-building-secure-php-software)
+* [Gaining access for HTTPS certificate by abusing RFC2142.](https://twitter.com/spazef0rze/status/942800411941048320)
+  * Using `admin@`, `administrator@`, `hostmaster@`, `postmaster@`, `webmaster@` for email address
+* [The 2018 Guide to Building Secure PHP Software](https://paragonie.com/blog/2017/12/2018-guide-building-secure-php-software)
 
 ### Cross-site Request Forgery
 
-- [What is CSRF , Preventions? And How to bypass the CSRF protection via XSS?](https://medium.com/@agrawalsmart7/what-is-csrf-how-to-bypass-the-csrf-protection-via-xss-55695f5789d7)
+* [What is CSRF , Preventions? And How to bypass the CSRF protection via XSS?](https://medium.com/@agrawalsmart7/what-is-csrf-how-to-bypass-the-csrf-protection-via-xss-55695f5789d7)
 
 ### Cross-site Scripting
 
-- [BRUTE XSS - Master the art of Cross Site Scripting](https://brutelogic.com.br/blog/)
-- [XSS Cheat Sheet](https://leanpub.com/xss)
+* [BRUTE XSS - Master the art of Cross Site Scripting](https://brutelogic.com.br/blog/)
+* [XSS Cheat Sheet](https://leanpub.com/xss)
 
 ### PHP Object Injection
 
-- [Why You Should Never Pass Untrusted Data to Unserialize When Writing PHP Code](https://www.netsparker.com/blog/web-security/untrusted-data-unserialize-php/)
+* [Why You Should Never Pass Untrusted Data to Unserialize When Writing PHP Code](https://www.netsparker.com/blog/web-security/untrusted-data-unserialize-php/)
 
 ### SQL Injection
 
-- [MySQL UDF Exploitation](https://osandamalith.com/2018/02/11/mysql-udf-exploitation/)
-- [NetSPI SQL Injection Wiki](https://sqlwiki.netspi.com/)
-- [Your Pokemon Guide for Essential SQL Pen Test Commands](https://pen-testing.sans.org/blog/2017/12/09/your-pokemon-guide-for-essential-sql-pen-test-commands)
+* [MySQL UDF Exploitation](https://osandamalith.com/2018/02/11/mysql-udf-exploitation/)
+* [NetSPI SQL Injection Wiki](https://sqlwiki.netspi.com/)
+* [Your Pokemon Guide for Essential SQL Pen Test Commands](https://pen-testing.sans.org/blog/2017/12/09/your-pokemon-guide-for-essential-sql-pen-test-commands)
 
 ---
 
@@ -714,7 +739,7 @@ My curated list of awesome links, resources and tools
 
 ### AWS Security
 
-*Open source projects related to AWS security.*
+_Open source projects related to AWS security._
 
 <table>
     <tr>
@@ -785,7 +810,7 @@ My curated list of awesome links, resources and tools
 
 ### Binary Analysis
 
-*Binary analysis tools, including decompilers, deobfuscators, disassemblers, etc.*
+_Binary analysis tools, including decompilers, deobfuscators, disassemblers, etc._
 
 <table>
     <tr>
@@ -836,7 +861,7 @@ My curated list of awesome links, resources and tools
 
 ### Cryptography
 
-*Cryptography related tools*
+_Cryptography related tools_
 
 <table>
     <tr>
@@ -859,7 +884,7 @@ My curated list of awesome links, resources and tools
 
 ### Data Exfiltration
 
-*Tools related to data exfiltration and covert channels*
+_Tools related to data exfiltration and covert channels_
 
 <table>
     <tr>
@@ -878,7 +903,7 @@ My curated list of awesome links, resources and tools
 
 ### DevOps
 
-*DevSecOps stuff, or SevDevOps, or DevOpsSec, or SecDevSecOpsSec!?*
+_DevSecOps stuff, or SevDevOps, or DevOpsSec, or SecDevSecOpsSec!?_
 
 <table>
     <tr>
@@ -889,7 +914,7 @@ My curated list of awesome links, resources and tools
 
 ### Digital Forensics and Incident Response
 
-*Open source projects related to DFIR topic.*
+_Open source projects related to DFIR topic._
 
 <table>
     <tr>
@@ -1012,7 +1037,7 @@ My curated list of awesome links, resources and tools
 
 ### Exploits
 
-*Interesting exploits and PoC code. For research purpose only*
+_Interesting exploits and PoC code. For research purpose only_
 
 <table>
     <tr>
@@ -1216,7 +1241,7 @@ My curated list of awesome links, resources and tools
 
 ### Malware Analysis
 
-*Tools related to malware analysis, malware development (for research purpose) and malware sample finding*
+_Tools related to malware analysis, malware development (for research purpose) and malware sample finding_
 
 <table>
     <tr>
@@ -1323,7 +1348,7 @@ My curated list of awesome links, resources and tools
 
 ### Mobile Security
 
-*Tools related to mobile security, mobile application auditing/debugging and mobile penetration testing*
+_Tools related to mobile security, mobile application auditing/debugging and mobile penetration testing_
 
 <table>
     <tr>
@@ -1414,7 +1439,7 @@ My curated list of awesome links, resources and tools
 
 ### Network
 
-*Network and network security related tools*
+_Network and network security related tools_
 
 <table>
     <tr>
@@ -1449,7 +1474,7 @@ My curated list of awesome links, resources and tools
 
 ### Password Tools
 
-*Tools related to password cracking, bruteforcing and also wordlists*
+_Tools related to password cracking, bruteforcing and also wordlists_
 
 <table>
     <tr>
@@ -1472,7 +1497,7 @@ My curated list of awesome links, resources and tools
 
 ### Plugins
 
-*Plugins and extensions for tools*
+_Plugins and extensions for tools_
 
 <table>
     <tr>
@@ -1593,7 +1618,7 @@ My curated list of awesome links, resources and tools
 
 ### Privacy
 
-*Increase your privacy and/or operational security with this tools*
+_Increase your privacy and/or operational security with this tools_
 
 <table>
     <tr>
@@ -1616,7 +1641,7 @@ My curated list of awesome links, resources and tools
 
 ### Simulation
 
-*Securtiy framework that can be used to simulate real attack scenario*
+_Securtiy framework that can be used to simulate real attack scenario_
 
 <table>
     <tr>
@@ -1671,7 +1696,7 @@ My curated list of awesome links, resources and tools
 
 ### Social Engineering
 
-*Tools related to social engineering attack, OSINT and human hacking*
+_Tools related to social engineering attack, OSINT and human hacking_
 
 <table>
     <tr>
@@ -1726,7 +1751,7 @@ My curated list of awesome links, resources and tools
 
 ### Vulnerable
 
-*Vulnerable software, application, VM for research purpose and virtual environment for security testing*
+_Vulnerable software, application, VM for research purpose and virtual environment for security testing_
 
 <table>
     <tr>
@@ -1773,7 +1798,7 @@ My curated list of awesome links, resources and tools
 
 ### Web Application Security
 
-*Web application security tools*
+_Web application security tools_
 
 <table>
     <tr>
@@ -1832,7 +1857,7 @@ My curated list of awesome links, resources and tools
 
 ### Windows
 
-*Tools for Windows only*
+_Tools for Windows only_
 
 <table>
     <tr>
