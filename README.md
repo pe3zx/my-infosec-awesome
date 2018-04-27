@@ -48,6 +48,7 @@ My curated list of awesome links, resources and tools
     * [DevOps](#devops)
     * [Digital Forensics and Incident Response](#digital-forensics-and-incident-response)
     * [Exploits](#exploits)
+    * [Hardening](#hardening)
     * [Malware Analysis](#malware-analysis)
     * [Mobile Security](#mobile-security)
     * [Network](#network)
@@ -1237,6 +1238,17 @@ _Interesting exploits and PoC code. For research purpose only_
     <tr>
         <td><a href="https://github.com/xairy/kernel-exploits">xairy/kernel-exploits</a></td>
         <td>A bunch of proof-of-concept exploits for the Linux kernel</td>
+    </tr>
+</table>
+
+### Hardening
+
+_Security baseline configuration and recommendations_
+
+<table>
+    <tr>
+        <td><a href="https://iase.disa.mil/stigs/pages/a-z.aspx">Security Technical Implementation Guides (STIGs)</a></td>
+        <td>The Security Technical Implementation Guides (STIGs) are the configuration standards for DOD IA and IA-enabled devices/systems.</td>
     </tr>
 </table>
 
