@@ -1250,6 +1250,10 @@ _Security baseline configuration and recommendations_
         <td><a href="https://iase.disa.mil/stigs/pages/a-z.aspx">Security Technical Implementation Guides (STIGs)</a></td>
         <td>The Security Technical Implementation Guides (STIGs) are the configuration standards for DOD IA and IA-enabled devices/systems.</td>
     </tr>
+    <tr>
+        <td><a href="https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-security-baselines">Windows Security Baseline</a></td>
+        <td>A security baseline is a group of Microsoft-recommended configuration settings that explains their security impact. These settings are based on feedback from Microsoft security engineering teams, product groups, partners, and customers.</td>
+    </tr>
 </table>
 
 ### Malware Analysis
