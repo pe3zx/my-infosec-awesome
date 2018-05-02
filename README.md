@@ -269,6 +269,7 @@ My curated list of awesome links, resources and tools
 * [Windows Kernel Exploitation Tutorial Part 5: NULL Pointer Dereference](https://rootkits.xyz/blog/2018/01/kernel-null-pointer-dereference/)
 * [Windows Kernel Exploitation Tutorial Part 6: Uninitialized Stack Variable](https://rootkits.xyz/blog/2018/01/kernel-uninitialized-stack-variable/)
 * [Windows Kernel Exploitation Tutorial Part 7: Uninitialized Heap Variable](https://rootkits.xyz/blog/2018/03/kernel-uninitialized-heap-variable/)
+* [Windows Kernel Exploitation Tutorial Part 8: Use After Free](https://rootkits.xyz/blog/2018/04/kernel-use-after-free/)
 * [Windows Kernel Exploitation – Arbitrary Overwrite](https://osandamalith.com/2017/06/14/windows-kernel-exploitation-arbitrary-overwrite/)
 * [Windows Kernel Exploitation : This Time Font hunt you down in 4 bytes](https://www.slideshare.net/PeterHlavaty/windows-kernel-exploitation-this-time-font-hunt-you-down-in-4-bytes)
 * [Windows Operating System Archaeology](https://www.slideshare.net/enigma0x3/windows-operating-system-archaeology)
