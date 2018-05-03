@@ -1899,6 +1899,10 @@ _Tools for Windows only_
         <td>DotNetToJScript Build Walkthrough</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/danielbohannon/Invoke-DOSfuscation">danielbohannon/Invoke-DOSfuscation</a></td>
+        <td>Cmd.exe Command Obfuscation Generator & Detection Test Harness</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/danielbohannon/Invoke-Obfuscation">danielbohannon/Invoke-Obfuscation</a></td>
         <td>Invoke-Obfuscation is a PowerShell v2.0+ compatible PowerShell command and script obfuscator</td>
     </tr>
