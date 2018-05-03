@@ -1217,6 +1217,10 @@ _Interesting exploits and PoC code. For research purpose only_
         <td>A proof of concept injectable C++ dll, that uses naked inline hooking and direct memory modification to change your TeamViewer permissions.</td>
     </tr>
     <tr>
+        <td><a href="https://twitter.com/aionescu/status/981671095362174978">MSRC-41867 Local DoS on All Windows Version</a></td>
+        <td>MSRC-41867 Local DoS on All Windows Version (Won't Fix)</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/ScottyBauer/Android_Kernel_CVE_POCs">ScottyBauer/Android_Kernel_CVE_POCs</a></td>
         <td>A list of my CVE's with POCs</td>
     </tr>
