@@ -94,6 +94,7 @@ My curated list of awesome links, resources and tools
 
 #### MacOS/iOS
 
+* [Getting saucy with APFS](https://www.dropbox.com/s/bfjgiakkwt1bhm1/GettingSaucyWithAPFS.zip?dl=0)
 * [How to Acquire an iOS 11 Device Without the PIN/Passcode](https://www.magnetforensics.com/blog/how-to-acquire-an-ios-11-device-without-the-pinpasscode/)
 * [Inside iCloud Drive: Downloading](https://eclecticlight.co/2018/04/04/inside-icloud-drive-downloading/)
 * [Inside iCloud Drive: Pushed updates, that syncing feeling](https://eclecticlight.co/2018/04/02/inside-icloud-drive-pushed-updates-that-syncing-feeling/)
