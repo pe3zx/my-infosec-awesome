@@ -77,6 +77,7 @@ My curated list of awesome links, resources and tools
 * [A Newbie’s Guide to ESXi and VM Log Files](https://www.altaro.com/vmware/introduction-esxi-vm-log-files/)
 * [certsocietegenerale/IRM - Incident Response Methodologies](https://github.com/certsocietegenerale/IRM)
 * [Cloud Forensics: Analyzing MEGASync](http://cyberforensicator.com/2018/04/15/cloud-forensics-analyzing-megasync/)
+* [Cloud Forensics: pCloud Drive](http://cyberforensicator.com/2018/05/05/cloud-forensics-pcloud-drive/)
 * [How to Perform Hadoop Forensics](https://www.peerlyst.com/posts/how-to-perform-hadoop-forensics-chiheb-chebbi)
 * [Tool Analysis Result Sheet](https://jpcertcc.github.io/ToolAnalysisResultSheet/)
 
