@@ -198,11 +198,8 @@ My curated list of awesome links, resources and tools
 - [An Inside Look at CVE-2017-0199 – HTA and Scriptlet File Handler Vulnerability](https://blog.fortinet.com/2017/06/05/an-inside-look-at-cve-2017-0199-hta-and-scriptlet-file-handler-vulnerability)
 - [Analysis of CVE-2017-11882 Exploit in the Wild](https://researchcenter.paloaltonetworks.com/2017/12/unit42-analysis-of-cve-2017-11882-exploit-in-the-wild/)
 - [aPAColypse now: Exploiting Windows 10 in a Local Network with WPAD/PAC and JScript](https://googleprojectzero.blogspot.com/2017/12/apacolypse-now-exploiting-windows-10-in_18.html)
-- [AtomBombing: Brand New Code Injection for Windows](https://breakingmalware.com/injection-techniques/atombombing-brand-new-code-injection-for-windows/)
-- [AtomBombing CFG Protected Processes](https://breakingmalware.com/injection-techniques/atombombing-cfg-protected-processes/)
 - [Breaking backwards compatibility: a 5 year old bug deep within Windows](http://www.triplefault.io/2017/07/breaking-backwards-compatibility-5-year.html)
 - [Breaking out of Restricted Windows Environment](https://weirdgirlweb.wordpress.com/2017/06/14/first-blog-post/)
-- [Bringing Call Gates Back](http://www.alex-ionescu.com/?p=340)
 - [Bypassing Microsoft's Patch for CVE-2017-0199](http://justhaifei1.blogspot.com.br/2017/07/bypassing-microsofts-cve-2017-0199-patch.html)
 - [C# Inject a Dll into a Process (w/ CreateRemoteThread)](http://www.codingvision.net/miscellaneous/c-inject-a-dll-into-a-process-w-createremotethread)
 - [Decrement Windows kernel for fun and profit](https://sww-it.ru/2018-01-29/1532)
@@ -495,7 +492,6 @@ _Art of post exploitation techniques_
 _Privacy and internet security guidelines for cyber activists_
 
 - [Digital Privacy at the U.S. Border: Protecting the Data On Your Devices](https://www.eff.org/wp/digital-privacy-us-border-2017)
-- [Digital Security for Freelance Journalists](https://rorypecktrust.org/resources/digital-security)
 - [DIY Cybersecurity for Domestic Violence](https://hackblossom.org/domestic-violence/index.html)
 - [Protecting Your Source When Releasing Sensitive Documents](https://source.opennews.org/articles/how-protect-your-sources-when-releasing-sensitive-/)
 - [Secure Journalism at Protests](https://medium.com/@mshelton/secure-journalism-at-protests-a435b2d6398b)
@@ -677,7 +673,6 @@ _This section contains links about tool tutorials, cheat sheet and techniques._
                 <li><a href="http://blog.superponible.com/2017/04/15/emulating-assembly-in-radare2/">Emulating Assembly in Radare2</a></li>
                 <li><a href="https://github.com/chrysh/ctf_writeups/tree/master/pwnable.kr">Pwnable.kr - Passcode</a></li>
                 <li><a href="https://radare2.securisec.com/">r2wiki</a></li>
-                <li><a href="https://monosource.github.io/2016/10/radare2-peda">radare2 as an alternative to gdb-peda</a></li>
                 <li><a href="https://medium.com/@jacob16682/reverse-engineering-using-radare2-588775ea38d5">Reverse Engineering Using Radare2</a></li>
             </ul>
         </td>
