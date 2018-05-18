@@ -1830,6 +1830,11 @@ _Vulnerable software, application, VM for research purpose and virtual environme
         <td>Nice collection of tutorials aimed particularly for newbie reverse enginners...</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/google/google-ctf">google/google-ctf</a></td>
+        <td>
+This repository lists most of the challenges used in the Google CTF 2017. The missing challenges are not ready to be open-sourced, or contain third-party code.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/rapid7/hackazon">rapid7/hackazon</a></td>
         <td>A modern vulnerable web app</td>
     </tr>
