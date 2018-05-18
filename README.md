@@ -1934,6 +1934,10 @@ _Tools for Windows only_
         <td>JAWS is PowerShell script designed to help penetration testers (and CTFers) quickly identify potential privilege escalation vectors on Windows systems. It is written using PowerShell 2.0 so 'should' run on every Windows version since Windows 7.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/api0cradle/LOLBAS">api0cradle/LOLBAS</a></td>
+        <td>Living Off The Land Binaries and Scripts (and now also Libraries)</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/api0cradle/UltimateAppLockerByPassList">api0cradle/UltimateAppLockerByPassList</a></td>
         <td>The goal of this repository is to document the most common techniques to bypass AppLocker.</td>
     </tr>
