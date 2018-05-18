@@ -1767,6 +1767,10 @@ _Tools related to social engineering attack, OSINT and human hacking_
         <td>ReelPhish: A Real-Time Two-Factor Phishing Tool</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/haccer/twint">haccer/twint</a></td>
+        <td>An advanced Twitter scraping & OSINT tool written in Python that doesn't use Twitter's API, allowing you to scrape a user's followers, following, Tweets and more while evading most API limitations.</td>
+    </tr>
+    <tr>
         <td><a href="https://www.mailsploit.com/index">Mailsploit</a></td>
         <td>TL;DR: Mailsploit is a collection of bugs in email clients that allow effective sender spoofing and code injection attacks. The spoofing is not detected by Mail Transfer Agents (MTA) aka email servers, therefore circumventing spoofing protection mechanisms such as DMARC (DKIM/SPF) or spam filters.</td>
     </tr>
