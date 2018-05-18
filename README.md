@@ -1495,7 +1495,11 @@ _Network and network security related tools_
     </tr>
     <tr>
         <td><a href="https://github.com/byt3bl33d3r/MITMf">byt3bl33d3r/MITMf</a></td>
-        <td>Framework for Man-In-The-Middle attacks/td>
+        <td>Framework for Man-In-The-Middle attacks</td>
+    </tr>
+    <tr>
+        <td><a href="https://dnsdb.io/en-us/">DNSDB</a></td>
+        <td>Global DNS Search Engine</td>
     </tr>
     <tr>
         <td><a href="https://github.com/eldraco/domain_analyzer/">eldraco/domain_analyzer</a></td>
