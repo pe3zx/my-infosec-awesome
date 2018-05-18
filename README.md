@@ -1877,6 +1877,11 @@ _Web application security tools_
         <td><a href="https://illuminatejs.com">IlluminateJs</a></td>
         <td>IlluminateJs is a static javascript analysis engine (a deobfuscator so to say) aimed to help analyst understand obfuscated and potentially malicious JavaScript Code.</td>
     </tr>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/ismailtasdelen/xss-payload-list">ismailtasdelen/xss-payload-list</a></td>
+        <td>Cross Site Scripting ( XSS ) Vulnerability Payload List</td>
+    </tr>
     <tr>
         <td><a href="https://www.ironwasp.org/">IRONWASP</a></td>
         <td>IronWASP (Iron Web application Advanced Security testing Platform) is an open source system for web application vulnerability testing. It is designed to be customizable to the extent where users can create their own custom security scanners using it. Though an advanced user with Python/Ruby scripting expertise would be able to make full use of the platform, a lot of the tool's features are simple enough to be used by absolute beginners</td>
