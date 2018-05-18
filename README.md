@@ -1994,6 +1994,10 @@ _Tools for Windows only_
         <td>HTA encryption tool for RedTeams</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/NetSPI/goddi">NetSPI/goddi</a></td>
+        <td>goddi (go dump domain info) dumps Active Directory domain information</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/peewpw/Invoke-PSImage">peewpw/Invoke-PSImage</a></td>
         <td>Embeds a PowerShell script in the pixels of a PNG file and generates a oneliner to execute</td>
     </tr>
