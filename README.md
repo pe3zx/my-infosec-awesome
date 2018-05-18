@@ -1278,6 +1278,10 @@ _Tools related to malware analysis, malware development (for research purpose) a
         <td>Rapid deployment of Windows environment (files, registry keys, mutex etc) to facilitate malware analysis</td>
     </tr>
     <tr>
+        <td><a href="https://cse.google.com/cse/publicurl?cx=003248445720253387346:turlh5vi4xc">APT Groups, Operations and Malware Search Engine</td>
+        <td>APT Groups, Operations and Malware Search Engine</td>
+    </tr>
+    <tr>
         <td><a href="https://cape.contextis.com/submit/">CAPE Sandbox</a></td>
         <td>Malware Configuration And Payload Extraction</td>
     </tr>
