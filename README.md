@@ -946,6 +946,10 @@ _Open source projects related to DFIR topic._
         <td>Digital Forensics Artifact Repository</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/google/docker-explorer/">google/docker-explorer</a></td>
+        <td> A tool to help forensicate offline docker **acquisitions**</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/google/grr">google/grr</a></td>
         <td>GRR is a python client (agent) that is installed on target systems, and python server infrastructure that can manage and talk to clients.</td>
     </tr>
