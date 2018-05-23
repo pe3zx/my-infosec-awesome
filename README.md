@@ -2025,6 +2025,10 @@ _Tools for Windows only_
         <td>A PoC subject interface package (SIP) provider designed to educate about the required components of a SIP provider.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/putterpanda/mimikittenz">putterpanda/mimikittenz</a></td>
+        <td>A post-exploitation powershell tool for extracting juicy info from memory.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/sevagas/macro_pack">sevagas/macro_pack</a></td>
         <td>macro_pack is a tool used to automatize obfuscation and generation of MS Office documents for pentest, demo, and social engineering assessments. The goal of macro_pack is to simplify antimalware bypass and automatize the process from vba generation to final Office document generation.</td>
     </tr>
