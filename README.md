@@ -946,6 +946,10 @@ _Open source projects related to DFIR topic._
         <td>A Hunting ELK (Elasticsearch, Logstash, Kibana) with advanced analytic capabilities.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/davehull/Kansa">davehull/Kansa</a></td>
+        <td>A Powershell incident response framework</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/ForensicArtifacts/artifacts">ForensicArtifacts/artifacts</a></td>
         <td>Digital Forensics Artifact Repository</td>
     </tr>
