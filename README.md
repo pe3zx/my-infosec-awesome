@@ -1280,6 +1280,10 @@ _Security baseline configuration and recommendations_
         <td>The Security Technical Implementation Guides (STIGs) are the configuration standards for DOD IA and IA-enabled devices/systems.</td>
     </tr>
     <tr>
+        <td><a href="https://www.asd.gov.au/infosec/mitigationstrategies.htm">Strategies to Mitigate Cyber Security Incidents</a></td>
+        <td>The Australian Signals Directorate (ASD) has developed prioritised mitigation strategies to help technical cyber security professionals in all organisations mitigate cyber security incidents. This guidance addresses targeted cyber intrusions, ransomware and external adversaries with destructive intent, malicious insiders, 'business email compromise' and industrial control systems.</td>
+    </tr>
+    <tr>
         <td><a href="https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-security-baselines">Windows Security Baseline</a></td>
         <td>A security baseline is a group of Microsoft-recommended configuration settings that explains their security impact. These settings are based on feedback from Microsoft security engineering teams, product groups, partners, and customers.</td>
     </tr>
