@@ -1339,6 +1339,10 @@ _Tools related to malware analysis, malware development (for research purpose) a
         <td>IRIS-H is an online digital forensics tool that performs automated static analysis of files stored in a directory-based or strictly structured formats.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/jgamblin/Mirai-Source-Code">jgamblin/Mirai-Source-Code</a></td>
+        <td>Leaked Mirai Source Code for Research/IoC Development Purposes.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/KasperskyLab/klara">KasperskyLab/klara</a></td>
         <td>Klara project is aimed at helping Threat Intelligence researechers hunt for new malware using Yara.</td>
     </tr>
