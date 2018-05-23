@@ -1513,6 +1513,10 @@ _Network and network security related tools_
         <td>Analyze the security of any domain by finding all the information possible. Made in python.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/infobyte/evilgrade">infobyte/evilgrade</a></td>
+        <td>Evilgrade is a modular framework that allows the user to take advantage of poor upgrade implementations by injecting fake updates. It comes with pre-made binaries (agents), a working default configuration for fast pentests, and has it's own WebServer and DNSServer modules. Easy to set up new settings, and has an autoconfiguration when new binary agents are set.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/michenriksen/aquatone">michenriksen/aquatone</a></td>
         <td>AQUATONE is a set of tools for performing reconnaissance on domain names. It can discover subdomains on a given domain by using open sources as well as the more common subdomain dictionary brute force approach. After subdomain discovery, AQUATONE can then scan the hosts for common web ports and HTTP headers, HTML bodies and screenshots can be gathered and consolidated into a report for easy analysis of the attack surface.</td>
     </tr>
