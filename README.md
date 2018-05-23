@@ -1985,6 +1985,10 @@ _Tools for Windows only_
         <td>DotNetToJScript Build Walkthrough</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/Cybellum/DoubleAgent">Cybellum/DoubleAgent</a></td>
+        <td>DoubleAgent is a new Zero-Day technique for injecting code and maintaining persistence on a machine (i.e. auto-run).</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/danielbohannon/Invoke-DOSfuscation">danielbohannon/Invoke-DOSfuscation</a></td>
         <td>Cmd.exe Command Obfuscation Generator & Detection Test Harness</td>
     </tr>
