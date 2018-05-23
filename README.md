@@ -1216,6 +1216,7 @@ _Interesting exploits and PoC code. For research purpose only_
                 <li><a href="https://www.triplefault.io/2018/05/spurious-db-exceptions-with-pop-ss.html">Spurious #DB exceptions with the "MOV SS" and "POP SS" instructions (CVE-2018-8897)</a></li>
                 <li><a href="https://blog.can.ac/2018/05/11/arbitrary-code-execution-at-ring-0-using-cve-2018-8897/">Arbitrary Code Execution At Ring 0 Using CVE-2018-8897</a></li>
                 <li><a href="https://github.com/can1357/CVE-2018-8897">can1357/CVE-2018-8897</a></li>
+		<li><a href="https://www.exploit-db.com/exploits/44697/">Microsoft Windows - 'POP/MOV SS' Privilege Escalation</a></li>
             </ul>
         </td>
     </tr>
