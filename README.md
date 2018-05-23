@@ -1541,6 +1541,10 @@ _Network and network security related tools_
         <td>An extensible network forensic analysis framework. Enables rapid development of plugins to support the dissection of network packet captures.</td>
     </tr>
     <tr>
+        <td><a href="https://wigle.net/">WiGLE</a></td>
+        <td>Maps and database of 802.11 wireless networks, with statistics, submitted by wardrivers, netstumblers, and net huggers.</td>
+    </tr>
+    <tr>
         <td><a href="https://wireedit.com/">WireEdit</a></td>
         <td>First-Of-A-Kind And The Only Full Stack WYSIWYG Pcap Editor</td>
     </tr>
