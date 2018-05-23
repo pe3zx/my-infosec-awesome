@@ -1295,6 +1295,10 @@ _Tools related to malware analysis, malware development (for research purpose) a
 
 <table>
     <tr>
+        <td><a href="https://github.com/activecm/rita">activecm/rita</a></td>
+        <td> Real Intelligence Threat Analytics</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/adamkramer/rapid_env">adamkramer/rapid_env</a></td>
         <td>Rapid deployment of Windows environment (files, registry keys, mutex etc) to facilitate malware analysis</td>
     </tr>
