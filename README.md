@@ -938,6 +938,10 @@ _Open source projects related to DFIR topic._
         <td>RDP Bitmap Cache Parser</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/carmaa/inception">carmaa/inception</a></td>
+        <td>Inception is a physical memory manipulation and hacking tool exploiting PCI-based DMA. The tool can attack over FireWire, Thunderbolt, ExpressCard, PC Card and any other PCI/PCIe interfaces.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/Cyb3rWard0g/HELK">Cyb3rWard0g/HELK</a></td>
         <td>A Hunting ELK (Elasticsearch, Logstash, Kibana) with advanced analytic capabilities.</td>
     </tr>
