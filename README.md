@@ -5,70 +5,39 @@
 
 My curated list of awesome links, resources and tools
 
-- [My Awesome](#my-awesome)
-    - [Articles](#articles)
-        - [Anti Forensics](#anti-forensics)
-        - [Digital Forensics and Incident Response](#digital-forensics-and-incident-response)
-            - [Unix/Linux](#unix-linux)
-            - [IoT](#iot)
-            - [MacOS/iOS](#macos-ios)
-            - [Windows](#windows)
-        - [Exploitation](#exploitation)
-            - [Platform: Android](#platform--android)
-            - [Platform: ARM](#platform--arm)
-            - [Platform: Linux](#platform--linux)
-            - [Platform: Windows](#platform--windows)
-            - [Technique: Bypassing ASLR](#technique--bypassing-aslr)
-            - [Technique: Format Strings](#technique--format-strings)
-            - [Technique: Heap Exploitation](#technique--heap-exploitation)
-            - [Technique: Integer Overflow](#technique--integer-overflow)
-            - [Technique: Return Oriented Programming](#technique--return-oriented-programming)
-            - [Technique: return-to-libc](#technique--return-to-libc)
-            - [Technique: Shellcoding](#technique--shellcoding)
-            - [Technique: Stack Exploitation](#technique--stack-exploitation)
-            - [Technique Use-After-Free](#technique-use-after-free)
-            - [Vulnerability: Spectre and Meltdown](#vulnerability--spectre-and-meltdown)
-        - [Malware Analysis](#malware-analysis)
-        - [Mobile Security](#mobile-security)
-        - [Post Exploitation](#post-exploitation)
-            - [Windows Post Exploitation](#windows-post-exploitation)
-        - [Privacy](#privacy)
-        - [Reverse Engineering](#reverse-engineering)
-        - [Tutorials](#tutorials)
+- [Articles](#articles)
+    - [Digital Forensics and Incident Response](#digital-forensics-and-incident-response)
+    - [Exploitation](#exploitation)
+    - [Malware Analysis](#malware-analysis)
+    - [Mobile Security](#mobile-security)
+    - [Post Exploitation](#post-exploitation)
+    - [Privacy](#privacy)
+    - [Reverse Engineering](#reverse-engineering)
+    - [Tutorials](#tutorials)
     - [Web Application Security](#web-application-security)
-        - [Cross-site Request Forgery](#cross-site-request-forgery)
-        - [Cross-site Scripting](#cross-site-scripting)
-        - [PHP Object Injection](#php-object-injection)
-        - [SQL Injection](#sql-injection)
-    - [Tools](#tools)
-        - [AWS Security](#aws-security)
-        - [Binary Analysis](#binary-analysis)
-        - [Cryptography](#cryptography)
-        - [Data Exfiltration](#data-exfiltration)
-        - [DevOps](#devops)
-        - [Digital Forensics and Incident Response](#digital-forensics-and-incident-response)
-        - [Exploits](#exploits)
-        - [Hardening](#hardening)
-        - [Malware Analysis](#malware-analysis)
-        - [Mobile Security](#mobile-security)
-        - [Network](#network)
-        - [Password Tools](#password-tools)
-        - [Plugins](#plugins)
-        - [Privacy](#privacy)
-        - [Simulation](#simulation)
-        - [Social Engineering](#social-engineering)
-        - [Vulnerable](#vulnerable)
-        - [Web Application Security](#web-application-security)
-        - [Windows](#windows)
+- [Tools](#tools)
+    - [Adversary Emulation](#adversary-emulation)
+    - [AWS Security](#aws-security)
+    - [Binary Analysis](#binary-analysis)
+    - [Cryptography](#cryptography)
+    - [Data Exfiltration](#data-exfiltration)
+    - [Digital Forensics and Incident Response](#digital-forensics-and-incident-response)
+    - [Exploits](#exploits)
+    - [Hardening](#hardening)
+    - [Malware Analysis](#malware-analysis)
+    - [Mobile Security](#mobile-security)
+    - [Network Security](#network-security)
+    - [Password Cracking and Wordlists](#password-cracking-and-wordlists)
+    - [Plugins](#plugins)
+    - [Privacy_](#privacy_)
+    - [Social Engineering and OSINT](#social-engineering-and-osint)
+    - [Vulnerable](#vulnerable)
+    - [Web Application Security](#web-application-security)
+    - [Windows](#windows)
 
 ---
 
 ## Articles
-
-### Anti Forensics
-
-- [Removing Your PDF Metadata & Protecting PDF Files](https://blog.joshlemon.com.au/protecting-your-pdf-files-and-metadata/)
-  - `exiftool`, `qpdf` and `pdfinfo` are required before running [script](files/anti-forensics/removing-your-metadata-and-protecting-pdf-files.sh)
 
 ---
 
@@ -81,7 +50,7 @@ My curated list of awesome links, resources and tools
 - [How to Perform Hadoop Forensics](https://www.peerlyst.com/posts/how-to-perform-hadoop-forensics-chiheb-chebbi)
 - [Tool Analysis Result Sheet](https://jpcertcc.github.io/ToolAnalysisResultSheet/)
 
-#### Unix/Linux
+#### Digital Forensics and Incident Response: Platform: Unix/Linux
 
 - [Bruteforcing Linux Full Disk Encryption (LUKS) with hashcat - The Forensic way!](https://blog.pnb.io/2018/02/bruteforcing-linux-full-disk-encryption.html)
 - [Can an SSH session be taken from memory?](https://security.stackexchange.com/questions/148082/can-an-ssh-session-be-taken-from-memory)
@@ -89,11 +58,11 @@ My curated list of awesome links, resources and tools
 - [Linux Memory Forensics: Dissecting the User Space Process Heap](https://articles.forensicfocus.com/2017/10/16/linux-memory-forensics-dissecting-the-user-space-process-heap/)
 - [KIT-CERT Checklist for Linux Forensics](https://git.scc.kit.edu/KIT-CERT/Linux-Forensics-Checklist/blob/master/Linux-Forensics-Checklist.md)
 
-#### IoT
+#### Digital Forensics and Incident Response: Platform: IoT
 
 - [Internet Of Things Mobility Forensics](https://articles.forensicfocus.com/2017/05/17/internet-of-things-mobility-forensics/)
 
-#### MacOS/iOS
+#### Digital Forensics and Incident Response: Platform: MacOS/iOS
 
 - [A Few Interesting iOS Forensic Artefacts](https://salt4n6.com/2018/05/15/a-few-interesting-ios-forensic-artefacts/)
 - [Getting saucy with APFS](https://www.dropbox.com/s/bfjgiakkwt1bhm1/GettingSaucyWithAPFS.zip?dl=0)
@@ -112,7 +81,7 @@ My curated list of awesome links, resources and tools
 - [The Hitchhiker’s Guide to macOS USB Forensics](http://cyberforensicator.com/2017/11/06/the-hitchhikers-guide-to-macos-usb-forensics/)
 - [There’s Gold In Them There Blobs!](https://www.ciofecaforensics.com/2017/10/13/theres-gold-in-them-there-blobs/)
 
-#### Windows
+#### Digital Forensics and Incident Response: Platform: Windows
 
 - [(Am)cache still rules everything around me (part 2 of 1)](https://binaryforay.blogspot.com/2017/10/amcache-still-rules-everything-around.html)
 - [Amcache and Shimcache in forensic analysis](https://andreafortuna.org/amcache-and-shimcache-in-forensic-analysis-8e55aa675d2f)
@@ -151,18 +120,18 @@ My curated list of awesome links, resources and tools
 
 - [Guest Diary (Etay Nir) Kernel Hooking Basics](https://isc.sans.edu/forums/diary/Guest+Diary+Etay+Nir+Kernel+Hooking+Basics/23155/)
 
-#### Platform: Android
+#### Exploitation: Platform: Android
 
 - [Android Bluetooth Vulnerabilities in the March 2018 Security Bulletin](https://blog.quarkslab.com/android-bluetooth-vulnerabilities-in-the-march-2018-security-bulletin.html)
 - [CVE-2017-13253: Buffer overflow in multiple Android DRM services](https://blog.zimperium.com/cve-2017-13253-buffer-overflow-multiple-android-drm-services/)
 
-#### Platform: ARM
+#### Exploitation: Platform: ARM
 
 - [ARM exploitation for IoT – Episode 1](https://quequero.org/2017/07/arm-exploitation-iot-episode-1/)
 - [ARM exploitation for IoT – Episode 2](https://quequero.org/2017/09/arm-exploitation-iot-episode-2/)
 - [ARM exploitation for IoT – Episode 3](https://quequero.org/2017/11/arm-exploitation-iot-episode-3/)
 
-#### Platform: Linux
+#### Exploitation: Platform: Linux
 
 - [64-bit Linux Return-Oriented Programming](https://crypto.stanford.edu/~blynn/rop/)
 - [Adapting the POC for CVE-2017-1000112 to Other Kernels](http://ricklarabee.blogspot.ch/2017/12/adapting-poc-for-cve-2017-1000112-to.html)
@@ -187,7 +156,7 @@ My curated list of awesome links, resources and tools
 - [The Definitive Guide to Linux System Calls](https://blog.packagecloud.io/eng/2016/04/05/the-definitive-guide-to-linux-system-calls/)
 - [xairy/linux-kernel-exploitation](https://github.com/xairy/linux-kernel-exploitation)
 
-#### Platform: Windows
+#### Exploitation: Platform: Windows
 
 - [0patching the "Immortal" CVE-2017-7269](https://0patch.blogspot.com/2017/03/0patching-immortal-cve-2017-7269.html)
 - [15 Ways to Bypass the PowerShell Execution Policy](https://blog.netspi.com/15-ways-to-bypass-the-powershell-execution-policy/)
@@ -281,7 +250,7 @@ My curated list of awesome links, resources and tools
 - [Zero Day Zen Garden: Windows Exploit Development - Part 2 [JMP to Locate Shellcode]](http://www.shogunlab.com/blog/2017/08/26/zdzg-windows-exploit-2.html)
 - [Zero Day Zen Garden: Windows Exploit Development - Part 3 [Egghunter to Locate Shellcode]](http://www.shogunlab.com/blog/2017/09/02/zdzg-windows-exploit-3.html)
 
-#### Technique: Bypassing ASLR
+#### Exploitation: Technique: Bypassing ASLR
 
 _Any related techniques for ASLR bypassing_
 
@@ -294,16 +263,12 @@ _Any related techniques for ASLR bypassing_
 - [Exploit Mitigation Techniques - Address Space Layout Randomization (ASLR)](https://0x00sec.org/t/exploit-mitigation-techniques-address-space-layout-randomization-aslr/5452/1)
 - [New bypass and protection techniques for ASLR on Linux](http://blog.ptsecurity.com/2018/02/new-bypass-and-protection-techniques.html)
 
-#### Technique: Format Strings
-
-_Format strings exploitation_
+#### Exploitation: Technique: Format Strings
 
 - [Format String Exploitation Primer](https://borgandrew.blogspot.com/2017/01/h1-margin-bottom-0.html)
 - [X86 EXPLOITATION 101: “FORMAT STRINGS” – I’LL TELL YA WHAT TO SAY](https://gbmaster.wordpress.com/2015/12/08/x86-exploitation-101-format-strings-ill-tell-ya-what-to-say/)
 
-#### Technique: Heap Exploitation
-
-_Heap exploitation related articles and tutorials_
+#### Exploitation: Technique: Heap Exploitation
 
 - [Heap Exploitation](https://www.gitbook.com/book/dhavalkapil/heap-exploitation/details)
 - [Heap Exploitation ~ Fastbin Attack](https://0x00sec.org/t/heap-exploitation-fastbin-attack/3627)
@@ -319,16 +284,12 @@ _Heap exploitation related articles and tutorials_
 - [X86 EXPLOITATION 101: “HOUSE OF LORE” – PEOPLE AND TRADITIONS](https://gbmaster.wordpress.com/2015/07/16/x86-exploitation-101-house-of-lore-people-and-traditions/)
 - [Understanding the Heap & Exploiting Heap Overflows](http://www.mathyvanhoef.com/2013/02/understanding-heap-exploiting-heap.html)
 
-#### Technique: Integer Overflow
-
-_Integer overflow exploitaion_
+#### Exploitation: Technique: Integer Overflow
 
 - [Integer Overflow](https://sploitfun.wordpress.com/2015/06/23/integer-overflow/)
 - [X86 EXPLOITATION 101: “INTEGER OVERFLOW” – ADDING ONE MORE… AAAAAAAAAAAND IT’S GONE](https://gbmaster.wordpress.com/2015/08/13/x86-exploitation-101-integer-overflow-adding-one-more-aaaaaaaaaaand-its-gone/)
 
-#### Technique: Return Oriented Programming
-
-_ROP examples and guidelines_
+#### Exploitation: Technique: Return Oriented Programming
 
 - [A ROP Primer solution 64-bit style](https://blog.techorganic.com/2015/10/09/a-rop-primer-solution-64-bit-style/)
 - [Blind Return Oriented Programming 102](https://oddcoder.com/BROP-102/)
@@ -340,16 +301,14 @@ _ROP examples and guidelines_
 - [ropchain](http://www.kvakil.me/posts/ropchain/)
 - [Sigreturn Oriented Programming](https://0x00sec.org/t/srop-signals-you-say/2890)
 
-#### Technique: return-to-libc
+#### Exploitation: Technique: return-to-libc
 
 _return-to-libc techniques_
 
 - [Bypassing NX bit using return-to-libc](https://sploitfun.wordpress.com/2015/05/08/bypassing-nx-bit-using-return-to-libc/)
 - [Bypassing NX bit using chained return-to-libc](https://sploitfun.wordpress.com/2015/05/08/bypassing-nx-bit-using-chained-return-to-libc/)
 
-#### Technique: Shellcoding
-
-_Art of crafting shellcode_
+#### Exploitation: Technique: Shellcoding
 
 - [A Primer to Windows x64 shellcoding](https://blahcat.github.io/2017/08/14/a-primer-to-windows-x64-shellcoding/)
 - [Shellcoding for Linux and Windows Tutorial](http://www.vividmachines.com/shellcode/shellcode.html)
@@ -357,9 +316,7 @@ _Art of crafting shellcode_
 - [SLAE: Reverse TCP Shell – Assignment 2](http://0xdeadcode.se/archives/689)
 - [SLAE: Egg Hunter – Assignment 3](http://0xdeadcode.se/archives/707)
 
-#### Technique: Stack Exploitation
-
-_Corrupt the stack_
+#### Exploitation: Technique: Stack Exploitation
 
 - [Buffer Overflow Explotation](https://0x00sec.org/t/buffer-overflow-explotation/3846/1)
 - [Classic Stack Based Buffer Overflow](https://sploitfun.wordpress.com/2015/05/08/classic-stack-based-buffer-overflow/)
@@ -374,15 +331,13 @@ _Corrupt the stack_
 - [X86 EXPLOITATION 101: “HOUSE OF SPIRIT” – FRIENDLY STACK OVERFLOW](https://gbmaster.wordpress.com/2015/07/21/x86-exploitation-101-house-of-spirit-friendly-stack-overflow/)
 - [Your First Buffer Overflow](https://medium.com/@mackwage/your-first-buffer-overflow-89141a9a2941)
 
-#### Technique Use-After-Free
-
-_Use-After-Free related arcitles_
+#### Exploitation: Technique Use-After-Free
 
 ![https://twitter.com/bellis1000/status/930154591081070592](https://pbs.twimg.com/media/DOiSqmWX0AEVeya.jpg)
 
 - [Use-After-Free](https://sploitfun.wordpress.com/2015/06/16/use-after-free/)
 
-#### Vulnerability: Spectre and Meltdown
+#### Exploitation: Vulnerability: Spectre and Meltdown
 
 - [A Deep Dive Analysis of Microsoft’s Kernel Virtual Address Shadow Feature](A Deep Dive Analysis of Microsoft’s Kernel Virtual Address Shadow Feature)
 - [An accessible overview of Meltdown and Spectre, Part 1](https://blog.trailofbits.com/2018/01/30/an-accessible-overview-of-meltdown-and-spectre-part-1/)
@@ -394,29 +349,23 @@ _Use-After-Free related arcitles_
 
 ### Malware Analysis
 
-_Malware analysis articles, techniques and examples_
-
 ![Process Injection Info Graphic by struppigel](https://4.bp.blogspot.com/-ixv5E0LMZCw/WWi5yRjL-_I/AAAAAAAAAnk/WO99S4Yrd8w6lfg6tITwUV02CGDFYAORACLcBGAs/s640/Process%2BInjection%25281%2529.png)
 
 - [A zebra in sheep’s clothing: How a Microsoft icon-display bug in Windows allows attackers to masquerade PE files with special icons](https://www.cybereason.com/labs-a-zebra-in-sheeps-clothing-how-a-microsoft-icon-display-bug-in-windows-allows-attackers-to-masquerade-pe-files-with-special-icons/)
-- [baderj/domain_generation_algorithms - Some results of my DGA reversing efforts](https://github.com/baderj/domain_generation_algorithms)
-- [DOSfuscation: Exploring the Depths Cmd.exe Obfuscation and Detection Techniques](https://www.fireeye.com/content/dam/fireeye-www/blog/pdfs/dosfuscation-report.pdf)
-- [Fast Flux networks: What are they and how do they work?](https://www.welivesecurity.com/2017/01/12/fast-flux-networks-work/)
-- [FIN7 Group Uses JavaScript and Stealer DLL Variant in New Attacks](http://blog.talosintelligence.com/2017/09/fin7-stealer.html#more)
-- [High-reputation Redirectors and Domain Fronting](https://blog.cobaltstrike.com/2017/02/06/high-reputation-redirectors-and-domain-fronting/)
-- [Hunting For In-Memory .NET Attacks](https://www.endgame.com/blog/technical-blog/hunting-memory-net-attacks)
-- [Hunting Malware with Memory Analysis](https://technical.nttsecurity.com/post/102egyy/hunting-malware-with-memory-analysis)
-- [ThreatHuntingProject/ThreatHunting](https://github.com/ThreatHuntingProject/ThreatHunting)
-- [Tips for Reverse-Engineering Malicious Code](https://zeltser.com/reverse-engineering-malicious-code-tips/)
-- [Understanding Process Hollowing](https://andreafortuna.org/understanding-process-hollowing-b94ce77c3276)
-- [Use of DNS Tunneling for C&C Communications](https://securelist.com/use-of-dns-tunneling-for-cc-communications/78203/)
 - [Add-In Opportunities for Office Persistence](https://labs.mwrinfosecurity.com/blog/add-in-opportunities-for-office-persistence/)
 - [Anti-debugging Techniques Cheat Sheet](http://antukh.com/blog/2015/01/19/malware-techniques-cheat-sheet/)
 - [AntiForensics techniques : Process hiding in Kernel Mode](https://www.cert-devoteam.fr/publications/en/antiforensics-techniques-process-hiding-in-kernel-mode/)
+- [baderj/domain_generation_algorithms - Some results of my DGA reversing efforts](https://github.com/baderj/domain_generation_algorithms)
 - [Borrowing Microsoft Code Signing Certificate](https://blog.conscioushacker.io/index.php/2017/09/27/borrowing-microsoft-code-signing-certificates/)
 - [Creating ransomware for Android](https://0x00sec.org/t/creating-ransomware-for-android/4063)
 - [Detecting Architecture in Windows](https://osandamalith.com/2017/09/24/detecting-architecture-in-windows/)
+- [DOSfuscation: Exploring the Depths Cmd.exe Obfuscation and Detection Techniques](https://www.fireeye.com/content/dam/fireeye-www/blog/pdfs/dosfuscation-report.pdf)
+- [Fast Flux networks: What are they and how do they work?](https://www.welivesecurity.com/2017/01/12/fast-flux-networks-work/)
+- [FIN7 Group Uses JavaScript and Stealer DLL Variant in New Attacks](http://blog.talosintelligence.com/2017/09/fin7-stealer.html#more)
 - [HIDING YOUR PROCESS FROM SYSINTERNALS](https://riscybusiness.wordpress.com/2017/10/07/hiding-your-process-from-sysinternals/)
+- [High-reputation Redirectors and Domain Fronting](https://blog.cobaltstrike.com/2017/02/06/high-reputation-redirectors-and-domain-fronting/)
+- [Hunting For In-Memory .NET Attacks](https://www.endgame.com/blog/technical-blog/hunting-memory-net-attacks)
+- [Hunting Malware with Memory Analysis](https://technical.nttsecurity.com/post/102egyy/hunting-malware-with-memory-analysis)
 - [If memory doesn’t serve me right…](http://www.hexacorn.com/blog/2017/07/10/if-memory-doesnt-serve-me-right/)
 - [MetaTwin – Borrowing Microsoft Metadata and Digital Signatures to “Hide” Binaries](http://threatexpress.com/2017/10/metatwin-borrowing-microsoft-metadata-and-digital-signatures-to-hide-binaries/)
 - [PE File Infection Part I](https://0x00sec.org/t/pe-file-infection/401)
@@ -427,51 +376,79 @@ _Malware analysis articles, techniques and examples_
 - [Running programs via Proxy & jumping on a EDR-bypass trampoline, Part 4](http://www.hexacorn.com/blog/2017/10/29/running-programs-via-proxy-jumping-on-a-edr-bypass-trampoline-part-4/)
 - [Ten Process Injection Techniques: A Technical Survey Of Common And Trending Process Injection Techniques](https://www.endgame.com/blog/technical-blog/ten-process-injection-techniques-technical-survey-common-and-trending-process)
 - [The Archaeologologogology #3 – Downloading stuff with cmdln32](http://www.hexacorn.com/blog/2017/04/30/the-archaeologologogology-3-downloading-stuff-with-cmdln32/)
-- ATM malware
-  - [Bingo, Amigo! Jackpotting: ATM malware from Latin America to the World](https://securelist.com/atm-malware-from-latin-america-to-the-world/83836/)
-- Badrabbit
-  - [‘BadRabbit’ Ransomware Burrows Into Russia, Ukraine](https://securingtomorrow.mcafee.com/mcafee-labs/badrabbit-ransomware-burrows-russia-ukraine/)
-  - [BadRabbit: a closer look at the new version of Petya/NotPetya](https://blog.malwarebytes.com/threat-analysis/2017/10/badrabbit-closer-look-new-version-petyanotpetya/)
-  - [Bad Rabbit: Not-Petya is back with improved ransomware](https://www.welivesecurity.com/2017/10/24/bad-rabbit-not-petya-back/)
-  - [Bad Rabbit – A New Ransomware Outbreak Targeting Ukraine and Russia.](https://blog.checkpoint.com/2017/10/24/bad-rabbit-new-ransomware-outbreak-targeting-ukraine-russia/)
-  - [Bad Rabbit ransomware](https://securelist.com/bad-rabbit-ransomware/82851/)
-  - [Bad Rabbit Ransomware Spreads via Network, Hits Ukraine and Russia](http://blog.trendmicro.com/trendlabs-security-intelligence/bad-rabbit-ransomware-spreads-via-network-hits-ukraine-russia/)
-  - [NotPetya Returns as Bad Rabbit](http://www.intezer.com/notpetya-returns-bad-rabbit/)
-  - [Threat Spotlight: Follow the Bad Rabbit](http://blog.talosintelligence.com/2017/10/bad-rabbit.html)
-- Bankbot
-  - [A Look Into The New Strain of BankBot](https://blog.fortinet.com/2017/09/19/a-look-into-the-new-strain-of-bankbot)
-- CCleaner
-  - [Protecting the Software Supply Chain: Deep Insights into the CCleaner Backdoor](https://www.crowdstrike.com/blog/protecting-software-supply-chain-deep-insights-ccleaner-backdoor/)
-  - [In-Depth Analysis of the CCleaner Backdoor Stage 2 Dropper and Its Payload](https://www.crowdstrike.com/blog/in-depth-analysis-of-the-ccleaner-backdoor-stage-2-dropper-and-its-payload/)
-- Dridex
-  - [Dridex v4 - Configuration Files, Network and Binaries](https://viql.github.io/dridex/)
-- Emotet
-  - [Emotet lives another day using Fake O2 invoice notifications](https://www.trustwave.com/Resources/SpiderLabs-Blog/Emotet-lives-another-day-using-Fake-O2-invoice-notifications/)
-- Hajime
-  - [Is Hajime botnet dead?](http://blog.netlab.360.com/hajime-status-report-en/)
-- Locky
-  - [Locky Part 1: Lukitus Spam Campaigns and Their Love for Game of Thrones](https://www.trustwave.com/Resources/SpiderLabs-Blog/Locky-Part-1--Lukitus-Spam-Campaigns-and-Their-Love-for-Game-of-Thrones/)
-  - [Locky Part 2: As the Seasons Change so is Locky](https://www.trustwave.com/Resources/SpiderLabs-Blog/Locky-Part-2--As-the-Seasons-Change-so-is-Locky/)
-- Kangaroo
-  - [Threat Analysis: Don’t Forget About Kangaroo Ransomware](https://www.carbonblack.com/2017/10/02/threat-analysis-dont-forget-about-kangaroo-ransomware/)
-- MAN1
-  - [Threat Spotlight - MAN1 Malware: Temple of Doom](https://www.cylance.com/en_us/blog/threat-spotlight-man1-malware-group-resurfaces.html)
-  - [Threat Spotlight: MAN1 Malware - The Last Crusade?](https://www.cylance.com/en_us/blog/threat-spotlight-man1-malware-the-last-crusade.html)
-- Poison Ivy
-  - [Deep Analysis of New Poison Ivy Variant](http://blog.fortinet.com/2017/08/23/deep-analysis-of-new-poison-ivy-variant)
-  - [Deep Analysis of New Poison Ivy/PlugX Variant - Part II](https://blog.fortinet.com/2017/09/15/deep-analysis-of-new-poison-ivy-plugx-variant-part-ii)
-- Rig EK
-  - [if you want to get #RigEK's enc key, please use this script](https://twitter.com/nao_sec/status/944038611590115328)
-- Trickbot
-  - [Reverse engineering malware: TrickBot (part 1 - packer)](https://qmemcpy.github.io/post/reverse-engineering-malware-trickbot-part-1-packer)
-  - [Reverse engineering malware: TrickBot (part 2 - loader)](https://qmemcpy.github.io/post/reverse-engineering-malware-trickbot-part-2-loader)
-  - [Reverse engineering malware: TrickBot (part 3 - core)](https://qmemcpy.io/post/reverse-engineering-malware-trickbot-part-3-core)
+- [ThreatHuntingProject/ThreatHunting](https://github.com/ThreatHuntingProject/ThreatHunting)
+- [Tips for Reverse-Engineering Malicious Code](https://zeltser.com/reverse-engineering-malicious-code-tips/)
+- [Understanding Process Hollowing](https://andreafortuna.org/understanding-process-hollowing-b94ce77c3276)
+- [Use of DNS Tunneling for C&C Communications](https://securelist.com/use-of-dns-tunneling-for-cc-communications/78203/)
+
+#### Malware Analysis: Variant: ATM & POS
+
+- [Bingo, Amigo! Jackpotting: ATM malware from Latin America to the World](https://securelist.com/atm-malware-from-latin-america-to-the-world/83836/)
+
+#### Malware Analysis: Variant: BadRabbit
+
+- [‘BadRabbit’ Ransomware Burrows Into Russia, Ukraine](https://securingtomorrow.mcafee.com/mcafee-labs/badrabbit-ransomware-burrows-russia-ukraine/)
+- [BadRabbit: a closer look at the new version of Petya/NotPetya](https://blog.malwarebytes.com/threat-analysis/2017/10/badrabbit-closer-look-new-version-petyanotpetya/)
+- [Bad Rabbit: Not-Petya is back with improved ransomware](https://www.welivesecurity.com/2017/10/24/bad-rabbit-not-petya-back/)
+- [Bad Rabbit – A New Ransomware Outbreak Targeting Ukraine and Russia.](https://blog.checkpoint.com/2017/10/24/bad-rabbit-new-ransomware-outbreak-targeting-ukraine-russia/)
+- [Bad Rabbit ransomware](https://securelist.com/bad-rabbit-ransomware/82851/)
+- [Bad Rabbit Ransomware Spreads via Network, Hits Ukraine and Russia](http://blog.trendmicro.com/trendlabs-security-intelligence/bad-rabbit-ransomware-spreads-via-network-hits-ukraine-russia/)
+- [NotPetya Returns as Bad Rabbit](http://www.intezer.com/notpetya-returns-bad-rabbit/)
+- [Threat Spotlight: Follow the Bad Rabbit](http://blog.talosintelligence.com/2017/10/bad-rabbit.html)
+
+#### Malware Analysis: Variant: Bankbot
+
+- [A Look Into The New Strain of BankBot](https://blog.fortinet.com/2017/09/19/a-look-into-the-new-strain-of-bankbot)
+
+#### Malware Analysis: Variant: CCleaner Backdoor
+
+- [Protecting the Software Supply Chain: Deep Insights into the CCleaner Backdoor](https://www.crowdstrike.com/blog/protecting-software-supply-chain-deep-insights-ccleaner-backdoor/)
+- [In-Depth Analysis of the CCleaner Backdoor Stage 2 Dropper and Its Payload](https://www.crowdstrike.com/blog/in-depth-analysis-of-the-ccleaner-backdoor-stage-2-dropper-and-its-payload/)
+
+#### Malware Analysis: Variant: Dridex
+
+- [Dridex v4 - Configuration Files, Network and Binaries](https://viql.github.io/dridex/)
+
+#### Malware Analysis: Variant: Emotet
+
+- [Emotet lives another day using Fake O2 invoice notifications](https://www.trustwave.com/Resources/SpiderLabs-Blog/Emotet-lives-another-day-using-Fake-O2-invoice-notifications/)
+
+#### Malware Analysis: Variant: Hajime
+
+- [Is Hajime botnet dead?](http://blog.netlab.360.com/hajime-status-report-en/)
+
+#### Malware Analysis: Variant: Locky
+
+- [Locky Part 1: Lukitus Spam Campaigns and Their Love for Game of Thrones](https://www.trustwave.com/Resources/SpiderLabs-Blog/Locky-Part-1--Lukitus-Spam-Campaigns-and-Their-Love-for-Game-of-Thrones/)
+- [Locky Part 2: As the Seasons Change so is Locky](https://www.trustwave.com/Resources/SpiderLabs-Blog/Locky-Part-2--As-the-Seasons-Change-so-is-Locky/)
+
+#### Malware Analysis: Variant: Kangaroo
+
+- [Threat Analysis: Don’t Forget About Kangaroo Ransomware](https://www.carbonblack.com/2017/10/02/threat-analysis-dont-forget-about-kangaroo-ransomware/)
+
+#### Malware Analysis: Variant: MAN1
+
+- [Threat Spotlight - MAN1 Malware: Temple of Doom](https://www.cylance.com/en_us/blog/threat-spotlight-man1-malware-group-resurfaces.html)
+- [Threat Spotlight: MAN1 Malware - The Last Crusade?](https://www.cylance.com/en_us/blog/threat-spotlight-man1-malware-the-last-crusade.html)
+
+#### Malware Analysis: Variant: Poison Ivy
+
+- [Deep Analysis of New Poison Ivy Variant](http://blog.fortinet.com/2017/08/23/deep-analysis-of-new-poison-ivy-variant)
+- [Deep Analysis of New Poison Ivy/PlugX Variant - Part II](https://blog.fortinet.com/2017/09/15/deep-analysis-of-new-poison-ivy-plugx-variant-part-ii)
+
+#### Malware Analysis: Variant: Rig Ek
+
+- [if you want to get #RigEK's enc key, please use this script](https://twitter.com/nao_sec/status/944038611590115328)
+
+#### Malware Analysis: Variant: Trickbot
+
+- [Reverse engineering malware: TrickBot (part 1 - packer)](https://qmemcpy.github.io/post/reverse-engineering-malware-trickbot-part-1-packer)
+- [Reverse engineering malware: TrickBot (part 2 - loader)](https://qmemcpy.github.io/post/reverse-engineering-malware-trickbot-part-2-loader)
+- [Reverse engineering malware: TrickBot (part 3 - core)](https://qmemcpy.io/post/reverse-engineering-malware-trickbot-part-3-core)
 
 ---
 
 ### Mobile Security
-
-_Mobile security articles_
 
 - [Mobile Application Hacking Diary Ep.1](https://www.exploit-db.com/papers/26620/)
 - [Mobile Application Hacking Diary Ep.2](https://www.exploit-db.com/papers/44145/)
@@ -481,9 +458,7 @@ _Mobile security articles_
 
 ### Post Exploitation
 
-_Art of post exploitation techniques_
-
-#### Windows Post Exploitation
+#### Post Exploitation Platform: Windows
 
 - [Post Exploitation Using NetNTLM Downgrade Attacks](https://www.optiv.com/blog/post-exploitation-using-netntlm-downgrade-attacks)
 - [Top Five Ways I Got Domain Admin on Your Internal Network before Lunch (2018 Edition)](https://medium.com/@adam.toscher/top-five-ways-i-got-domain-admin-on-your-internal-network-before-lunch-2018-edition-82259ab73aaa)
@@ -491,8 +466,6 @@ _Art of post exploitation techniques_
 ---
 
 ### Privacy
-
-_Privacy and internet security guidelines for cyber activists_
 
 - [Digital Privacy at the U.S. Border: Protecting the Data On Your Devices](https://www.eff.org/wp/digital-privacy-us-border-2017)
 - [DIY Cybersecurity for Domestic Violence](https://hackblossom.org/domestic-violence/index.html)
@@ -507,8 +480,6 @@ _Privacy and internet security guidelines for cyber activists_
 
 ### Reverse Engineering
 
-_Reverse engineering tutorials and primers_
-
 - [A Gentle Primer on Reverse Engineering](https://emily.st/2015/01/27/reverse-engineering/)
 - [ELF hacking with Rekall](http://blog.rekall-forensic.com/2018/01/elf-hacking-with-rekall.html)
 - [FAQ: How to learn reverse-engineering?](http://gynvael.coldwind.pl/?id=664)
@@ -518,8 +489,6 @@ _Reverse engineering tutorials and primers_
 ---
 
 ### Tutorials
-
-_This section contains links about tool tutorials, cheat sheet and techniques._
 
 <table>
     <tr>
@@ -710,7 +679,7 @@ _This section contains links about tool tutorials, cheat sheet and techniques._
 
 ---
 
-## Web Application Security
+### Web Application Security
 
 _Web application security related articles and tutorials_
 
@@ -718,20 +687,20 @@ _Web application security related articles and tutorials_
   - Using `admin@`, `administrator@`, `hostmaster@`, `postmaster@`, `webmaster@` for email address
 - [The 2018 Guide to Building Secure PHP Software](https://paragonie.com/blog/2017/12/2018-guide-building-secure-php-software)
 
-### Cross-site Request Forgery
+#### Web Application Security: Technique: Cross-site Request Forgery
 
 - [What is CSRF , Preventions? And How to bypass the CSRF protection via XSS?](https://medium.com/@agrawalsmart7/what-is-csrf-how-to-bypass-the-csrf-protection-via-xss-55695f5789d7)
 
-### Cross-site Scripting
+#### Web Application Security: Technique: Cross-site Scripting
 
 - [BRUTE XSS - Master the art of Cross Site Scripting](https://brutelogic.com.br/blog/)
 - [XSS Cheat Sheet](https://leanpub.com/xss)
 
-### PHP Object Injection
+#### Web Application Security: Technique: PHP Object Injection
 
 - [Why You Should Never Pass Untrusted Data to Unserialize When Writing PHP Code](https://www.netsparker.com/blog/web-security/untrusted-data-unserialize-php/)
 
-### SQL Injection
+#### Web Application Security: Technique: SQL Injection
 
 - [MySQL UDF Exploitation](https://osandamalith.com/2018/02/11/mysql-udf-exploitation/)
 - [NetSPI SQL Injection Wiki](https://sqlwiki.netspi.com/)
@@ -741,9 +710,62 @@ _Web application security related articles and tutorials_
 
 ## Tools
 
-### AWS Security
+---
 
-_Open source projects related to AWS security._
+### Adversary Emulation
+
+<table>
+    <tr>
+        <td><a href="https://github.com/alphasoc/flightsim">alphasoc/flightsim</a></td>
+        <td>A utility to generate malicious network traffic and evaluate controls</td>
+    </tr>
+    <tr>
+        <td><a href="https://www.encripto.no/en/downloads-2/tools/">Blue Team Training Toolkit</a></td>
+        <td>Blue Team Training Toolkit (BT3) is designed for network analysis training sessions, incident response drills and red team engagements. Based on adversary replication techniques, and with reusability in mind, BT3 allows individuals and organizations to create realistic computer attack scenarios, while reducing infrastructure costs, implementation time and risk.</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/Cyb3rWard0g/Invoke-ATTACKAPI">Cyb3rWard0g/Invoke-ATTACKAPI</a></td>
+        <td>A PowerShell script to interact with the MITRE ATT&CK Framework via its own API</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/endgameinc/RTA">endgameinc/RTA</a></td>
+        <td>RTA provides a framework of scripts designed to allow blue teams to test their detection capabilities against malicious tradecraft, modeled after MITRE ATT&CK</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/guardicore/monkey">guardicore/monkey</a></td>
+        <td>Infection Monkey - An automated pentest tool</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/jymcheong/AutoTTP">jymchoeng/AutoTTP</a></td>
+        <td>Automated Tactics Techniques & Procedures</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/mitre/caldera">mitre/caldera</a></td>
+        <td>An automated adversary emulation system</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/NextronSystems/APTSimulator">NextronSystems/APTSimulator</a></td>
+        <td>A toolset to make a system look as if it was the victim of an APT attack</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/TryCatchHCF/DumpsterFire">TryCatchHCF/DumpsterFire</a></td>
+        <td>"Security Incidents In A Box!" A modular, menu-driven, cross-platform tool for building customized, time-delayed, distributed security events. Easily create custom event chains for Blue Team drills and sensor / alert mapping. Red Teams can create decoy incidents, distractions, and lures to support and scale their operations. Build event sequence…</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/redcanaryco/atomic-red-team">redcanaryco/atomic-red-team</a></td>
+        <td>Small and highly portable detection tests based on MITRE's ATT&CK.</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/redhuntlabs/RedHunt-OS">redhuntlabs/RedHunt-OS</a></td>
+        <td>Virtual Machine for Adversary Emulation and Threat Hunting</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/uber-common/metta">uber-common/metta</a></td>
+        <td>An information security preparedness tool to do adversarial simulation.</td>
+    </tr>
+</table>
+
+### AWS Security
 
 <table>
     <tr>
@@ -818,8 +840,6 @@ _Open source projects related to AWS security._
 
 ### Binary Analysis
 
-_Binary analysis tools, including decompilers, deobfuscators, disassemblers, etc._
-
 <table>
     <tr>
         <td><a href="https://github.com/avast-tl/retdec">avast-tl/retdec</a></td>
@@ -869,8 +889,6 @@ _Binary analysis tools, including decompilers, deobfuscators, disassemblers, etc
 
 ### Cryptography
 
-_Cryptography related tools_
-
 <table>
     <tr>
         <td><a href="https://certdb.com">CertDB</a></td>
@@ -892,8 +910,6 @@ _Cryptography related tools_
 
 ### Data Exfiltration
 
-_Tools related to data exfiltration and covert channels_
-
 <table>
     <tr>
         <td><a href="https://github.com/evilsocket/sg1">evilsocket/sg1</a></td>
@@ -909,20 +925,7 @@ _Tools related to data exfiltration and covert channels_
     </tr>
 </table>
 
-### DevOps
-
-_DevSecOps stuff, or SevDevOps, or DevOpsSec, or SecDevSecOpsSec!?_
-
-<table>
-    <tr>
-        <td><a href="https://github.com/GoogleCloudPlatform/container-diff">GoogleCloudPlatform/container-diff</a></td>
-        <td>container-diff is a tool for analyzing and comparing container images. container-diff can examine images along several different criteria, including: Docker Image History, Image file system, packages, etc.</td>
-    </tr>
-</table>
-
 ### Digital Forensics and Incident Response
-
-_Open source projects related to DFIR topic._
 
 <table>
     <tr>
@@ -1060,8 +1063,6 @@ _Open source projects related to DFIR topic._
 </table>
 
 ### Exploits
-
-_Interesting exploits and PoC code. For research purpose only_
 
 <table>
     <tr>
@@ -1280,8 +1281,6 @@ _Interesting exploits and PoC code. For research purpose only_
 
 ### Hardening
 
-_Security baseline configuration and recommendations_
-
 <table>
     <tr>
         <td><a href="https://iase.disa.mil/stigs/pages/a-z.aspx">Security Technical Implementation Guides (STIGs)</a></td>
@@ -1298,8 +1297,6 @@ _Security baseline configuration and recommendations_
 </table>
 
 ### Malware Analysis
-
-_Tools related to malware analysis, malware development (for research purpose) and malware sample finding_
 
 <table>
     <tr>
@@ -1422,8 +1419,6 @@ _Tools related to malware analysis, malware development (for research purpose) a
 
 ### Mobile Security
 
-_Tools related to mobile security, mobile application auditing/debugging and mobile penetration testing_
-
 <table>
     <tr>
         <td><a href="https://github.com/ac-pm/Inspeckage">ac-pm/Inspeckage</a></td>
@@ -1511,9 +1506,7 @@ _Tools related to mobile security, mobile application auditing/debugging and mob
     </tr>
 </table>
 
-### Network
-
-_Network and network security related tools_
+### Network Security
 
 <table>
     <tr>
@@ -1566,9 +1559,7 @@ _Network and network security related tools_
     </tr>
 </table>
 
-### Password Tools
-
-_Tools related to password cracking, bruteforcing and also wordlists_
+### Password Cracking and Wordlists
 
 <table>
     <tr>
@@ -1590,8 +1581,6 @@ _Tools related to password cracking, bruteforcing and also wordlists_
 </table>
 
 ### Plugins
-
-_Plugins and extensions for tools_
 
 <table>
     <tr>
@@ -1710,9 +1699,7 @@ _Plugins and extensions for tools_
     </tr>
 </table>
 
-### Privacy
-
-_Increase your privacy and/or operational security with this tools_
+### Privacy_
 
 <table>
     <tr>
@@ -1733,64 +1720,9 @@ _Increase your privacy and/or operational security with this tools_
     </tr>
 </table>
 
-### Simulation
 
-_Securtiy framework that can be used to simulate real attack scenario_
 
-<table>
-    <tr>
-        <td><a href="https://github.com/alphasoc/flightsim">alphasoc/flightsim</a></td>
-        <td>A utility to generate malicious network traffic and evaluate controls</td>
-    </tr>
-    <tr>
-        <td><a href="https://www.encripto.no/en/downloads-2/tools/">Blue Team Training Toolkit</a></td>
-        <td>Blue Team Training Toolkit (BT3) is designed for network analysis training sessions, incident response drills and red team engagements. Based on adversary replication techniques, and with reusability in mind, BT3 allows individuals and organizations to create realistic computer attack scenarios, while reducing infrastructure costs, implementation time and risk.</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/Cyb3rWard0g/Invoke-ATTACKAPI">Cyb3rWard0g/Invoke-ATTACKAPI</a></td>
-        <td>A PowerShell script to interact with the MITRE ATT&CK Framework via its own API</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/endgameinc/RTA">endgameinc/RTA</a></td>
-        <td>RTA provides a framework of scripts designed to allow blue teams to test their detection capabilities against malicious tradecraft, modeled after MITRE ATT&CK</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/guardicore/monkey">guardicore/monkey</a></td>
-        <td>Infection Monkey - An automated pentest tool</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/jymcheong/AutoTTP">jymchoeng/AutoTTP</a></td>
-        <td>Automated Tactics Techniques & Procedures</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/mitre/caldera">mitre/caldera</a></td>
-        <td>An automated adversary emulation system</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/NextronSystems/APTSimulator">NextronSystems/APTSimulator</a></td>
-        <td>A toolset to make a system look as if it was the victim of an APT attack</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/TryCatchHCF/DumpsterFire">TryCatchHCF/DumpsterFire</a></td>
-        <td>"Security Incidents In A Box!" A modular, menu-driven, cross-platform tool for building customized, time-delayed, distributed security events. Easily create custom event chains for Blue Team drills and sensor / alert mapping. Red Teams can create decoy incidents, distractions, and lures to support and scale their operations. Build event sequence…</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/redcanaryco/atomic-red-team">redcanaryco/atomic-red-team</a></td>
-        <td>Small and highly portable detection tests based on MITRE's ATT&CK.</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/redhuntlabs/RedHunt-OS">redhuntlabs/RedHunt-OS</a></td>
-        <td>Virtual Machine for Adversary Emulation and Threat Hunting</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/uber-common/metta">uber-common/metta</a></td>
-        <td>An information security preparedness tool to do adversarial simulation.</td>
-    </tr>
-</table>
-
-### Social Engineering
-
-_Tools related to social engineering attack, OSINT and human hacking_
+### Social Engineering and OSINT
 
 <table>
     <tr>
@@ -1849,8 +1781,6 @@ _Tools related to social engineering attack, OSINT and human hacking_
 
 ### Vulnerable
 
-_Vulnerable software, application, VM for research purpose and virtual environment for security testing_
-
 <table>
     <tr>
         <td><a href="https://github.com/Billy-Ellis/Exploit-Challenges">Billy-Ellis/Exploit-Challenges</a></td>
@@ -1900,8 +1830,6 @@ This repository lists most of the challenges used in the Google CTF 2017. The mi
 </table>
 
 ### Web Application Security
-
-_Web application security tools_
 
 <table>
     <tr>
@@ -1968,8 +1896,6 @@ _Web application security tools_
 </table>
 
 ### Windows
-
-_Tools for Windows only_
 
 <table>
     <tr>
@@ -2081,3 +2007,5 @@ _Tools for Windows only_
         <td>Unicorn is a simple tool for using a PowerShell downgrade attack and inject shellcode straight into memory. Based on Matthew Graeber's powershell attacks and the powershell bypass technique presented by David Kennedy (TrustedSec) and Josh Kelly at Defcon 18.</td>
     </tr>
 </table>
+
+---
