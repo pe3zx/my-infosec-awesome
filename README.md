@@ -1890,6 +1890,10 @@ This repository lists most of the challenges used in the Google CTF 2017. The mi
         <td>Deserialization payload generator for a variety of .NET formatters</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/RhinoSecurityLabs/SleuthQL">RhinoSecurityLabs/SleuthQL</a></td>
+        <td>Python3 Burp History parsing tool to discover potential SQL injection points. To be used in tandem with SQLmap.</td>
+    </tr>
+    <tr>
         <td><a href="https://snyk.io/">Snyk</a></td>
         <td>Continuously find & fix vulnerabilities in your dependencies</td>
     </tr>
