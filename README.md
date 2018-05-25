@@ -29,7 +29,7 @@ My curated list of awesome links, resources and tools
     - [Network Security](#network-security)
     - [Password Cracking and Wordlists](#password-cracking-and-wordlists)
     - [Plugins](#plugins)
-    - [Privacy_](#privacy_)
+    - [Privacy_](#privacy)
     - [Social Engineering and OSINT](#social-engineering-and-osint)
     - [Vulnerable](#vulnerable)
     - [Web Application Security](#web-application-security)
@@ -989,16 +989,20 @@ _Web application security related articles and tutorials_
         <td>Easy-to-use live forensics toolbox for Linux endpoints</td>
     </tr>
     <tr>
-        <td><a href="https://technet.microsoft.com/en-us/scriptcenter/dd919274.aspx">Log Parser</a></td>
-        <td>Log Parser 2.2 is a powerful, versatile tool that provides universal query access to text-based data such as log files, XML files and CSV files, as well as key data sources on the Windows operating system such as the Event Log, the Registry, the file system, and Active Directory</td>
-    </tr>
-    <tr>
         <td>
             <a href="https://github.com/Invoke-IR/PowerForensics">Invoke-IR/PowerForensics</a>
         </td>
         <td>
             PowerForensics provides an all in one platform for live disk forensic analysis
         </td>
+    </tr>
+    <tr>
+        <td><a href="https://technet.microsoft.com/en-us/scriptcenter/dd919274.aspx">Log Parser</a></td>
+        <td>Log Parser 2.2 is a powerful, versatile tool that provides universal query access to text-based data such as log files, XML files and CSV files, as well as key data sources on the Windows operating system such as the Event Log, the Registry, the file system, and Active Directory</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/log2timeline/plaso">log2timeline/plaso</a></td>
+        <td>log2timeline is a tool designed to extract timestamps from various files found on a typical computer system(s) and aggregate them.</td>
     </tr>
     <tr>
         <td><a href="https://github.com/MalwareSoup/MitreAttack">MalwareSoup/MitreAttack</a></td>
