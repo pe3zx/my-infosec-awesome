@@ -434,6 +434,10 @@ _return-to-libc techniques_
 - [Threat Spotlight - MAN1 Malware: Temple of Doom](https://www.cylance.com/en_us/blog/threat-spotlight-man1-malware-group-resurfaces.html)
 - [Threat Spotlight: MAN1 Malware - The Last Crusade?](https://www.cylance.com/en_us/blog/threat-spotlight-man1-malware-the-last-crusade.html)
 
+#### Malware Analysis: Variant: (Created by) NSIS
+
+- [Quick analysis of malware created with NSIS](https://isc.sans.edu/forums/diary/Quick+analysis+of+malware+created+with+NSIS/23703/)
+
 #### Malware Analysis: Variant: Poison Ivy
 
 - [Deep Analysis of New Poison Ivy Variant](http://blog.fortinet.com/2017/08/23/deep-analysis-of-new-poison-ivy-variant)
