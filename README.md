@@ -1683,6 +1683,13 @@ _Web application security related articles and tutorials_
         <td>Experimental opaque predicate detection for IDA Pro</td>
     </tr>
     <tr>
+        <td colspan="2"><b>osquery</b></td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/trailofbits/osquery-extensions">trailofbits/osquery-extensions</a></td>
+        <td>Trail of Bits osquery Extensions</td>
+    </tr>
+    <tr>
         <td colspan="2"><b>Radare2</b></td>
     </tr>
     <tr>
