@@ -1823,12 +1823,12 @@ _Web application security related articles and tutorials_
 This repository lists most of the challenges used in the Google CTF 2017. The missing challenges are not ready to be open-sourced, or contain third-party code.</td>
     </tr>
     <tr>
-        <td><a href="https://github.com/rapid7/hackazon">rapid7/hackazon</a></td>
-        <td>A modern vulnerable web app</td>
+        <td><a href="https://github.com/OWASP/iGoat-Swift">OWASP/iGoat-Swift</a></td>
+        <td>OWASP iGoat (Swift) - A Damn Vulnerable Swift Application for iOS</td>
     </tr>
     <tr>
-        <td><a href="https://www.notsosecure.com/vulnerable-docker-vm/">Vulnerable Docker VM</a></td>
-        <td>Ever fantasized about playing with docker misconfigurations, privilege escalation, etc. within a container?</td>
+        <td><a href="https://github.com/rapid7/hackazon">rapid7/hackazon</a></td>
+        <td>A modern vulnerable web app</td>
     </tr>
     <tr>
         <td><a href="https://github.com/sagishahar/lpeworkshop">sagishahar/lpeworkshop</a></td>
@@ -1837,6 +1837,10 @@ This repository lists most of the challenges used in the Google CTF 2017. The mi
     <tr>
         <td><a href="http://www.cis.syr.edu/~wedu/seed/labs.html">SEED Labs</a></td>
         <td>Various labs from SEED Project</td>
+    </tr>
+    <tr>
+        <td><a href="https://www.notsosecure.com/vulnerable-docker-vm/">Vulnerable Docker VM</a></td>
+        <td>Ever fantasized about playing with docker misconfigurations, privilege escalation, etc. within a container?</td>
     </tr>
 </table>
 
