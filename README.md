@@ -612,6 +612,7 @@ _return-to-libc techniques_
         <td>
             <ul>
                 <li><a href="https://blog.trailofbits.com/2017/10/10/tracking-a-stolen-code-signing-certificate-with-osquery/">Tracking a stolen code-signing certificate with osquery</a></li>
+                <li><a href="https://blog.trailofbits.com/2018/05/30/manage-your-fleets-firewalls-with-osquery/">Manage your fleet’s firewalls with osquery</a></li>
                 <li><a href="https://medium.com/@palantir/osquery-across-the-enterprise-3c3c9d13ec55">osquery Across the Enterprise</a></li>
             </ul>
         </td>
