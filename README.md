@@ -709,6 +709,7 @@ _return-to-libc techniques_
 
 #### Web Application Security: Technique: Serialization/Deserialization
 
+- [Understanding Java deserialization](https://nytrosecurity.com/2018/05/30/understanding-java-deserialization/)
 - [Why You Should Never Pass Untrusted Data to Unserialize When Writing PHP Code](https://www.netsparker.com/blog/web-security/untrusted-data-unserialize-php/)
 
 #### Web Application Security: Technique: SQL Injection
