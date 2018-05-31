@@ -952,6 +952,10 @@ _Web application security related articles and tutorials_
         <td>RDP Bitmap Cache Parser</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/Broctets-and-Bytes/Darwin">Broctets-and-Bytes/Darwin</a></td>
+        <td>This script is designed to be run against a mounted image, live system, or device in target disk mode. The script automates the collection of key files for MacOS investigations.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/carmaa/inception">carmaa/inception</a></td>
         <td>Inception is a physical memory manipulation and hacking tool exploiting PCI-based DMA. The tool can attack over FireWire, Thunderbolt, ExpressCard, PC Card and any other PCI/PCIe interfaces.</td>
     </tr>
