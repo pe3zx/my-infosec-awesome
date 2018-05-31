@@ -694,8 +694,6 @@ _return-to-libc techniques_
 
 ### Web Application Security
 
-_Web application security related articles and tutorials_
-
 - [Gaining access for HTTPS certificate by abusing RFC2142.](https://twitter.com/spazef0rze/status/942800411941048320)
   - Using `admin@`, `administrator@`, `hostmaster@`, `postmaster@`, `webmaster@` for email address
 - [The 2018 Guide to Building Secure PHP Software](https://paragonie.com/blog/2017/12/2018-guide-building-secure-php-software)
@@ -709,7 +707,7 @@ _Web application security related articles and tutorials_
 - [BRUTE XSS - Master the art of Cross Site Scripting](https://brutelogic.com.br/blog/)
 - [XSS Cheat Sheet](https://leanpub.com/xss)
 
-#### Web Application Security: Technique: PHP Object Injection
+#### Web Application Security: Technique: Serialization/Deserialization
 
 - [Why You Should Never Pass Untrusted Data to Unserialize When Writing PHP Code](https://www.netsparker.com/blog/web-security/untrusted-data-unserialize-php/)
 
