@@ -65,6 +65,7 @@ My curated list of awesome links, resources and tools
 #### Digital Forensics and Incident Response: Platform: MacOS/iOS
 
 - [A Few Interesting iOS Forensic Artefacts](https://salt4n6.com/2018/05/15/a-few-interesting-ios-forensic-artefacts/)
+- [Apple Probably Knows What You Did Last Summer](https://blog.elcomsoft.com/2018/06/apple-probably-knows-what-you-did-last-summer/)
 - [Getting saucy with APFS](https://www.dropbox.com/s/bfjgiakkwt1bhm1/GettingSaucyWithAPFS.zip?dl=0)
 - [How to Acquire an iOS 11 Device Without the PIN/Passcode](https://www.magnetforensics.com/blog/how-to-acquire-an-ios-11-device-without-the-pinpasscode/)
 - [Inside iCloud Drive: Downloading](https://eclecticlight.co/2018/04/04/inside-icloud-drive-downloading/)
