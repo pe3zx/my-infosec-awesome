@@ -29,7 +29,7 @@ My curated list of awesome links, resources and tools
     - [Network Security](#network-security)
     - [Password Cracking and Wordlists](#password-cracking-and-wordlists)
     - [Plugins](#plugins)
-    - [Privacy_](#privacy)
+    - [Privacy](#privacy)
     - [Social Engineering and OSINT](#social-engineering-and-osint)
     - [Vulnerable](#vulnerable)
     - [Web Application Security](#web-application-security)
@@ -361,7 +361,6 @@ _return-to-libc techniques_
 - [AntiForensics techniques : Process hiding in Kernel Mode](https://www.cert-devoteam.fr/publications/en/antiforensics-techniques-process-hiding-in-kernel-mode/)
 - [baderj/domain_generation_algorithms - Some results of my DGA reversing efforts](https://github.com/baderj/domain_generation_algorithms)
 - [Borrowing Microsoft Code Signing Certificate](https://blog.conscioushacker.io/index.php/2017/09/27/borrowing-microsoft-code-signing-certificates/)
-- [Creating ransomware for Android](https://0x00sec.org/t/creating-ransomware-for-android/4063)
 - [Detecting Architecture in Windows](https://osandamalith.com/2017/09/24/detecting-architecture-in-windows/)
 - [DOSfuscation: Exploring the Depths Cmd.exe Obfuscation and Detection Techniques](https://www.fireeye.com/content/dam/fireeye-www/blog/pdfs/dosfuscation-report.pdf)
 - [Fast Flux networks: What are they and how do they work?](https://www.welivesecurity.com/2017/01/12/fast-flux-networks-work/)
@@ -480,7 +479,6 @@ _return-to-libc techniques_
 ### Privacy
 
 - [Digital Privacy at the U.S. Border: Protecting the Data On Your Devices](https://www.eff.org/wp/digital-privacy-us-border-2017)
-- [DIY Cybersecurity for Domestic Violence](https://hackblossom.org/domestic-violence/index.html)
 - [Protecting Your Source When Releasing Sensitive Documents](https://source.opennews.org/articles/how-protect-your-sources-when-releasing-sensitive-/)
 - [Secure Journalism at Protests](https://medium.com/@mshelton/secure-journalism-at-protests-a435b2d6398b)
 - [Security Education Companion](https://sec.eff.org/)
@@ -1731,7 +1729,7 @@ _return-to-libc techniques_
     </tr>
 </table>
 
-### Privacy_
+### Privacy
 
 <table>
     <tr>
