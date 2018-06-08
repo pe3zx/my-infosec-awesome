@@ -1610,6 +1610,10 @@ _return-to-libc techniques_
         <td>A collection of Burpsuite Intruder payloads, fuzz lists and file uploads</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/nccgroup/freddy">nccgroup/freddy</a></td>
+        <td>Automatically identify deserialisation issues in Java and .NET applications by using active and passive scans</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/lightbulb-framework/lightbulb-framework">lightbulb-framework/lightbulb-framework</a></td>
         <td>LightBulb is an open source python framework for auditing web application firewalls and filters.</td>
     </tr>
