@@ -695,6 +695,7 @@ _return-to-libc techniques_
 
 - [Gaining access for HTTPS certificate by abusing RFC2142.](https://twitter.com/spazef0rze/status/942800411941048320)
   - Using `admin@`, `administrator@`, `hostmaster@`, `postmaster@`, `webmaster@` for email address
+- [List of bug bounty writeups](List of bug bounty writeups)
 - [The 2018 Guide to Building Secure PHP Software](https://paragonie.com/blog/2017/12/2018-guide-building-secure-php-software)
 
 #### Web Application Security: Technique: Cross-site Request Forgery
