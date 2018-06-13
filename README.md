@@ -869,6 +869,10 @@ _return-to-libc techniques_
         </td>
     </tr>
     <tr>
+        <td><a href="https://github.com/fireeye/flare-fakenet-ng">fireeye/flare-fakenet-ng</a></td>
+        <td>FakeNet-NG - Next Generation Dynamic Network Analysis Tool</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/hasherezade/hollows_hunter">hasherezade/hollows_hunter</a></td>
         <td>A process scanner detecting and dumping hollowed PE modules.</td>
     </tr>
