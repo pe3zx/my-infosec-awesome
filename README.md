@@ -1415,6 +1415,10 @@ _return-to-libc techniques_
         <td>Automatically rebuild Import Address Table for dumped PE file. With python bindings!</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/P4T12ICK/ypsilon">P4T12ICK/ypsilon</a></td>
+        <td>Ypsilon is an Automated Security Use Case Testing Environment using real malware to test SIEM use cases in an closed environment. Different tools such as Ansible, Cuckoo, VirtualBox, Splunk and ELK are combined to determine the quality of a SIEM use case by testing any number of malware against a SIEM use case. Finally, a test report is generated giving insight to the quality of an use case.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/phage-nz/ph0neutria">phage-nz/ph0neutria</a></td>
         <td>ph0neutria is a malware zoo builder that sources samples straight from the wild. Everything is stored in Viper for ease of access and manageability.</td>
     </tr>
