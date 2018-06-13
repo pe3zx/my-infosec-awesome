@@ -972,6 +972,10 @@ _return-to-libc techniques_
         <td>A Powershell incident response framework</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/draios/sysdig">draios/sysdig</a></td>
+        <td>Linux system exploration and troubleshooting tool with first class support for containers</td>
+    </tr>   
+    <tr>
         <td><a href="https://github.com/ForensicArtifacts/artifacts">ForensicArtifacts/artifacts</a></td>
         <td>Digital Forensics Artifact Repository</td>
     </tr>
