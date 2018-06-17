@@ -788,6 +788,10 @@ _return-to-libc techniques_
         </td>
     </tr>
     <tr>
+        <td><a href="https://bitbucket.org/asecurityteam/spacecrab">asecurityteam/spacecrab</a></td>
+        <td>Bootstraps an AWS account with everything you need to generate, mangage, and distribute and alert on AWS honey tokens. Made with breakfast roti by the Atlassian security team.</td>
+    </tr>
+    <tr>
         <td>
             <a href="https://github.com/airbnb/BinaryAlert" target="_blank">airbnb/BinaryAlert</a>
         </td>
