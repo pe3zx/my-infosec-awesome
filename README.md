@@ -97,6 +97,7 @@ My curated list of awesome links, resources and tools
 - [Hidden Treasure: Intrusion Detection with ETW (Part 1)](https://blogs.technet.microsoft.com/office365security/hidden-treasure-intrusion-detection-with-etw-part-1/)
 - [How to Crack Passwords for Password Protected MS Office Documents](https://www.blackhillsinfosec.com/crack-passwords-password-protected-ms-office-documents/)
 - [HUNTING EVENT LOGGING COVERUP](http://malwarenailed.blogspot.com/2017/10/update-to-hunting-mimikatz-using-sysmon.html)
+- [In-depth forensic analysis of Windows registry files](https://www.slideshare.net/MaximSuhanov/indepth-forensic-analysis-of-windows-registry-files)
 - [Logging Keystrokes with Event Tracing for Windows (ETW)](https://www.cyberpointllc.com/srt/posts/srt-logging-keystrokes-with-event-tracing-for-windows-etw.html)
 - [Looking at APT28 latest Talos Security write up and how YOU could catch this type of behavior](https://hackerhurricane.blogspot.com/2017/10/looking-at-apt28-latest-talos-security.html)
 - [MAC(b) times in Windows forensic analysis](https://andreafortuna.org/mac-b-times-in-windows-forensics-analysis-c821d801a810)
