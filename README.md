@@ -1403,6 +1403,10 @@ _return-to-libc techniques_
         <td>Java library to analyse Portable Executable files with a special focus on malware analysis and PE malformation robustness</td>
     </tr>
     <tr>
+        <td><a href="https://koodous.com">Koodous</a></td>
+        <td>Koodous is a collaborative platform that combines the power of online analysis tools with social interactions between the analysts over a vast APKs repository.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/LordNoteworthy/al-khaser">LordNoteworthy/al-khaser</a></td>
         <td>Public malware techniques used in the wild: Virtual Machine, Emulation, Debuggers, Sandbox detection.</td>
     </tr>
