@@ -697,6 +697,10 @@ _return-to-libc techniques_
 - [List of bug bounty writeups](List of bug bounty writeups)
 - [The 2018 Guide to Building Secure PHP Software](https://paragonie.com/blog/2017/12/2018-guide-building-secure-php-software)
 
+#### Web Application Security: CORS
+
+- [Advanced CORS Exploitation Techniques](https://www.sxcurity.pro/advanced-cors-techniques/)
+
 #### Web Application Security: Technique: Cross-site Request Forgery
 
 - [What is CSRF , Preventions? And How to bypass the CSRF protection via XSS?](https://medium.com/@agrawalsmart7/what-is-csrf-how-to-bypass-the-csrf-protection-via-xss-55695f5789d7)
