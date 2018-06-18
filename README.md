@@ -1097,6 +1097,10 @@ _return-to-libc techniques_
         <td><a href="https://github.com/williballenthin/EVTXtract">williballenthin/EVTXtract</a></td>
         <td>EVTXtract recovers and reconstructs fragments of EVTX log files from raw binary data, including unallocated space and memory images.</td>
     </tr>
+    <tr>
+        <td><a href="https://github.com/williballenthin/process-forest">williballenthin/process-forest</a></td>
+        <td>process-forest is a tool that processes Microsoft Windows EVTX event logs that contain process accounting events and reconstructs the historical process heirarchies.</td>
+    </tr>
 </table>
 
 ### Exploits
