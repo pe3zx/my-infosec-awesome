@@ -1273,6 +1273,10 @@ _return-to-libc techniques_
         <td>The idea behind this attack is to close a TCP session on the attacker's side, while leaving it open for the victim. Looping this will quickly fill up the victim’s session limit, effectively denying other users to access the service.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/externalist/exploit_playground">externalist/exploit_playground</a></td>
+        <td>Analysis of public exploits or my 1day exploits</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/FriendsOfPHP/security-advisories">FriendsOfPHP/security-advisories</a></td>
         <td>The PHP Security Advisories Database references known security vulnerabilities in various PHP projects and libraries. This database must not serve as the primary source of information for security issues, it is not authoritative for any referenced software, but it allows to centralize information for convenience and easy consumption.</td>
     </tr>
