@@ -1534,6 +1534,10 @@ _return-to-libc techniques_
         <td>The iOS Security Testing Framework</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/nccgroup/house">nccgroup/house</a></td>
+        <td>A runtime mobile application analysis toolkit with a Web GUI, powered by Frida, written in Python.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/nygard/class-dump">nygard/class-dump</a></td>
         <td>Generate Objective-C headers from Mach-O files</td>
     </tr>
