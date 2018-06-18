@@ -205,6 +205,7 @@ My curated list of awesome links, resources and tools
 - [Kernel Pool Overflow Exploitation In Real World – Windows 7](http://trackwatch.com/kernel-pool-overflow-exploitation-in-real-world-windows-7/)
 - [Kernel Pool Overflow Exploitation In Real World – Windows 10](http://trackwatch.com/kernel-pool-overflow-exploitation-in-real-world-windows-10/)
 - [Many Formulas, One Calc – Exploiting a New Office Equation Vulnerability](https://research.checkpoint.com/another-office-equation-rce-vulnerability/)
+- [Marshalling to SYSTEM - An analysis of CVE-2018-0824](https://codewhitesec.blogspot.com/2018/06/cve-2018-0624.html)
 - [Microsoft Kills Potential Remote Code Execution Vulnerability in Office (CVE-2017-8630)](https://securingtomorrow.mcafee.com/mcafee-labs/microsoft-kills-potential-remote-code-execution-vulnerability-in-office-cve-2017-8630/)
 - [MS17-010: EternalBlue’s Large Non-Paged Pool Overflow in SRV Driver](http://blog.trendmicro.com/trendlabs-security-intelligence/ms17-010-eternalblue/)
 - [MS OFFICE EXPLOIT ANALYSIS – CVE-2015-1641](http://www.sekoia.fr/blog/ms-office-exploit-analysis-cve-2015-1641/)
