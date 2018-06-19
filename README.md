@@ -837,6 +837,10 @@ _return-to-libc techniques_
         <td>CloudMapper helps you analyze your Amazon Web Services (AWS) environments.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/eth0izzle/bucket-stream">eth0izzle/bucket-stream</a></td>
+        <td>Find interesting Amazon S3 Buckets by watching certificate transparency logs.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/FishermansEnemy/bucket_finder">FishermansEnemy/bucket_finder</a></td>
         <td>Amazon bucket brute force tool</td>
     </tr>
