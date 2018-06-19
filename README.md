@@ -845,6 +845,10 @@ _return-to-libc techniques_
         <td>A proxy for AWS's metadata service that gives out scoped IAM credentials from STS</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/MindPointGroup/cloudfrunt">MindPointGroup/cloudfrunt</a></td>
+        <td>A tool for identifying misconfigured CloudFront domains</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/Netflix-Skunkworks/diffy">Netflix-Skunkworks/diffy</a></td>
         <td>Diffy is a digital forensics and incident response (DFIR) tool developed by Netflix's Security Intelligence and Response Team (SIRT).</td>
     </tr>
