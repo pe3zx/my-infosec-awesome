@@ -821,6 +821,10 @@ _return-to-libc techniques_
         </td>
     </tr>
     <tr>
+        <td><a href="https://github.com/duo-labs/cloudmapper">duo-labs/cloudmapper</a></td>
+        <td>CloudMapper helps you analyze your Amazon Web Services (AWS) environments.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/FishermansEnemy/bucket_finder">FishermansEnemy/bucket_finder</a></td>
         <td>Amazon bucket brute force tool</td>
     </tr>
