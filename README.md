@@ -102,6 +102,7 @@ My curated list of awesome links, resources and tools
 - [Logging Keystrokes with Event Tracing for Windows (ETW)](https://www.cyberpointllc.com/srt/posts/srt-logging-keystrokes-with-event-tracing-for-windows-etw.html)
 - [Looking at APT28 latest Talos Security write up and how YOU could catch this type of behavior](https://hackerhurricane.blogspot.com/2017/10/looking-at-apt28-latest-talos-security.html)
 - [MAC(b) times in Windows forensic analysis](https://andreafortuna.org/mac-b-times-in-windows-forensics-analysis-c821d801a810)
+- [Malicious PowerShell in the Registry: Persistence](http://az4n6.blogspot.com/2018/06/malicious-powershell-in-registry.html)
 - [Memory Acquisition and Virtual Secure Mode](https://df-stream.com/2017/08/memory-acquisition-and-virtual-secure/)
 - [pwndizzle/CodeExecutionOnWindows - A list of ways to execute code on Windows using legitimate Windows tools](https://github.com/pwndizzle/CodeExecutionOnWindows)
 - [RecentApps Registry Key](https://df-stream.com/2017/10/recentapps/)
