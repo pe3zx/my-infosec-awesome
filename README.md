@@ -864,6 +864,10 @@ _return-to-libc techniques_
         <td>Cloud Security Suite - One stop tool for auditing the security posture of AWS infrastructure.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/RiotGames/cloud-inquisitor">RiotGames/cloud-inquisitor</a></td>
+        <td>Enforce ownership and data security within AWS</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/toniblyx/prowler">toniblyx/prowler</a></td>
         <td>Tool based on AWS-CLI commands for AWS account security assessment and hardening, following guidelines of the CIS Amazon Web Services Foundations Benchmark 1.1</td>
     </tr>
