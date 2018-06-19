@@ -825,6 +825,10 @@ _return-to-libc techniques_
         </td>
     </tr>
     <tr>
+        <td><a href="https://github.com/cyberark/SkyArk">cyberark/SkyArk</a></td>
+        <td>SkyArk is a cloud security tool, helps to discover, assess and secure the most privileged entities in AWS</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/dagrz/aws_pwn">dagrz/aws_pwn</a></td>
         <td>A collection of AWS penetration testing junk</td>
     </tr>
