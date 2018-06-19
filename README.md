@@ -839,6 +839,11 @@ _return-to-libc techniques_
     <tr>
         <td><a href="https://github.com/lyft/metadataproxy">lyft/metadataproxy</a></td>
         <td>A proxy for AWS's metadata service that gives out scoped IAM credentials from STS</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/Netflix-Skunkworks/diffy">Netflix-Skunkworks/diffy</a></td>
+        <td>Diffy is a digital forensics and incident response (DFIR) tool developed by Netflix's Security Intelligence and Response Team (SIRT).</td>
+    </tr>
     <tr>
         <td>
             <a href="https://github.com/nccgroup/Scout2" target="_blank">nccgroup/Scout2</a>
