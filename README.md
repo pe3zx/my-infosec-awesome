@@ -837,6 +837,9 @@ _return-to-libc techniques_
         <td>CloudScraper: Tool to enumerate targets in search of cloud resources. S3 Buckets, Azure Blobs, Digital Ocean Storage Space.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/lyft/metadataproxy">lyft/metadataproxy</a></td>
+        <td>A proxy for AWS's metadata service that gives out scoped IAM credentials from STS</td>
+    <tr>
         <td>
             <a href="https://github.com/nccgroup/Scout2" target="_blank">nccgroup/Scout2</a>
         </td>
