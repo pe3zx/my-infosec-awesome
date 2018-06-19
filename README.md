@@ -869,6 +869,10 @@ _return-to-libc techniques_
         </td>
     </tr>
     <tr>
+        <td><a href="https://github.com/prevade/cloudjack">prevade/cloudjack</a></td>
+        <td>Route53/CloudFront Vulnerability Assessment Utility</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/sa7mon/S3Scanner">sa7mon/S3Scanner</a></td>
         <td>Scan for open S3 buckets and dump</td>
     </tr>
