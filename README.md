@@ -825,6 +825,10 @@ _return-to-libc techniques_
         </td>
     </tr>
     <tr>
+        <td><a href="https://github.com/dagrz/aws_pwn">dagrz/aws_pwn</a></td>
+        <td>A collection of AWS penetration testing junk</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/duo-labs/cloudtracker">duo-labs/cloudtracker</a></td>
         <td>CloudTracker helps you find over-privileged IAM users and roles by comparing CloudTrail logs with current IAM policies.</td>
     </tr>
