@@ -874,16 +874,16 @@ _return-to-libc techniques_
         <td>A tool for identifying misconfigured CloudFront domains</td>
     </tr>
     <tr>
-        <td><a href="https://github.com/Netflix-Skunkworks/diffy">Netflix-Skunkworks/diffy</a></td>
-        <td>Diffy is a digital forensics and incident response (DFIR) tool developed by Netflix's Security Intelligence and Response Team (SIRT).</td>
+        <td><a href="https://github.com/nccgroup/PMapper">nccgroup/PMapper</a></td>
+        <td>A tool for quickly evaluating IAM permissions in AWS.</td>
     </tr>
     <tr>
-        <td>
-            <a href="https://github.com/nccgroup/Scout2" target="_blank">nccgroup/Scout2</a>
-        </td>
-        <td>
-            Security auditing tool for AWS environments
-        </td>
+        <td><a href="https://github.com/nccgroup/Scout2" target="_blank">nccgroup/Scout2</a></td>
+        <td>Security auditing tool for AWS environments</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/Netflix-Skunkworks/diffy">Netflix-Skunkworks/diffy</a></td>
+        <td>Diffy is a digital forensics and incident response (DFIR) tool developed by Netflix's Security Intelligence and Response Team (SIRT).</td>
     </tr>
     <tr>
         <td>
