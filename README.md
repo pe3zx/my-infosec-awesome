@@ -1985,6 +1985,10 @@ This repository lists most of the challenges used in the Google CTF 2017. The mi
         <td>Simple script to extract all web resources by means of .SVN folder exposed over network.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/brannondorsey/dns-rebind-toolkit">brannondorsey/dns-rebind-toolkit</a></td>
+        <td>A front-end JavaScript toolkit for creating DNS rebinding attacks.</td>
+    </tr>
+    <tr>
         <td><a href="https://illuminatejs.com">IlluminateJs</a></td>
         <td>IlluminateJs is a static javascript analysis engine (a deobfuscator so to say) aimed to help analyst understand obfuscated and potentially malicious JavaScript Code.</td>
     </tr>
