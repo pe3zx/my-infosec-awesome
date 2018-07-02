@@ -2123,6 +2123,10 @@ This repository lists most of the challenges used in the Google CTF 2017. The mi
         <td>macro_pack is a tool used to automatize obfuscation and generation of MS Office documents for pentest, demo, and social engineering assessments. The goal of macro_pack is to simplify antimalware bypass and automatize the process from vba generation to final Office document generation.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/mdsecactivebreach/SharpShooter">mdsecactivebreach/SharpShooter</a></td>
+        <td>SharpShooter is a payload creation framework for the retrieval and execution of arbitrary CSharp source code.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/monoxgas/sRDI">monoxgas/sRDI</a></td>
         <td>Shellcode implementation of Reflective DLL Injection. Convert DLLs to position independent shellcode</td>
     </tr>
