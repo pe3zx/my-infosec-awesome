@@ -2014,6 +2014,10 @@ This repository lists most of the challenges used in the Google CTF 2017. The mi
         <td>Advanced JS Deobfuscation via Partial Evaluation.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/mwrlabs/dref">mwrlabs/dref</a></td>
+        <td>DNS Rebinding Exploitation Framework</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/NetSPI/PowerUpSQL">NetSPI/PowerUpSQL</a></td>
         <td>PowerUpSQL: A PowerShell Toolkit for Attacking SQL Server</td>
     </tr>
