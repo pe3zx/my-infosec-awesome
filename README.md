@@ -1015,6 +1015,10 @@ _return-to-libc techniques_
 
 <table>
     <tr>
+        <td><a href="https://www.splunk.com/blog/2018/05/10/boss-of-the-soc-scoring-server-questions-and-answers-and-dataset-open-sourced-and-ready-for-download.html">BOTS 1.0 Dataset</a></td>
+        <td>The BOTS 1.0 dataset records two attacks perpetrated by a fictitious hacktivist group called po1s0n1vy targeting Wayne Corp of Batman mythology. There are many comic book references in the data; from heroes and villains to “Batman’s” street addresses. Not only does the dataset have many different types of data—everything from Sysmon to Suricata—but there are even file hashes that can be found in Virustotal.com and domains/IPs to hunt for in OSINT tools like PassiveTotal and Robtex!</td>
+    </tr>
+    <tr>
         <td><a href="http://www.secrepo.com/">SecRepo.com - Samples of Security Related Data</a></td>
         <td>Finding samples of various types of Security related can be a giant pain. This is my attempt to keep a somewhat curated list of Security related data I've found, created, or was pointed to. If you perform any kind of analysis with any of this data please let me know and I'd be happy to link it from here or host it here. Hopefully by looking at others research and analysis it will inspire people to add-on, improve, and create new ideas.</td>
     </tr>
