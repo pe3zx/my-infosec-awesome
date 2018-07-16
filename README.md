@@ -21,6 +21,7 @@ My curated list of awesome links, resources and tools
     - [Binary Analysis](#binary-analysis)
     - [Cryptography](#cryptography)
     - [Data Exfiltration](#data-exfiltration)
+    - [Data Sets](#data-set)
     - [Digital Forensics and Incident Response](#digital-forensics-and-incident-response)
     - [Exploits](#exploits)
     - [Hardening](#hardening)
