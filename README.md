@@ -1058,6 +1058,10 @@ _return-to-libc techniques_
         <td>Digital Forensics Artifact Repository</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/gleeda/memtriage">gleeda/memtriage</a></td>
+        <td>Allows you to quickly query a Windows machine for RAM artifacts</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/google/docker-explorer/">google/docker-explorer</a></td>
         <td> A tool to help forensicate offline docker **acquisitions**</td>
     </tr>
