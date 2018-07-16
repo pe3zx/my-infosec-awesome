@@ -973,6 +973,10 @@ _return-to-libc techniques_
 
 <table>
     <tr>
+        <td><a href="https://github.com/CERTCC/keyfinder">CERTCC/keyfinder</a></td>
+        <td>A tool for analyzing private (and public) key files, including support for Android APK files.</td>
+    </tr>
+    <tr>
         <td><a href="https://certdb.com">CertDB</a></td>
         <td>Internet-wide search engine for digital certificates</td>
     </tr>
