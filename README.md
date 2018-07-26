@@ -876,6 +876,10 @@ _return-to-libc techniques_
         <td>A tool for identifying misconfigured CloudFront domains</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/nccgroup/aws-inventory">nccgroup/aws-inventory</a></td>
+        <td>Discover resources created in an AWS account</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/nccgroup/PMapper">nccgroup/PMapper</a></td>
         <td>A tool for quickly evaluating IAM permissions in AWS.</td>
     </tr>
