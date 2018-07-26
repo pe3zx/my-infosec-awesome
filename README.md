@@ -1546,6 +1546,10 @@ _return-to-libc techniques_
         <td>A framework based on the Fiddler web debugger to study Exploit Kits, malvertising and malicious traffic in general.</td>
     </tr>
     <tr>
+        <td><a href="https://www.maltiverse.com/search">Malwaretiverse</a></td>
+        <td>maltiverse - Connect the dots - The definitive IoC search engine</td>
+    </tr>
+    <tr>
         <td><a href="https://malwares.github.io/">Malwares</a></td>
         <td>Malware SRC Database</td>
     </tr>
