@@ -2131,6 +2131,10 @@ This repository lists most of the challenges used in the Google CTF 2017. The mi
         <td>A modern vulnerable web app</td>
     </tr>
     <tr>
+        <td><a href="https://martin.uy/blog/projects/reverse-engineering/">Reverse Engineering</a></td>
+        <td>Welcome to the Reverse Engineering open course! This course is a journey into executable binaries and operating systems from 3 different angles: 1) Malware analysis, 2) Bug hunting and 3) Exploit writing. Both  Windows and Linux x86/x86_64 platforms are under scope.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/sagishahar/lpeworkshop">sagishahar/lpeworkshop</a></td>
         <td>Windows / Linux Local Privilege Escalation Workshop</td>
     </tr>
