@@ -836,6 +836,10 @@ _return-to-libc techniques_
         <td>A collection of AWS penetration testing junk</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/disruptops/cred_scanner">disruptops/cred_scanner</a></td>
+        <td>A simple file-based scaner to look for potential AWS accesses and secret keys in files</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/duo-labs/cloudtracker">duo-labs/cloudtracker</a></td>
         <td>CloudTracker helps you find over-privileged IAM users and roles by comparing CloudTrail logs with current IAM policies.</td>
     </tr>
