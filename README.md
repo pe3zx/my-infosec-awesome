@@ -812,6 +812,10 @@ _return-to-libc techniques_
         <td>StreamAlert is a serverless, realtime data analysis framework which empowers you to ingest, analyze, and alert on data from any environment, using datasources and alerting logic you define.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/awslabs/aws-security-benchmark">awslabs/aws-security-benchmark</a></td>
+        <td>Open source demos, concept and guidance related to the AWS CIS Foundation framework.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/carnal0wnage/weirdAAL/wiki">carnal0wnage/weirdAAL</a></td>
         <td>WeirdAAL [AWS Attack Library] wiki!</td>
     </tr>
