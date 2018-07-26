@@ -1545,6 +1545,10 @@ _return-to-libc techniques_
         <td>A framework based on the Fiddler web debugger to study Exploit Kits, malvertising and malicious traffic in general.</td>
     </tr>
     <tr>
+        <td><a href="https://malwares.github.io/">Malwares</a></td>
+        <td>Malware SRC Database</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/Neo23x0/APTSimulator">Neo23x0/APTSimulator</a></td>
         <td>A toolset to make a system look as if it was the victim of an APT attack</td>
     </tr>
