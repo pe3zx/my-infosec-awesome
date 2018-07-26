@@ -940,6 +940,10 @@ _return-to-libc techniques_
         <td>Cloud Security Suite - One stop tool for auditing the security posture of AWS infrastructure.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/ThreatResponse/margaritashotgun">ThreatResponse/margaritashotgun</a></td>
+        <td>Remote Memory Acquisition Tool</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/ThreatResponse/aws_ir">ThreatResponse/aws_ir</a></td>
         <td>Python installable command line utiltity for mitigation of host and key compromises.</td>
     </tr>
