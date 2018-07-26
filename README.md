@@ -920,10 +920,6 @@ _return-to-libc techniques_
         <td>Scan for open S3 buckets and dump</td>
     </tr>
     <tr>
-        <td><a href="https://github.com/SecurityFTW/cs-suite">SecurityFTW/cs-suite</a></td>
-        <td>Cloud Security Suite - One stop tool for auditing the security posture of AWS infrastructure.</td>
-    </tr>
-    <tr>
         <td><a href="https://github.com/random-robbie/slurp">random-robbie/slurp</a></td>
         <td>Enumerate S3 buckets via certstream, domain, or keywords</td>
     </tr>
@@ -938,6 +934,14 @@ _return-to-libc techniques_
     <tr>
         <td><a href="https://github.com/toniblyx/prowler">toniblyx/prowler</a></td>
         <td>Tool based on AWS-CLI commands for AWS account security assessment and hardening, following guidelines of the CIS Amazon Web Services Foundations Benchmark 1.1</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/SecurityFTW/cs-suite">SecurityFTW/cs-suite</a></td>
+        <td>Cloud Security Suite - One stop tool for auditing the security posture of AWS infrastructure.</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/ThreatResponse/aws_ir">ThreatResponse/aws_ir</a></td>
+        <td>Python installable command line utiltity for mitigation of host and key compromises.</td>
     </tr>
 </table>
 
