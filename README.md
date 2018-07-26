@@ -1225,6 +1225,7 @@ _return-to-libc techniques_
                 <li><a href="https://github.com/ionescu007/SpecuCheck">ionescu007/SpecuCheck</a></li>
                 <li><a href="https://github.com/raphaelsc/Am-I-affected-by-Meltdown">raphaelsc/Am-I-affected-by-Meltdown</a></li>
                 <li><a href="https://twitter.com/x0rz/status/948832798391066624">Detection tool (2)</a></li>
+                <li><a href="https://access.redhat.com/blogs/766093/posts/3510331">SPECTRE Variant 1 scanning tool</a></li>
             </ul>
         </td>
     </tr>
