@@ -30,11 +30,11 @@ My curated list of awesome links, resources and tools
     - [Network Security](#network-security)
     - [Password Cracking and Wordlists](#password-cracking-and-wordlists)
     - [Plugins](#plugins)
+    - [Post Exploitation](#post-exploiration-1)
     - [Privacy](#privacy)
     - [Social Engineering and OSINT](#social-engineering-and-osint)
     - [Vulnerable](#vulnerable)
     - [Web Application Security](#web-application-security)
-    - [Windows](#windows)
 
 ---
 
@@ -1854,6 +1854,127 @@ _return-to-libc techniques_
     </tr>
 </table>
 
+### Post Exploitation
+
+<table>
+    <tr>
+        <td><a href="https://github.com/0xbadjuju/Tokenvator">0xbadjuju/Tokenvator</a></td>
+        <td>A tool to elevate privilege with Windows Tokens</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/411Hall/JAWS">411Hall/JAWS</a></td>
+        <td>JAWS is PowerShell script designed to help penetration testers (and CTFers) quickly identify potential privilege escalation vectors on Windows systems. It is written using PowerShell 2.0 so 'should' run on every Windows version since Windows 7.</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/api0cradle/LOLBAS">api0cradle/LOLBAS</a></td>
+        <td>Living Off The Land Binaries and Scripts (and now also Libraries)</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/api0cradle/UltimateAppLockerByPassList">api0cradle/UltimateAppLockerByPassList</a></td>
+        <td>The goal of this repository is to document the most common techniques to bypass AppLocker.</td>
+    </tr>
+    <tr>
+        <td><a href="https://gist.github.com/caseysmithrc/24e7d02685ce5ab319269bd61a8f0350">caseysmithrc/Inject.cs</a></td>
+        <td>DotNetToJScript Build Walkthrough</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/Cybellum/DoubleAgent">Cybellum/DoubleAgent</a></td>
+        <td>DoubleAgent is a new Zero-Day technique for injecting code and maintaining persistence on a machine (i.e. auto-run).</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/danielbohannon/Invoke-DOSfuscation">danielbohannon/Invoke-DOSfuscation</a></td>
+        <td>Cmd.exe Command Obfuscation Generator & Detection Test Harness</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/danielbohannon/Invoke-Obfuscation">danielbohannon/Invoke-Obfuscation</a></td>
+        <td>Invoke-Obfuscation is a PowerShell v2.0+ compatible PowerShell command and script obfuscator</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/DanMcInerney/icebreaker">DanMcInerney/icebreaker</a></td>
+        <td>Gets plaintext Active Directory credentials if you're on the internal network but outside the AD environment</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/eladshamir/Internal-Monologue">eladshamir/Internal-Monologue</a></td>
+        <td>Internal Monologue Attack: Retrieving NTLM Hashes without Touching LSASS</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/FuzzySecurity/PowerShell-Suite">FuzzySecurity/PowerShell-Suite</a></td>
+        <td>There are great tools and resources online to accomplish most any task in PowerShell, sometimes however, there is a need to script together a util for a specific purpose or to bridge an ontological gap. This is a collection of PowerShell utilities I put together either for fun or because I had a narrow application in mind.</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/google/sandbox-attacksurface-analysis-tools">google/sandbox-attacksurface-analysis-tools</a></td>
+        <td>This is a small suite of tools to test various properties of sandboxes on Windows. Many of the checking tools take a -p flag which is used to specify the PID of a sandboxed process. The tool will impersonate the token of that process and determine what access is allowed from that location. Also it's recommended to run these tools as an administrator or local system to ensure the system can be appropriately enumerated.</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/hlldz/Invoke-Phant0m">hlldz/Invoke-Phant0m</a></td>
+        <td>Windows Event Log Killer</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/JohnLaTwC/PyPowerShellXray">JohnLaTwC/PyPowerShellXray</a></td>
+        <td>Python script to decode common encoded PowerShell scripts</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/jonatan1024/clrinject">jonatan1024/clrinject</a></td>
+        <td>Injects C# EXE or DLL Assembly into every CLR runtime and AppDomain of another process.</td>
+    </tr>
+        <tr>
+        <td><a href="https://github.com/mattifestation/PoCSubjectInterfacePackage">mattifestation/PoCSubjectInterfacePackage</a></td>
+        <td>A PoC subject interface package (SIP) provider designed to educate about the required components of a SIP provider.</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/putterpanda/mimikittenz">putterpanda/mimikittenz</a></td>
+        <td>A post-exploitation powershell tool for extracting juicy info from memory.</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/sevagas/macro_pack">sevagas/macro_pack</a></td>
+        <td>macro_pack is a tool used to automatize obfuscation and generation of MS Office documents for pentest, demo, and social engineering assessments. The goal of macro_pack is to simplify antimalware bypass and automatize the process from vba generation to final Office document generation.</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/mdsecactivebreach/SharpShooter">mdsecactivebreach/SharpShooter</a></td>
+        <td>SharpShooter is a payload creation framework for the retrieval and execution of arbitrary CSharp source code.</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/monoxgas/sRDI">monoxgas/sRDI</a></td>
+        <td>Shellcode implementation of Reflective DLL Injection. Convert DLLs to position independent shellcode</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/nccgroup/demiguise">nccgroup/demiguise</a></td>
+        <td>HTA encryption tool for RedTeams</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/NetSPI/goddi">NetSPI/goddi</a></td>
+        <td>goddi (go dump domain info) dumps Active Directory domain information</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/peewpw/Invoke-PSImage">peewpw/Invoke-PSImage</a></td>
+        <td>Embeds a PowerShell script in the pixels of a PNG file and generates a oneliner to execute</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/peewpw/Invoke-WCMDump">peewpw/Invoke-WCMDump</a></td>
+        <td>PowerShell Script to Dump Windows Credentials from the Credential Manager</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/Plazmaz/LNKUp">Plazmaz/LNKUp</a></td>
+        <td>Generates malicious LNK file payloads for data exfiltration</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/shellster/DCSYNCMonitor">shellster/DCSYNCMonitor</a></td>
+        <td>Monitors for DCSYNC and DCSHADOW attacks and create custom Windows Events for these events.</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/secretsquirrel/SigThief">secretsquirrel/SigThief</a></td>
+        <td>Stealing Signatures and Making One Invalid Signature at a Time</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/stephenfewer/ReflectiveDLLInjection">stephenfewer/ReflectiveDLLInjection</a></td>
+        <td>Reflective DLL injection is a library injection technique in which the concept of reflective programming is employed to perform the loading of a library from memory into a host process</td>
+    </tr>
+    <tr>
+        <td><a href="https//github.com/trustedsec/unicorn">trustedsec/unicorn</a></td>
+        <td>Unicorn is a simple tool for using a PowerShell downgrade attack and inject shellcode straight into memory. Based on Matthew Graeber's powershell attacks and the powershell bypass technique presented by David Kennedy (TrustedSec) and Josh Kelly at Defcon 18.</td>
+    </tr>
+</table>
+
 ### Privacy
 
 <table>
@@ -1874,8 +1995,6 @@ _return-to-libc techniques_
         <td>Hardentools is a utility that disables a number of risky Windows features</td>
     </tr>
 </table>
-
-
 
 ### Social Engineering and OSINT
 
@@ -2063,131 +2182,6 @@ This repository lists most of the challenges used in the Google CTF 2017. The mi
     <tr>
         <td><a href="https://snyk.io/">Snyk</a></td>
         <td>Continuously find & fix vulnerabilities in your dependencies</td>
-    </tr>
-</table>
-
-### Windows
-
-<table>
-    <tr>
-        <td><a href="https://github.com/0xbadjuju/Tokenvator">0xbadjuju/Tokenvator</a></td>
-        <td>A tool to elevate privilege with Windows Tokens</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/411Hall/JAWS">411Hall/JAWS</a></td>
-        <td>JAWS is PowerShell script designed to help penetration testers (and CTFers) quickly identify potential privilege escalation vectors on Windows systems. It is written using PowerShell 2.0 so 'should' run on every Windows version since Windows 7.</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/api0cradle/LOLBAS">api0cradle/LOLBAS</a></td>
-        <td>Living Off The Land Binaries and Scripts (and now also Libraries)</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/api0cradle/UltimateAppLockerByPassList">api0cradle/UltimateAppLockerByPassList</a></td>
-        <td>The goal of this repository is to document the most common techniques to bypass AppLocker.</td>
-    </tr>
-    <tr>
-        <td><a href="https://gist.github.com/caseysmithrc/24e7d02685ce5ab319269bd61a8f0350">caseysmithrc/Inject.cs</a></td>
-        <td>DotNetToJScript Build Walkthrough</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/Cybellum/DoubleAgent">Cybellum/DoubleAgent</a></td>
-        <td>DoubleAgent is a new Zero-Day technique for injecting code and maintaining persistence on a machine (i.e. auto-run).</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/danielbohannon/Invoke-DOSfuscation">danielbohannon/Invoke-DOSfuscation</a></td>
-        <td>Cmd.exe Command Obfuscation Generator & Detection Test Harness</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/danielbohannon/Invoke-Obfuscation">danielbohannon/Invoke-Obfuscation</a></td>
-        <td>Invoke-Obfuscation is a PowerShell v2.0+ compatible PowerShell command and script obfuscator</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/DanMcInerney/icebreaker">DanMcInerney/icebreaker</a></td>
-        <td>Gets plaintext Active Directory credentials if you're on the internal network but outside the AD environment</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/eladshamir/Internal-Monologue">eladshamir/Internal-Monologue</a></td>
-        <td>Internal Monologue Attack: Retrieving NTLM Hashes without Touching LSASS</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/FuzzySecurity/PowerShell-Suite">FuzzySecurity/PowerShell-Suite</a></td>
-        <td>There are great tools and resources online to accomplish most any task in PowerShell, sometimes however, there is a need to script together a util for a specific purpose or to bridge an ontological gap. This is a collection of PowerShell utilities I put together either for fun or because I had a narrow application in mind.</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/google/sandbox-attacksurface-analysis-tools">google/sandbox-attacksurface-analysis-tools</a></td>
-        <td>This is a small suite of tools to test various properties of sandboxes on Windows. Many of the checking tools take a -p flag which is used to specify the PID of a sandboxed process. The tool will impersonate the token of that process and determine what access is allowed from that location. Also it's recommended to run these tools as an administrator or local system to ensure the system can be appropriately enumerated.</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/hlldz/Invoke-Phant0m">hlldz/Invoke-Phant0m</a></td>
-        <td>Windows Event Log Killer</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/JohnLaTwC/PyPowerShellXray">JohnLaTwC/PyPowerShellXray</a></td>
-        <td>Python script to decode common encoded PowerShell scripts</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/jonatan1024/clrinject">jonatan1024/clrinject</a></td>
-        <td>Injects C# EXE or DLL Assembly into every CLR runtime and AppDomain of another process.</td>
-    </tr>
-    <tr>
-        <td><a href="https://live.sysinternals.com/">Live Sysinternals Tools</a></td>
-        <td>Live version of Sysinternal Suites</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/mattifestation/PoCSubjectInterfacePackage">mattifestation/PoCSubjectInterfacePackage</a></td>
-        <td>A PoC subject interface package (SIP) provider designed to educate about the required components of a SIP provider.</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/putterpanda/mimikittenz">putterpanda/mimikittenz</a></td>
-        <td>A post-exploitation powershell tool for extracting juicy info from memory.</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/sevagas/macro_pack">sevagas/macro_pack</a></td>
-        <td>macro_pack is a tool used to automatize obfuscation and generation of MS Office documents for pentest, demo, and social engineering assessments. The goal of macro_pack is to simplify antimalware bypass and automatize the process from vba generation to final Office document generation.</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/mdsecactivebreach/SharpShooter">mdsecactivebreach/SharpShooter</a></td>
-        <td>SharpShooter is a payload creation framework for the retrieval and execution of arbitrary CSharp source code.</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/monoxgas/sRDI">monoxgas/sRDI</a></td>
-        <td>Shellcode implementation of Reflective DLL Injection. Convert DLLs to position independent shellcode</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/nccgroup/demiguise">nccgroup/demiguise</a></td>
-        <td>HTA encryption tool for RedTeams</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/NetSPI/goddi">NetSPI/goddi</a></td>
-        <td>goddi (go dump domain info) dumps Active Directory domain information</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/peewpw/Invoke-PSImage">peewpw/Invoke-PSImage</a></td>
-        <td>Embeds a PowerShell script in the pixels of a PNG file and generates a oneliner to execute</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/peewpw/Invoke-WCMDump">peewpw/Invoke-WCMDump</a></td>
-        <td>PowerShell Script to Dump Windows Credentials from the Credential Manager</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/Plazmaz/LNKUp">Plazmaz/LNKUp</a></td>
-        <td>Generates malicious LNK file payloads for data exfiltration</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/shellster/DCSYNCMonitor">shellster/DCSYNCMonitor</a></td>
-        <td>Monitors for DCSYNC and DCSHADOW attacks and create custom Windows Events for these events.</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/secretsquirrel/SigThief">secretsquirrel/SigThief</a></td>
-        <td>Stealing Signatures and Making One Invalid Signature at a Time</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/stephenfewer/ReflectiveDLLInjection">stephenfewer/ReflectiveDLLInjection</a></td>
-        <td>Reflective DLL injection is a library injection technique in which the concept of reflective programming is employed to perform the loading of a library from memory into a host process</td>
-    </tr>
-    <tr>
-        <td><a href="https//github.com/trustedsec/unicorn">trustedsec/unicorn</a></td>
-        <td>Unicorn is a simple tool for using a PowerShell downgrade attack and inject shellcode straight into memory. Based on Matthew Graeber's powershell attacks and the powershell bypass technique presented by David Kennedy (TrustedSec) and Josh Kelly at Defcon 18.</td>
     </tr>
 </table>
 
