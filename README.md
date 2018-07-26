@@ -892,6 +892,10 @@ _return-to-libc techniques_
         <td>A tool for quickly evaluating IAM permissions in AWS.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/sendgrid/krampus">sendgrid/krampus</a></td>
+        <td>The original AWS security enforcer™</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/nccgroup/Scout2" target="_blank">nccgroup/Scout2</a></td>
         <td>Security auditing tool for AWS environments</td>
     </tr>
