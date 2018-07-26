@@ -71,6 +71,7 @@ My curated list of awesome links, resources and tools
 - [Detection of Backdating the System Clock in macOS](http://cyberforensicator.com/2018/01/21/detection-of-backdating-the-system-clock-in-macos/)
 - [Getting saucy with APFS](https://www.dropbox.com/s/bfjgiakkwt1bhm1/GettingSaucyWithAPFS.zip?dl=0)
 - [How to Acquire an iOS 11 Device Without the PIN/Passcode](https://www.magnetforensics.com/blog/how-to-acquire-an-ios-11-device-without-the-pinpasscode/)
+- [I Know What You Did Last Month: A New Artifact of Execution on macOS 10.13](https://www.crowdstrike.com/blog/i-know-what-you-did-last-month-a-new-artifact-of-execution-on-macos-10-13/)
 - [Inside iCloud Drive: Downloading](https://eclecticlight.co/2018/04/04/inside-icloud-drive-downloading/)
 - [Inside iCloud Drive: Pushed updates, that syncing feeling](https://eclecticlight.co/2018/04/02/inside-icloud-drive-pushed-updates-that-syncing-feeling/)
 - [Inside iCloud Drive: uploading a file](https://eclecticlight.co/2018/03/30/inside-icloud-drive-uploading-a-file/)
