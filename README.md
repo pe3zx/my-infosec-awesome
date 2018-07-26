@@ -1045,6 +1045,10 @@ _return-to-libc techniques_
         <td>This script is designed to be run against a mounted image, live system, or device in target disk mode. The script automates the collection of key files for MacOS investigations.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/bromiley/olaf">bromiley/olaf</a></td>
+        <td>Office365 Log Analysis Framework: OLAF is a collection of tools, scripts, and analysis techniques dealing with O365 Investigations.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/carmaa/inception">carmaa/inception</a></td>
         <td>Inception is a physical memory manipulation and hacking tool exploiting PCI-based DMA. The tool can attack over FireWire, Thunderbolt, ExpressCard, PC Card and any other PCI/PCIe interfaces.</td>
     </tr>
