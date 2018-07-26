@@ -1043,6 +1043,10 @@ _return-to-libc techniques_
         <td><a href="https://github.com/sensepost/DET">sensepost/DET</a></td>
         <td>DET (is provided AS IS), is a proof of concept to perform Data Exfiltration using either single or multiple channel(s) at the same time.</td>
     </tr>
+    <tr>
+        <td><a href="https://github.com/SySS-Research/Seth">SySS-Research/Seth</a></td>
+        <td>Perform a MitM attack and extract clear text credentials from RDP connections</td>
+    </tr>
 </table>
 
 ### Data Sets
