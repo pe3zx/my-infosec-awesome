@@ -360,6 +360,7 @@ _return-to-libc techniques_
 - [An accessible overview of Meltdown and Spectre, Part 1](https://blog.trailofbits.com/2018/01/30/an-accessible-overview-of-meltdown-and-spectre-part-1/)
 - [An accessible overview of Meltdown and Spectre, Part 2](https://blog.trailofbits.com/2018/03/22/an-accessible-overview-of-meltdown-and-spectre-part-2/)
 - [KVA Shadow: Mitigating Meltdown on Windows](https://blogs.technet.microsoft.com/srd/2018/03/23/kva-shadow-mitigating-meltdown-on-windows/)
+- [Post-Spectre Threat Model Re-Think](https://chromium.googlesource.com/chromium/src/+/master/docs/security/side-channel-threat-model.md)
 - [Total Meltdown?](https://blog.frizk.net/2018/03/total-meltdown.html)
 
 ---
