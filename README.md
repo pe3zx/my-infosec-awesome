@@ -473,6 +473,10 @@ _return-to-libc techniques_
 - [Post Exploitation Using NetNTLM Downgrade Attacks](https://www.optiv.com/blog/post-exploitation-using-netntlm-downgrade-attacks)
 - [Top Five Ways I Got Domain Admin on Your Internal Network before Lunch (2018 Edition)](https://medium.com/@adam.toscher/top-five-ways-i-got-domain-admin-on-your-internal-network-before-lunch-2018-edition-82259ab73aaa)
 
+##### DCShadow
+
+- [DCShadow explained: A technical deep dive into the latest AD attack technique](https://blog.alsid.eu/dcshadow-explained-4510f52fc19d?gi=fe7b55fa3114)
+
 #### Post Exploitation Platform: Unix/Linux
 
 - [GTFOBins - GTFOBins is a curated list of Unix binaries that can be exploited by an attacker to bypass local security restrictions.](https://gtfobins.github.io/)
