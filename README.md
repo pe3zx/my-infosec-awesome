@@ -1469,6 +1469,15 @@ _return-to-libc techniques_
     </tr>
 </table>
 
+### Hardware
+
+<table>
+    <tr>
+        <td><a href="https://github.com/ufrisk/pcileech">ufrisk/pcileech</a></td>
+        <td>Direct Memory Access (DMA) Attack Software</td>
+    </tr>
+</table>
+
 ### Malware Analysis
 
 <table>
