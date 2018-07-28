@@ -1166,6 +1166,10 @@ _return-to-libc techniques_
         <td>The Rekall Framework is a completely open collection of tools, implemented in Python under the Apache and GNU General Public License, for the extraction and analysis of digital artifacts computer systems.</td>
     </tr>
     <tr>
+        <td><a href="https://securelist.com/happy-ir-in-the-new-year/83557/">Kaspersky IR's Artifacts Collector</a></td>
+        <td>Kaspersky IR's Artifacts Collector</td>
+    </tr>
+    <tr>
         <td><a href="https://arsenalrecon.com/weapons/hibernation-recon/">Hibernation Recon</a></td>
         <td>The tools and techniques used for many years to analyze Microsoft Windows® hibernation files have left digital forensics experts in the dark… until now!</td>
     </tr>
