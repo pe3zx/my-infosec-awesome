@@ -175,6 +175,7 @@ My curated list of awesome links, resources and tools
 - [0patching the "Immortal" CVE-2017-7269](https://0patch.blogspot.com/2017/03/0patching-immortal-cve-2017-7269.html)
 - [15 Ways to Bypass the PowerShell Execution Policy](https://blog.netspi.com/15-ways-to-bypass-the-powershell-execution-policy/)
 - [A Bug Has No Name: Multiple Heap Buffer Overflows In the Windows DNS Client](https://www.bishopfox.com/blog/2017/10/a-bug-has-no-name-multiple-heap-buffer-overflows-in-the-windows-dns-client/)
+- [Arbitrary Code Guard vs. Kernel Code Injections](https://www.countercraft.eu/blog/post/arbitrary-vs-kernel/)
 - [Abusing A Writable Windows Service](https://blog.didierstevens.com/2017/09/05/abusing-a-writable-windows-service/)
 - [Abusing Delay Load DLLs for Remote Code Injection](http://hatriot.github.io/blog/2017/09/19/abusing-delay-load-dll/)
 - [Abusing GDI objects: Bitmap object’s size in the kernel pool](http://theevilbit.blogspot.com/2017/10/abusing-gdi-objects-bitmap-objects-size.html)
