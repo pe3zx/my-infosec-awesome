@@ -557,13 +557,6 @@ _return-to-libc techniques_
         <td>
             <ul>
                 <li><a href="https://www.elastic.co/blog/a-practical-introduction-to-elasticsearch">A Practical Introduction to Elasticsearch</a></li>
-            </ul>
-        </td>
-    </tr>
-    <tr>
-        <td>ElasticSearch</td>
-        <td>
-            <ul>
                 <li><a href="https://elastalert.readthedocs.io/en/latest/elastalert.html">ElastAlert</a></li>
             </ul>
         </td>
@@ -617,6 +610,14 @@ _return-to-libc techniques_
                 <li><a href="https://blog.trailofbits.com/2018/05/30/manage-your-fleets-firewalls-with-osquery/">Manage your fleet’s firewalls with osquery</a></li>
                 <li><a href="https://medium.com/@palantir/osquery-across-the-enterprise-3c3c9d13ec55">osquery Across the Enterprise</a></li>
                 <li><a href="https://blog.trailofbits.com/2017/10/10/tracking-a-stolen-code-signing-certificate-with-osquery/">Tracking a stolen code-signing certificate with osquery</a></li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td>PCILeech</td>
+        <td>
+            <ul>
+                <li><a href="https://sysdream.com/news/lab/2017-12-22-windows-dma-attacks-gaining-system-shells-using-a-generic-patch/">Windows DMA Attacks : Gaining SYSTEM shells using a generic patch</a></li>
             </ul>
         </td>
     </tr>
