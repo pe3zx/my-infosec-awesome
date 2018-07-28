@@ -166,6 +166,10 @@ My curated list of awesome links, resources and tools
 - [The Definitive Guide to Linux System Calls](https://blog.packagecloud.io/eng/2016/04/05/the-definitive-guide-to-linux-system-calls/)
 - [xairy/linux-kernel-exploitation](https://github.com/xairy/linux-kernel-exploitation)
 
+#### Exploitation: Platform: MacOS/iOS
+
+- [The HIDeous parts of IOKit](https://s.siguza.net/dl/pdf/2018-Zer0Con.pdf)
+
 #### Exploitation: Platform: Windows
 
 - [0patching the "Immortal" CVE-2017-7269](https://0patch.blogspot.com/2017/03/0patching-immortal-cve-2017-7269.html)
