@@ -127,6 +127,7 @@ My curated list of awesome links, resources and tools
 ### Exploitation
 
 - [Guest Diary (Etay Nir) Kernel Hooking Basics](https://isc.sans.edu/forums/diary/Guest+Diary+Etay+Nir+Kernel+Hooking+Basics/23155/)
+- [Timeless Debugging of Complex Software: Root Cause Analysis of a Non-Deterministic JavaScriptCore Bug](http://blog.ret2.io/2018/06/19/pwn2own-2018-root-cause-analysis/)
 
 #### Exploitation: Hardware-related Attacks
 
@@ -727,10 +728,6 @@ _return-to-libc techniques_
 
 - [Advanced CORS Exploitation Techniques](https://www.sxcurity.pro/advanced-cors-techniques/)
 - [Exploiting CORS misconfigurations for Bitcoins and bounties](https://portswigger.net/blog/exploiting-cors-misconfigurations-for-bitcoins-and-bounties)
-
-#### Web Application Security: DNS Rebinding
-
-- [Attacking Private Networks from the Internet with DNS Rebinding](https://medium.com/@brannondorsey/attacking-private-networks-from-the-internet-with-dns-rebinding-ea7098a2d325)
 
 #### Web Application Security: Technique: Cross-site Request Forgery
 
