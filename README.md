@@ -1107,6 +1107,10 @@ _return-to-libc techniques_
         <td>RDP Bitmap Cache Parser</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/bfuzzy/auditd-attack">bfuzzy/auditd-attack</a></td>
+        <td>A Linux Auditd rule set mapped to MITRE's Attack Framework</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/Broctets-and-Bytes/Darwin">Broctets-and-Bytes/Darwin</a></td>
         <td>This script is designed to be run against a mounted image, live system, or device in target disk mode. The script automates the collection of key files for MacOS investigations.</td>
     </tr>
