@@ -94,6 +94,7 @@ My curated list of awesome links, resources and tools
 - [Automating large-scale memory forensics](https://medium.com/@henrikjohansen/automating-large-scale-memory-forensics-fdc302dc3383)
 - [Carving EVTX](https://rawsec.lu/blog/posts/2017/Jun/23/carving-evtx/)
 - [Certificate Chain Cloning and Cloned Root Trust Attacks](https://posts.specterops.io/code-signing-certificate-cloning-attacks-and-defenses-6f98657fc6ec)
+- [Detection and recovery of NSA’s covered up tracks](https://blog.fox-it.com/2017/12/08/detection-and-recovery-of-nsas-covered-up-tracks/)
 - [Detecting DDE in MS Office documents with YARA rules](https://blog.nviso.be/2017/10/11/detecting-dde-in-ms-office-documents/)
 - [Forensic Analysis of Systems that have Windows Subsystem for Linux Installed](http://blog.1234n6.com/2017/10/forensic-analysis-of-systems-with.html)
 - [Getting to the Bottom of CVE-2018-0825 Heap Overflow Buffer](https://www.ixiacom.com/company/blog/getting-bottom-cve-2018-0825-heap-overflow-buffer)
