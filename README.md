@@ -470,6 +470,7 @@ _return-to-libc techniques_
 - [Evading Microsoft’s AutoRuns](https://blog.conscioushacker.io/index.php/2017/10/25/evading-microsofts-autoruns/)
     - **Extension search order hijacking**: Manipulate extension search order which `.COM` has been looked for first before `.EXE` by making the actual `.EXE` disappeared and place dummy `.COM` with the same name as `.EXE` on the same directory
     - **PowerShell injection vulnerability**: Use `SyncAppvPublishingServer.exe` to execute powershell cmdlet e.g. `SyncAppvPublishingServer.exe ".; Start-Process calc.exe`
+- [Golden Ticket](https://pentestlab.blog/2018/04/09/golden-ticket/)
 - [Post Exploitation Using NetNTLM Downgrade Attacks](https://www.optiv.com/blog/post-exploitation-using-netntlm-downgrade-attacks)
 - [Top Five Ways I Got Domain Admin on Your Internal Network before Lunch (2018 Edition)](https://medium.com/@adam.toscher/top-five-ways-i-got-domain-admin-on-your-internal-network-before-lunch-2018-edition-82259ab73aaa)
 
