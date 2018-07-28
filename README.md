@@ -485,6 +485,12 @@ _return-to-libc techniques_
 
 #### Post Exploitation Platform: Windows
 
+- [Chasing Adversaries with Autoruns – evading techniques and countermeasures](https://blogs.technet.microsoft.com/motiba/2017/11/04/chasing-adversaries-with-autoruns-evading-techniques-and-countermeasures/)
+    - **Nested commands technique**: chain multiple commands with `&`, `&&`, `||`
+    - **Abusing legitimate executables**: using legitimate executables to execute intended commands e.g.
+        - `Rundll32.exe`: `rundll32.exe shell32.dll,ShellExec_RunDLL notepad.exe`
+        - Program Compatibility Assistant (pcalua): `pcalua.exe -a calc.exe`
+        - `SyncAppvPublishingServer.vbs` or `SyncAppvPublishingServer.exe`: `SyncAppvPublishingServer.exe "n; Start-Process notepad.exe"`
 - [Evading Microsoft’s AutoRuns](https://blog.conscioushacker.io/index.php/2017/10/25/evading-microsofts-autoruns/)
     - **Extension search order hijacking**: Manipulate extension search order which `.COM` has been looked for first before `.EXE` by making the actual `.EXE` disappeared and place dummy `.COM` with the same name as `.EXE` on the same directory
     - **PowerShell injection vulnerability**: Use `SyncAppvPublishingServer.exe` to execute powershell cmdlet e.g. `SyncAppvPublishingServer.exe ".; Start-Process calc.exe`
