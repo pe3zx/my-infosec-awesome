@@ -354,7 +354,7 @@ _return-to-libc techniques_
 
 - [Use-After-Free](https://sploitfun.wordpress.com/2015/06/16/use-after-free/)
 
-#### Exploitation: Vulnerability: Spectre and Meltdown
+#### Exploitation: Vulnerability: Speculative Side-Channel Attacks
 
 - [A Deep Dive Analysis of Microsoft’s Kernel Virtual Address Shadow Feature](A Deep Dive Analysis of Microsoft’s Kernel Virtual Address Shadow Feature)
 - [An accessible overview of Meltdown and Spectre, Part 1](https://blog.trailofbits.com/2018/01/30/an-accessible-overview-of-meltdown-and-spectre-part-1/)
