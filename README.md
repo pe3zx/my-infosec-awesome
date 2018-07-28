@@ -356,11 +356,13 @@ _return-to-libc techniques_
 
 #### Exploitation: Vulnerability: Speculative Side-Channel Attacks
 
-- [A Deep Dive Analysis of Microsoft’s Kernel Virtual Address Shadow Feature](A Deep Dive Analysis of Microsoft’s Kernel Virtual Address Shadow Feature)
+- [A Deep Dive Analysis of Microsoft’s Kernel Virtual Address Shadow Feature](https://www.fortinet.com/blog/threat-research/a-deep-dive-analysis-of-microsoft-s-kernel-virtual-address-shadow-feature.html)
 - [An accessible overview of Meltdown and Spectre, Part 1](https://blog.trailofbits.com/2018/01/30/an-accessible-overview-of-meltdown-and-spectre-part-1/)
 - [An accessible overview of Meltdown and Spectre, Part 2](https://blog.trailofbits.com/2018/03/22/an-accessible-overview-of-meltdown-and-spectre-part-2/)
+- [Explainer on #Spectre & #Meltdown](https://twitter.com/gsuberland/status/948907452786933762)
 - [KVA Shadow: Mitigating Meltdown on Windows](https://blogs.technet.microsoft.com/srd/2018/03/23/kva-shadow-mitigating-meltdown-on-windows/)
 - [Post-Spectre Threat Model Re-Think](https://chromium.googlesource.com/chromium/src/+/master/docs/security/side-channel-threat-model.md)
+- [Reading privileged memory with a side-channel](https://googleprojectzero.blogspot.com/2018/01/reading-privileged-memory-with-side.html)
 - [Total Meltdown?](https://blog.frizk.net/2018/03/total-meltdown.html)
 
 ---
@@ -1271,13 +1273,11 @@ _return-to-libc techniques_
         <td>
             Meltdown and Spectre exploit critical vulnerabilities in modern processors. These hardware bugs allow programs to steal data which is currently processed on the computer. While programs are typically not permitted to read data from other programs, a malicious program can exploit Meltdown and Spectre to get hold of secrets stored in the memory of other running programs. This might include your passwords stored in a password manager or browser, your personal photos, emails, instant messages and even business-critical documents.
             <ul>
-                <li><a href="https://twitter.com/gsuberland/status/948907452786933762">Explanation threat by @gsuverland</a></li>
                 <li><a href="https://github.com/Eugnis/spectre-attack">Eugnis/spectre-attack</a></li>
                 <li><a href="https://github.com/IAIK/meltdown">IAIK/meltdown</a></li>
                 <li><a href="https://github.com/lgeek/spec_poc_arm">lgeek/spec_poc_arm</a></li>
                 <li><a href="https://github.com/paboldin/meltdown-exploit">paboldin/meltdown-exploit</a></li>
                 <li><a href="https://spectreattack.com/">Meltdown and Spectre</a></li>
-                <li><a href="https://googleprojectzero.blogspot.com/2018/01/reading-privileged-memory-with-side.html">Reading privileged memory with a side-channel</a></li>
                 <li><a href="http://www.kb.cert.org/vuls/id/584653">CPU hardware vulnerable to side-channel attacks</a></li>
                 <li><a href="https://github.com/ionescu007/SpecuCheck">ionescu007/SpecuCheck</a></li>
                 <li><a href="https://github.com/raphaelsc/Am-I-affected-by-Meltdown">raphaelsc/Am-I-affected-by-Meltdown</a></li>
