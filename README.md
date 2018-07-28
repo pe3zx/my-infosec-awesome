@@ -127,7 +127,6 @@ My curated list of awesome links, resources and tools
 ### Exploitation
 
 - [Guest Diary (Etay Nir) Kernel Hooking Basics](https://isc.sans.edu/forums/diary/Guest+Diary+Etay+Nir+Kernel+Hooking+Basics/23155/)
-- [Timeless Debugging of Complex Software: Root Cause Analysis of a Non-Deterministic JavaScriptCore Bug](http://blog.ret2.io/2018/06/19/pwn2own-2018-root-cause-analysis/)
 
 #### Exploitation: Hardware-related Attacks
 
@@ -171,6 +170,8 @@ My curated list of awesome links, resources and tools
 
 - [A Methodical Approach to Browser Exploitation](https://blog.ret2.io/2018/06/05/pwn2own-2018-exploit-development/)
 - [The HIDeous parts of IOKit](https://s.siguza.net/dl/pdf/2018-Zer0Con.pdf)
+- [Timeless Debugging of Complex Software: Root Cause Analysis of a Non-Deterministic JavaScriptCore Bug](http://blog.ret2.io/2018/06/19/pwn2own-2018-root-cause-analysis/)
+- [Weaponization of a JavaScriptCore Vulnerability -Illustrating the Progression of Advanced Exploit Primitives In Practice](https://blog.ret2.io/2018/07/11/pwn2own-2018-jsc-exploit/)
 
 #### Exploitation: Platform: Windows
 
