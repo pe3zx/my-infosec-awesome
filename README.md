@@ -168,6 +168,7 @@ My curated list of awesome links, resources and tools
 
 #### Exploitation: Platform: MacOS/iOS
 
+- [A Methodical Approach to Browser Exploitation](https://blog.ret2.io/2018/06/05/pwn2own-2018-exploit-development/)
 - [The HIDeous parts of IOKit](https://s.siguza.net/dl/pdf/2018-Zer0Con.pdf)
 
 #### Exploitation: Platform: Windows
