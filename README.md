@@ -199,6 +199,7 @@ My curated list of awesome links, resources and tools
 - [Disarming EMET 5.52: Controlling it all with a single write action](https://blog.ropchain.com/2017/04/03/disarming-emet-5-52/)
 - [Enumerating process, thread, and image load notification callback routines in Windows](http://www.triplefault.io/2017/09/enumerating-process-thread-and-image.html)
 - [EternalBlue – Everything there is to know](https://research.checkpoint.com/eternalblue-everything-know/)
+- [Exploiting a Windows 10 PagedPool off-by-one overflow (WCTF 2018)](https://j00ru.vexillium.org/2018/07/exploiting-a-windows-10-pagedpool-off-by-one/)
 - [Exploit Kit Rendezvous and CVE-2017-0022](https://0patch.blogspot.com/2017/09/exploit-kit-rendezvous-and-cve-2017-0022.html)
 - [Exploiting MS16-145: MS Edge TypedArray.sort Use-After-Free (CVE-2016-7288)](https://blog.quarkslab.com/exploiting-ms16-145-ms-edge-typedarraysort-use-after-free-cve-2016-7288.html)
 - [Exploiting MS16-098 RGNOBJ Integer Overflow on Windows 8.1 x64 bit by abusing GDI objects](https://sensepost.com/blog/2017/exploiting-ms16-098-rgnobj-integer-overflow-on-windows-8.1-x64-bit-by-abusing-gdi-objects/)
