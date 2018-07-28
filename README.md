@@ -723,10 +723,14 @@ _return-to-libc techniques_
 - [List of bug bounty writeups](List of bug bounty writeups)
 - [The 2018 Guide to Building Secure PHP Software](https://paragonie.com/blog/2017/12/2018-guide-building-secure-php-software)
 
-#### Web Application Security: CORS
+#### Web Application Security: Technique: CORS
 
 - [Advanced CORS Exploitation Techniques](https://www.sxcurity.pro/advanced-cors-techniques/)
 - [Exploiting CORS misconfigurations for Bitcoins and bounties](https://portswigger.net/blog/exploiting-cors-misconfigurations-for-bitcoins-and-bounties)
+
+#### Web Application Security: DNS Rebinding
+
+- [Attacking Private Networks from the Internet with DNS Rebinding](https://medium.com/@brannondorsey/attacking-private-networks-from-the-internet-with-dns-rebinding-ea7098a2d325)
 
 #### Web Application Security: Technique: Cross-site Request Forgery
 
