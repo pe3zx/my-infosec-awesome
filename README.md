@@ -244,6 +244,7 @@ My curated list of awesome links, resources and tools
 - [Windows 10 Creators Update 32-bit execution of ring-0 code from NULL page via NtQuerySystemInformation (class 185, Warbird functionality)](https://bugs.chromium.org/p/project-zero/issues/detail?id=1391)
 - [Windows Exploit Development (primer) : Debugging Threads and Analyzing Memory](http://blog.k3170makan.com/2018/05/windows-exploit-development-primer.html)
 - [Windows Exploit Development (primer II) : Corrupting Structured Exception Handling and Controlling Memory Pointers](http://blog.k3170makan.com/2018/05/windows-exploit-development-primer-ii.html)
+- [Windows Exploitation and AntiExploitation Evolution](https://forums.juniper.net/t5/Security/Windows-Exploitation-and-AntiExploitation-Evolution/ba-p/329283)
 - [Windows Exploitation Tricks: Arbitrary Directory Creation to Arbitrary File Read](https://googleprojectzero.blogspot.com/2017/08/windows-exploitation-tricks-arbitrary.html)
 - [Windows kernel pool spraying fun - Part 1 - Determine kernel object size](http://theevilbit.blogspot.com/2017/09/pool-spraying-fun-part-1.html)
 - [Windows kernel pool spraying fun - Part 2 - More objects](http://theevilbit.blogspot.com/2017/09/windows-kernel-pool-spraying-fun-part-2.html)
