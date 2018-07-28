@@ -929,10 +929,6 @@ _return-to-libc techniques_
         <td>Enumerate S3 buckets via certstream, domain, or keywords</td>
     </tr>
     <tr>
-        <td><a href="https://github.com/RiotGames/cloud-custodian">RiotGames/cloud-custodian</a></td>
-        <td>Rules engine for cloud security, cost optimization, and governace, DSL in yaml for policies to query, filter, and take actions on resources</td>
-    </tr>
-    <tr>
         <td><a href="https://github.com/RiotGames/cloud-inquisitor">RiotGames/cloud-inquisitor</a></td>
         <td>Enforce ownership and data security within AWS</td>
     </tr>
