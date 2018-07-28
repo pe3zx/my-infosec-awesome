@@ -476,6 +476,7 @@ _return-to-libc techniques_
 
 ##### DCShadow
 
+- [DCShadow](https://pentestlab.blog/2018/04/16/dcshadow/)
 - [DCShadow explained: A technical deep dive into the latest AD attack technique](https://blog.alsid.eu/dcshadow-explained-4510f52fc19d?gi=fe7b55fa3114)
 
 #### Post Exploitation Platform: Unix/Linux
