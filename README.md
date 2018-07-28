@@ -1959,6 +1959,10 @@ _return-to-libc techniques_
         <td>Windows Event Log Killer</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/huntresslabs/evading-autoruns">huntresslabs/evading-autoruns</a></td>
+        <td>Slides and reference material from Evading Autoruns presentation at DerbyCon 7 (September 2017)</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/JohnLaTwC/PyPowerShellXray">JohnLaTwC/PyPowerShellXray</a></td>
         <td>Python script to decode common encoded PowerShell scripts</td>
     </tr>
