@@ -51,6 +51,10 @@ My curated list of awesome links, resources and tools
 - [How to Perform Hadoop Forensics](https://www.peerlyst.com/posts/how-to-perform-hadoop-forensics-chiheb-chebbi)
 - [Tool Analysis Result Sheet](https://jpcertcc.github.io/ToolAnalysisResultSheet/)
 
+#### Digital Forensics and Incident Response: Platform: Android
+
+- [The Forensics of Cortana on Android](http://delyjester.blogspot.com/2018/08/the-forensics-of-cortana-on-android.html)
+
 #### Digital Forensics and Incident Response: Platform: Unix/Linux
 
 - [Bruteforcing Linux Full Disk Encryption (LUKS) with hashcat - The Forensic way!](https://blog.pnb.io/2018/02/bruteforcing-linux-full-disk-encryption.html)
