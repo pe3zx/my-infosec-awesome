@@ -693,6 +693,7 @@ _return-to-libc techniques_
                 <li><a href="https://www.megabeets.net/decrypting-dropshot-with-radare2-and-cutter-part-2/">Decrypting APT33’s Dropshot Malware with Radare2 and Cutter – Part 2</a></li>
                 <li><a href="https://leotindall.com/tutorial/an-intro-to-x86_64-reverse-engineering/">An Intro to x86_64 Reverse Engineering</a></li>
                 <li><a href="http://blog.superponible.com/2017/04/15/emulating-assembly-in-radare2/">Emulating Assembly in Radare2</a></li>
+                <li><a href="http://www.mien.in/2018/08/14/emulating-decryption-function-with-radare2/">Emulating Decryption Function With Radare2</a></li>
                 <li><a href="https://github.com/chrysh/ctf_writeups/tree/master/pwnable.kr">Pwnable.kr - Passcode</a></li>
                 <li><a href="https://radare2.securisec.com/">r2wiki</a></li>
                 <li><a href="https://medium.com/@jacob16682/reverse-engineering-using-radare2-588775ea38d5">Reverse Engineering Using Radare2</a></li>
