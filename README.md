@@ -80,6 +80,7 @@ My curated list of awesome links, resources and tools
 - [Inside iCloud Drive: Pushed updates, that syncing feeling](https://eclecticlight.co/2018/04/02/inside-icloud-drive-pushed-updates-that-syncing-feeling/)
 - [Inside iCloud Drive: uploading a file](https://eclecticlight.co/2018/03/30/inside-icloud-drive-uploading-a-file/)
 - [iOS 11: HEVC and HEIF (heic) files](https://www.cclgroupltd.com/ios-11-hevc-heif-heic-files/)
+- [Knowledge is Power! Using the macOS/iOS knowledgeC.db Database to Determine Precise User and Application Usage](https://www.mac4n6.com/blog/2018/8/5/knowledge-is-power-using-the-knowledgecdb-database-on-macos-and-ios-to-determine-precise-user-and-application-usage)
 - [macOS Unified log: 1 why, what and how](https://eclecticlight.co/2018/03/19/macos-unified-log-1-why-what-and-how/)
 - [macOS Unified log: 2 content and extraction](https://eclecticlight.co/2018/03/20/macos-unified-log-2-content-and-extraction/)
 - [macOS Unified log: 3 finding your way](https://eclecticlight.co/2018/03/21/macos-unified-log-3-finding-your-way/)
