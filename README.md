@@ -1226,20 +1226,20 @@ _return-to-libc techniques_
         </td>
     </tr>
     <tr>
-        <td><a href="https://ossec.github.io/">OSSEC</a></td>
-        <td>Open Source HIDS SECurity</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/williballenthin/INDXParse">williballenthin/INDXParse</a></td>
-        <td>Tool suite for inspecting NTFS artifacts</td>
-    </tr>
-    <tr>
         <td>
             <a href="https://github.com/nshalabi/SysmonTools">nshalabi/SysmonTools</a>
         </td>
         <td>
             Utilities for Sysmon (Sysmon View and Sysmon Shell)
         </td>
+    </tr>
+    <tr>
+        <td><a href="https://ossec.github.io/">OSSEC</a></td>
+        <td>Open Source HIDS SECurity</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/ptresearch/AttackDetection">ptresearch/AttackDetection</a>
+        <td>The Attack Detection Team searches for new vulnerabilities and 0-days, reproduces it and creates PoC exploits to understand how these security flaws work and how related attacks can be detected on the network layer. Additionally, we are interested in malware and hackers’ TTPs, so we develop Suricata rules for detecting all sorts of such activities.</td>
     </tr>
     <tr>
         <td><a href="https://github.com/refractionPOINT/limacharlie">refractionPOINT/limacharlie</a></td>
@@ -1264,6 +1264,10 @@ _return-to-libc techniques_
     <tr>
         <td><a href="https://github.com/williballenthin/EVTXtract">williballenthin/EVTXtract</a></td>
         <td>EVTXtract recovers and reconstructs fragments of EVTX log files from raw binary data, including unallocated space and memory images.</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/williballenthin/INDXParse">williballenthin/INDXParse</a></td>
+        <td>Tool suite for inspecting NTFS artifacts</td>
     </tr>
     <tr>
         <td><a href="https://github.com/williballenthin/process-forest">williballenthin/process-forest</a></td>
