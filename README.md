@@ -972,6 +972,10 @@ _return-to-libc techniques_
         <td>Enumerate S3 buckets via certstream, domain, or keywords</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/RhinoSecurityLabs/pacu">RhinoSecurityLabs/pacu</a></td>
+        <td>Rhino Security Labs' AWS penetration testing toolkit</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/RiotGames/cloud-inquisitor">RiotGames/cloud-inquisitor</a></td>
         <td>Enforce ownership and data security within AWS</td>
     </tr>
