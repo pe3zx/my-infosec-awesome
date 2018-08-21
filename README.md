@@ -1653,6 +1653,10 @@ _return-to-libc techniques_
         <td>ph0neutria is a malware zoo builder that sources samples straight from the wild. Everything is stored in Viper for ease of access and manageability.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/InQuest/python-iocextract">python-iocextract</a></td>
+        <td>Advanced Indicator of Compromise (IOC) extractor</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/quasar/QuasarRAT">quasar/QuasarRAT</a></td>
         <td>Quasar is a fast and light-weight remote administration tool coded in C#. Providing high stability and an easy-to-use user interface, Quasar is the perfect remote administration solution for you.</td>
     </tr>
