@@ -2270,6 +2270,10 @@ This repository lists most of the challenges used in the Google CTF 2017. The mi
         <td>PowerUpSQL: A PowerShell Toolkit for Attacking SQL Server</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/nccgroup/singularity">nccgroup/singularity</a></td>
+        <td>A DNS rebinding attack framework</td>
+    </tr>
+    <tr>
         <td><a href="https://erpscan.com/press-center/blog/oracle-ebs-penetration-testing-tool/">Oracle EBS Penetration testing tool</a></td>
         <td>ERPScan EBS Pentesting Tool is a freeware for pentesters and security professionals. With the help of it, you can conduct penetration testing and vulnerability assessment of Oracle E-Business Suite systems using Black Box testing methodologies.</td>
     </tr>
