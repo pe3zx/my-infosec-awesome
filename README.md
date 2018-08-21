@@ -1458,6 +1458,7 @@ _return-to-libc techniques_
                 <li><a href="https://blog.can.ac/2018/05/11/arbitrary-code-execution-at-ring-0-using-cve-2018-8897/">Arbitrary Code Execution At Ring 0 Using CVE-2018-8897</a></li>
                 <li><a href="https://github.com/can1357/CVE-2018-8897">can1357/CVE-2018-8897</a></li>
 		<li><a href="https://www.exploit-db.com/exploits/44697/">Microsoft Windows - 'POP/MOV SS' Privilege Escalation</a></li>
+                <li><a href="https://github.com/nmulasmajic/syscall_exploit_CVE-2018-8897">nmulasmajic/syscall_exploit_CVE-2018-8897</a></li>
             </ul>
         </td>
     </tr>
