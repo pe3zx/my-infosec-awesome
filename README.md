@@ -394,6 +394,7 @@ _return-to-libc techniques_
 - [Hunting Malware with Memory Analysis](https://technical.nttsecurity.com/post/102egyy/hunting-malware-with-memory-analysis)
 - [If memory doesn’t serve me right…](http://www.hexacorn.com/blog/2017/07/10/if-memory-doesnt-serve-me-right/)
 - [MetaTwin – Borrowing Microsoft Metadata and Digital Signatures to “Hide” Binaries](http://threatexpress.com/2017/10/metatwin-borrowing-microsoft-metadata-and-digital-signatures-to-hide-binaries/)
+- [MikroTik Cryptojacking Campaigns](https://docs.google.com/spreadsheets/d/1RdT_r4fi4wPx5rY306FftVKaXiAZeQeb5fx78DmbVx0/edit#gid=0)
 - [PE File Infection Part I](https://0x00sec.org/t/pe-file-infection/401)
 - [PE File Infection Part II](https://0x00sec.org/t/pe-file-infection-part-ii/4135)
 - [Running programs via Proxy & jumping on a EDR-bypass trampoline](http://www.hexacorn.com/blog/2017/05/01/running-programs-via-proxy-jumping-on-a-edr-bypass-trampoline/)
