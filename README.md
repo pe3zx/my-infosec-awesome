@@ -2131,6 +2131,10 @@ _return-to-libc techniques_
         <td>An advanced Twitter scraping & OSINT tool written in Python that doesn't use Twitter's API, allowing you to scrape a user's followers, following, Tweets and more while evading most API limitations.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/InQuest/omnibus">InQuest/omnibus</a></td>
+        <td>The OSINT Omnibus</td>
+    </tr>
+    <tr>
         <td><a href="https://www.mailsploit.com/index">Mailsploit</a></td>
         <td>TL;DR: Mailsploit is a collection of bugs in email clients that allow effective sender spoofing and code injection attacks. The spoofing is not detected by Mail Transfer Agents (MTA) aka email servers, therefore circumventing spoofing protection mechanisms such as DMARC (DKIM/SPF) or spam filters.</td>
     </tr>
