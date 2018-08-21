@@ -1570,6 +1570,10 @@ _return-to-libc techniques_
         <td>FAME Automates Malware Evaluation</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/gen0cide/gscript">gen0cide/gscript</a></td>
+        <td>Framework to rapidly implement custom droppers for all three major operating systems</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/glmcdona/Process-Dump">glmcdona/Process-Dump</a></td>
         <td>Windows tool for dumping malware PE files from memory back to disk for analysis.</td>
     </tr>
