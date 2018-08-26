@@ -1630,6 +1630,10 @@ _return-to-libc techniques_
         <td>The primary goal of Malpedia is to provide a resource for rapid identification and actionable context when investigating malware. Openness to curated contributions shall ensure an accountable level of quality in order to foster meaningful and reproducible research.</td>
     </tr>
     <tr>
+        <td>a href="https://github.com/MalwareCantFly/Vba2Graph/">MalwareCantFly/Vba2Graph</a></td>
+        <td>Vba2Graph - Generate call graphs from VBA code, for easier analysis of malicious documents.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/malwareinfosec/EKFiddle">malwareinfosec/EKFiddle</a></td>
         <td>A framework based on the Fiddler web debugger to study Exploit Kits, malvertising and malicious traffic in general.</td>
     </tr>
