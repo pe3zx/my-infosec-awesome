@@ -507,6 +507,7 @@ _return-to-libc techniques_
 
 ##### DCShadow
 
+- [ACTIVE DIRECTORY ATTACK - DCSHADOW](https://www.c0d3xpl0it.com/2018/06/ad-attacks-dcshadow.html)
 - [DCShadow](https://pentestlab.blog/2018/04/16/dcshadow/)
 - [DCShadow: Attacking Active Directory with Rouge DCs](https://blog.stealthbits.com/dcshadow-attacking-active-directory-with-rogue-dcs/)
 - [DCShadow explained: A technical deep dive into the latest AD attack technique](https://blog.alsid.eu/dcshadow-explained-4510f52fc19d?gi=fe7b55fa3114)
