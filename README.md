@@ -511,6 +511,10 @@ _return-to-libc techniques_
 - [DCShadow: Attacking Active Directory with Rouge DCs](https://blog.stealthbits.com/dcshadow-attacking-active-directory-with-rogue-dcs/)
 - [DCShadow explained: A technical deep dive into the latest AD attack technique](https://blog.alsid.eu/dcshadow-explained-4510f52fc19d?gi=fe7b55fa3114)
 
+##### Hot Potato
+
+- [Hot Potato – Windows Privilege Escalation](https://foxglovesecurity.com/2016/01/16/hot-potato/)
+
 #### Post Exploitation Platform: Unix/Linux
 
 - [GTFOBins - GTFOBins is a curated list of Unix binaries that can be exploited by an attacker to bypass local security restrictions.](https://gtfobins.github.io/)
