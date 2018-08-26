@@ -1277,6 +1277,10 @@ _return-to-libc techniques_
         <td>USN Analytics is a tool that specializes in USN Journal ($UsnJrnl:$J) analysis</td>
     </tr>
     <tr>
+        <td><a href="https://wazuh.com/">Wazuh</a></td>
+        <td>Open Source Host and Endpoint Security</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/williballenthin/EVTXtract">williballenthin/EVTXtract</a></td>
         <td>EVTXtract recovers and reconstructs fragments of EVTX log files from raw binary data, including unallocated space and memory images.</td>
     </tr>
