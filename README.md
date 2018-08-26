@@ -1574,6 +1574,10 @@ _return-to-libc techniques_
         <td>FAME Automates Malware Evaluation</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/felixweyne/imaginaryC2">felixweyne/imaginaryC2</a></td>
+        <td>Imaginary C2 is a python tool which aims to help in the behavioral (network) analysis of malware. Imaginary C2 hosts a HTTP server which captures HTTP requests towards selectively chosen domains/IPs. Additionally, the tool aims to make it easy to replay captured Command-and-Control responses/served payloads.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/gen0cide/gscript">gen0cide/gscript</a></td>
         <td>Framework to rapidly implement custom droppers for all three major operating systems</td>
     </tr>
