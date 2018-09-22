@@ -177,6 +177,7 @@ My curated list of awesome links, resources and tools
 
 - [A Methodical Approach to Browser Exploitation](https://blog.ret2.io/2018/06/05/pwn2own-2018-exploit-development/)
 - [Cracking the Walls of the Safari Sandbox - Fuzzing the macOS WindowServer for Exploitable Vulnerabilities](http://blog.ret2.io/2018/07/25/pwn2own-2018-safari-sandbox/)
+- [Heapple Pie - The macOS/iOS default heap](https://www.synacktiv.com/ressources/Sthack_2018_Heapple_Pie.pdf)
 - [The HIDeous parts of IOKit](https://s.siguza.net/dl/pdf/2018-Zer0Con.pdf)
 - [Timeless Debugging of Complex Software: Root Cause Analysis of a Non-Deterministic JavaScriptCore Bug](http://blog.ret2.io/2018/06/19/pwn2own-2018-root-cause-analysis/)
 - [Weaponization of a JavaScriptCore Vulnerability -Illustrating the Progression of Advanced Exploit Primitives In Practice](https://blog.ret2.io/2018/07/11/pwn2own-2018-jsc-exploit/)
