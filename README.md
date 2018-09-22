@@ -71,6 +71,7 @@ My curated list of awesome links, resources and tools
 #### Digital Forensics and Incident Response: Platform: MacOS/iOS
 
 - [A Few Interesting iOS Forensic Artefacts](https://salt4n6.com/2018/05/15/a-few-interesting-ios-forensic-artefacts/)
+- [Apple File System Reference](https://developer.apple.com/support/apple-file-system/Apple-File-System-Reference.pdf)
 - [Apple Probably Knows What You Did Last Summer](https://blog.elcomsoft.com/2018/06/apple-probably-knows-what-you-did-last-summer/)
 - [Detection of Backdating the System Clock in macOS](http://cyberforensicator.com/2018/01/21/detection-of-backdating-the-system-clock-in-macos/)
 - [Getting saucy with APFS](https://www.dropbox.com/s/bfjgiakkwt1bhm1/GettingSaucyWithAPFS.zip?dl=0)
