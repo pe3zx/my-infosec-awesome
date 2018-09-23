@@ -128,6 +128,7 @@ My curated list of awesome links, resources and tools
 - [Windows Security Identifiers (SIDs)](https://andreafortuna.org/windows-security-identifiers-sids-2196a5be2f4d)
 - [Windows Subsystem for Linux and Forensic Analysi](http://blog.1234n6.com/2017/10/windows-subsystem-for-linux-and.html)
 - [Windows Event Forwarding for Network Defense](https://medium.com/@palantir/windows-event-forwarding-for-network-defense-cb208d5ff86f)
+- [Word Forensic Analysis And Compound File Binary Format](https://articles.forensicfocus.com/2018/09/18/word-forensic-analysis-and-compound-file-binary-format/)
 
 ---
 
