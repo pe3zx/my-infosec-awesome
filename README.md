@@ -1215,6 +1215,10 @@ _return-to-libc techniques_
         <td>Investigate malicious Windows logon by visualizing and analyzing Windows event log</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/JPCERTCC/SysmonSearch">JPCERTCC/SysmonSearch</a></td>
+        <td>Investigate suspicious activity by visualizing Sysmon's event log</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/IllusiveNetworks-Labs/HistoricProcessTree">IllusiveNetworks-Labs/HistoricProcessTree</a></td>
         <td>An Incident Response tool that visualizes historic process execution evidence (based on Event ID 4688 - Process Creation Event) in a tree view.</td>
     </tr>
