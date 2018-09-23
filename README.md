@@ -1655,6 +1655,10 @@ _return-to-libc techniques_
         <td>Tool written in python3 to determine where the AV signature is located in a binary/payload</td>
     </tr>
     <tr>
+        <td><a href="https://www.hybrid-analysis.com/">Hybrid-Analysis</a></td>
+        <td>Free Automated Malware Analysis Service</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/hlldz/SpookFlare">hlldz/SpookFlare</a></td>
         <td>Loader, dropper generator with multiple features for bypassing client-side and network-side countermeasures.</td>
     </tr>
