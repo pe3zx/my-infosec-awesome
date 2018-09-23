@@ -1699,6 +1699,10 @@ _return-to-libc techniques_
         <td>Public malware techniques used in the wild: Virtual Machine, Emulation, Debuggers, Sandbox detection.</td>
     </tr>
     <tr>
+        <td><a href="https://objective-see.com/malware.html">Mac Malware</a></td>
+        <td>Mac Malware by Objective-See</td>
+    </tr>
+    <tr>
         <td><a href="http://malc0de.com/database/">Malc0de database</a></td>
         <td>Malc0de database</td>
     </tr>
