@@ -1763,6 +1763,10 @@ _return-to-libc techniques_
         <td>Proof-of-concept two-stage dropper generator that uses bits from external sources</td>
     </tr>
     <tr>
+        <td><a href="http://sarvam.ece.ucsb.edu/recent">SARVAN</a></td>
+        <td>SARVAM is a demonstration of the research project on fast large scale search, retrieval and classification of malware/goodware using techniques from signal processing and machine learning. Submit a Windows executable and retrieve the top similar matches. You may also search for existing or analysed malware using an executable's MD5 hash</td>
+    </tr>
+    <tr>
         <td><a href="https://malware.sekoia.fr/new">SEKOIA Dropper Analysis</a></td>
         <td>SEKOIA Dropper Analysis</td>
     </tr>
@@ -1777,6 +1781,10 @@ _return-to-libc techniques_
     <tr>
         <td><a href="https://beta.virusbay.io/">VirusBay</a></td>
         <td>VirusBay is a web-based, collaboration platform that connects security operations center (SOC) professionals with relevant malware researchers</td>
+    </tr>
+    <tr>
+        <td><a href="https://virusshare.com/">VirusShare</a></td>
+        <td>VirusShare.com is a repository of malware samples to provide security researchers, incident responders, forensic analysts, and the morbidly curious access to samples of live malicious code</td>
     </tr>
     <tr>
         <td><a href="http://www.virusign.com/">ViruSign</a></td>
