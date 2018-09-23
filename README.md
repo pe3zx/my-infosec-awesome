@@ -1294,6 +1294,10 @@ _return-to-libc techniques_
         <td>USN Analytics is a tool that specializes in USN Journal ($UsnJrnl:$J) analysis</td>
     </tr>
     <tr>
+        <td><a href="https://binaryforay.blogspot.com/2018/09/introducing-vscmount.html">VSCMount</a></td>
+        <td>Volume shadow copies mounter tool</td>
+    </tr>
+    <tr>
         <td><a href="https://wazuh.com/">Wazuh</a></td>
         <td>Open Source Host and Endpoint Security</td>
     </tr>
