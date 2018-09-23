@@ -2051,6 +2051,13 @@ _return-to-libc techniques_
         <td><a href="https://github.com/swwwolf/wdbgark">swwwolf/wdbgark</a></td>
         <td>WinDBG Anti-RootKit Extension</td>
     </tr>
+    <tr>
+        <td colspan="2"><b>x64dbg</b></td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/ThunderCls/xAnalyzer">ThunderCls/xAnalyzer</a></td>
+        <td>xAnalyzer plugin for x64dbg</td>
+    </tr>
 </table>
 
 ### Post Exploitation
