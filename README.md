@@ -1895,6 +1895,10 @@ _return-to-libc techniques_
         <td>Wordlists sorted by probability originally created for password generation and testing - make sure your passwords aren't popular!</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/byt3bl33d3r/SprayingToolkit">byt3bl33d3r/SprayingToolkit</a></td>
+        <td>Scripts to make password spraying attacks against Lync/S4B & OWA a lot quicker, less painful and more efficient</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/fireeye/gocrack">fireeye/gocrack</a></td>
         <td>GoCrack provides APIs to manage password cracking tasks across supported cracking engines.</td>
     </tr>
