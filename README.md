@@ -2224,6 +2224,10 @@ _return-to-libc techniques_
         <td>Search 102m public records and leaks from 179 sources</td>
     </tr>
     <tr>
+        <td><a href="https://www.phishingfrenzy.com/">Phishing Frenzy</a></td>
+        <td>Phishing Frenzy is an Open Source Ruby on Rails application that is leveraged by penetration testers to manage email phishing campaigns</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/securestate/king-phisher/">securestate/king-phisher</a></td>
         <td>Phishing Campaign Toolkit</td>
     </tr>
