@@ -1735,6 +1735,10 @@ _return-to-libc techniques_
         <td>Malware SRC Database</td>
     </tr>
     <tr>
+        <td><a href="https://macmalware.manwe.io/">100 recent OSX/iOS/Mac malware samples</a></td>
+        <td>This is a partial list of mac malware samples.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/Neo23x0/APTSimulator">Neo23x0/APTSimulator</a></td>
         <td>A toolset to make a system look as if it was the victim of an APT attack</td>
     </tr>
