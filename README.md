@@ -1599,6 +1599,10 @@ _return-to-libc techniques_
         <td>Rapid deployment of Windows environment (files, registry keys, mutex etc) to facilitate malware analysis</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/alexandreborges/malwoverview">alexandreborges/malwoverview</a></td>
+        <td>Malwoverview.py is a simple tool to perform an initial and quick triage on either a directory containing malware samples or a specific malware sample</td>
+    </tr>
+    <tr>
         <td><a href="http://sanddroid.xjtu.edu.cn:8080/">AndroMalShare</a></td>
         <td>AndroMalShare is a project focused on sharing Android malware samples</td>
     </tr>
