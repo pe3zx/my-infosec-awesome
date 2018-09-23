@@ -1691,6 +1691,10 @@ _return-to-libc techniques_
         <td>Public malware techniques used in the wild: Virtual Machine, Emulation, Debuggers, Sandbox detection.</td>
     </tr>
     <tr>
+        <td><a href="http://malc0de.com/database/">Malc0de database</a></td>
+        <td>Malc0de database</td>
+    </tr>
+    <tr>
         <td><a href="https://malpedia.caad.fkie.fraunhofer.de/">Malpedia</a></td>
         <td>The primary goal of Malpedia is to provide a resource for rapid identification and actionable context when investigating malware. Openness to curated contributions shall ensure an accountable level of quality in order to foster meaningful and reproducible research.</td>
     </tr>
