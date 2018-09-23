@@ -1607,6 +1607,10 @@ _return-to-libc techniques_
         <td>Malware Configuration And Payload Extraction</td>
     </tr>
     <tr>
+        <td><a href="http://contagiodump.blogspot.com/">Contagio</a></td>
+        <td>Malwarre dump</td>
+    </tr>
+    <tr>
         <td><a href="https://www.malwaretracker.com/doc.php">Cryptam Document Scanner</a></td>
         <td>Encrypted/obfuscated malicious document analyzer</td>
     </tr>
