@@ -1290,6 +1290,10 @@ _return-to-libc techniques_
         </td>
     </tr>
     <tr>
+        <td><a href="https://uncoder.io">Uncoder.io</a></td>
+        <td>Uncoder.IO is the online translator for SIEM saved searches, filters, queries, API requests, correlation and Sigma rules to help SOC Analysts, Threat Hunters and SIEM Engineers</td>
+    </tr>
+    <tr>
         <td><a href="http://www.kazamiya.net/en/usn_analytics">USN Analytics</a></td>
         <td>USN Analytics is a tool that specializes in USN Journal ($UsnJrnl:$J) analysis</td>
     </tr>
