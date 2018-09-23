@@ -1604,6 +1604,10 @@ _return-to-libc techniques_
         <td>DAS MALWERK - your one stop shop for fresh malware samples</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/droidefense/engine">droidefense/engine</td>
+        <td>Droidefense: Advance Android Malware Analysis Framework</td>
+    </tr>
+    <tr>
         <td><a href="https://certsocietegenerale.github.io/fame/">FAME</a></td>
         <td>FAME Automates Malware Evaluation</td>
     </tr>
