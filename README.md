@@ -1015,6 +1015,10 @@ _return-to-libc techniques_
         <td>RetDec is a retargetable machine-code decompiler based on LLVM</td>
     </tr>
     <tr>
+        <td><a href="https://godblot.org">Compiler Explorer</a></td>
+        <td>Online compiler explorer</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/enkomio/shed">enkomio/shed</a></td>
         <td>.NET runtine inspector. <a href="http://antonioparata.blogspot.it/2017/11/shed-inspect-net-malware-like-sir.html">Shed - Inspect .NET malware like a Sir</a></td>
     </tr>
@@ -1614,6 +1618,10 @@ _return-to-libc techniques_
     <tr>
         <td><a href="https://github.com/glmcdona/Process-Dump">glmcdona/Process-Dump</a></td>
         <td>Windows tool for dumping malware PE files from memory back to disk for analysis.</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/GreatSCT/GreatSCT">GreatSCT/GreatSCT</a></td>
+        <td>The project is called Great SCT (Great Scott). Great SCT is an open source project to generate application white list bypasses. This tool is intended for BOTH red and blue team</td>
     </tr>
     <tr>
         <td><a href="https://github.com/hasherezade/libpeconv/tree/master/run_pe">hasherezade/libpeconv/runpe</a></td>
