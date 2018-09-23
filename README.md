@@ -1771,6 +1771,10 @@ _return-to-libc techniques_
         <td>SARVAM is a demonstration of the research project on fast large scale search, retrieval and classification of malware/goodware using techniques from signal processing and machine learning. Submit a Windows executable and retrieve the top similar matches. You may also search for existing or analysed malware using an executable's MD5 hash</td>
     </tr>
     <tr>
+        <td><a href="https://www.scumware.org/index.scumware">scumware.org</a></td>
+        <td>Just another free alternative for security and malware researchers. Access to certain resources is limited by credit which can be obtained by typing in 'captcha'</td>
+    </tr>
+    <tr>
         <td><a href="https://malware.sekoia.fr/new">SEKOIA Dropper Analysis</a></td>
         <td>SEKOIA Dropper Analysis</td>
     </tr>
