@@ -1750,6 +1750,10 @@ _return-to-libc techniques_
         <td><a href="https://pan-unit42.github.io/playbook_viewer/">UNIT 42: Playbook Viewver</a></td>
         <td>Viewing PAN Unit 42's adversary playbook via web interface</td>
     </tr>
+    <tr>
+        <td><a href="https://github.com/ytisf/theZoo">ytisf/theZoo</a></td>
+        <td>A repository of LIVE malwares for your own joy and pleasure</td>
+    </tr>
 </table>
 
 ### Mobile Security
