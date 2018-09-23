@@ -1794,6 +1794,10 @@ _return-to-libc techniques_
         <td><a href="http://www.virusign.com/">ViruSign</a></td>
         <td>ViruSign</td>
     </tr>
+    <tr>
+        <td><a href="http://vxvault.net/ViriList.php">VX Vault</a></td>
+        <td>VX Vault</td>
+    </tr>
 </table>
 
 ### Mobile Security
