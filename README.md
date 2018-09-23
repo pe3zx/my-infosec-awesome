@@ -1774,6 +1774,10 @@ _return-to-libc techniques_
         <td><a href="https://beta.virusbay.io/">VirusBay</a></td>
         <td>VirusBay is a web-based, collaboration platform that connects security operations center (SOC) professionals with relevant malware researchers</td>
     </tr>
+    <tr>
+        <td><a href="http://www.virusign.com/">ViruSign</a></td>
+        <td>ViruSign</td>
+    </tr>
 </table>
 
 ### Mobile Security
