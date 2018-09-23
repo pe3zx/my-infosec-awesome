@@ -1770,6 +1770,10 @@ _return-to-libc techniques_
         <td><a href="https://github.com/ytisf/theZoo">ytisf/theZoo</a></td>
         <td>A repository of LIVE malwares for your own joy and pleasure</td>
     </tr>
+    <tr>
+        <td><a href="https://beta.virusbay.io/">VirusBay</a></td>
+        <td>VirusBay is a web-based, collaboration platform that connects security operations center (SOC) professionals with relevant malware researchers</td>
+    </tr>
 </table>
 
 ### Mobile Security
