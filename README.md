@@ -1663,6 +1663,10 @@ _return-to-libc techniques_
         <td>A toolset to make a system look as if it was the victim of an APT attack</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/Neo23x0/exotron">Neo23x0/exotron</a></td>
+        <td>Sandbox feature upgrade with the help of wrapped samples</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/nsmfoo/antivmdetection">nsmfoo/antivmdetection</a></td>
         <td>Script to create templates to use with VirtualBox to make vm detection harder</td>
     </tr>
