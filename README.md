@@ -389,6 +389,7 @@ _return-to-libc techniques_
 - [A zebra in sheep’s clothing: How a Microsoft icon-display bug in Windows allows attackers to masquerade PE files with special icons](https://www.cybereason.com/labs-a-zebra-in-sheeps-clothing-how-a-microsoft-icon-display-bug-in-windows-allows-attackers-to-masquerade-pe-files-with-special-icons/)
 - [Add-In Opportunities for Office Persistence](https://labs.mwrinfosecurity.com/blog/add-in-opportunities-for-office-persistence/)
 - [Anti-debugging Techniques Cheat Sheet](http://antukh.com/blog/2015/01/19/malware-techniques-cheat-sheet/)
+- [APT Groups and Operations](https://airtable.com/shr3Po3DsZUQZY4we/tbljpA5wI1IaLI4Gv/viwGFVFtuu0l88e7u)
 - [baderj/domain_generation_algorithms - Some results of my DGA reversing efforts](https://github.com/baderj/domain_generation_algorithms)
 - [Borrowing Microsoft Code Signing Certificate](https://blog.conscioushacker.io/index.php/2017/09/27/borrowing-microsoft-code-signing-certificates/)
 - [Detecting Architecture in Windows](https://osandamalith.com/2017/09/24/detecting-architecture-in-windows/)
