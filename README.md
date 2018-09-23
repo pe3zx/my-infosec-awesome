@@ -1509,6 +1509,10 @@ _return-to-libc techniques_
         <td>Analysis of public exploits or my 1day exploits</td>
     </tr>
     <tr>
+        <td><a href="https://sploitus.com/">Sploitus</a></td>
+        <td>Exploit & Hacktool Search Engine</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/FriendsOfPHP/security-advisories">FriendsOfPHP/security-advisories</a></td>
         <td>The PHP Security Advisories Database references known security vulnerabilities in various PHP projects and libraries. This database must not serve as the primary source of information for security issues, it is not authoritative for any referenced software, but it allows to centralize information for convenience and easy consumption.</td>
     </tr>
