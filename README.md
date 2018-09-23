@@ -1470,6 +1470,13 @@ _return-to-libc techniques_
         </td>
     </tr>
     <tr>
+        <td>CVE-2018-3620, CVE-2018-3646</td>
+        <td>Systems with microprocessors utilizing speculative execution and address translations may allow unauthorized disclosure of information residing in the L1 data cache to an attacker with local user access via a terminal page fault and a side-channel analysis</td>
+        <ul>
+            <li><a href="https://github.com/gregvish/l1tf-poc/">gregvish/l1tf-poc</a></li>
+        </ul>
+    </tr>
+    <tr>
         <td>CVE-2018-4878</td>
         <td>A critical vulnerability (CVE-2018-4878) exists in Adobe Flash Player 28.0.0.137 and earlier versions. Successful exploitation could potentially allow an attacker to take control of the affected system.
             <ul>
