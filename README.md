@@ -420,6 +420,7 @@ _return-to-libc techniques_
 #### Malware Analysis: Variant: ATM & POS
 
 - [Bingo, Amigo! Jackpotting: ATM malware from Latin America to the World](https://securelist.com/atm-malware-from-latin-america-to-the-world/83836/)
+- [Follow The Money: Dissecting the Operations of the Cyber Crime Group FIN6](https://www2.fireeye.com/rs/848-DID-242/images/rpt-fin6.pdf)
 
 #### Malware Analysis: Variant: BadRabbit
 
