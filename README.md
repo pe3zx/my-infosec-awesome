@@ -425,6 +425,7 @@ _return-to-libc techniques_
 - [Buy Candy, Lose Your Credit Card - Investigating PoS RAM Scraping Malware](https://www.symantec.com/content/dam/symantec/docs/white-papers/attacks-on-point-of-sale-systems-en.pdf)
 - [Evolution and Characterization of Point-of-Sale RAM Scraping Malware](https://webdiis.unizar.es/~ricardo/files/papers/R-CVHT-16.pdf)
 - [Follow The Money: Dissecting the Operations of the Cyber Crime Group FIN6](https://www2.fireeye.com/rs/848-DID-242/images/rpt-fin6.pdf)
+- [New FrameworkPOS variant exfiltrates data via DNS requests](New FrameworkPOS variant exfiltrates data via DNS requests)
 - [PoS RAM Scraper Malware - Past, Present, and Future](https://www.symantec.com/content/dam/symantec/docs/white-papers/attacks-on-point-of-sale-systems-en.pdf)
 
 #### Malware Analysis: Variant: BadRabbit
