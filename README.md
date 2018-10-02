@@ -427,6 +427,7 @@ _return-to-libc techniques_
 - [Follow The Money: Dissecting the Operations of the Cyber Crime Group FIN6](https://www2.fireeye.com/rs/848-DID-242/images/rpt-fin6.pdf)
 - [New FrameworkPOS variant exfiltrates data via DNS requests](New FrameworkPOS variant exfiltrates data via DNS requests)
 - [PoS RAM Scraper Malware - Past, Present, and Future](https://www.symantec.com/content/dam/symantec/docs/white-papers/attacks-on-point-of-sale-systems-en.pdf)
+- [RawPOS Technical Brief](http://sjc1-te-ftp.trendmicro.com/images/tex/pdf/RawPOS%20Technical%20Brief.pdf)
 
 #### Malware Analysis: Variant: BadRabbit
 
