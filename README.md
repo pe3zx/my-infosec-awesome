@@ -421,6 +421,7 @@ _return-to-libc techniques_
 
 - [Attacks on point-of-sales systems](https://www.symantec.com/content/dam/symantec/docs/white-papers/attacks-on-point-of-sale-systems-en.pdf)
 - [Another Brick in the FrameworkPoS](https://www.trustwave.com/Resources/SpiderLabs-Blog/Another-Brick-in-the-FrameworkPoS/)
+- [Backoff: New Point of Sale Malware](http://sjc1-te-ftp.trendmicro.com/images/tex/pdf/RawPOS%20Technical%20Brief.pdf)
 - [Bingo, Amigo! Jackpotting: ATM malware from Latin America to the World](https://securelist.com/atm-malware-from-latin-america-to-the-world/83836/)
 - [Buy Candy, Lose Your Credit Card - Investigating PoS RAM Scraping Malware](https://www.symantec.com/content/dam/symantec/docs/white-papers/attacks-on-point-of-sale-systems-en.pdf)
 - [Evolution and Characterization of Point-of-Sale RAM Scraping Malware](https://webdiis.unizar.es/~ricardo/files/papers/R-CVHT-16.pdf)
