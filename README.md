@@ -1850,6 +1850,10 @@ _return-to-libc techniques_
         <td>Android Package Inspector - dynamic analysis with api hooks, start unexported activities and more. (Xposed Module)</td>
     </tr>
     <tr>
+        <td><a href="https://air.line.me/air/product#tab_airgo">AIR GO</a></td>
+        <td>AIR GO detects obfuscation, vulnerabilities, open-source license issues, and malware by analyzing mobile apps and websites. It uses industry-leading technology to detect security threats and provide an improvement plan.</td>
+    </tr>
+    <tr>
         <td><a href="https://ibotpeaches.github.io/Apktool/">Apktool</a></td>
         <td>A tool for reverse engineering Android apk files</td>
     </tr>
