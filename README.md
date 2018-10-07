@@ -811,6 +811,10 @@ _return-to-libc techniques_
         <td>A PowerShell script to interact with the MITRE ATT&CK Framework via its own API</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/chryzsh/DarthSidious/">chryzsh/DarthSidious</a></td>
+        <td>Building an Active Directory domain and hacking it</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/endgameinc/RTA">endgameinc/RTA</a></td>
         <td>RTA provides a framework of scripts designed to allow blue teams to test their detection capabilities against malicious tradecraft, modeled after MITRE ATT&CK</td>
     </tr>
