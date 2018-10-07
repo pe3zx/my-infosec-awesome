@@ -1645,6 +1645,10 @@ _return-to-libc techniques_
         <td>Encrypted/obfuscated malicious document analyzer</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/cmu-sei/cyobstract">cmu-sei/cyobstract</a></td>
+        <td>A tool to extract structured cyber information from incident reports.</td>
+    </tr>
+    <tr>
         <td><a href="http://dasmalwerk.eu/">DAS MALWERK</a></td>
         <td>DAS MALWERK - your one stop shop for fresh malware samples</td>
     </tr>
