@@ -245,7 +245,6 @@ My curated list of awesome links, resources and tools
 - [Rotten Potato – Privilege Escalation from Service Accounts to SYSTEM](https://foxglovesecurity.com/2016/09/26/rotten-potato-privilege-escalation-from-service-accounts-to-system/)
 - [sam-b/windows_kernel_resources](https://github.com/sam-b/windows_kernel_resources)
 - [Sharks in the Pool :: Mixed Object Exploitation in the Windows Kernel Pool](http://srcincite.io/blog/2017/09/06/sharks-in-the-pool-mixed-object-exploitation-in-the-windows-kernel-pool.html)
-- [Signing Mimikatz](https://twitter.com/subTee/status/912769644473098240)
 - [Skeleton in the closet. MS Office vulnerability you didn’t know about](https://embedi.com/blog/skeleton-closet-ms-office-vulnerability-you-didnt-know-about/)
 - [Starting with Windows Kernel Exploitation – part 1 – setting up the lab](https://hshrzd.wordpress.com/2017/05/28/starting-with-windows-kernel-exploitation-part-1-setting-up-the-lab/)
 - [Starting with Windows Kernel Exploitation – part 2 – getting familiar with HackSys Extreme Vulnerable Driver](https://hshrzd.wordpress.com/2017/06/05/starting-with-windows-kernel-exploitation-part-2/)
@@ -719,10 +718,8 @@ _return-to-libc techniques_
                 <li><a href="https://www.megabeets.net/decrypting-dropshot-with-radare2-and-cutter-part-2/">Decrypting APT33’s Dropshot Malware with Radare2 and Cutter – Part 2</a></li>
                 <li><a href="https://leotindall.com/tutorial/an-intro-to-x86_64-reverse-engineering/">An Intro to x86_64 Reverse Engineering</a></li>
                 <li><a href="http://blog.superponible.com/2017/04/15/emulating-assembly-in-radare2/">Emulating Assembly in Radare2</a></li>
-                <li><a href="http://www.mien.in/2018/08/14/emulating-decryption-function-with-radare2/">Emulating Decryption Function With Radare2</a></li>
                 <li><a href="https://github.com/chrysh/ctf_writeups/tree/master/pwnable.kr">Pwnable.kr - Passcode</a></li>
                 <li><a href="https://radare2.securisec.com/">r2wiki</a></li>
-                <li><a href="https://medium.com/@jacob16682/reverse-engineering-using-radare2-588775ea38d5">Reverse Engineering Using Radare2</a></li>
             </ul>
         </td>
     </tr>
@@ -766,7 +763,6 @@ _return-to-libc techniques_
 
 #### Web Application Security: Technique: CORS
 
-- [Advanced CORS Exploitation Techniques](https://www.sxcurity.pro/advanced-cors-techniques/)
 - [Exploiting CORS misconfigurations for Bitcoins and bounties](https://portswigger.net/blog/exploiting-cors-misconfigurations-for-bitcoins-and-bounties)
 
 #### Web Application Security: Technique: Cross-site Request Forgery
@@ -1027,10 +1023,6 @@ _return-to-libc techniques_
     <tr>
         <td><a href="https://github.com/avast-tl/retdec">avast-tl/retdec</a></td>
         <td>RetDec is a retargetable machine-code decompiler based on LLVM</td>
-    </tr>
-    <tr>
-        <td><a href="https://godblot.org">Compiler Explorer</a></td>
-        <td>Online compiler explorer</td>
     </tr>
     <tr>
         <td><a href="https://github.com/enkomio/shed">enkomio/shed</a></td>
@@ -1949,10 +1941,6 @@ _return-to-libc techniques_
     <tr>
         <td><a href="https://github.com/byt3bl33d3r/MITMf">byt3bl33d3r/MITMf</a></td>
         <td>Framework for Man-In-The-Middle attacks</td>
-    </tr>
-    <tr>
-        <td><a href="https://dnsdb.io/en-us/">DNSDB</a></td>
-        <td>Global DNS Search Engine</td>
     </tr>
     <tr>
         <td><a href="https://github.com/eldraco/domain_analyzer/">eldraco/domain_analyzer</a></td>
