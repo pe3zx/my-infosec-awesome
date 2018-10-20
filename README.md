@@ -1101,6 +1101,10 @@ _return-to-libc techniques_
         <td><a href="https://github.com/mpgn/poodle-PoC">mpgn/poodle-PoC</a></td>
         <td>Poodle (Padding Oracle On Downgraded Legacy Encryption) attack</td>
     </tr>
+    <tr>
+        <td><a href="https://github.com/salesforce/ja3">salesforce/ja3</td>
+        <td>JA3 is a standard for creating SSL client fingerprints in an easy to produce and shareable way.</td>
+    </tr>
 </table>
 
 ### Data Exfiltration
