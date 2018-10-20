@@ -144,6 +144,7 @@ My curated list of awesome links, resources and tools
 
 - [Android Bluetooth Vulnerabilities in the March 2018 Security Bulletin](https://blog.quarkslab.com/android-bluetooth-vulnerabilities-in-the-march-2018-security-bulletin.html)
 - [CVE-2017-13253: Buffer overflow in multiple Android DRM services](https://blog.zimperium.com/cve-2017-13253-buffer-overflow-multiple-android-drm-services/)
+- [Writing the worlds worst Android fuzzer, and then improving it](https://gamozolabs.github.io/fuzzing/2018/10/18/terrible_android_fuzzer.html)
 
 #### Exploitation: Platform: Linux
 
