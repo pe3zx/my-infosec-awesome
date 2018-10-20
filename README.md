@@ -194,6 +194,7 @@ My curated list of awesome links, resources and tools
 - [Abusing A Writable Windows Service](https://blog.didierstevens.com/2017/09/05/abusing-a-writable-windows-service/)
 - [Abusing Delay Load DLLs for Remote Code Injection](http://hatriot.github.io/blog/2017/09/19/abusing-delay-load-dll/)
 - [Abusing GDI objects: Bitmap object’s size in the kernel pool](http://theevilbit.blogspot.com/2017/10/abusing-gdi-objects-bitmap-objects-size.html)
+- [An Analysis of Microsoft Edge Chakra JavascriptArray TypeId Handling Memory Corruption (CVE-2018-8467)](https://www.fortinet.com/blog/threat-research/an-analysis-of-microsoft-edge-chakra-javascriptarray-typeid-hand.html)
 - [An Analysis of the Use-After-Free Bug in the Microsoft Edge Chakra Engine (CVE-2018-0946)](https://www.fortinet.com/blog/threat-research/an-analysis-of-the-use-after-free-bug-in-microsoft-edge-chakra-engine.html)
 - [An Inside Look at CVE-2017-0199 – HTA and Scriptlet File Handler Vulnerability](https://blog.fortinet.com/2017/06/05/an-inside-look-at-cve-2017-0199-hta-and-scriptlet-file-handler-vulnerability)
 - [ANALYSIS OF A WIN32K NULL POINTER DEREFERENCE BY MATCHING THE MAY PATCH](https://xiaodaozhi.com/exploit/156.html)
