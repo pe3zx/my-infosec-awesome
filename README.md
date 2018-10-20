@@ -2014,6 +2014,13 @@ _return-to-libc techniques_
 
 <table>
     <tr>
+        <td colspan="2"><b>Autopsy</b></td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/0xbecca/Amcache_Scan">0xbecca/Amcache_Scan</a></td>
+        <td>Amcache_Scan Autopsy Plugin</td>
+    </tr>
+    <tr>
         <td colspan="2"><b>Burp Suite</b></td>
     </tr>
     <tr>
