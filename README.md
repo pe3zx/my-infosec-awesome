@@ -1676,6 +1676,10 @@ _return-to-libc techniques_
         <td>Imaginary C2 is a python tool which aims to help in the behavioral (network) analysis of malware. Imaginary C2 hosts a HTTP server which captures HTTP requests towards selectively chosen domains/IPs. Additionally, the tool aims to make it easy to replay captured Command-and-Control responses/served payloads.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/FortyNorthSecurity/WMImplant">FortyNorthSecurity/WMImplant</a></td>
+        <td>This is a PowerShell based tool that is designed to act like a RAT. Its interface is that of a shell where any command that is supported is translated into a WMI-equivalent for use on a network/remote machine. WMImplant is WMI based.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/gen0cide/gscript">gen0cide/gscript</a></td>
         <td>Framework to rapidly implement custom droppers for all three major operating systems</td>
     </tr>
