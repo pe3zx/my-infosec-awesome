@@ -2156,6 +2156,10 @@ _return-to-libc techniques_
         <td>A PowerShell front-end for the Windows debugger engine.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/Patrowl/PatrowlManager">Patrowl/PatrowlManager</a></td>
+        <td>PatrOwl - Open Source, Free and Scalable Security Operations Orchestration Platform</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/swwwolf/wdbgark">swwwolf/wdbgark</a></td>
         <td>WinDBG Anti-RootKit Extension</td>
     </tr>
