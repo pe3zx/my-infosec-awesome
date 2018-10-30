@@ -2296,6 +2296,10 @@ _return-to-libc techniques_
         <td>Stealing Signatures and Making One Invalid Signature at a Time</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/sensepost/godoh">sensepost/goDoH</a></td>
+        <td>godoh - A DNS-over-HTTPS C2</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/stephenfewer/ReflectiveDLLInjection">stephenfewer/ReflectiveDLLInjection</a></td>
         <td>Reflective DLL injection is a library injection technique in which the concept of reflective programming is employed to perform the loading of a library from memory into a host process</td>
     </tr>
