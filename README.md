@@ -181,6 +181,7 @@ My curated list of awesome links, resources and tools
 
 - [A Methodical Approach to Browser Exploitation](https://blog.ret2.io/2018/06/05/pwn2own-2018-exploit-development/)
 - [Analysis: Inspecting Mach Messages in macOS Kernel-Mode Part I: Sniffing the sent Mach messages](https://www.fortinet.com/blog/threat-research/inspecting-mach-messages-in-macos-kernel-mode--part-i--sniffing-.html)
+- [Analysis: Inspecting Mach Messages in macOS Kernel-Mode Part II: Sniffing the received Mach messages](https://www.fortinet.com/blog/threat-research/inspect-mach-messages-in-macos-kernel-mode--part-ii--sniffing-th.html)
 - [Cracking the Walls of the Safari Sandbox - Fuzzing the macOS WindowServer for Exploitable Vulnerabilities](http://blog.ret2.io/2018/07/25/pwn2own-2018-safari-sandbox/)
 - [Heapple Pie - The macOS/iOS default heap](https://www.synacktiv.com/ressources/Sthack_2018_Heapple_Pie.pdf)
 - [The HIDeous parts of IOKit](https://s.siguza.net/dl/pdf/2018-Zer0Con.pdf)
