@@ -557,6 +557,7 @@ _return-to-libc techniques_
 ### Reverse Engineering
 
 - [A Gentle Primer on Reverse Engineering](https://emily.st/2015/01/27/reverse-engineering/)
+- [A Guide to ARM64 / AArch64 Assembly on Linux with Shellcodes and Cryptography](https://modexp.wordpress.com/2018/10/30/arm64-assembly/)
 - [ELF hacking with Rekall](http://blog.rekall-forensic.com/2018/01/elf-hacking-with-rekall.html)
 - [FAQ: How to learn reverse-engineering?](http://gynvael.coldwind.pl/?id=664)
 - [How to decompile any Python binary](https://countercept.com/our-thinking/how-to-decompile-any-python-binary/)
