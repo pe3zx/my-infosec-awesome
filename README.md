@@ -184,6 +184,7 @@ My curated list of awesome links, resources and tools
 - [Analysis: Inspecting Mach Messages in macOS Kernel-Mode Part II: Sniffing the received Mach messages](https://www.fortinet.com/blog/threat-research/inspect-mach-messages-in-macos-kernel-mode--part-ii--sniffing-th.html)
 - [Cracking the Walls of the Safari Sandbox - Fuzzing the macOS WindowServer for Exploitable Vulnerabilities](http://blog.ret2.io/2018/07/25/pwn2own-2018-safari-sandbox/)
 - [Heapple Pie - The macOS/iOS default heap](https://www.synacktiv.com/ressources/Sthack_2018_Heapple_Pie.pdf)
+- [Kernel RCE caused by buffer overflow in Apple's ICMP packet-handling code (CVE-2018-4407)](https://lgtm.com/blog/apple_xnu_icmp_error_CVE-2018-4407)
 - [The HIDeous parts of IOKit](https://s.siguza.net/dl/pdf/2018-Zer0Con.pdf)
 - [Timeless Debugging of Complex Software: Root Cause Analysis of a Non-Deterministic JavaScriptCore Bug](http://blog.ret2.io/2018/06/19/pwn2own-2018-root-cause-analysis/)
 - [Weaponization of a JavaScriptCore Vulnerability -Illustrating the Progression of Advanced Exploit Primitives In Practice](https://blog.ret2.io/2018/07/11/pwn2own-2018-jsc-exploit/)
