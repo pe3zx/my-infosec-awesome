@@ -1071,6 +1071,10 @@ _return-to-libc techniques_
         <td>A binary static analysis tool that provides security and correctness results for Windows portable executables</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/Microsoft/ProcDump-for-Linux">Microsoft/ProcDump-for-Linux</a></td>
+        <td>A Linux version of the ProcDump Sysinternals tool</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/mxmssh/drltrace">mxmssh/drltrace</a></td>
         <td><Drltrace is a library calls tracer for Windows and Linux applications/td>
     </tr>
