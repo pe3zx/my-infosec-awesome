@@ -2258,9 +2258,13 @@ _return-to-libc techniques_
         <td><a href="https://github.com/jonatan1024/clrinject">jonatan1024/clrinject</a></td>
         <td>Injects C# EXE or DLL Assembly into every CLR runtime and AppDomain of another process.</td>
     </tr>
-        <tr>
+    <tr>
         <td><a href="https://github.com/mattifestation/PoCSubjectInterfacePackage">mattifestation/PoCSubjectInterfacePackage</a></td>
         <td>A PoC subject interface package (SIP) provider designed to educate about the required components of a SIP provider.</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/OmerYa/Invisi-Shell">OmerYa/Invisi-Shell</a></td>
+        <td>Hide your Powershell script in plain sight. Bypass all Powershell security features</td>
     </tr>
     <tr>
         <td><a href="https://github.com/putterpanda/mimikittenz">putterpanda/mimikittenz</a></td>
