@@ -119,6 +119,7 @@ My curated list of awesome links, resources and tools
 - [Memory Acquisition and Virtual Secure Mode](https://df-stream.com/2017/08/memory-acquisition-and-virtual-secure/)
 - [pwndizzle/CodeExecutionOnWindows - A list of ways to execute code on Windows using legitimate Windows tools](https://github.com/pwndizzle/CodeExecutionOnWindows)
 - [RecentApps Registry Key](https://df-stream.com/2017/10/recentapps/)
+- [RegRipper & keys parsed by plugins](http://hexacorn.com/tools/3r.html)
 - [Some reminders about Windows file times](https://medium.com/@4n68r/some-reminders-about-windows-file-times-2debe1edb978)
 - [Tales of a Threat Hunter 1](https://www.eideon.com/2017-09-09-THL01-Mimikatz/)
 - [Volume Shadow Copies in forensic analysis](https://andreafortuna.org/volume-shadow-copies-in-forensics-analysis-7708adefe61c)
