@@ -141,6 +141,7 @@ My curated list of awesome links, resources and tools
 ### Exploitation
 
 - [Guest Diary (Etay Nir) Kernel Hooking Basics](https://isc.sans.edu/forums/diary/Guest+Diary+Etay+Nir+Kernel+Hooking+Basics/23155/)
+- [MorteNoir1/virtualbox_e1000_0day](https://github.com/MorteNoir1/virtualbox_e1000_0day)
 
 #### Exploitation: Hardware-related Attacks
 
