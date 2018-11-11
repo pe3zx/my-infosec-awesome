@@ -49,6 +49,7 @@ My curated list of awesome links, resources and tools
 - [Cloud Forensics: Analyzing MEGASync](http://cyberforensicator.com/2018/04/15/cloud-forensics-analyzing-megasync/)
 - [Cloud Forensics: Google Drive](http://cyberforensicator.com/2018/10/19/cloud-forensics-google-drive/)
 - [Cloud Forensics: pCloud Drive](http://cyberforensicator.com/2018/05/05/cloud-forensics-pcloud-drive/)
+- [Finding TikTok messages in iOS](https://abrignoni.blogspot.com/2018/11/finding-tiktok-messages-in-ios.html)
 - [Forensic Analysis Of The μTorrent Peer-to-Peer Client In Windows](https://articles.forensicfocus.com/2018/11/02/forensic-analysis-of-the-%CE%BCtorrent-peer-to-peer-client-in-windows/)
 - ["Gone In 10 Seconds" Snapchat Forensics](http://www.carpeindicium.com/blog/gone_10-seconds/)
 - [How to Perform Hadoop Forensics](https://www.peerlyst.com/posts/how-to-perform-hadoop-forensics-chiheb-chebbi)
