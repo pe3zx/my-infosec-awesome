@@ -6,6 +6,7 @@
 My curated list of awesome links, resources and tools
 
 - [Articles](#articles)
+    - [Cryptography](#cryptography)
     - [Digital Forensics and Incident Response](#digital-forensics-and-incident-response)
     - [Exploitation](#exploitation)
     - [Malware Analysis](#malware-analysis)
@@ -19,7 +20,7 @@ My curated list of awesome links, resources and tools
     - [Adversary Emulation](#adversary-emulation)
     - [AWS Security](#aws-security)
     - [Binary Analysis](#binary-analysis)
-    - [Cryptography](#cryptography)
+    - [Cryptography](#cryptography-1)
     - [Data Exfiltration](#data-exfiltration)
     - [Data Sets](#data-set)
     - [Digital Forensics and Incident Response](#digital-forensics-and-incident-response)
@@ -41,6 +42,10 @@ My curated list of awesome links, resources and tools
 ## Articles
 
 ---
+
+### Cryptography
+
+- [hannob/tls-what-can-go-wrong - TLS - what can go wrong?](https://github.com/hannob/tls-what-can-go-wrong)
 
 ### Digital Forensics and Incident Response
 
