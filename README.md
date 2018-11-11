@@ -191,6 +191,7 @@ My curated list of awesome links, resources and tools
 #### Exploitation: Platform: MacOS/iOS
 
 - [A Methodical Approach to Browser Exploitation](https://blog.ret2.io/2018/06/05/pwn2own-2018-exploit-development/)
+- [An introduction to exploiting userspace race conditions on iOS](https://bazad.github.io/2018/11/introduction-userspace-race-conditions-ios/)
 - [Analysis: Inspecting Mach Messages in macOS Kernel-Mode Part I: Sniffing the sent Mach messages](https://www.fortinet.com/blog/threat-research/inspecting-mach-messages-in-macos-kernel-mode--part-i--sniffing-.html)
 - [Analysis: Inspecting Mach Messages in macOS Kernel-Mode Part II: Sniffing the received Mach messages](https://www.fortinet.com/blog/threat-research/inspect-mach-messages-in-macos-kernel-mode--part-ii--sniffing-th.html)
 - [Cracking the Walls of the Safari Sandbox - Fuzzing the macOS WindowServer for Exploitable Vulnerabilities](http://blog.ret2.io/2018/07/25/pwn2own-2018-safari-sandbox/)
