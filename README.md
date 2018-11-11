@@ -234,6 +234,7 @@ My curated list of awesome links, resources and tools
 - [Exploiting MS16-145: MS Edge TypedArray.sort Use-After-Free (CVE-2016-7288)](https://blog.quarkslab.com/exploiting-ms16-145-ms-edge-typedarraysort-use-after-free-cve-2016-7288.html)
 - [Exploiting MS16-098 RGNOBJ Integer Overflow on Windows 8.1 x64 bit by abusing GDI objects](https://sensepost.com/blog/2017/exploiting-ms16-098-rgnobj-integer-overflow-on-windows-8.1-x64-bit-by-abusing-gdi-objects/)
 - [Exploring Windows virtual memory management](http://www.triplefault.io/2017/08/exploring-windows-virtual-memory.html)
+- [EXPLOITING WINDOWS’ IP ID RANDOMIZATION BUG TO LEAK KERNEL DATA AND MORE (CVE-2018-8493)](https://menschers.com/2018/10/30/what-is-cve-2018-8493/)
 - [From Out Of Memory to Remote Code Execution](https://speakerdeck.com/yukichen/from-out-of-memory-to-remote-code-execution)
 - [Getting Code Execution on Windows by Abusing Default Kernel Debugging Setting](https://tyranidslair.blogspot.com/2017/03/getting-code-execution-on-windows-by.html)
 - [Hardening Windows 10 with zero-day exploit mitigations](https://blogs.technet.microsoft.com/mmpc/2017/01/13/hardening-windows-10-with-zero-day-exploit-mitigations/)
