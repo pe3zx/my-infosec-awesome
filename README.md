@@ -2554,6 +2554,10 @@ This repository lists most of the challenges used in the Google CTF 2017. The mi
         <td><a href="https://snyk.io/">Snyk</a></td>
         <td>Continuously find & fix vulnerabilities in your dependencies</td>
     </tr>
+    <tr>
+        <td><a href="https://github.com/s0md3v/XSStrike">s0md3v/XSStrike</a></td>
+        <td>Most advanced XSS detection suite</td>
+    </tr>
 </table>
 
 ---
