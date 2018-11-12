@@ -1776,7 +1776,7 @@ _return-to-libc techniques_
         <td>malware.one is a binary substring searchable malware catalog containing terabytes of malicious code</td>
     </tr>
     <tr>
-        <td>a href="https://github.com/MalwareCantFly/Vba2Graph/">MalwareCantFly/Vba2Graph</a></td>
+        <td><a href="https://github.com/MalwareCantFly/Vba2Graph/">MalwareCantFly/Vba2Graph</a></td>
         <td>Vba2Graph - Generate call graphs from VBA code, for easier analysis of malicious documents.</td>
     </tr>
     <tr>
