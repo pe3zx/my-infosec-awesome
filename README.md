@@ -1648,10 +1648,6 @@ _return-to-libc techniques_
         <td>Malwoverview.py is a simple tool to perform an initial and quick triage on either a directory containing malware samples or a specific malware sample</td>
     </tr>
     <tr>
-        <td><a href="http://sanddroid.xjtu.edu.cn:8080/">AndroMalShare</a></td>
-        <td>AndroMalShare is a project focused on sharing Android malware samples</td>
-    </tr>
-    <tr>
         <td><a href="https://cse.google.com/cse/publicurl?cx=003248445720253387346:turlh5vi4xc">APT Groups, Operations and Malware Search Engine</td>
         <td>APT Groups, Operations and Malware Search Engine</td>
     </tr>
@@ -1840,10 +1836,6 @@ _return-to-libc techniques_
         <td>Proof-of-concept two-stage dropper generator that uses bits from external sources</td>
     </tr>
     <tr>
-        <td><a href="http://sarvam.ece.ucsb.edu/recent">SARVAN</a></td>
-        <td>SARVAM is a demonstration of the research project on fast large scale search, retrieval and classification of malware/goodware using techniques from signal processing and machine learning. Submit a Windows executable and retrieve the top similar matches. You may also search for existing or analysed malware using an executable's MD5 hash</td>
-    </tr>
-    <tr>
         <td><a href="https://www.scumware.org/index.scumware">scumware.org</a></td>
         <td>Just another free alternative for security and malware researchers. Access to certain resources is limited by credit which can be obtained by typing in 'captcha'</td>
     </tr>
@@ -1866,10 +1858,6 @@ _return-to-libc techniques_
     <tr>
         <td><a href="https://virusshare.com/">VirusShare</a></td>
         <td>VirusShare.com is a repository of malware samples to provide security researchers, incident responders, forensic analysts, and the morbidly curious access to samples of live malicious code</td>
-    </tr>
-    <tr>
-        <td><a href="http://www.virusign.com/">ViruSign</a></td>
-        <td>ViruSign</td>
     </tr>
     <tr>
         <td><a href="http://vxvault.net/ViriList.php">VX Vault</a></td>
