@@ -516,6 +516,7 @@ _return-to-libc techniques_
 
 ### Mobile Security
 
+- [Four Ways to Bypass iOS SSL Verification and Certificate Pinning](https://blog.netspi.com/four-ways-to-bypass-ios-ssl-verification-and-certificate-pinning/)
 - [Mobile Application Hacking Diary Ep.1](https://www.exploit-db.com/papers/26620/)
 - [Mobile Application Hacking Diary Ep.2](https://www.exploit-db.com/papers/44145/)
 - [tanprathan/MobileApp-Pentest-Cheatsheet](https://github.com/tanprathan/MobileApp-Pentest-Cheatsheet)
