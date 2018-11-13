@@ -37,11 +37,7 @@ My curated list of awesome links, resources and tools
     - [Vulnerable](#vulnerable)
     - [Web Application Security](#web-application-security)
 
----
-
 ## Articles
-
----
 
 ### Cryptography
 
@@ -141,8 +137,6 @@ My curated list of awesome links, resources and tools
 - [Windows Subsystem for Linux and Forensic Analysi](http://blog.1234n6.com/2017/10/windows-subsystem-for-linux-and.html)
 - [Windows Event Forwarding for Network Defense](https://medium.com/@palantir/windows-event-forwarding-for-network-defense-cb208d5ff86f)
 - [Word Forensic Analysis And Compound File Binary Format](https://articles.forensicfocus.com/2018/09/18/word-forensic-analysis-and-compound-file-binary-format/)
-
----
 
 ### Exploitation
 
@@ -402,8 +396,6 @@ _return-to-libc techniques_
 - [Reading privileged memory with a side-channel](https://googleprojectzero.blogspot.com/2018/01/reading-privileged-memory-with-side.html)
 - [Total Meltdown?](https://blog.frizk.net/2018/03/total-meltdown.html)
 
----
-
 ### Malware Analysis
 
 ![Process Injection Info Graphic by struppigel](https://4.bp.blogspot.com/-ixv5E0LMZCw/WWi5yRjL-_I/AAAAAAAAAnk/WO99S4Yrd8w6lfg6tITwUV02CGDFYAORACLcBGAs/s640/Process%2BInjection%25281%2529.png)
@@ -512,16 +504,12 @@ _return-to-libc techniques_
 - [Reverse engineering malware: TrickBot (part 2 - loader)](https://qmemcpy.github.io/post/reverse-engineering-malware-trickbot-part-2-loader)
 - [Reverse engineering malware: TrickBot (part 3 - core)](https://qmemcpy.io/post/reverse-engineering-malware-trickbot-part-3-core)
 
----
-
 ### Mobile Security
 
 - [Four Ways to Bypass iOS SSL Verification and Certificate Pinning](https://blog.netspi.com/four-ways-to-bypass-ios-ssl-verification-and-certificate-pinning/)
 - [Mobile Application Hacking Diary Ep.1](https://www.exploit-db.com/papers/26620/)
 - [Mobile Application Hacking Diary Ep.2](https://www.exploit-db.com/papers/44145/)
 - [tanprathan/MobileApp-Pentest-Cheatsheet](https://github.com/tanprathan/MobileApp-Pentest-Cheatsheet)
-
----
 
 ### Post Exploitation
 
@@ -556,8 +544,6 @@ _return-to-libc techniques_
 
 - [GTFOBins - GTFOBins is a curated list of Unix binaries that can be exploited by an attacker to bypass local security restrictions.](https://gtfobins.github.io/)
 
----
-
 ### Privacy
 
 - [Digital Privacy at the U.S. Border: Protecting the Data On Your Devices](https://www.eff.org/wp/digital-privacy-us-border-2017)
@@ -568,8 +554,6 @@ _return-to-libc techniques_
 - [The Field Guide to Security Training in the Newsroom](https://the-field-guide-to-security-training-in-the-newsroom.readthedocs.io/en/latest/)
 - [The Wired Guide to Digital Security](https://www.wired.com/2017/12/digital-security-guide/)
 
----
-
 ### Reverse Engineering
 
 - [A Gentle Primer on Reverse Engineering](https://emily.st/2015/01/27/reverse-engineering/)
@@ -578,8 +562,6 @@ _return-to-libc techniques_
 - [FAQ: How to learn reverse-engineering?](http://gynvael.coldwind.pl/?id=664)
 - [How to decompile any Python binary](https://countercept.com/our-thinking/how-to-decompile-any-python-binary/)
 - [Reverse Engineering 101](https://osandamalith.com/2014/12/31/reverse-engineering-101/)
-
----
 
 ### Tutorials
 
@@ -775,8 +757,6 @@ _return-to-libc techniques_
     </tr>
 </table>
 
----
-
 ### Web Application Security
 
 - [BugBountyProtips ~ Collection](https://medium.com/@khaled.hassan/bugbountyprotip-collection-4a19e5b5b296)
@@ -809,11 +789,7 @@ _return-to-libc techniques_
 - [NetSPI SQL Injection Wiki](https://sqlwiki.netspi.com/)
 - [Your Pokemon Guide for Essential SQL Pen Test Commands](https://pen-testing.sans.org/blog/2017/12/09/your-pokemon-guide-for-essential-sql-pen-test-commands)
 
----
-
 ## Tools
-
----
 
 ### Adversary Emulation
 
@@ -2555,5 +2531,3 @@ This repository lists most of the challenges used in the Google CTF 2017. The mi
         <td>Most advanced XSS detection suite</td>
     </tr>
 </table>
-
----
