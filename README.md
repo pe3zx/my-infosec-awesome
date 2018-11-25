@@ -1578,6 +1578,10 @@ _return-to-libc techniques_
         <td>This database contains information regarding CVE(s) that affect various language modules. We currently store version information corresponding to respective modules as understood by select sources.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/VulnReproduction/LinuxFlaw">VulnReproduction/LinuxFlaw</a></td>
+        <td>This repo records all the vulnerabilities of linux software I have reproduced in my local workspace</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/xairy/kernel-exploits">xairy/kernel-exploits</a></td>
         <td>A bunch of proof-of-concept exploits for the Linux kernel</td>
     </tr>
