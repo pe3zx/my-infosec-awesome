@@ -1766,6 +1766,10 @@ _return-to-libc techniques_
         <td>Vba2Graph - Generate call graphs from VBA code, for easier analysis of malicious documents.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/malwaredllc/byob">malwaredllc/byob</a></td>
+        <td>BYOB (Build Your Own Botnet)</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/malwareinfosec/EKFiddle">malwareinfosec/EKFiddle</a></td>
         <td>A framework based on the Fiddler web debugger to study Exploit Kits, malvertising and malicious traffic in general.</td>
     </tr>
