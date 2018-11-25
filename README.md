@@ -41,6 +41,7 @@ My curated list of awesome links, resources and tools
 
 ### Cryptography
 
+- [Encrypting for Apple's Secure Enclave](https://darthnull.org/security/2018/05/31/secure-enclave-ecies/)
 - [hannob/tls-what-can-go-wrong - TLS - what can go wrong?](https://github.com/hannob/tls-what-can-go-wrong)
 
 ### Digital Forensics and Incident Response
