@@ -515,6 +515,7 @@ _return-to-libc techniques_
 
 #### Post Exploitation Platform: Windows
 
+- [infosecn1nja/AD-Attack-Defense - Active Directory Security For Red & Blue Team](https://github.com/infosecn1nja/AD-Attack-Defense)
 - [Chasing Adversaries with Autoruns – evading techniques and countermeasures](https://blogs.technet.microsoft.com/motiba/2017/11/04/chasing-adversaries-with-autoruns-evading-techniques-and-countermeasures/)
     - **Nested commands technique**: chain multiple commands with `&`, `&&`, `||`
     - **Abusing legitimate executables**: using legitimate executables to execute intended commands e.g.
