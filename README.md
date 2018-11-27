@@ -2373,6 +2373,10 @@ _return-to-libc techniques_
         <td>The OSINT Omnibus</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/jofpin/trape">jofpin/trape</a></td>
+        <td>People tracker on the Internet: OSINT analysis and research tool.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/kgretzky/evilginx2">kgretzky/evilginx2</a></td>
         <td>Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication</td>
     </tr>
