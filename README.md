@@ -2021,6 +2021,10 @@ _return-to-libc techniques_
         <td><a href="https://github.com/sc0tfree/mentalist">sc0tfree/mentalist</a></td>
         <td>Mentalist is a graphical tool for custom wordlist generation. It utilizes common human paradigms for constructing passwords and can output the full wordlist as well as rules compatible with Hashcat and John the Ripper.</td>
     </tr>
+	<tr>
+		<td><a href="https://github.com/trustedsec/hate_crack">trustedsec/hate_crack</a></td>
+		<td>A tool for automating cracking methodologies through Hashcat from the TrustedSec team.</td>
+	</tr>
     <tr>
         <td><a href="https://github.com/danielmiessler/SecLists">danielmiessler/SecLists</a></td>
         <td>SecLists is the security tester's companion. It is a collection of multiple types of lists used during security assessments. List types include usernames, passwords, URLs, sensitive data grep strings, fuzzing payloads, and many more.</td>
