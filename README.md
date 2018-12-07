@@ -1540,6 +1540,14 @@ _return-to-libc techniques_
         </td>
     </tr>
     <tr>
+        <td>CVE-2018-15982</td>
+        <td>Adobe has released security updates for Adobe Flash Player for Windows, macOS, Linux and Chrome OS. These updates address one critical vulnerability in Adobe Flash Player and one important vulnerability in Adobe Flash Player installer. Successful exploitation could lead to Arbitrary Code Execution and privilege escalation in the context of the current user respectively.
+            <ul>
+                <li><a href="https://github.com/prsecurity/CVE-2018-15982"> prsecurity/CVE-2018-15982</a></li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/Eplox/TCP-Starvation">Eplox/TCP-Starvation</a></td>
         <td>The idea behind this attack is to close a TCP session on the attacker's side, while leaving it open for the victim. Looping this will quickly fill up the victim’s session limit, effectively denying other users to access the service.</td>
     </tr>
