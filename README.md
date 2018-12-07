@@ -1571,6 +1571,10 @@ _return-to-libc techniques_
         <td><a href="https://github.com/ScottyBauer/Android_Kernel_CVE_POCs">ScottyBauer/Android_Kernel_CVE_POCs</a></td>
         <td>A list of my CVE's with POCs</td>
     </tr>
+	<tr>
+		<td><a href="https://github.com/smgorelik/Windows-RCE-exploits">smgorelik/Windows-RCE-exploits</a></td>
+		<td>The exploit samples database is a repository for **RCE** (remote code execution) exploits and Proof-of-Concepts for **WINDOWS**, the samples are uploaded for education purposes for red and blue teams.</td>
+	</tr>
     <tr>
         <td><a href="https://github.com/Spajed/processrefund">Spajed/processrefund</a></td>
         <td>An attempt at Process Doppelgänging</td>
