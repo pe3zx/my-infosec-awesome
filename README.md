@@ -2131,6 +2131,10 @@ _return-to-libc techniques_
         <td>The CrowdDetox plugin for Hex-Rays automatically removes junk code and variables from Hex-Rays function decompilations.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/fireeye/flare-emu">fireeye/flare-emu</a></td>
+        <td>flare-emu marries IDA Pro’s binary analysis capabilities with Unicorn’s emulation framework to provide the user with an easy to use and flexible interface for scripting emulation tasks</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/fireeye/SimplifyGraph">fireeye/SimplifyGraph</a></td>
         <td>IDA Pro plugin to assist with complex graphs</td>
     </tr>
