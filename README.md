@@ -1072,6 +1072,10 @@ _return-to-libc techniques_
         <td><Drltrace is a library calls tracer for Windows and Linux applications/td>
     </tr>
     <tr>
+        <td><a href="https://github.com/NASA-SW-VnV/ikos">NASA-SW-VnV/ikos</a></td>
+        <td>IKOS (Inference Kernel for Open Static Analyzers) is a static analyzer for C/C++ based on the theory of Abstract Interpretation</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/pierrezurek/Signsrch">pierrezurek/Signsrch</a></td>
         <td>tool for searching signatures inside files, extremely useful in reversing engineering for figuring or having an initial idea of what encryption/compression algorithm is used for a proprietary protocol or file. it can recognize tons of compression, multimedia and encryption algorithms and many other things like known strings and anti-debugging code which can be also manually added since it's all based on a text signature file read at runtime and easy to modify.</td>
     </tr>
