@@ -466,6 +466,7 @@ _return-to-libc techniques_
 
 #### Malware Analysis: Variant: Emotet
 
+- [d00rt/emotet_research](https://github.com/d00rt/emotet_research)
 - [Emotet lives another day using Fake O2 invoice notifications](https://www.trustwave.com/Resources/SpiderLabs-Blog/Emotet-lives-another-day-using-Fake-O2-invoice-notifications/)
 
 #### Malware Analysis: Variant: Hajime
