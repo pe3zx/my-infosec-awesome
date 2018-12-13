@@ -1804,6 +1804,10 @@ _return-to-libc techniques_
         <td>This is a partial list of mac malware samples.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/nbulischeck/tyton">nbulischeck/tyton</a></td>
+        <td>Linux Kernel-Mode Rootkit Hunter for 4.4.0-31+</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/Neo23x0/APTSimulator">Neo23x0/APTSimulator</a></td>
         <td>A toolset to make a system look as if it was the victim of an APT attack</td>
     </tr>
