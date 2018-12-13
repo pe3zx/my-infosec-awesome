@@ -1200,6 +1200,10 @@ _return-to-libc techniques_
         <td>A Hunting ELK (Elasticsearch, Logstash, Kibana) with advanced analytic capabilities.</td>
     </tr>
     <tr>
+        <td><a href="https://car.mitre.org/">Cyber Analytics Repository</a></td>
+        <td>The MITRE Cyber Analytics Repository (CAR) is a knowledge base of analytics developed by MITRE based on the MITRE ATT&CK adversary model.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/davehull/Kansa">davehull/Kansa</a></td>
         <td>A Powershell incident response framework</td>
     </tr>
