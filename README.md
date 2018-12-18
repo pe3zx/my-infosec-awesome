@@ -803,6 +803,10 @@ _return-to-libc techniques_
         <td>A utility to generate malicious network traffic and evaluate controls</td>
     </tr>
     <tr>
+        <td><a href="https://docs.microsoft.com/en-us/office365/securitycompliance/attack-simulator">Attack Simulatorin Office 365</a></td>
+        <td>If you are an Office 365 global administrator and your organization has Office 365 Threat Intelligence, you can use Attack Simulator to run realistic attack scenarios in your organization. This can help you identify and find vulnerable users before a real attack impacts your bottom line. Read this article to learn more.</td>
+    </tr>
+    <tr>
         <td><a href="https://www.encripto.no/en/downloads-2/tools/">Blue Team Training Toolkit</a></td>
         <td>Blue Team Training Toolkit (BT3) is designed for network analysis training sessions, incident response drills and red team engagements. Based on adversary replication techniques, and with reusability in mind, BT3 allows individuals and organizations to create realistic computer attack scenarios, while reducing infrastructure costs, implementation time and risk.</td>
     </tr>
