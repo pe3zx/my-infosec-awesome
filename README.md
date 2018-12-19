@@ -344,6 +344,7 @@ _Any related techniques for ASLR bypassing_
 
 - [A ROP Primer solution 64-bit style](https://blog.techorganic.com/2015/10/09/a-rop-primer-solution-64-bit-style/)
 - [Blind Return Oriented Programming 102](https://oddcoder.com/BROP-102/)
+- [Interactive Beginner's Guide to ROP](https://bordplate.no/blog/en/post/interactive-rop-tutorial/)
 - [Intro to ROP: ROP Emporium — Split](https://medium.com/@iseethieves/intro-to-rop-rop-emporium-split-9b2ec6d4db08)
 - [Introduction to Return Oriented Programming (ROP)](https://ketansingh.net/Introduction-to-Return-Oriented-Programming-ROP/index.html)
 - [Return-Oriented Programming (ROP) 101](https://www.tripwire.com/state-of-security/off-topic/vert-vuln-school-return-oriented-programming-rop-101/)
