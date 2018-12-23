@@ -2492,6 +2492,10 @@ _return-to-libc techniques_
         <td><a href="https://github.com/ustayready/CredSniper">ustayready/CredSniper</a></td>
         <td>CredSniper is a phishing framework written with the Python micro-framework Flask and Jinja2 templating which supports capturing 2FA tokens.</td>
     </tr>
+    <tr>
+        <td><a href="https://github.com/WeebSec/PhishX">WeebSec/PhishX</a></td>
+        <td>PhishX - The most powerful spear phishing tool</td>
+    </tr>
 	<tr>
 		<td><a href="https://github.com/woj-ciech/kamerka">woj-ciech/kamerka</a></td>
 		<td>Build interactive map of cameras from Shodan</td>
