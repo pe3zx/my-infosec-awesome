@@ -2469,6 +2469,10 @@ _return-to-libc techniques_
         <td>The most complete Phishing Tool, with 32 templates +1 customizable</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/thelinuxchoice/shellphish">thelinuxchoice/shellphish</a></td>
+        <td>Phishing Tool for 18 social media: Instagram, Facebook, Snapchat, Github, Twitter, Yahoo, Protonmail, Spotify, Netflix, Linkedin, Wordpress, Origin, Steam, Microsoft, InstaFollowers, Gitlab, Pinterest</td>
+    </tr>
+    <tr>
         <td>
             <a href="https://github.com/UndeadSec/EvilURL">Undeadsec/EvilURL</a>
         </td>
