@@ -1199,6 +1199,10 @@ _return-to-libc techniques_
         <td>Inception is a physical memory manipulation and hacking tool exploiting PCI-based DMA. The tool can attack over FireWire, Thunderbolt, ExpressCard, PC Card and any other PCI/PCIe interfaces.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/coinbase/dexter">coinbase/dexter</a></td>
+        <td>Forensics acquisition framework designed to be extensible and secure</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/CrowdStrike/Forensics">CrowdStrike/Forensics</a></td>
         <td>Scripts and code referenced in CrowdStrike blog posts</td>
     </tr>
