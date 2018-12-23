@@ -2477,6 +2477,10 @@ _return-to-libc techniques_
         </td>
     </tr>
     <tr>
+        <td><a href="https://github.com/UndeadSec/SocialFish">UndeadSec/SocialFish</a></td>
+        <td>Ultimate phishing tool. Socialize with the credentials</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/ustayready/CredSniper">ustayready/CredSniper</a></td>
         <td>CredSniper is a phishing framework written with the Python micro-framework Flask and Jinja2 templating which supports capturing 2FA tokens.</td>
     </tr>
