@@ -2425,6 +2425,10 @@ _return-to-libc techniques_
         <td>An #OSINT Framework to perform various recon techniques on Companies, People, Phone Number, Bitcoin Addresses, etc., aggregate all the raw data, and give data in multiple formats.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/certsocietegenerale/swordphish-awareness">certsocietegenerale/swordphish-awareness</a></td>
+        <td>Swordphish is a plateform allowing to create and manage fake phishing campaigns.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/fireeye/ReelPhish">fireeye/ReelPhish</a></td>
         <td>ReelPhish: A Real-Time Two-Factor Phishing Tool</td>
     </tr>
