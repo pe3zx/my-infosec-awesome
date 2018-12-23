@@ -2094,6 +2094,10 @@ _return-to-libc techniques_
         <td>Amcache_Scan Autopsy Plugin</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/blackbagtech/sleuthkit-APFS">blackbagtech/sleuthkit-APFS</a></td>
+        <td>A fork of The Sleuthkit with Pooled Storage and APFS support.</td>
+    </tr>
+    <tr>
         <td colspan="2"><b>Burp Suite</b></td>
     </tr>
     <tr>
