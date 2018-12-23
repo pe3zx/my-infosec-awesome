@@ -813,6 +813,10 @@ _return-to-libc techniques_
         <td>Blue Team Training Toolkit (BT3) is designed for network analysis training sessions, incident response drills and red team engagements. Based on adversary replication techniques, and with reusability in mind, BT3 allows individuals and organizations to create realistic computer attack scenarios, while reducing infrastructure costs, implementation time and risk.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/Coalfire-Research/Red-Baron">Coalfire-Research/Red-Baron</a></td>
+        <td>Automate creating resilient, disposable, secure and agile infrastructure for Red Teams</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/Cyb3rWard0g/Invoke-ATTACKAPI">Cyb3rWard0g/Invoke-ATTACKAPI</a></td>
         <td>A PowerShell script to interact with the MITRE ATT&CK Framework via its own API</td>
     </tr>
