@@ -2465,6 +2465,10 @@ _return-to-libc techniques_
         <td>SpiderFoot - Opensource Intelligence Automation</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/thelinuxchoice/blackeye">thelinuxchoice/blackeye</a></td>
+        <td>The most complete Phishing Tool, with 32 templates +1 customizable</td>
+    </tr>
+    <tr>
         <td>
             <a href="https://github.com/UndeadSec/EvilURL">Undeadsec/EvilURL</a>
         </td>
