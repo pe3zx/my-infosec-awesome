@@ -568,6 +568,7 @@ _return-to-libc techniques_
 - [FAQ: How to learn reverse-engineering?](http://gynvael.coldwind.pl/?id=664)
 - [How to decompile any Python binary](https://countercept.com/our-thinking/how-to-decompile-any-python-binary/)
 - [Reverse Engineering 101](https://osandamalith.com/2014/12/31/reverse-engineering-101/)
+- [Win32 Assembly Tutorials](http://win32assembly.programminghorizon.com/tutorials.html)
 
 ### Tutorials
 
