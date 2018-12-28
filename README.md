@@ -423,6 +423,7 @@ _return-to-libc techniques_
 - [MikroTik Cryptojacking Campaigns](https://docs.google.com/spreadsheets/d/1RdT_r4fi4wPx5rY306FftVKaXiAZeQeb5fx78DmbVx0/edit#gid=0)
 - [PE File Infection Part I](https://0x00sec.org/t/pe-file-infection/401)
 - [PE File Infection Part II](https://0x00sec.org/t/pe-file-infection-part-ii/4135)
+- [So You Want To Be A Malware Analyst](https://blog.malwarebytes.com/security-world/2012/09/so-you-want-to-be-a-malware-analyst/)
 - [Running programs via Proxy & jumping on a EDR-bypass trampoline](http://www.hexacorn.com/blog/2017/05/01/running-programs-via-proxy-jumping-on-a-edr-bypass-trampoline/)
 - [Running programs via Proxy & jumping on a EDR-bypass trampoline, Part 2](http://www.hexacorn.com/blog/2017/10/04/running-programs-via-proxy-jumping-on-a-edr-bypass-trampoline-part-2/)
 - [Running programs via Proxy & jumping on a EDR-bypass trampoline, Part 3](http://www.hexacorn.com/blog/2017/10/22/running-programs-via-proxy-jumping-on-a-edr-bypass-trampoline-part-3/)
