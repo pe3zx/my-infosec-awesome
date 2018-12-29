@@ -435,6 +435,10 @@ _return-to-libc techniques_
 - [Understanding Process Hollowing](https://andreafortuna.org/understanding-process-hollowing-b94ce77c3276)
 - [Use of DNS Tunneling for C&C Communications](https://securelist.com/use-of-dns-tunneling-for-cc-communications/78203/)
 
+#### Malware Analysis: Android
+
+- [Android SMS Stealer](https://maxkersten.nl/binary-analysis-course/malware-analysis/android-sms-stealer/)
+
 #### Malware Analysis: Variant: ATM & POS
 
 - [Attacks on point-of-sales systems](https://www.symantec.com/content/dam/symantec/docs/white-papers/attacks-on-point-of-sale-systems-en.pdf)
