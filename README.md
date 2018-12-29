@@ -1128,6 +1128,10 @@ _return-to-libc techniques_
         <td>Internet-wide search engine for digital certificates</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/corkami/pocs/">corkami/pocs</a</td>
+        <td>Proof of Concepts (PE, PDF...)</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/mpgn/BEAST-PoC">mpgn/BEAST-PoC</a></td>
         <td>Poc of BEAST attack against SSL/TLS</td>
     </tr>
