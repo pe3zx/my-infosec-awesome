@@ -2281,6 +2281,10 @@ _return-to-libc techniques_
         <td>Internal Monologue Attack: Retrieving NTLM Hashes without Touching LSASS</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/fbkcs/ThunderDNS">fbkcs/ThunderDNS</a></td>
+        <td>This tool can forward TCP traffic over DNS protocol. Non-compile clients + socks5 support.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/FuzzySecurity/PowerShell-Suite">FuzzySecurity/PowerShell-Suite</a></td>
         <td>There are great tools and resources online to accomplish most any task in PowerShell, sometimes however, there is a need to script together a util for a specific purpose or to bridge an ontological gap. This is a collection of PowerShell utilities I put together either for fun or because I had a narrow application in mind.</td>
     </tr>
