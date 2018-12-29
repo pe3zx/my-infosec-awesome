@@ -194,6 +194,7 @@ My curated list of awesome links, resources and tools
 - [An introduction to exploiting userspace race conditions on iOS](https://bazad.github.io/2018/11/introduction-userspace-race-conditions-ios/)
 - [Analysis: Inspecting Mach Messages in macOS Kernel-Mode Part I: Sniffing the sent Mach messages](https://www.fortinet.com/blog/threat-research/inspecting-mach-messages-in-macos-kernel-mode--part-i--sniffing-.html)
 - [Analysis: Inspecting Mach Messages in macOS Kernel-Mode Part II: Sniffing the received Mach messages](https://www.fortinet.com/blog/threat-research/inspect-mach-messages-in-macos-kernel-mode--part-ii--sniffing-th.html)
+- [Covering Ian Beer's exploit techniques for getvolattrlist bug (iOS 11-11.3.1)](https://4ldebaran.blogspot.com/2018/07/covering-ian-beers-exploit-techniques.html)
 - [Cracking the Walls of the Safari Sandbox - Fuzzing the macOS WindowServer for Exploitable Vulnerabilities](http://blog.ret2.io/2018/07/25/pwn2own-2018-safari-sandbox/)
 - [Heapple Pie - The macOS/iOS default heap](https://www.synacktiv.com/ressources/Sthack_2018_Heapple_Pie.pdf)
 - [Kernel RCE caused by buffer overflow in Apple's ICMP packet-handling code (CVE-2018-4407)](https://lgtm.com/blog/apple_xnu_icmp_error_CVE-2018-4407)
