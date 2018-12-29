@@ -2327,6 +2327,10 @@ _return-to-libc techniques_
         <td>Injects C# EXE or DLL Assembly into every CLR runtime and AppDomain of another process.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/Kevin-Robertson/Inveigh">Kevin-Robertson/Inveigh</td>
+        <td>Windows PowerShell ADIDNS/LLMNR/mDNS/NBNS spoofer/man-in-the-middle tool</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/mattifestation/PoCSubjectInterfacePackage">mattifestation/PoCSubjectInterfacePackage</a></td>
         <td>A PoC subject interface package (SIP) provider designed to educate about the required components of a SIP provider.</td>
     </tr>
