@@ -524,6 +524,10 @@ _return-to-libc techniques_
 
 ### Post Exploitation
 
+#### Post Exploitation Platform: Linux
+
+- [Exfiltrating credentials via PAM backdoors & DNS requests](https://x-c3ll.github.io//posts/PAM-backdoor-DNS/)
+
 #### Post Exploitation Platform: Windows
 
 - [infosecn1nja/AD-Attack-Defense - Active Directory Security For Red & Blue Team](https://github.com/infosecn1nja/AD-Attack-Defense)
