@@ -829,6 +829,10 @@ _return-to-libc techniques_
         <td>Blue Team Training Toolkit (BT3) is designed for network analysis training sessions, incident response drills and red team engagements. Based on adversary replication techniques, and with reusability in mind, BT3 allows individuals and organizations to create realistic computer attack scenarios, while reducing infrastructure costs, implementation time and risk.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/Coalfire-Research/Red-Baron">Coalfire-Research/Red-Baron</a></td>
+        <td>Automate creating resilient, disposable, secure and agile infrastructure for Red Teams</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/Cyb3rWard0g/Invoke-ATTACKAPI">Cyb3rWard0g/Invoke-ATTACKAPI</a></td>
         <td>A PowerShell script to interact with the MITRE ATT&CK Framework via its own API</td>
     </tr>
@@ -1219,6 +1223,10 @@ _return-to-libc techniques_
         <td>Inception is a physical memory manipulation and hacking tool exploiting PCI-based DMA. The tool can attack over FireWire, Thunderbolt, ExpressCard, PC Card and any other PCI/PCIe interfaces.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/coinbase/dexter">coinbase/dexter</a></td>
+        <td>Forensics acquisition framework designed to be extensible and secure</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/CrowdStrike/Forensics">CrowdStrike/Forensics</a></td>
         <td>Scripts and code referenced in CrowdStrike blog posts</td>
     </tr>
@@ -1349,6 +1357,10 @@ _return-to-libc techniques_
     <tr>
         <td><a href="https://github.com/ptresearch/AttackDetection">ptresearch/AttackDetection</a></td>
         <td>The Attack Detection Team searches for new vulnerabilities and 0-days, reproduces it and creates PoC exploits to understand how these security flaws work and how related attacks can be detected on the network layer. Additionally, we are interested in malware and hackers’ TTPs, so we develop Suricata rules for detecting all sorts of such activities.</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/salesforce/bro-sysmon/">salesforce/bro-sysmon</td>
+        <td>Bro-Sysmon enables Bro to receive Windows Event Logs. This provide a method to associate Network Monitoring and Host Monitoring. The work was spurred by the need to associate JA3 and HASSH fingerprints with the application on the host. The example below shows the hostname, Process ID, connection information, JA3 fingerprints, Application Path, and binary hashes.</td>
     </tr>
     <tr>
         <td><a href="https://github.com/SecurityRiskAdvisors/TALR">SecurityRiskAdvisors/TALR</a></td>
@@ -2106,6 +2118,10 @@ _return-to-libc techniques_
         <td>Amcache_Scan Autopsy Plugin</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/blackbagtech/sleuthkit-APFS">blackbagtech/sleuthkit-APFS</a></td>
+        <td>A fork of The Sleuthkit with Pooled Storage and APFS support.</td>
+    </tr>
+    <tr>
         <td colspan="2"><b>Burp Suite</b></td>
     </tr>
     <tr>
@@ -2441,8 +2457,16 @@ _return-to-libc techniques_
         <td>An #OSINT Framework to perform various recon techniques on Companies, People, Phone Number, Bitcoin Addresses, etc., aggregate all the raw data, and give data in multiple formats.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/certsocietegenerale/swordphish-awareness">certsocietegenerale/swordphish-awareness</a></td>
+        <td>Swordphish is a plateform allowing to create and manage fake phishing campaigns.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/fireeye/ReelPhish">fireeye/ReelPhish</a></td>
         <td>ReelPhish: A Real-Time Two-Factor Phishing Tool</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/gophish/gophish">gophish/gophish</a></td>
+        <td>Gophish is an open-source phishing toolkit designed for businesses and penetration testers. It provides the ability to quickly and easily setup and execute phishing engagements and security awareness training</td>
     </tr>
     <tr>
         <td><a href="https://github.com/haccer/twint">haccer/twint</a></td>
@@ -2481,6 +2505,14 @@ _return-to-libc techniques_
         <td>SpiderFoot - Opensource Intelligence Automation</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/thelinuxchoice/blackeye">thelinuxchoice/blackeye</a></td>
+        <td>The most complete Phishing Tool, with 32 templates +1 customizable</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/thelinuxchoice/shellphish">thelinuxchoice/shellphish</a></td>
+        <td>Phishing Tool for 18 social media: Instagram, Facebook, Snapchat, Github, Twitter, Yahoo, Protonmail, Spotify, Netflix, Linkedin, Wordpress, Origin, Steam, Microsoft, InstaFollowers, Gitlab, Pinterest</td>
+    </tr>
+    <tr>
         <td>
             <a href="https://github.com/UndeadSec/EvilURL">Undeadsec/EvilURL</a>
         </td>
@@ -2489,8 +2521,16 @@ _return-to-libc techniques_
         </td>
     </tr>
     <tr>
+        <td><a href="https://github.com/UndeadSec/SocialFish">UndeadSec/SocialFish</a></td>
+        <td>Ultimate phishing tool. Socialize with the credentials</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/ustayready/CredSniper">ustayready/CredSniper</a></td>
         <td>CredSniper is a phishing framework written with the Python micro-framework Flask and Jinja2 templating which supports capturing 2FA tokens.</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/WeebSec/PhishX">WeebSec/PhishX</a></td>
+        <td>PhishX - The most powerful spear phishing tool</td>
     </tr>
 	<tr>
 		<td><a href="https://github.com/woj-ciech/kamerka">woj-ciech/kamerka</a></td>
