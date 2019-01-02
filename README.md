@@ -269,7 +269,6 @@ My curated list of awesome links, resources and tools
 - [Rotten Potato – Privilege Escalation from Service Accounts to SYSTEM](https://foxglovesecurity.com/2016/09/26/rotten-potato-privilege-escalation-from-service-accounts-to-system/)
 - [sam-b/windows_kernel_resources](https://github.com/sam-b/windows_kernel_resources)
 - [Sharks in the Pool :: Mixed Object Exploitation in the Windows Kernel Pool](http://srcincite.io/blog/2017/09/06/sharks-in-the-pool-mixed-object-exploitation-in-the-windows-kernel-pool.html)
-- [Skeleton in the closet. MS Office vulnerability you didn’t know about](https://embedi.com/blog/skeleton-closet-ms-office-vulnerability-you-didnt-know-about/)
 - [Starting with Windows Kernel Exploitation – part 1 – setting up the lab](https://hshrzd.wordpress.com/2017/05/28/starting-with-windows-kernel-exploitation-part-1-setting-up-the-lab/)
 - [Starting with Windows Kernel Exploitation – part 2 – getting familiar with HackSys Extreme Vulnerable Driver](https://hshrzd.wordpress.com/2017/06/05/starting-with-windows-kernel-exploitation-part-2/)
 - [Starting with Windows Kernel Exploitation – part 3 – stealing the Access Token](https://hshrzd.wordpress.com/2017/06/22/starting-with-windows-kernel-exploitation-part-3-stealing-the-access-token/)
@@ -583,7 +582,6 @@ _return-to-libc techniques_
 - [FAQ: How to learn reverse-engineering?](http://gynvael.coldwind.pl/?id=664)
 - [How to decompile any Python binary](https://countercept.com/our-thinking/how-to-decompile-any-python-binary/)
 - [Reverse Engineering 101](https://osandamalith.com/2014/12/31/reverse-engineering-101/)
-- [Win32 Assembly Tutorials](http://win32assembly.programminghorizon.com/tutorials.html)
 
 ### Tutorials
 
@@ -1903,10 +1901,6 @@ _return-to-libc techniques_
         <td>Proof-of-concept two-stage dropper generator that uses bits from external sources</td>
     </tr>
     <tr>
-        <td><a href="https://www.scumware.org/index.scumware">scumware.org</a></td>
-        <td>Just another free alternative for security and malware researchers. Access to certain resources is limited by credit which can be obtained by typing in 'captcha'</td>
-    </tr>
-    <tr>
         <td><a href="https://malware.sekoia.fr/new">SEKOIA Dropper Analysis</a></td>
         <td>SEKOIA Dropper Analysis</td>
     </tr>
@@ -2625,10 +2619,6 @@ This repository lists most of the challenges used in the Google CTF 2017. The mi
         <td>Cross Site Scripting ( XSS ) Vulnerability Payload List</td>
     </tr>
     <tr>
-        <td><a href="https://www.ironwasp.org/">IRONWASP</a></td>
-        <td>IronWASP (Iron Web application Advanced Security testing Platform) is an open source system for web application vulnerability testing. It is designed to be customizable to the extent where users can create their own custom security scanners using it. Though an advanced user with Python/Ruby scripting expertise would be able to make full use of the platform, a lot of the tool's features are simple enough to be used by absolute beginners</td>
-    </tr>
-    <tr>
         <td><a href="https://github.com/jonluca/Anubis">jonluca/Anubis</a></td>
         <td>Subdomain enumeration and information gathering tool</td>
     </tr>
@@ -2651,10 +2641,6 @@ This repository lists most of the challenges used in the Google CTF 2017. The mi
     <tr>
         <td><a href="https://github.com/nccgroup/singularity">nccgroup/singularity</a></td>
         <td>A DNS rebinding attack framework</td>
-    </tr>
-    <tr>
-        <td><a href="https://erpscan.com/press-center/blog/oracle-ebs-penetration-testing-tool/">Oracle EBS Penetration testing tool</a></td>
-        <td>ERPScan EBS Pentesting Tool is a freeware for pentesters and security professionals. With the help of it, you can conduct penetration testing and vulnerability assessment of Oracle E-Business Suite systems using Black Box testing methodologies.</td>
     </tr>
     <tr>
         <td><a href="https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project">OWASP Zed Attack Proxy Project</a></td>
