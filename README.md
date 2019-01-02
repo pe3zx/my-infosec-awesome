@@ -41,6 +41,7 @@ My curated list of awesome links, resources and tools
 
 ### Cryptography
 
+- [A Readable Specification of TLS 1.3](https://davidwong.fr/tls13/)
 - [Encrypting for Apple's Secure Enclave](https://darthnull.org/security/2018/05/31/secure-enclave-ecies/)
 - [hannob/tls-what-can-go-wrong - TLS - what can go wrong?](https://github.com/hannob/tls-what-can-go-wrong)
 
