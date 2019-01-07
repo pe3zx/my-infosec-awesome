@@ -112,6 +112,7 @@ My curated list of awesome links, resources and tools
 - [Detailed properties in the Office 365 audit log](https://docs.microsoft.com/en-us/office365/securitycompliance/detailed-properties-in-the-office-365-audit-log)
 - [Detection and recovery of NSA’s covered up tracks](https://blog.fox-it.com/2017/12/08/detection-and-recovery-of-nsas-covered-up-tracks/)
 - [Detecting DDE in MS Office documents with YARA rules](https://blog.nviso.be/2017/10/11/detecting-dde-in-ms-office-documents/)
+- [Extracting Activity History from PowerShell Process Dumps](http://www.leeholmes.com/blog/2019/01/04/extracting-activity-history-from-powershell-process-dumps/)
 - [Forensic Analysis of Systems that have Windows Subsystem for Linux Installed](http://blog.1234n6.com/2017/10/forensic-analysis-of-systems-with.html)
 - [Getting to the Bottom of CVE-2018-0825 Heap Overflow Buffer](https://www.ixiacom.com/company/blog/getting-bottom-cve-2018-0825-heap-overflow-buffer)
 - [Hidden Treasure: Intrusion Detection with ETW (Part 1)](https://blogs.technet.microsoft.com/office365security/hidden-treasure-intrusion-detection-with-etw-part-1/)
