@@ -1856,6 +1856,10 @@ _return-to-libc techniques_
         <td>This is a partial list of mac malware samples.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/MinervaLabsResearch/Mystique">MinervaLabsResearch/Mystique</a></td>
+        <td>Mystique may be used to discover infection markers that can be used to vaccinate endpoints against malware. It receives as input a malicious sample and automatically generates a list of mutexes that could be used to as "vaccines" against the sample</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/nbulischeck/tyton">nbulischeck/tyton</a></td>
         <td>Linux Kernel-Mode Rootkit Hunter for 4.4.0-31+</td>
     </tr>
