@@ -2233,6 +2233,10 @@ _return-to-libc techniques_
         <td colspan="2"><b>Radare2</b></td>
     </tr>
     <tr>
+        <td><a href="https://github.com/radare/radare2ida">radare/rdare2ida</a></td>
+        <td>Tools, documentation and scripts to move projects from IDA to R2 and viceversa</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/radareorg/cutter">radareorg/cutter</a></td>
         <td>A Qt and C++ GUI for radare2 reverse engineering framework</td>
     </tr>
