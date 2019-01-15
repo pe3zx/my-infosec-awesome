@@ -2466,6 +2466,10 @@ _return-to-libc techniques_
         <td>An #OSINT Framework to perform various recon techniques on Companies, People, Phone Number, Bitcoin Addresses, etc., aggregate all the raw data, and give data in multiple formats.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/drk1wi/Modlishka">drk1wi/Modlishka</a></td>
+        <td>Modlishka. Reverse Proxy. Phishing NG.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/certsocietegenerale/swordphish-awareness">certsocietegenerale/swordphish-awareness</a></td>
         <td>Swordphish is a plateform allowing to create and manage fake phishing campaigns.</td>
     </tr>
