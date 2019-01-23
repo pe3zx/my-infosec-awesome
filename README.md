@@ -2042,6 +2042,10 @@ _return-to-libc techniques_
         <td>Framework for Man-In-The-Middle attacks</td>
     </tr>
     <tr>
+        <td><a href="https://dnsdumpster.com/">DNSdumpster.com</a></td>
+        <td>dns recon & research, find & lookup dns records</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/eldraco/domain_analyzer/">eldraco/domain_analyzer</a></td>
         <td>Analyze the security of any domain by finding all the information possible. Made in python.</td>
     </tr>
