@@ -1820,6 +1820,10 @@ _return-to-libc techniques_
         <td>Malc0de database</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/maliceio/malice">maliceio/malice</a></td>
+        <td>Malice's mission is to be a free open source version of VirusTotal that anyone can use at any scale from an independent researcher to a fortune 500 company.</td>
+    </tr>
+    <tr>
         <td><a href="https://malpedia.caad.fkie.fraunhofer.de/">Malpedia</a></td>
         <td>The primary goal of Malpedia is to provide a resource for rapid identification and actionable context when investigating malware. Openness to curated contributions shall ensure an accountable level of quality in order to foster meaningful and reproducible research.</td>
     </tr>
