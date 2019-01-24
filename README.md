@@ -1200,6 +1200,10 @@ _return-to-libc techniques_
         <td>Free Forensics Tool – $I File Parser</td>
     </tr>
     <tr>
+		<td><a href="https://github.com/andreafortuna/autotimeliner">andreafortuna/autotimeliner</a></td>
+		<td>Automagically extract forensic timeline from volatile memory dump</td>
+	</tr>
+    <tr>
         <td><a href="https://github.com/ANSSI-FR/bits_parser">ANSSI-FR/bits_parser</a></td>
         <td>Extract BITS jobs from QMGR queue and store them as CSV records</td>
     </tr>
