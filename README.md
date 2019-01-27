@@ -454,7 +454,6 @@ _return-to-libc techniques_
 - [Backoff: New Point of Sale Malware](https://www.us-cert.gov/sites/default/files/publications/BackoffPointOfSaleMalware_0.pdf)
 - [Bingo, Amigo! Jackpotting: ATM malware from Latin America to the World](https://securelist.com/atm-malware-from-latin-america-to-the-world/83836/)
 - [Buy Candy, Lose Your Credit Card - Investigating PoS RAM Scraping Malware](https://www.rsaconference.com/writable/presentations/file_upload/hta-w01-buy-candy_-lose-your-credit-card-investigating-pos-ram-scraping-malware.pdf)
-- [Evolution and Characterization of Point-of-Sale RAM Scraping Malware](https://webdiis.unizar.es/~ricardo/files/papers/R-CVHT-16.pdf)
 - [Follow The Money: Dissecting the Operations of the Cyber Crime Group FIN6](https://www2.fireeye.com/rs/848-DID-242/images/rpt-fin6.pdf)
 - [New FrameworkPOS variant exfiltrates data via DNS requests](https://www.gdatasoftware.com/blog/2014/10/23942-new-frameworkpos-variant-exfiltrates-data-via-dns-requests)
 - [PoS RAM Scraper Malware - Past, Present, and Future](https://www.wired.com/wp-content/uploads/2014/09/wp-pos-ram-scraper-malware.pdf)
