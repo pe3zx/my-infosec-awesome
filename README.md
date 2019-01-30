@@ -226,6 +226,7 @@ My curated list of awesome links, resources and tools
 - [Breaking out of Restricted Windows Environment](https://weirdgirlweb.wordpress.com/2017/06/14/first-blog-post/)
 - [Bypassing Microsoft's Patch for CVE-2017-0199](http://justhaifei1.blogspot.com.br/2017/07/bypassing-microsofts-cve-2017-0199-patch.html)
 - [C# Inject a Dll into a Process (w/ CreateRemoteThread)](http://www.codingvision.net/miscellaneous/c-inject-a-dll-into-a-process-w-createremotethread)
+- [CVE-2018-8453 Win32k Elevation of Privilege Vulnerability Targeting the Middle East](https://ti.360.net/blog/articles/cve-2018-8453-win32k-elevation-of-privilege-vulnerability-targeting-the-middle-east-en/)
 - [CVE-2018-8460: EXPOSING A DOUBLE FREE IN INTERNET EXPLORER FOR CODE EXECUTION](https://www.thezdi.com/blog/2018/10/18/cve-2018-8460-exposing-a-double-free-in-internet-explorer-for-code-execution)
 - [DEFEATING DEVICE GUARD: A LOOK INTO CVE-2017-0007](https://enigma0x3.net/2017/04/03/defeating-device-guard-a-look-into-cve-2017-0007/)
 - [Delving deep into VBScript - Analysis of CVE-2018-8174 exploitation](https://securelist.com/delving-deep-into-vbscript-analysis-of-cve-2018-8174-exploitation/86333/)
