@@ -2495,6 +2495,10 @@ _return-to-libc techniques_
         <td>ReelPhish: A Real-Time Two-Factor Phishing Tool</td>
     </tr>
     <tr>
+        <td><a href="https://fofa.so/">FOFA Pro</a></td>
+        <td>The Cyberspace Search Engine, Security Situation Awareness</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/gophish/gophish">gophish/gophish</a></td>
         <td>Gophish is an open-source phishing toolkit designed for businesses and penetration testers. It provides the ability to quickly and easily setup and execute phishing engagements and security awareness training</td>
     </tr>
