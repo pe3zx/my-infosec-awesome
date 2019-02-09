@@ -9,6 +9,7 @@ My curated list of awesome links, resources and tools
     - [Cryptography](#cryptography)
     - [Digital Forensics and Incident Response](#digital-forensics-and-incident-response)
     - [Exploitation](#exploitation)
+    - [Hardening](#hardening)
     - [Malware Analysis](#malware-analysis)
     - [Mobile Security](#mobile-security)
     - [Post Exploitation](#post-exploitation)
@@ -25,7 +26,7 @@ My curated list of awesome links, resources and tools
     - [Data Sets](#data-set)
     - [Digital Forensics and Incident Response](#digital-forensics-and-incident-response)
     - [Exploits](#exploits)
-    - [Hardening](#hardening)
+    - [Hardening](#hardening-1)
     - [Malware Analysis](#malware-analysis)
     - [Mobile Security](#mobile-security)
     - [Network Security](#network-security)
@@ -406,6 +407,10 @@ _return-to-libc techniques_
 - [Post-Spectre Threat Model Re-Think](https://chromium.googlesource.com/chromium/src/+/master/docs/security/side-channel-threat-model.md)
 - [Reading privileged memory with a side-channel](https://googleprojectzero.blogspot.com/2018/01/reading-privileged-memory-with-side.html)
 - [Total Meltdown?](https://blog.frizk.net/2018/03/total-meltdown.html)
+
+### Hardening
+
+- [nsacyber/Hardware-and-Firmware-Security-Guidance - Guidance for the Spectre, Meltdown, Speculative Store Bypass, Rogue System Register Read, Lazy FP State Restore, Bounds Check Bypass Store, TLBleed, and L1TF/Foreshadow vulnerabilities as well as general hardware and firmware security guidance. #nsacyber](https://github.com/nsacyber/Hardware-and-Firmware-Security-Guidance)
 
 ### Malware Analysis
 
