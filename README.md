@@ -1865,6 +1865,10 @@ _return-to-libc techniques_
         <td>Malware SRC Database</td>
     </tr>
     <tr>
+        <td><a href="https://marcoramilli.com/malware/">Malware Static Analysis</a></td>
+        <td>The following interface stands in front of a live engine which takes binary files and runs them against a pletora of hundreds YARA rules.</td>
+    </tr>
+    <tr>
         <td><a href="https://macmalware.manwe.io/">100 recent OSX/iOS/Mac malware samples</a></td>
         <td>This is a partial list of mac malware samples.</td>
     </tr>
