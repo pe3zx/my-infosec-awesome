@@ -2546,6 +2546,10 @@ _return-to-libc techniques_
         <td><a href="http://www.spiderfoot.net/">SpiderFoot</a></td>
         <td>SpiderFoot - Opensource Intelligence Automation</td>
     </tr>
+	<tr>
+		<td><a href="https://hackertarget.com/recon-ng-tutorial/">Recon-NG</a></td>
+		<td>Recon-ng is a reconnaissance tool with an interface similar to Metasploit. Running recon-ng from the command line you enter a shell like environment where you can configure options, perform recon and output results to different report types.</td>
+	</tr>
     <tr>
         <td><a href="https://github.com/thelinuxchoice/blackeye">thelinuxchoice/blackeye</a></td>
         <td>The most complete Phishing Tool, with 32 templates +1 customizable</td>
