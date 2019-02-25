@@ -2478,6 +2478,10 @@ _return-to-libc techniques_
         <td><a href="https://github.com/dafthack/MailSniper">dafthack/MailSniper</a></td>
         <td>MailSniper is a penetration testing tool for searching through email in a Microsoft Exchange environment for specific terms (passwords, insider intel, network architecture information, etc.). It can be used as a non-administrative user to search their own email, or by an administrator to search the mailboxes of every user in a domain.</td>
     </tr>
+	<tr>
+		<td><a href="https://inteltechniques.com/menu.html>Buscador</a></td>
+		<td>Buscador is an OSINT Linux Virtual Machine that is pre-configured for online investigations</td>
+	</tr>
     <tr>
         <td><a href="https://www.hyperiongray.com/dark-web-map/">Dark Web Map</a></td>
         <td>Dark Web Map - A visualization of 6.6k Tor onion services</td>
