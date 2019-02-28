@@ -787,6 +787,7 @@ _return-to-libc techniques_
 
 ### Web Application Security
 
+- [0xInfection/Awesome-WAF](https://github.com/0xInfection/Awesome-WAF)
 - [BugBountyProtips ~ Collection](https://medium.com/@khaled.hassan/bugbountyprotip-collection-4a19e5b5b296)
 - [Gaining access for HTTPS certificate by abusing RFC2142.](https://twitter.com/spazef0rze/status/942800411941048320)
   - Using `admin@`, `administrator@`, `hostmaster@`, `postmaster@`, `webmaster@` for email address
