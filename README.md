@@ -1082,6 +1082,10 @@ _return-to-libc techniques_
         <td><a href="https://github.com/fireeye/flare-fakenet-ng">fireeye/flare-fakenet-ng</a></td>
         <td>FakeNet-NG - Next Generation Dynamic Network Analysis Tool</td>
     </tr>
+	<tr>
+		<td><a href="https://ghidra-sre.org/">GHIDRA</a></td>
+		<td>A software reverse engineering (SRE) suite of tools developed by NSA's Research Directorate in support of the Cybersecurity mission</td>
+	</tr>
     <tr>
         <td><a href="https://github.com/hasherezade/hollows_hunter">hasherezade/hollows_hunter</a></td>
         <td>A process scanner detecting and dumping hollowed PE modules.</td>
