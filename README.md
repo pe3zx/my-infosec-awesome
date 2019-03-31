@@ -1296,6 +1296,10 @@ _return-to-libc techniques_
         <td>The Rekall Framework is a completely open collection of tools, implemented in Python under the Apache and GNU General Public License, for the extraction and analysis of digital artifacts computer systems.</td>
     </tr>
     <tr>
+        <td><a href="https://www.graylog.org/">Graylog</a></td>
+        <td>Built to open standards, Graylog’s connectivity and interoperability seamlessly collects, enhances, stores, and analyzes log data.</td>
+    </tr>
+    <tr>
         <td><a href="https://securelist.com/happy-ir-in-the-new-year/83557/">Kaspersky IR's Artifacts Collector</a></td>
         <td>Kaspersky IR's Artifacts Collector</td>
     </tr>
