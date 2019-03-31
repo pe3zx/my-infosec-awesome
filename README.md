@@ -1423,6 +1423,10 @@ _return-to-libc techniques_
         <td><a href="https://github.com/williballenthin/process-forest">williballenthin/process-forest</a></td>
         <td>process-forest is a tool that processes Microsoft Windows EVTX event logs that contain process accounting events and reconstructs the historical process heirarchies.</td>
     </tr>
+    <tr>
+        <td><a href="https://github.com/yampelo/beagle">yampelo/beagle</a></td>
+        <td>Beagle is an incident response and digital forensics tool which transforms security logs and data into graphs.</td>
+    </tr>
 </table>
 
 ### Exploits
