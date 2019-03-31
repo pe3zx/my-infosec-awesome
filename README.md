@@ -1392,6 +1392,10 @@ _return-to-libc techniques_
         <td>Bro-Sysmon enables Bro to receive Windows Event Logs. This provide a method to associate Network Monitoring and Host Monitoring. The work was spurred by the need to associate JA3 and HASSH fingerprints with the application on the host. The example below shows the hostname, Process ID, connection information, JA3 fingerprints, Application Path, and binary hashes.</td>
     </tr>
     <tr>
+        <td><a href="https://securityonion.net/">Security Onion</a></td>
+        <td>Peel back the layers of your enterprise</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/SecurityRiskAdvisors/TALR">SecurityRiskAdvisors/TALR</a></td>
         <td>Threat Alert Logic Repository (TALR) - A public repository for the collection and sharing of detection rules in platform agnostic formats. Collected rules are appended with STIX required fields for simplified sharing over TAXII servers.</td>
     </tr>
