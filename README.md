@@ -1368,6 +1368,10 @@ _return-to-libc techniques_
         </td>
     </tr>
     <tr>
+        <td><a href="https://nxlog.co/">NXLog</a></td>
+        <td>The modern open source log collector.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/omenscan/achoir">omenscan/achoir</a></td>
         <td>Windows Live Artifacts Acquisition Script</td>
     </tr>
