@@ -842,6 +842,10 @@ _return-to-libc techniques_
         <td>A PowerShell script to interact with the MITRE ATT&CK Framework via its own API</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/Cyb3rWard0g/mordor">Cyb3rWard0g/mordor</a></td>
+        <td>Re-play Adversarial Techniques</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/chryzsh/DarthSidious/">chryzsh/DarthSidious</a></td>
         <td>Building an Active Directory domain and hacking it</td>
     </tr>
