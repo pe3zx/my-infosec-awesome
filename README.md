@@ -107,7 +107,6 @@ My curated list of awesome links, resources and tools
 
 - [(Am)cache still rules everything around me (part 2 of 1)](https://binaryforay.blogspot.com/2017/10/amcache-still-rules-everything-around.html)
 - [Amcache and Shimcache in forensic analysis](https://andreafortuna.org/amcache-and-shimcache-in-forensic-analysis-8e55aa675d2f)
-- [Automating large-scale memory forensics](https://medium.com/@henrikjohansen/automating-large-scale-memory-forensics-fdc302dc3383)
 - [Carving EVTX](https://rawsec.lu/blog/posts/2017/Jun/23/carving-evtx/)
 - [Certificate Chain Cloning and Cloned Root Trust Attacks](https://posts.specterops.io/code-signing-certificate-cloning-attacks-and-defenses-6f98657fc6ec)
 - [Detailed properties in the Office 365 audit log](https://docs.microsoft.com/en-us/office365/securitycompliance/detailed-properties-in-the-office-365-audit-log)
@@ -116,7 +115,6 @@ My curated list of awesome links, resources and tools
 - [Extracting Activity History from PowerShell Process Dumps](http://www.leeholmes.com/blog/2019/01/04/extracting-activity-history-from-powershell-process-dumps/)
 - [Forensic Analysis of Systems that have Windows Subsystem for Linux Installed](http://blog.1234n6.com/2017/10/forensic-analysis-of-systems-with.html)
 - [Getting to the Bottom of CVE-2018-0825 Heap Overflow Buffer](https://www.ixiacom.com/company/blog/getting-bottom-cve-2018-0825-heap-overflow-buffer)
-- [Hidden Treasure: Intrusion Detection with ETW (Part 1)](https://blogs.technet.microsoft.com/office365security/hidden-treasure-intrusion-detection-with-etw-part-1/)
 - [How to Crack Passwords for Password Protected MS Office Documents](https://www.blackhillsinfosec.com/crack-passwords-password-protected-ms-office-documents/)
 - [HUNTING EVENT LOGGING COVERUP](http://malwarenailed.blogspot.com/2017/10/update-to-hunting-mimikatz-using-sysmon.html)
 - [In-depth forensic analysis of Windows registry files](https://www.slideshare.net/MaximSuhanov/indepth-forensic-analysis-of-windows-registry-files)
@@ -433,7 +431,6 @@ _return-to-libc techniques_
 - [Hunting Malware with Memory Analysis](https://technical.nttsecurity.com/post/102egyy/hunting-malware-with-memory-analysis)
 - [If memory doesn’t serve me right…](http://www.hexacorn.com/blog/2017/07/10/if-memory-doesnt-serve-me-right/)
 - [MAEC - Malware Attribute Enumeration and Characterization | MAEC Project Documentation](https://maecproject.github.io)
-- [MetaTwin – Borrowing Microsoft Metadata and Digital Signatures to “Hide” Binaries](http://threatexpress.com/2017/10/metatwin-borrowing-microsoft-metadata-and-digital-signatures-to-hide-binaries/)
 - [MikroTik Cryptojacking Campaigns](https://docs.google.com/spreadsheets/d/1RdT_r4fi4wPx5rY306FftVKaXiAZeQeb5fx78DmbVx0/edit#gid=0)
 - [PE File Infection Part I](https://0x00sec.org/t/pe-file-infection/401)
 - [PE File Infection Part II](https://0x00sec.org/t/pe-file-infection-part-ii/4135)
@@ -543,7 +540,6 @@ _return-to-libc techniques_
 #### Post Exploitation Platform: Windows
 
 - [infosecn1nja/AD-Attack-Defense - Active Directory Security For Red & Blue Team](https://github.com/infosecn1nja/AD-Attack-Defense)
-- [Chasing Adversaries with Autoruns – evading techniques and countermeasures](https://blogs.technet.microsoft.com/motiba/2017/11/04/chasing-adversaries-with-autoruns-evading-techniques-and-countermeasures/)
     - **Nested commands technique**: chain multiple commands with `&`, `&&`, `||`
     - **Abusing legitimate executables**: using legitimate executables to execute intended commands e.g.
         - `Rundll32.exe`: `rundll32.exe shell32.dll,ShellExec_RunDLL notepad.exe`
@@ -732,7 +728,6 @@ _return-to-libc techniques_
         <td>Sysmon</td>
         <td>
             <ul>
-                <li><a href="https://blogs.technet.microsoft.com/motiba/2017/12/07/sysinternals-sysmon-suspicious-activity-guide/">Sysinternals Sysmon suspicious activity guide</a></li>
                 <li><a href="http://www.hexacorn.com/blog/2017/10/02/sysmon-doing-lines/">Sysmon doing lines</a></li>
                 <li><a href="https://github.com/MHaggis/sysmon-dfir">Mhaggis/sysmon-dfir</a></li>
                 <li><a href="http://syspanda.com/index.php/2017/02/28/deploying-sysmon-through-gpo/">Deploying Sysmon through Group Policy (GPO)</a></li>
@@ -2596,10 +2591,6 @@ _return-to-libc techniques_
 		<td><a href="https://github.com/woj-ciech/kamerka">woj-ciech/kamerka</a></td>
 		<td>Build interactive map of cameras from Shodan</td>
 	</tr>
-    <tr>
-        <td><a href="https://www.zoomeye.org/">ZoomEye</a></td>
-        <td>Cyberspace Search Engine</td>
-    </tr>
 </table>
 
 ### Vulnerable
