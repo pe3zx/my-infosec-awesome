@@ -780,6 +780,10 @@ _return-to-libc techniques_
         <td><a href="https://github.com/chryzsh/DarthSidious/">chryzsh/DarthSidious</a></td>
         <td>Building an Active Directory domain and hacking it</td>
     </tr>
+	<tr>
+		<td><a href="https://github.com/d3vzer0/reternal-quickstart">d3vzer0/reternal-quickstart</a></td>
+		<td>Repo containing docker-compose files and setup scripts without having to clone the individual reternal components</td>
+	</tr>
     <tr>
         <td><a href="https://github.com/endgameinc/RTA">endgameinc/RTA</a></td>
         <td>RTA provides a framework of scripts designed to allow blue teams to test their detection capabilities against malicious tradecraft, modeled after MITRE ATT&CK</td>
