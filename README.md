@@ -1354,6 +1354,10 @@ _return-to-libc techniques_
             Query and report user logons relations from MS Windows Security Events
         </td>
     </tr>
+	<tr>
+		<td><a href="https://github.com/ufrisk/LeechCore">ufrisk/LeechCore</a></td>
+		<td>LeechCore - Physical Memory Acquisition Library & The LeechAgent Remote Memory Acquisition Agent</td>
+	</tr>
     <tr>
         <td><a href="https://uncoder.io">Uncoder.io</a></td>
         <td>Uncoder.IO is the online translator for SIEM saved searches, filters, queries, API requests, correlation and Sigma rules to help SOC Analysts, Threat Hunters and SIEM Engineers</td>
