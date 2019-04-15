@@ -1773,6 +1773,10 @@ _return-to-libc techniques_
         <td><a href="https://github.com/hlldz/SpookFlare">hlldz/SpookFlare</a></td>
         <td>Loader, dropper generator with multiple features for bypassing client-side and network-side countermeasures.</td>
     </tr>
+	<tr>
+		<td><a href="https://github.com/InQuest/ThreatIngestor">InQuest/ThreatIngestor</a></td>
+		<td>An extendable tool to extract and aggregate IOCs from threat feeds.</td>
+	</tr>
     <tr>
         <td><a href="https://iris-h.malwageddon.com/">IRIS-H</a></td>
         <td>IRIS-H is an online digital forensics tool that performs automated static analysis of files stored in a directory-based or strictly structured formats.</td>
