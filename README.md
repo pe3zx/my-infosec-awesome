@@ -2239,6 +2239,10 @@ _return-to-libc techniques_
     <tr>
         <td colspan="2"><b>osquery</b></td>
     </tr>
+	<tr>
+		<td><a href="https://github.com/polylogyx/osq-ext-bin">polylogyx/osq-ext-bin</a></td>
+		<td>Extension to osquery windows that enhances it with real-time telemetry, log monitoring and other endpoint data collection</td>
+	</tr>
     <tr>
         <td><a href="https://github.com/trailofbits/osquery-extensions">trailofbits/osquery-extensions</a></td>
         <td>Trail of Bits osquery Extensions</td>
