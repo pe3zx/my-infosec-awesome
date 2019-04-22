@@ -1277,6 +1277,10 @@ _return-to-libc techniques_
         <td><a href="https://github.com/log2timeline/plaso">log2timeline/plaso</a></td>
         <td>log2timeline is a tool designed to extract timestamps from various files found on a typical computer system(s) and aggregate them.</td>
     </tr>
+	<tr>
+		<td><a href="https://www.magnetforensics.com/resources/magnet-app-simulator/">MAGNET App Simulator</a></td>
+		<td>MAGNET App Simulator lets you load application data from Android devices in your case into a virtual environment, enabling you to view and interact with the data as the user would have seen it on their own device.</td>
+	</tr>
     <tr>
         <td><a href="https://github.com/MalwareSoup/MitreAttack">MalwareSoup/MitreAttack</a></td>
         <td>Python wrapper for the Mitre ATT&CK framework API</td>
