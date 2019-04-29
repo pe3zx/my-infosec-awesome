@@ -2266,6 +2266,13 @@ _return-to-libc techniques_
         <td><a href="https://github.com/wargio/r2dec-js">wargio/r2dec-js</a></td>
         <td>radare2 plugin - converts asm to pseudo-C code. (experimental)</td>
     </tr>
+	<tr>
+		<td colspan="2"><b>Volatility</b></td>
+	</tr>
+	<tr>
+		<td><a href="https://github.com/JPCERTCC/MalConfScan">JPCERTCC/MalConfScan</a></td>
+		<td>Volatility plugin for extracts configuration data of known malware</td>
+	</tr>
     <tr>
         <td colspan="2"><b>WinDBG</b></td>
     </tr>
