@@ -1337,6 +1337,10 @@ _return-to-libc techniques_
         <td><a href="https://github.com/salesforce/bro-sysmon/">salesforce/bro-sysmon</td>
         <td>Bro-Sysmon enables Bro to receive Windows Event Logs. This provide a method to associate Network Monitoring and Host Monitoring. The work was spurred by the need to associate JA3 and HASSH fingerprints with the application on the host. The example below shows the hostname, Process ID, connection information, JA3 fingerprints, Application Path, and binary hashes.</td>
     </tr>
+	<tr>
+		<td><a href="https://github.com/sans-blue-team/DeepBlueCLI">sans-blue-team/DeepBlueCLI</a></td>
+		<td>DeepBlueCLI - a PowerShell Module for Threat Hunting via Windows Event Logs</td>
+	</tr>
     <tr>
         <td><a href="https://securityonion.net/">Security Onion</a></td>
         <td>Peel back the layers of your enterprise</td>
