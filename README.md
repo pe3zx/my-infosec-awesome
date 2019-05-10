@@ -1216,6 +1216,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td><a href="https://github.com/api0cradle/UltimateAppLockerByPassList">api0cradle/UltimateAppLockerByPassList</a></td>
         <td>The goal of this repository is to document the most common techniques to bypass AppLocker.</td>
     </tr>
+	<tr>
+		<td><a href="https://github.com/Arvanaghi/SessionGopher">Arvanaghi/SessionGopher</a></td>
+		<td>SessionGopher is a PowerShell tool that uses WMI to extract saved session information for remote access tools such as WinSCP, PuTTY, SuperPuTTY, FileZilla, and Microsoft Remote Desktop. It can be run remotely or locally.</td>
+	</tr>
     <tr>
         <td><a href="https://gist.github.com/caseysmithrc/24e7d02685ce5ab319269bd61a8f0350">caseysmithrc/Inject.cs</a></td>
         <td>DotNetToJScript Build Walkthrough</td>
