@@ -1482,6 +1482,10 @@ This repository is created as an online bookmark for useful links, resources and
 ### Vulnerable
 
 <table>
+	<tr>
+		<td><a href="https://github.com/AutomatedLab/AutomatedLab">AutomatedLab/AutomatedLab</a></td>
+		<td>AutomatedLab is a provisioning solution and framework that lets you deploy complex labs on HyperV and Azure with simple PowerShell scripts. It supports all Windows operating systems from 2008 R2 to 2016 including Nano Server and various products like AD, Exchange, PKI, IIS, etc.</td>
+	</tr>
     <tr>
         <td><a href="https://github.com/Billy-Ellis/Exploit-Challenges">Billy-Ellis/Exploit-Challenges</a></td>
         <td>A collection of vulnerable ARM binaries for practicing exploit development</td>
