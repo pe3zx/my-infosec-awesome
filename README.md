@@ -796,14 +796,18 @@ This repository is created as an online bookmark for useful links, resources and
         <td><a href="https://github.com/cmu-sei/cyobstract">cmu-sei/cyobstract</a></td>
         <td>A tool to extract structured cyber information from incident reports.</td>
     </tr>
+    	<tr>
+		<td><a href="https://crxcavator.io/">CRXcavator</a></td>
+		<td>CRXcavator automatically scans the entire Chrome Web Store every 3 hours and produces a quantified risk score for each Chrome Extension based on several factors.</td>
+	</tr>
     <tr>
         <td><a href="http://dasmalwerk.eu/">DAS MALWERK</a></td>
         <td>DAS MALWERK - your one stop shop for fresh malware samples</td>
     </tr>
-	<tr>
-		<td><a href="https://crxcavator.io/">CRXcavator</a></td>
-		<td>CRXcavator automatically scans the entire Chrome Web Store every 3 hours and produces a quantified risk score for each Chrome Extension based on several factors.</td>
-	</tr>
+    <tr>
+        <td><a href="https://github.com/DoctorWebLtd/malware-iocs">DoctorWebLtd/malware-iocs</a></td>
+        <td>This repository contains Indicators of Compromise (IOCs) related to our investigations.</td>
+    </tr>
     <tr>
         <td><a href="https://github.com/droidefense/engine">droidefense/engine</td>
         <td>Droidefense: Advance Android Malware Analysis Framework</td>
