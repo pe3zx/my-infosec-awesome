@@ -977,6 +977,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Script to create templates to use with VirtualBox to make vm detection harder</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/ntddk/virustream">ntddk/virustream</a></td>
+        <td>A script to track malware IOCs with OSINT on Twitter.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/OALabs/BlobRunner">OALabs/BlobRunner</a></td>
         <td>Quickly debug shellcode extracted during malware analysis</td>
     </tr>
