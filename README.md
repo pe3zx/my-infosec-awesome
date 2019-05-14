@@ -809,6 +809,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Droidefense: Advance Android Malware Analysis Framework</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/eset/malware-ioc">eset/malware-ioc</a></td>
+        <td>Indicators of Compromises (IOC) of our various investigations</td>
+    </tr>
+    <tr>
         <td><a href="https://certsocietegenerale.github.io/fame/">FAME</a></td>
         <td>FAME Automates Malware Evaluation</td>
     </tr>
