@@ -90,6 +90,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td><a href="https://github.com/n0dec/MalwLess">n0dec/MalwLess</a></td>
         <td>Test blue team detections without running any attack</td>
     </tr>
+	<tr>
+		<td><a href="https://github.com/praetorian-code/purple-team-attack-automation">praetorian-code/purple-team-attack-automation</a></td>
+		<td>Praetorian's public release of our Metasploit automation of MITRE ATT&CK™ TTPs</td>
+	</tr>
     <tr>
         <td><a href="https://github.com/TryCatchHCF/DumpsterFire">TryCatchHCF/DumpsterFire</a></td>
         <td>"Security Incidents In A Box!" A modular, menu-driven, cross-platform tool for building customized, time-delayed, distributed security events.</td>
