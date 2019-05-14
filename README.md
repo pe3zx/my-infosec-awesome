@@ -1001,6 +1001,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Builds malware analysis Windows VMs so that you don't have to.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/rastrea2r/rastrea2r">rastrea2r/rastrea2r</a></td>
+        <td>Collecting & Hunting for IOCs with gusto and style</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/SafeBreach-Labs/mkmalwarefrom">SafeBreach-Labs/mkmalwarefrom</a></td>
         <td>Proof-of-concept two-stage dropper generator that uses bits from external sources</td>
     </tr>
