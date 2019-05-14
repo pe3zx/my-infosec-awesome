@@ -868,14 +868,15 @@ This repository is created as an online bookmark for useful links, resources and
         <td><a href="https://github.com/hegusung/AVSignSeek">hegusung/AVSignSeek</a></td>
         <td>Tool written in python3 to determine where the AV signature is located in a binary/payload</td>
     </tr>
+        <tr>
+        <td><a href="https://github.com/hlldz/SpookFlare">hlldz/SpookFlare</a></td>
+        <td>Loader, dropper generator with multiple features for bypassing client-side and network-side countermeasures.</td>
+    </tr>
     <tr>
         <td><a href="https://www.hybrid-analysis.com/">Hybrid-Analysis</a></td>
         <td>Free Automated Malware Analysis Service</td>
     </tr>
-    <tr>
-        <td><a href="https://github.com/hlldz/SpookFlare">hlldz/SpookFlare</a></td>
-        <td>Loader, dropper generator with multiple features for bypassing client-side and network-side countermeasures.</td>
-    </tr>
+
 	<tr>
 		<td><a href="https://github.com/InQuest/ThreatIngestor">InQuest/ThreatIngestor</a></td>
 		<td>An extendable tool to extract and aggregate IOCs from threat feeds.</td>
