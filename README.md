@@ -761,6 +761,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Rapid deployment of Windows environment (files, registry keys, mutex etc) to facilitate malware analysis</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/advanced-threat-research/IOCs">advanced-threat-research/IOCs</a></td>
+        <td>Repository containing IOCs, MISP and Expert rules from our blogs</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/alexandreborges/malwoverview">alexandreborges/malwoverview</a></td>
         <td>Malwoverview.py is a simple tool to perform an initial and quick triage on either a directory containing malware samples or a specific malware sample</td>
     </tr>
