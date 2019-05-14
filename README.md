@@ -813,6 +813,10 @@ This repository is created as an online bookmark for useful links, resources and
 		<td>Automatic analysis of SWF files based on some heuristics. Extensible via plugins.</td>
 	</tr>
     <tr>
+        <td><a href="https://github.com/fireeye/iocs">fireeye/iocs</a></td>
+        <td>FireEye Publicly Shared Indicators of Compromise (IOCs)</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/felixweyne/imaginaryC2">felixweyne/imaginaryC2</a></td>
         <td>Imaginary C2 is a python tool which aims to help in the behavioral (network) analysis of malware. Imaginary C2 hosts a HTTP server which captures HTTP requests towards selectively chosen domains/IPs. Additionally, the tool aims to make it easy to replay captured Command-and-Control responses/served payloads.</td>
     </tr>
