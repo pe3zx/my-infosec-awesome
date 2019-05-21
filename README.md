@@ -1,6 +1,6 @@
 # My Infosec Awesome <!-- omit in toc -->
 
-<p align="center"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" /> <img src="https://travis-ci.org/pe3zx/my-infosec-awesome.svg?branch=master" /> <img src="https://img.shields.io/github/last-commit/pe3zx/my-infosec-awesome.svg"/> </p>
+<p align="center"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" /> <a href="https://travis-ci.org/pe3zx/my-infosec-awesome"><img src="https://travis-ci.org/pe3zx/my-infosec-awesome.svg?branch=master" /></a> <img src="https://img.shields.io/github/last-commit/pe3zx/my-infosec-awesome.svg"/> </p>
 
 This repository is created as an online bookmark for useful links, resources and tools in infosec field which serve my needs to have a searchable page to look further.
 
@@ -1512,10 +1512,6 @@ This repository is created as an online bookmark for useful links, resources and
     <tr>
         <td><a href="https://github.com/ustayready/CredSniper">ustayready/CredSniper</a></td>
         <td>CredSniper is a phishing framework written with the Python micro-framework Flask and Jinja2 templating which supports capturing 2FA tokens.</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/WeebSec/PhishX">WeebSec/PhishX</a></td>
-        <td>PhishX - The most powerful spear phishing tool</td>
     </tr>
 	<tr>
 		<td><a href="https://github.com/woj-ciech/kamerka">woj-ciech/kamerka</a></td>
