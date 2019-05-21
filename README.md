@@ -816,6 +816,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td><a href="https://github.com/droidefense/engine">droidefense/engine</td>
         <td>Droidefense: Advance Android Malware Analysis Framework</td>
     </tr>
+	<tr>
+		<td><a href="https://github.com/ecstatic-nobel/Analyst-Arsenal">ecstatic-nobel/Analyst-Arsenal</a></td>
+		<td>Phishing kits hunting</td>
+	</tr>
     <tr>
         <td><a href="https://github.com/eset/malware-ioc">eset/malware-ioc</a></td>
         <td>Indicators of Compromises (IOC) of our various investigations</td>
