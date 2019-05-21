@@ -848,6 +848,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td><a href="https://github.com/glmcdona/Process-Dump">glmcdona/Process-Dump</a></td>
         <td>Windows tool for dumping malware PE files from memory back to disk for analysis.</td>
     </tr>
+	<tr>
+		<td><a href="https://github.com/google/vxsig">google/vxsig</a></td>
+		<td>Automatically generate AV byte signatures from sets of similar binaries.</td>
+	</tr>
     <tr>
         <td><a href="https://github.com/GreatSCT/GreatSCT">GreatSCT/GreatSCT</a></td>
         <td>The project is called Great SCT (Great Scott). Great SCT is an open source project to generate application white list bypasses. This tool is intended for BOTH red and blue team</td>
@@ -876,7 +880,6 @@ This repository is created as an online bookmark for useful links, resources and
         <td><a href="https://www.hybrid-analysis.com/">Hybrid-Analysis</a></td>
         <td>Free Automated Malware Analysis Service</td>
     </tr>
-
 	<tr>
 		<td><a href="https://github.com/InQuest/ThreatIngestor">InQuest/ThreatIngestor</a></td>
 		<td>An extendable tool to extract and aggregate IOCs from threat feeds.</td>
