@@ -1474,6 +1474,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>TL;DR: Mailsploit is a collection of bugs in email clients that allow effective sender spoofing and code injection attacks. The spoofing is not detected by Mail Transfer Agents (MTA) aka email servers, therefore circumventing spoofing protection mechanisms such as DMARC (DKIM/SPF) or spam filters.</td>
     </tr>
 	<tr>
+		<td><a href="https://github.com/mdsecactivebreach/o365-attack-toolkit">mdsecactivebreach/o365-attack-toolkit</a></td>
+		<td>o365-attack-toolkit allows operators to perform an OAuth phishing attack and later on use the Microsoft Graph API to extract interesting information.</td>
+	</tr>
+	<tr>
 		<td><a href="https://github.com/muraenateam/muraena">muraenateam/muraena</a></td>
 		<td>Muraena is an almost-transparent reverse proxy aimed at automating phishing and post-phishing activities.</td>
 	</tr>
