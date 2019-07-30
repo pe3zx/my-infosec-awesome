@@ -1441,6 +1441,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td><a href="https://github.com/certsocietegenerale/swordphish-awareness">certsocietegenerale/swordphish-awareness</a></td>
         <td>Swordphish is a plateform allowing to create and manage fake phishing campaigns.</td>
     </tr>
+	<tr>
+		<td><a href="https://emailrep.io/">Simple Email Reputation</a></td>
+		<td>Illuminate the "reputation" behind an email address</td>
+	</tr>
     <tr>
         <td><a href="https://github.com/fireeye/ReelPhish">fireeye/ReelPhish</a></td>
         <td>ReelPhish: A Real-Time Two-Factor Phishing Tool</td>
