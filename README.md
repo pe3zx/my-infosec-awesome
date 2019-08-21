@@ -682,16 +682,16 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Analysis of public exploits or my 1day exploits</td>
     </tr>
     <tr>
-        <td><a href="https://sploitus.com/">Sploitus</a></td>
-        <td>Exploit & Hacktool Search Engine</td>
-    </tr>
-    <tr>
         <td><a href="https://github.com/FriendsOfPHP/security-advisories">FriendsOfPHP/security-advisories</a></td>
         <td>The PHP Security Advisories Database references known security vulnerabilities in various PHP projects and libraries. This database must not serve as the primary source of information for security issues, it is not authoritative for any referenced software, but it allows to centralize information for convenience and easy consumption.</td>
     </tr>
     <tr>
-        <td><a href="hasherezade/process_doppelganging">https://github.com/hasherezade/process_doppelganging</a></td>
+        <td><a href="https://github.com/hasherezade/process_doppelganging">hasherezade/process_doppelganging</a></td>
         <td>My implementation of enSilo's Process Doppelganging (PE injection technique)</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/itm4n/UsoDllLoader">itm4n/UsoDllLoader</a></td>
+        <td>Windows - Weaponizing privileged file writes with the Update Session Orchestrator service</td>
     </tr>
     <tr>
         <td><a href="https://github.com/gellin/TeamViewer_Permissions_Hook_V1">gellin/TeamViewer_Permissions_Hook_V1</a></td>
@@ -716,6 +716,10 @@ This repository is created as an online bookmark for useful links, resources and
     <tr>
         <td><a href="https://github.com/spencerdodd/kernelpop">spencerdodd/kernelpop</a></td>
         <td>Kernel privilege escalation enumeration and exploitation framework</td>
+    </tr>
+    <tr>
+        <td><a href="https://sploitus.com/">Sploitus</a></td>
+        <td>Exploit & Hacktool Search Engine</td>
     </tr>
     <tr>
         <td><a href="https://github.com/tunz/js-vuln-db">tunz/js-vuln-db</a></td>
