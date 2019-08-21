@@ -612,6 +612,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td><a href="https://siemonster.com/">SIEMonster</a></td>
         <td>SIEMonster is an Affordable Security Monitoring Software Soulution</td>
     </tr>
+    <tr>
+        <td><a href="https://github.com/philhagen/sof-elk">philhagen/sof-elk</a></td>
+        <td>Configuration files for the SOF-ELK VM, used in SANS FOR572</td>
+    </tr>
 	<tr>
 		<td><a href="https://github.com/s0md3v/Orbit">s0md3v/Orbit</a></td>
 		<td>Blockchain Transactions Investigation Tool</td>
