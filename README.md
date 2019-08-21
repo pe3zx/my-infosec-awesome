@@ -686,6 +686,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>The PHP Security Advisories Database references known security vulnerabilities in various PHP projects and libraries. This database must not serve as the primary source of information for security issues, it is not authoritative for any referenced software, but it allows to centralize information for convenience and easy consumption.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/gellin/TeamViewer_Permissions_Hook_V1">gellin/TeamViewer_Permissions_Hook_V1</a></td>
+        <td>A proof of concept injectable C++ dll, that uses naked inline hooking and direct memory modification to change your TeamViewer permissions.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/hasherezade/process_doppelganging">hasherezade/process_doppelganging</a></td>
         <td>My implementation of enSilo's Process Doppelganging (PE injection technique)</td>
     </tr>
@@ -694,8 +698,8 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Windows - Weaponizing privileged file writes with the Update Session Orchestrator service</td>
     </tr>
     <tr>
-        <td><a href="https://github.com/gellin/TeamViewer_Permissions_Hook_V1">gellin/TeamViewer_Permissions_Hook_V1</a></td>
-        <td>A proof of concept injectable C++ dll, that uses naked inline hooking and direct memory modification to change your TeamViewer permissions.</td>
+        <td><a href="https://github.com/jollheef/out-of-tree">jollheef/out-of-tree</a></td>
+        <td>out-of-tree kernel {module, exploit} development tool</td>
     </tr>
     <tr>
         <td><a href="https://twitter.com/aionescu/status/981671095362174978">MSRC-41867 Local DoS on All Windows Version</a></td>
