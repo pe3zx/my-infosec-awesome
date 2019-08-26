@@ -1705,6 +1705,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Deserialization payload generator for a variety of .NET formatters</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/RhinoSecurityLabs/IPRotate_Burp_Extension">RhinoSecurityLabs/IPRotate_Burp_Extension</a></td>
+        <td>Extension for Burp Suite which uses AWS API Gateway to rotate your IP on every request.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/RhinoSecurityLabs/SleuthQL">RhinoSecurityLabs/SleuthQL</a></td>
         <td>Python3 Burp History parsing tool to discover potential SQL injection points. To be used in tandem with SQLmap.</td>
     </tr>
