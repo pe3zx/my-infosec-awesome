@@ -184,6 +184,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>A highly visual ARM emulator</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/taviso/loadlibrary">taviso/loadlibrary</a></td>
+        <td>Porting Windows Dynamic Link Libraries to Linux</td>
+    </tr>
+    <tr>
         <td>
             <a href="https://github.com/williballenthin/python-idb">williballenthin/python-idb</a>
         </td>
