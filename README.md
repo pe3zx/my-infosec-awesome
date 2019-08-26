@@ -1118,6 +1118,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>AIR GO detects obfuscation, vulnerabilities, open-source license issues, and malware by analyzing mobile apps and websites. It uses industry-leading technology to detect security threats and provide an improvement plan.</td>
     </tr>
     <tr>
+        <td><a href="https://www.apkdetect.com/">apkdetect</a></td>
+        <td>Android malware analysis and classification platform</td>
+    </tr>
+    <tr>
         <td><a href="https://ibotpeaches.github.io/Apktool/">Apktool</a></td>
         <td>A tool for reverse engineering Android apk files</td>
     </tr>
