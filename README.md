@@ -1301,6 +1301,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>DotNetToJScript Build Walkthrough</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/cobbr/Covenant">cobbr/Covenant</a></td>
+        <td> Covenant is a .NET command and control framework that aims to highlight the attack surface of .NET, make the use of offensive .NET tradecraft easier, and serve as a collaborative command and control platform for red teamers.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/Cn33liz/p0wnedShell">Cn33liz/p0wnedShell</a></td>
         <td>p0wnedShell is an offensive PowerShell host application written in C# that does not rely on powershell.exe but runs powershell commands and functions within a powershell runspace environment (.NET)</td>
     </tr>
