@@ -79,6 +79,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Automated Tactics Techniques & Procedures</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/mdsecactivebreach/CACTUSTORCH">mdsecactivebreach/CACTUSTORCH</a></td>
+        <td>CACTUSTORCH: Payload Generation for Adversary Simulations</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/mitre/caldera">mitre/caldera</a></td>
         <td>An automated adversary emulation system</td>
     </tr>
