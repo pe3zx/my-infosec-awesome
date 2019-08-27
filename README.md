@@ -4,34 +4,26 @@
 
 This repository is created as an online bookmark for useful links, resources and tools in infosec field which serve my needs to have a searchable page to look further.
 
-- [Articles](#articles)
-- [Tools](#tools)
-  - [Adversary Simulation & Emulation](#adversary-simulation--emulation)
-  - [Binary Analysis](#binary-analysis)
-  - [Cloud Security](#cloud-security)
-  - [Cryptography](#cryptography)
-  - [Data Exfiltration](#data-exfiltration)
-  - [Data Sets](#data-sets)
-  - [Digital Forensics and Incident Response](#digital-forensics-and-incident-response)
-  - [Exploits](#exploits)
-  - [Hardening](#hardening)
-  - [Hardware](#hardware)
-  - [Malware Analysis](#malware-analysis)
-  - [Mobile Security](#mobile-security)
-  - [Network Security](#network-security)
-  - [Password Cracking and Wordlists](#password-cracking-and-wordlists)
-  - [Post Exploitation](#post-exploitation)
-  - [Social Engineering and OSINT](#social-engineering-and-osint)
-  - [Vulnerable](#vulnerable)
-  - [Web Application Security](#web-application-security)
+- [Adversary Simulation & Emulation](#adversary-simulation--emulation)
+- [Binary Analysis](#binary-analysis)
+- [Cloud Security](#cloud-security)
+- [Cryptography](#cryptography)
+- [Data Exfiltration](#data-exfiltration)
+- [Data Sets](#data-sets)
+- [Digital Forensics and Incident Response](#digital-forensics-and-incident-response)
+- [Exploits](#exploits)
+- [Hardening](#hardening)
+- [Hardware](#hardware)
+- [Malware Analysis](#malware-analysis)
+- [Mobile Security](#mobile-security)
+- [Network Security](#network-security)
+- [Password Cracking and Wordlists](#password-cracking-and-wordlists)
+- [Post Exploitation](#post-exploitation)
+- [Social Engineering and OSINT](#social-engineering-and-osint)
+- [Vulnerable](#vulnerable)
+- [Web Application Security](#web-application-security)
 
-## Articles
-
-*Articles* section will not update anymore. If you are looking for the old *Articles* section, [please click here](Articles.md).
-
-## Tools
-
-### Adversary Simulation & Emulation
+## Adversary Simulation & Emulation
 
 <table>
     <tr>
@@ -124,7 +116,7 @@ This repository is created as an online bookmark for useful links, resources and
     </tr>
 </table>
 
-### Binary Analysis
+## Binary Analysis
 
 <table>
     <tr>
@@ -209,7 +201,7 @@ This repository is created as an online bookmark for useful links, resources and
     </tr>
 </table>
 
-### Cloud Security
+## Cloud Security
 
 <table>
     <tr>
@@ -358,7 +350,7 @@ This repository is created as an online bookmark for useful links, resources and
     </tr>
 </table>
 
-### Cryptography
+## Cryptography
 
 <table>
     <tr>
@@ -391,7 +383,7 @@ This repository is created as an online bookmark for useful links, resources and
     </tr>
 </table>
 
-### Data Exfiltration
+## Data Exfiltration
 
 <table>
     <tr>
@@ -412,7 +404,7 @@ This repository is created as an online bookmark for useful links, resources and
     </tr>
 </table>
 
-### Data Sets
+## Data Sets
 
 <table>
     <tr>
@@ -429,7 +421,7 @@ This repository is created as an online bookmark for useful links, resources and
     </tr>
 </table>
 
-### Digital Forensics and Incident Response
+## Digital Forensics and Incident Response
 
 <table>
     <tr>
@@ -690,7 +682,7 @@ This repository is created as an online bookmark for useful links, resources and
     </tr>
 </table>
 
-### Exploits
+## Exploits
 
 <table>
     <tr>
@@ -759,7 +751,7 @@ This repository is created as an online bookmark for useful links, resources and
     </tr>
 </table>
 
-### Hardening
+## Hardening
 
 <table>
     <tr>
@@ -776,7 +768,7 @@ This repository is created as an online bookmark for useful links, resources and
     </tr>
 </table>
 
-### Hardware
+## Hardware
 
 <table>
     <tr>
@@ -785,7 +777,7 @@ This repository is created as an online bookmark for useful links, resources and
     </tr>
 </table>
 
-### Malware Analysis
+## Malware Analysis
 
 <table>
     <tr>
@@ -1114,7 +1106,7 @@ This repository is created as an online bookmark for useful links, resources and
 	</tr>
 </table>
 
-### Mobile Security
+## Mobile Security
 
 <table>
     <tr>
@@ -1211,7 +1203,7 @@ This repository is created as an online bookmark for useful links, resources and
     </tr>
 </table>
 
-### Network Security
+## Network Security
 
 <table>
     <tr>
@@ -1264,7 +1256,7 @@ This repository is created as an online bookmark for useful links, resources and
     </tr>
 </table>
 
-### Password Cracking and Wordlists
+## Password Cracking and Wordlists
 
 <table>
     <tr>
@@ -1293,7 +1285,7 @@ This repository is created as an online bookmark for useful links, resources and
     </tr>
 </table>
 
-### Post Exploitation
+## Post Exploitation
 
 <table>
     <tr>
@@ -1454,7 +1446,7 @@ This repository is created as an online bookmark for useful links, resources and
     </tr>
 </table>
 
-### Social Engineering and OSINT
+## Social Engineering and OSINT
 
 <table>
     <tr>
@@ -1591,7 +1583,7 @@ This repository is created as an online bookmark for useful links, resources and
 	</tr>
 </table>
 
-### Vulnerable
+## Vulnerable
 
 <table>
 	<tr>
@@ -1652,7 +1644,7 @@ This repository is created as an online bookmark for useful links, resources and
     </tr>
 </table>
 
-### Web Application Security
+## Web Application Security
 
 <table>
     <tr>
