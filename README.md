@@ -148,6 +148,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>A software reverse engineering (SRE) suite of tools developed by NSA's Research Directorate in support of the Cybersecurity mission</td>
     </tr>
     <tr>
+        <td><a href="https://go-re.tk/">Go Reverse Engineering Toolkit</a></td>
+        <td>A Reverse Engineering Tool Kit for Go, Written in Go.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/hasherezade/hollows_hunter">hasherezade/hollows_hunter</a></td>
         <td>A process scanner detecting and dumping hollowed PE modules.</td>
     </tr>
