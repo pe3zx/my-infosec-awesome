@@ -755,7 +755,7 @@ This repository is created as an online bookmark for useful links, resources and
 
 <table>
     <tr>
-        <td><a href="https://iase.disa.mil/stigs/pages/a-z.aspx">Security Technical Implementation Guides (STIGs)</a></td>
+        <td><a href="https://public.cyber.mil/stigs/">Security Technical Implementation Guides (STIGs)</a></td>
         <td>The Security Technical Implementation Guides (STIGs) are the configuration standards for DOD IA and IA-enabled devices/systems.</td>
     </tr>
     <tr>
