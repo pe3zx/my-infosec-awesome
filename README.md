@@ -1454,6 +1454,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>People tracker on the Internet: Learn to track the world, to avoid being traced.</td>
     </tr>
     <tr>
+        <td><a href="https://cellidfinder.com/">CellID Finder</a></td>
+        <td>Find GSM base stations cell id coordinates</a></td>
+    </tr>
+    <tr>
         <td><a href="https://www.cellmapper.net">CellMapper</a></td>
         <td>Cellular Coverage and Tower Map</a></td>
     </tr>
