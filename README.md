@@ -1458,7 +1458,7 @@ This repository is created as an online bookmark for useful links, resources and
         <td>MailSniper is a penetration testing tool for searching through email in a Microsoft Exchange environment for specific terms (passwords, insider intel, network architecture information, etc.). It can be used as a non-administrative user to search their own email, or by an administrator to search the mailboxes of every user in a domain.</td>
     </tr>
 	<tr>
-		<td><a href="https://inteltechniques.com/menu.html>Buscador</a></td>
+		<td><a href="https://inteltechniques.com/menu.html">Buscador</a></td>
 		<td>Buscador is an OSINT Linux Virtual Machine that is pre-configured for online investigations</td>
 	</tr>
     <tr>
@@ -1532,6 +1532,10 @@ This repository is created as an online bookmark for useful links, resources and
     <tr>
         <td><a href="https://data.occrp.org/">OCCRP Data</a></td>
         <td>Search 102m public records and leaks from 179 sources</td>
+    </tr>
+    <tr>
+        <td><a href="https://opencellid.org">OpenCelliD</a></td>
+        <td>OpenCelliD - Largest Open Database of Cell Towers & Geolocation - by Unwired Labs</td>
     </tr>
     <tr>
         <td><a href="https://www.phishingfrenzy.com/">Phishing Frenzy</a></td>
