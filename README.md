@@ -1309,10 +1309,6 @@ This repository is created as an online bookmark for useful links, resources and
 		<td>SessionGopher is a PowerShell tool that uses WMI to extract saved session information for remote access tools such as WinSCP, PuTTY, SuperPuTTY, FileZilla, and Microsoft Remote Desktop. It can be run remotely or locally.</td>
 	</tr>
     <tr>
-        <td><a href="https://gist.github.com/caseysmithrc/24e7d02685ce5ab319269bd61a8f0350">caseysmithrc/Inject.cs</a></td>
-        <td>DotNetToJScript Build Walkthrough</td>
-    </tr>
-    <tr>
         <td><a href="https://github.com/cobbr/Covenant">cobbr/Covenant</a></td>
         <td> Covenant is a .NET command and control framework that aims to highlight the attack surface of .NET, make the use of offensive .NET tradecraft easier, and serve as a collaborative command and control platform for red teamers.</td>
     </tr>
