@@ -597,6 +597,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Windows Live Artifacts Acquisition Script</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/orlikoski/CyLR">orlikoski/CyLR</a></td>
+        <td>CyLR - Live Response Collection Tool</td>
+    </tr>
+    <tr>
         <td><a href="https://ossec.github.io/">OSSEC</a></td>
         <td>Open Source HIDS SECurity</td>
     </tr>
