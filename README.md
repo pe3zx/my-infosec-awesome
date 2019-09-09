@@ -557,6 +557,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>PowerForensics provides an all in one platform for live disk forensic analysis</td>
     </tr>
     <tr>
+        <td><a href="https://www.brimorlabsblog.com/2019/04/live-response-collection-cedarpelta.html">Live Response Collection - Cedarpelta</a></td>
+        <td>Live Response Collection - Cedarpelta </td>
+    </tr>
+    <tr>
         <td><a href="https://technet.microsoft.com/en-us/scriptcenter/dd919274.aspx">Log Parser</a></td>
         <td>Log Parser 2.2 is a powerful, versatile tool that provides universal query access to text-based data such as log files, XML files and CSV files, as well as key data sources on the Windows operating system such as the Event Log, the Registry, the file system, and Active Directory</td>
     </tr>
