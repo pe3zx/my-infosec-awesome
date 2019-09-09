@@ -1357,6 +1357,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Gets plaintext Active Directory credentials if you're on the internal network but outside the AD environment</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/GhostPack/Seatbelt">GhostPack/Seatbelt</a></td>
+        <td>Seatbelt is a C# project that performs a number of security oriented host-survey "safety checks" relevant from both offensive and defensive security perspectives.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/sud0woodo/DCOMrade">sud0woodo/DCOMrade</a></td>
         <td>Powershell script for enumerating vulnerable DCOM Applications</td>
     </tr>
