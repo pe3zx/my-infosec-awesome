@@ -485,6 +485,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>The MITRE Cyber Analytics Repository (CAR) is a knowledge base of analytics developed by MITRE based on the MITRE ATT&CK adversary model.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/CyberDefenseInstitute/CDIR">CyberDefenseInstitute/CDIR</a></td>
+        <td>CDIR (Cyber Defense Institute Incident Response) Collector - live collection tool based on oss tool/library</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/davehull/Kansa">davehull/Kansa</a></td>
         <td>A Powershell incident response framework</td>
     </tr>
