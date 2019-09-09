@@ -1337,6 +1337,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Gets plaintext Active Directory credentials if you're on the internal network but outside the AD environment</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/sud0woodo/DCOMrade">sud0woodo/DCOMrade</a></td>
+        <td>Powershell script for enumerating vulnerable DCOM Applications</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/eladshamir/Internal-Monologue">eladshamir/Internal-Monologue</a></td>
         <td>Internal Monologue Attack: Retrieving NTLM Hashes without Touching LSASS</td>
     </tr>
