@@ -128,6 +128,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>RetDec is a retargetable machine-code decompiler based on LLVM</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/bootleg/ret-sync">bootleg/ret-sync</a></td>
+        <td>ret-sync is a set of plugins that helps to synchronize a debugging session (WinDbg/GDB/LLDB/OllyDbg2/x64dbg) with IDA/Ghidra disassemblers.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/enkomio/shed">enkomio/shed</a></td>
         <td>.NET runtine inspector. <a href="http://antonioparata.blogspot.it/2017/11/shed-inspect-net-malware-like-sir.html">Shed - Inspect .NET malware like a Sir</a></td>
     </tr>
