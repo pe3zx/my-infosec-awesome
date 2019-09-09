@@ -1357,14 +1357,6 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Gets plaintext Active Directory credentials if you're on the internal network but outside the AD environment</td>
     </tr>
     <tr>
-        <td><a href="https://github.com/GhostPack/Seatbelt">GhostPack/Seatbelt</a></td>
-        <td>Seatbelt is a C# project that performs a number of security oriented host-survey "safety checks" relevant from both offensive and defensive security perspectives.</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/sud0woodo/DCOMrade">sud0woodo/DCOMrade</a></td>
-        <td>Powershell script for enumerating vulnerable DCOM Applications</td>
-    </tr>
-    <tr>
         <td><a href="https://github.com/eladshamir/Internal-Monologue">eladshamir/Internal-Monologue</a></td>
         <td>Internal Monologue Attack: Retrieving NTLM Hashes without Touching LSASS</td>
     </tr>
@@ -1373,12 +1365,20 @@ This repository is created as an online bookmark for useful links, resources and
         <td>This tool can forward TCP traffic over DNS protocol. Non-compile clients + socks5 support.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/fireeye/SharPersist">fireeye/SharPersist</a></td>
+        <td>Windows persistence toolkit written in C#.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/FuzzySecurity/PowerShell-Suite">FuzzySecurity/PowerShell-Suite</a></td>
         <td>There are great tools and resources online to accomplish most any task in PowerShell, sometimes however, there is a need to script together a util for a specific purpose or to bridge an ontological gap. This is a collection of PowerShell utilities I put together either for fun or because I had a narrow application in mind.</td>
     </tr>
     <tr>
         <td><a href="https://github.com/FuzzySecurity/Sharp-Suite">FuzzySecurity/Sharp-Suite</a></td>
         <td>My musings with C#</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/GhostPack/Seatbelt">GhostPack/Seatbelt</a></td>
+        <td>Seatbelt is a C# project that performs a number of security oriented host-survey "safety checks" relevant from both offensive and defensive security perspectives.</td>
     </tr>
     <tr>
         <td><a href="https://github.com/google/sandbox-attacksurface-analysis-tools">google/sandbox-attacksurface-analysis-tools</a></td>
@@ -1417,10 +1417,6 @@ This repository is created as an online bookmark for useful links, resources and
         <td>A post-exploitation powershell tool for extracting juicy info from memory.</td>
     </tr>
     <tr>
-        <td><a href="https://github.com/sevagas/macro_pack">sevagas/macro_pack</a></td>
-        <td>macro_pack is a tool used to automatize obfuscation and generation of MS Office documents for pentest, demo, and social engineering assessments. The goal of macro_pack is to simplify antimalware bypass and automatize the process from vba generation to final Office document generation.</td>
-    </tr>
-    <tr>
         <td><a href="https://github.com/mdsecactivebreach/SharpShooter">mdsecactivebreach/SharpShooter</a></td>
         <td>SharpShooter is a payload creation framework for the retrieval and execution of arbitrary CSharp source code.</td>
     </tr>
@@ -1449,10 +1445,6 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Generates malicious LNK file payloads for data exfiltration</td>
     </tr>
     <tr>
-        <td><a href="https://github.com/shellster/DCSYNCMonitor">shellster/DCSYNCMonitor</a></td>
-        <td>Monitors for DCSYNC and DCSHADOW attacks and create custom Windows Events for these events.</td>
-    </tr>
-    <tr>
         <td><a href="https://github.com/secretsquirrel/SigThief">secretsquirrel/SigThief</a></td>
         <td>Stealing Signatures and Making One Invalid Signature at a Time</td>
     </tr>
@@ -1461,8 +1453,20 @@ This repository is created as an online bookmark for useful links, resources and
         <td>godoh - A DNS-over-HTTPS C2</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/sevagas/macro_pack">sevagas/macro_pack</a></td>
+        <td>macro_pack is a tool used to automatize obfuscation and generation of MS Office documents for pentest, demo, and social engineering assessments. The goal of macro_pack is to simplify antimalware bypass and automatize the process from vba generation to final Office document generation.</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/shellster/DCSYNCMonitor">shellster/DCSYNCMonitor</a></td>
+        <td>Monitors for DCSYNC and DCSHADOW attacks and create custom Windows Events for these events.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/stephenfewer/ReflectiveDLLInjection">stephenfewer/ReflectiveDLLInjection</a></td>
         <td>Reflective DLL injection is a library injection technique in which the concept of reflective programming is employed to perform the loading of a library from memory into a host process</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/sud0woodo/DCOMrade">sud0woodo/DCOMrade</a></td>
+        <td>Powershell script for enumerating vulnerable DCOM Applications</td>
     </tr>
     <tr>
         <td><a href="https://github.com/TheSecondSun/Bashark">TheSecondSun/Bashark</a></td>
