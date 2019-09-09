@@ -637,6 +637,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Threat Alert Logic Repository (TALR) - A public repository for the collection and sharing of detection rules in platform agnostic formats. Collected rules are appended with STIX required fields for simplified sharing over TAXII servers.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/SekoiaLab/Fastir_Collector">SekoiaLab/Fastir_Collector</a></td>
+        <td>This tool collects different artefacts on live Windows and records the results in csv or json files. With the analyses of these artefacts, an early compromission can be detected.</td>
+    </tr>
+    <tr>
         <td><a href="https://siemonster.com/">SIEMonster</a></td>
         <td>SIEMonster is an Affordable Security Monitoring Software Soulution</td>
     </tr>
