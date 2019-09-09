@@ -493,6 +493,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>A Powershell incident response framework</td>
     </tr>
     <tr>
+        <td><a href="https://info.digitalguardian.com/wingman.html">DG Wingman</a></td>
+        <td>DG Wingman is a free community Windows tool designed to aid in the collection of forensic evidence in order to properly investigate and scope an intrusion.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/draios/sysdig">draios/sysdig</a></td>
         <td>Linux system exploration and troubleshooting tool with first class support for containers</td>
     </tr>   
