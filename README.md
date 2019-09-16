@@ -140,6 +140,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Ghidraaas is a simple web server that exposes Ghidra analysis through REST APIs. The project includes three Ghidra plugins to analyze a sample, get the list of functions and to decompile a function.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/Comsecuris/gdbida">Comsecuris/gdbida</a></td>
+        <td>gdbida - a visual bridge between a GDB session and IDA Pro's disassembler</td>
+    </tr>
+    <tr>
         <td><a href="https://cutter.re/">Cutter</a></td>
         <td>Free and Open Source RE Platform powered by radare2</td>
     </tr>
