@@ -325,6 +325,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Security auditing tool for AWS environments</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/nccgroup/ScoutSuite">nccgroup/ScoutSuite</a></td>
+        <td>Scout Suite is an open source multi-cloud security-auditing tool, which enables security posture assessment of cloud environments</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/Netflix-Skunkworks/diffy">Netflix-Skunkworks/diffy</a></td>
         <td>Diffy is a digital forensics and incident response (DFIR) tool developed by Netflix's Security Intelligence and Response Team (SIRT).</td>
     </tr>
