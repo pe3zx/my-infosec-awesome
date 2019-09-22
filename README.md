@@ -489,6 +489,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Forensics acquisition framework designed to be extensible and secure</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/CrowdStrike/automactc">CrowdStrike/automactc</a></td>
+        <td>AutoMacTC: Automated Mac Forensic Triage Collector</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/CrowdStrike/Forensics">CrowdStrike/Forensics</a></td>
         <td>Scripts and code referenced in CrowdStrike blog posts</td>
     </tr>
