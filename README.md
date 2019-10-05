@@ -937,6 +937,10 @@ This repository is created as an online bookmark for useful links, resources and
 		<td>Automatically generate AV byte signatures from sets of similar binaries.</td>
 	</tr>
     <tr>
+        <td><a href="https://github.com/GoSecure/malboxes">GoSecure/malboxes</a></td>
+        <td>Builds malware analysis Windows VMs so that you don't have to.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/GreatSCT/GreatSCT">GreatSCT/GreatSCT</a></td>
         <td>The project is called Great SCT (Great Scott). Great SCT is an open source project to generate application white list bypasses. This tool is intended for BOTH red and blue team</td>
     </tr>
@@ -1084,6 +1088,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td><a href="https://github.com/OALabs/PyIATRebuild">OALabs/PyIATRebuild</a></td>
         <td>Automatically rebuild Import Address Table for dumped PE file. With python bindings!</td>
     </tr>
+    <tr>
+        <td><a href="https://github.com/ohjeongwook/PowerShellRunBox">ohjeongwook/PowerShellRunBox</a></td>
+        <td>Dynamic PowerShell analysis framework</td>
+    </tr>
 	<tr>
 		<td><a href="https://github.com/outflanknl/EvilClippy">outflanknl/EvilClippy</a></td>
 		<td>A cross-platform assistant for creating malicious MS Office documents. Can hide VBA macros, stomp VBA code (via P-Code) and confuse macro analysis tools. Runs on Linux, OSX and Windows.</td>
@@ -1107,10 +1115,6 @@ This repository is created as an online bookmark for useful links, resources and
     <tr>
         <td><a href="https://github.com/quasar/QuasarRAT">quasar/QuasarRAT</a></td>
         <td>Quasar is a fast and light-weight remote administration tool coded in C#. Providing high stability and an easy-to-use user interface, Quasar is the perfect remote administration solution for you.</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/GoSecure/malboxes">GoSecure/malboxes</a></td>
-        <td>Builds malware analysis Windows VMs so that you don't have to.</td>
     </tr>
     <tr>
         <td><a href="https://github.com/rastrea2r/rastrea2r">rastrea2r/rastrea2r</a></td>
