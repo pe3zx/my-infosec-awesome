@@ -204,12 +204,16 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Python library for analyzing Go binaries</td>
     </tr>
     <tr>
-        <td><a href="https://salmanarif.bitbucket.io/visual/index.html">VisUAL</a></td>
-        <td>A highly visual ARM emulator</td>
-    </tr>
-    <tr>
         <td><a href="https://github.com/taviso/loadlibrary">taviso/loadlibrary</a></td>
         <td>Porting Windows Dynamic Link Libraries to Linux</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/secretsquirrel/recomposer">secretsquirrel/recomposer</a></td>
+        <td>Randomly changes Win32/64 PE Files for 'safer' uploading to malware and sandbox sites.</td>
+    </tr>
+    <tr>
+        <td><a href="https://salmanarif.bitbucket.io/visual/index.html">VisUAL</a></td>
+        <td>A highly visual ARM emulator</td>
     </tr>
     <tr>
         <td>
