@@ -1618,6 +1618,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>OpenCelliD - Largest Open Database of Cell Towers & Geolocation - by Unwired Labs</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/OWASP/Amass">OWASP/Amass</a></td>
+        <td>In-depth Attack Surface Mapping and Asset Discovery</td>
+    </tr>
+    <tr>
         <td><a href="https://www.phishingfrenzy.com/">Phishing Frenzy</a></td>
         <td>Phishing Frenzy is an Open Source Ruby on Rails application that is leveraged by penetration testers to manage email phishing campaigns</td>
     </tr>
