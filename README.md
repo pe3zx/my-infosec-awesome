@@ -1140,6 +1140,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td><a href="https://github.com/SpiderLabs/IOCs-IDPS">SpiderLabs/IOCs-IDPS</a></td>
         <td>This repository will hold PCAP IOC data related with known malware samples (owner: Bryant Smith)</td>
     </tr>
+    <tr>
+        <td><a href="https://github.com/t4d/PhishingKitHunter">t4d/PhishingKitHunter</a></td>
+        <td>Find phishing kits which use your brand/organization's files and image.</td>
+    </tr>
 	<tr>
 		<td><a href="https://github.com/tomchop/malcom">tomchop/malcom</a></td>
 		<td>Malcom - Malware Communications Analyzer</td>
