@@ -1630,6 +1630,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Phishing Frenzy is an Open Source Ruby on Rails application that is leveraged by penetration testers to manage email phishing campaigns</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/ring0lab/catphish">ring0lab/catphish</a></td>
+        <td>Generate similar-looking domains for phishing attacks. Check expired domains and their categorized domain status to evade proxy categorization. Whitelisted domains are perfect for your C2 servers.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/securestate/king-phisher/">securestate/king-phisher</a></td>
         <td>Phishing Campaign Toolkit</td>
     </tr>
