@@ -17,6 +17,7 @@ This repository is created as an online bookmark for useful links, resources and
 - [Malware Analysis](#malware-analysis)
 - [Mobile Security](#mobile-security)
 - [Network Security](#network-security)
+- [Open-source Intelligence (OSINT)](#open-source-intelligence-osint)
 - [Password Cracking and Wordlists](#password-cracking-and-wordlists)
 - [Post Exploitation](#post-exploitation)
 - [Social Engineering and OSINT](#social-engineering-and-osint)
@@ -1332,6 +1333,79 @@ This repository is created as an online bookmark for useful links, resources and
     </tr>
 </table>
 
+## Open-source Intelligence (OSINT) 
+
+<table>
+    <tr>
+		<td><a href="https://inteltechniques.com/menu.html">Buscador</a></td>
+		<td>Buscador is an OSINT Linux Virtual Machine that is pre-configured for online investigations</td>
+	</tr>
+    <tr>
+        <td><a href="https://cellidfinder.com/">CellID Finder</a></td>
+        <td>Find GSM base stations cell id coordinates</a></td>
+    </tr>
+    <tr>
+        <td><a href="https://www.cellmapper.net">CellMapper</a></td>
+        <td>Cellular Coverage and Tower Map</a></td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/DataSploit/datasploit">DataSploit/datasploit</a></td>
+        <td>An #OSINT Framework to perform various recon techniques on Companies, People, Phone Number, Bitcoin Addresses, etc., aggregate all the raw data, and give data in multiple formats.</td>
+    </tr>
+    <tr>
+        <td><a href="https://fofa.so/">FOFA Pro</a></td>
+        <td>The Cyberspace Search Engine, Security Situation Awareness</td>
+    </tr>
+    <tr>
+        <td><a href="https://viz.greynoise.io/">GreyNoise Visualizer</a></td>
+        <td>GreyNoise Visualizer</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/haccer/twint">haccer/twint</a></td>
+        <td>An advanced Twitter scraping & OSINT tool written in Python that doesn't use Twitter's API, allowing you to scrape a user's followers, following, Tweets and more while evading most API limitations.</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/InQuest/omnibus">InQuest/omnibus</a></td>
+        <td>The OSINT Omnibus</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/jofpin/trape">jofpin/trape</a></td>
+        <td>People tracker on the Internet: OSINT analysis and research tool.</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/leapsecurity/InSpy">leapsecurity/InSpy</a></td>
+        <td>A python based LinkedIn enumeration tool</td>
+    </tr>
+    <tr>
+        <td><a href="https://data.occrp.org/">OCCRP Data</a></td>
+        <td>Search 102m public records and leaks from 179 sources</td>
+    </tr>
+    <tr>
+        <td><a href="https://opencellid.org">OpenCelliD</a></td>
+        <td>OpenCelliD - Largest Open Database of Cell Towers & Geolocation - by Unwired Labs</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/OWASP/Amass">OWASP/Amass</a></td>
+        <td>In-depth Attack Surface Mapping and Asset Discovery</td>
+    </tr>
+    <tr>
+        <td><a href="http://www.spiderfoot.net/">SpiderFoot</a></td>
+        <td>SpiderFoot - Opensource Intelligence Automation</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/superhedgy/AttackSurfaceMapper">superhedgy/AttackSurfaceMapper</a></td>
+        <td>AttackSurfaceMapper is a tool that aims to automate the reconnaissance process.</td>
+    </tr>
+	<tr>
+		<td><a href="https://hackertarget.com/recon-ng-tutorial/">Recon-NG</a></td>
+		<td>Recon-ng is a reconnaissance tool with an interface similar to Metasploit. Running recon-ng from the command line you enter a shell like environment where you can configure options, perform recon and output results to different report types.</td>
+	</tr>
+	<tr>
+		<td><a href="https://github.com/woj-ciech/kamerka">woj-ciech/kamerka</a></td>
+		<td>Build interactive map of cameras from Shodan</td>
+	</tr>
+</table>
+
 ## Password Cracking and Wordlists
 
 <table>
@@ -1538,28 +1612,8 @@ This repository is created as an online bookmark for useful links, resources and
         <td>People tracker on the Internet: Learn to track the world, to avoid being traced.</td>
     </tr>
     <tr>
-        <td><a href="https://cellidfinder.com/">CellID Finder</a></td>
-        <td>Find GSM base stations cell id coordinates</a></td>
-    </tr>
-    <tr>
-        <td><a href="https://www.cellmapper.net">CellMapper</a></td>
-        <td>Cellular Coverage and Tower Map</a></td>
-    </tr>
-    <tr>
         <td><a href="https://github.com/dafthack/MailSniper">dafthack/MailSniper</a></td>
         <td>MailSniper is a penetration testing tool for searching through email in a Microsoft Exchange environment for specific terms (passwords, insider intel, network architecture information, etc.). It can be used as a non-administrative user to search their own email, or by an administrator to search the mailboxes of every user in a domain.</td>
-    </tr>
-	<tr>
-		<td><a href="https://inteltechniques.com/menu.html">Buscador</a></td>
-		<td>Buscador is an OSINT Linux Virtual Machine that is pre-configured for online investigations</td>
-	</tr>
-    <tr>
-        <td><a href="https://www.hyperiongray.com/dark-web-map/">Dark Web Map</a></td>
-        <td>Dark Web Map - A visualization of 6.6k Tor onion services</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/DataSploit/datasploit">DataSploit/datasploit</a></td>
-        <td>An #OSINT Framework to perform various recon techniques on Companies, People, Phone Number, Bitcoin Addresses, etc., aggregate all the raw data, and give data in multiple formats.</td>
     </tr>
     <tr>
         <td><a href="https://github.com/drk1wi/Modlishka">drk1wi/Modlishka</a></td>
@@ -1578,36 +1632,12 @@ This repository is created as an online bookmark for useful links, resources and
         <td>ReelPhish: A Real-Time Two-Factor Phishing Tool</td>
     </tr>
     <tr>
-        <td><a href="https://fofa.so/">FOFA Pro</a></td>
-        <td>The Cyberspace Search Engine, Security Situation Awareness</td>
-    </tr>
-    <tr>
         <td><a href="https://github.com/gophish/gophish">gophish/gophish</a></td>
         <td>Gophish is an open-source phishing toolkit designed for businesses and penetration testers. It provides the ability to quickly and easily setup and execute phishing engagements and security awareness training</td>
     </tr>
     <tr>
-        <td><a href="https://viz.greynoise.io/">GreyNoise Visualizer</a></td>
-        <td>GreyNoise Visualizer</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/haccer/twint">haccer/twint</a></td>
-        <td>An advanced Twitter scraping & OSINT tool written in Python that doesn't use Twitter's API, allowing you to scrape a user's followers, following, Tweets and more while evading most API limitations.</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/InQuest/omnibus">InQuest/omnibus</a></td>
-        <td>The OSINT Omnibus</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/jofpin/trape">jofpin/trape</a></td>
-        <td>People tracker on the Internet: OSINT analysis and research tool.</td>
-    </tr>
-    <tr>
         <td><a href="https://github.com/kgretzky/evilginx2">kgretzky/evilginx2</a></td>
         <td>Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/leapsecurity/InSpy">leapsecurity/InSpy</a></td>
-        <td>A python based LinkedIn enumeration tool</td>
     </tr>
     <tr>
         <td><a href="https://www.mailsploit.com/index">Mailsploit</a></td>
@@ -1622,18 +1652,6 @@ This repository is created as an online bookmark for useful links, resources and
 		<td>Muraena is an almost-transparent reverse proxy aimed at automating phishing and post-phishing activities.</td>
 	</tr>
     <tr>
-        <td><a href="https://data.occrp.org/">OCCRP Data</a></td>
-        <td>Search 102m public records and leaks from 179 sources</td>
-    </tr>
-    <tr>
-        <td><a href="https://opencellid.org">OpenCelliD</a></td>
-        <td>OpenCelliD - Largest Open Database of Cell Towers & Geolocation - by Unwired Labs</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/OWASP/Amass">OWASP/Amass</a></td>
-        <td>In-depth Attack Surface Mapping and Asset Discovery</td>
-    </tr>
-    <tr>
         <td><a href="https://www.phishingfrenzy.com/">Phishing Frenzy</a></td>
         <td>Phishing Frenzy is an Open Source Ruby on Rails application that is leveraged by penetration testers to manage email phishing campaigns</td>
     </tr>
@@ -1646,18 +1664,6 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Phishing Campaign Toolkit</td>
     </tr>
     <tr>
-        <td><a href="http://www.spiderfoot.net/">SpiderFoot</a></td>
-        <td>SpiderFoot - Opensource Intelligence Automation</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/superhedgy/AttackSurfaceMapper">superhedgy/AttackSurfaceMapper</a></td>
-        <td>AttackSurfaceMapper is a tool that aims to automate the reconnaissance process.</td>
-    </tr>
-	<tr>
-		<td><a href="https://hackertarget.com/recon-ng-tutorial/">Recon-NG</a></td>
-		<td>Recon-ng is a reconnaissance tool with an interface similar to Metasploit. Running recon-ng from the command line you enter a shell like environment where you can configure options, perform recon and output results to different report types.</td>
-	</tr>
-    <tr>
         <td><a href="https://github.com/thelinuxchoice/blackeye">thelinuxchoice/blackeye</a></td>
         <td>The most complete Phishing Tool, with 32 templates +1 customizable</td>
     </tr>
@@ -1666,12 +1672,8 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Phishing Tool for 18 social media: Instagram, Facebook, Snapchat, Github, Twitter, Yahoo, Protonmail, Spotify, Netflix, Linkedin, Wordpress, Origin, Steam, Microsoft, InstaFollowers, Gitlab, Pinterest</td>
     </tr>
     <tr>
-        <td>
-            <a href="https://github.com/UndeadSec/EvilURL">Undeadsec/EvilURL</a>
-        </td>
-        <td>
-            An unicode domain phishing generator for IDN Homograph Attack
-        </td>
+        <td><a href="https://github.com/UndeadSec/EvilURL">Undeadsec/EvilURL</a></td>
+        <td>An unicode domain phishing generator for IDN Homograph Attack</td>
     </tr>
     <tr>
         <td><a href="https://github.com/UndeadSec/SocialFish">UndeadSec/SocialFish</a></td>
@@ -1681,10 +1683,6 @@ This repository is created as an online bookmark for useful links, resources and
         <td><a href="https://github.com/ustayready/CredSniper">ustayready/CredSniper</a></td>
         <td>CredSniper is a phishing framework written with the Python micro-framework Flask and Jinja2 templating which supports capturing 2FA tokens.</td>
     </tr>
-	<tr>
-		<td><a href="https://github.com/woj-ciech/kamerka">woj-ciech/kamerka</a></td>
-		<td>Build interactive map of cameras from Shodan</td>
-	</tr>
 </table>
 
 ## Vulnerable
