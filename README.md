@@ -1425,6 +1425,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>People tracker on the Internet: OSINT analysis and research tool.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/lanrat/certgraph">lanrat/certgraph</a></td>
+        <td>An open source intelligence tool to crawl the graph of certificate Alternate Names</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/leapsecurity/InSpy">leapsecurity/InSpy</a></td>
         <td>A python based LinkedIn enumeration tool</td>
     </tr>
