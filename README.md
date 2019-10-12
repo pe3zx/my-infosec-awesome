@@ -1397,6 +1397,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Cellular Coverage and Tower Map</a></td>
     </tr>
     <tr>
+        <td><a href="https://crt.sh/">Certificate Search</a></td>
+        <td>crt.sh | Certificate</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/DataSploit/datasploit">DataSploit/datasploit</a></td>
         <td>An #OSINT Framework to perform various recon techniques on Companies, People, Phone Number, Bitcoin Addresses, etc., aggregate all the raw data, and give data in multiple formats.</td>
     </tr>
