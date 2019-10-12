@@ -1329,7 +1329,7 @@ This repository is created as an online bookmark for useful links, resources and
     </tr>
     <tr>
         <td><a href="https://github.com/blechschmidt/massdns">blechschmidt/massdns</a></td>
-        <td>A high-performance DNS stub resolver for bulk lookups and reconnaissance (subdomain enumeration)</a></td>
+        <td>A high-performance DNS stub resolver for bulk lookups and reconnaissance (subdomain enumeration)</td>
     </tr>
     <tr>
         <td><a href="https://github.com/byt3bl33d3r/MITMf">byt3bl33d3r/MITMf</a></td>
@@ -1889,5 +1889,9 @@ This repository is created as an online bookmark for useful links, resources and
     <tr>
         <td><a href="https://github.com/s0md3v/XSStrike">s0md3v/XSStrike</a></td>
         <td>Most advanced XSS detection suite</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/subfinder/subfinder">subfinder/subfinder</a></td>
+        <td>SubFinder is a subdomain discovery tool that discovers valid subdomains for websites. Designed as a passive framework to be useful for bug bounties and safe for penetration testing.</td>
     </tr>
 </table>
