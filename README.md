@@ -1328,6 +1328,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Moloch is an open source, large scale, full packet capturing, indexing, and database system</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/blechschmidt/massdns">blechschmidt/massdns</a></td>
+        <td>A high-performance DNS stub resolver for bulk lookups and reconnaissance (subdomain enumeration)</a></td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/byt3bl33d3r/MITMf">byt3bl33d3r/MITMf</a></td>
         <td>Framework for Man-In-The-Middle attacks</td>
     </tr>
