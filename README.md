@@ -20,7 +20,7 @@ This repository is created as an online bookmark for useful links, resources and
 - [Open-source Intelligence (OSINT)](#open-source-intelligence-osint)
 - [Password Cracking and Wordlists](#password-cracking-and-wordlists)
 - [Post Exploitation](#post-exploitation)
-- [Social Engineering and OSINT](#social-engineering-and-osint)
+- [Social Engineering](#social-engineering)
 - [Vulnerable](#vulnerable)
 - [Web Application Security](#web-application-security)
 
@@ -383,6 +383,10 @@ This repository is created as an online bookmark for useful links, resources and
 
 <table>
     <tr>
+        <td><b>Link</b></td>
+        <td><b>Description</b></td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/CERTCC/keyfinder">CERTCC/keyfinder</a></td>
         <td>A tool for analyzing private (and public) key files, including support for Android APK files.</td>
     </tr>
@@ -416,6 +420,10 @@ This repository is created as an online bookmark for useful links, resources and
 
 <table>
     <tr>
+        <td><b>Link</b></td>
+        <td><b>Description</b></td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/evilsocket/sg1">evilsocket/sg1</a></td>
         <td>A wanna be swiss army knife for data encryption, exfiltration and covert communication.</td>
     </tr>
@@ -437,6 +445,10 @@ This repository is created as an online bookmark for useful links, resources and
 
 <table>
     <tr>
+        <td><b>Link</b></td>
+        <td><b>Description</b></td>
+    </tr>
+    <tr>
         <td><a href="https://www.splunk.com/blog/2018/05/10/boss-of-the-soc-scoring-server-questions-and-answers-and-dataset-open-sourced-and-ready-for-download.html">BOTS 1.0 Dataset</a></td>
         <td>The BOTS 1.0 dataset records two attacks perpetrated by a fictitious hacktivist group called po1s0n1vy targeting Wayne Corp of Batman mythology. There are many comic book references in the data; from heroes and villains to “Batman’s” street addresses. Not only does the dataset have many different types of data—everything from Sysmon to Suricata—but there are even file hashes that can be found in Virustotal.com and domains/IPs to hunt for in OSINT tools like PassiveTotal and Robtex!</td>
     </tr>
@@ -453,6 +465,10 @@ This repository is created as an online bookmark for useful links, resources and
 ## Digital Forensics and Incident Response
 
 <table>
+    <tr>
+        <td><b>Link</b></td>
+        <td><b>Description</b></td>
+    </tr>
     <tr>
         <td><a href="https://www.flashbackdata.com/free-forensics-tool-i-file-parser/">$I File Parser</a></td>
         <td>Free Forensics Tool – $I File Parser</td>
@@ -751,6 +767,10 @@ This repository is created as an online bookmark for useful links, resources and
 
 <table>
     <tr>
+        <td><b>Link</b></td>
+        <td><b>Description</b></td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/externalist/exploit_playground">externalist/exploit_playground</a></td>
         <td>Analysis of public exploits or my 1day exploits</td>
     </tr>
@@ -820,6 +840,10 @@ This repository is created as an online bookmark for useful links, resources and
 
 <table>
     <tr>
+        <td><b>Link</b></td>
+        <td><b>Description</b></td>
+    </tr>
+    <tr>
         <td><a href="https://public.cyber.mil/stigs/">Security Technical Implementation Guides (STIGs)</a></td>
         <td>The Security Technical Implementation Guides (STIGs) are the configuration standards for DOD IA and IA-enabled devices/systems.</td>
     </tr>
@@ -837,6 +861,10 @@ This repository is created as an online bookmark for useful links, resources and
 
 <table>
     <tr>
+        <td><b>Link</b></td>
+        <td><b>Description</b></td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/ufrisk/pcileech">ufrisk/pcileech</a></td>
         <td>Direct Memory Access (DMA) Attack Software</td>
     </tr>
@@ -845,6 +873,10 @@ This repository is created as an online bookmark for useful links, resources and
 ## Malware Analysis
 
 <table>
+    <tr>
+        <td><b>Link</b></td>
+        <td><b>Description</b></td>
+    </tr>
     <tr>
         <td><a href="https://github.com/activecm/rita">activecm/rita</a></td>
         <td> Real Intelligence Threat Analytics</td>
@@ -1187,6 +1219,10 @@ This repository is created as an online bookmark for useful links, resources and
 
 <table>
     <tr>
+        <td><b>Link</b></td>
+        <td><b>Description</b></td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/ac-pm/Inspeckage">ac-pm/Inspeckage</a></td>
         <td>Android Package Inspector - dynamic analysis with api hooks, start unexported activities and more. (Xposed Module)</td>
     </tr>
@@ -1284,6 +1320,10 @@ This repository is created as an online bookmark for useful links, resources and
 
 <table>
     <tr>
+        <td><b>Link</b></td>
+        <td><b>Description</b></td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/aol/moloch">aol/moloch</a></td>
         <td>Moloch is an open source, large scale, full packet capturing, indexing, and database system</td>
     </tr>
@@ -1336,6 +1376,10 @@ This repository is created as an online bookmark for useful links, resources and
 ## Open-source Intelligence (OSINT) 
 
 <table>
+    <tr>
+        <td><b>Link</b></td>
+        <td><b>Description</b></td>
+    </tr>
     <tr>
 		<td><a href="https://inteltechniques.com/menu.html">Buscador</a></td>
 		<td>Buscador is an OSINT Linux Virtual Machine that is pre-configured for online investigations</td>
@@ -1604,9 +1648,13 @@ This repository is created as an online bookmark for useful links, resources and
     </tr>
 </table>
 
-## Social Engineering and OSINT
+## Social Engineering
 
 <table>
+    <tr>
+        <td><b>Link</b></td>
+        <td><b>Description</b></td>
+    </tr>
     <tr>
         <td><a href="https://github.com/boxug/trape">boxug/trape</a></td>
         <td>People tracker on the Internet: Learn to track the world, to avoid being traced.</td>
@@ -1689,6 +1737,10 @@ This repository is created as an online bookmark for useful links, resources and
 
 <table>
     <tr>
+        <td><b>Link</b></td>
+        <td><b>Description</b></td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/appsecco/VyAPI">appsecco/VyAPI</a></td>
         <td>VyAPI - A cloud based vulnerable hybrid Android App</a></td>
     </tr>
@@ -1753,6 +1805,10 @@ This repository is created as an online bookmark for useful links, resources and
 ## Web Application Security
 
 <table>
+    <tr>
+        <td><b>Link</b></td>
+        <td><b>Description</b></td>
+    </tr>
     <tr>
         <td><a href="https://github.com/ambionics/phpggc">ambionics/phpggc</a></td>
         <td>PHPGGC is a library of unserialize() payloads along with a tool to generate them, from command line or programmatically.</td>
