@@ -1814,6 +1814,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td><b>Description</b></td>
     </tr>
     <tr>
+        <td><a href="https://github.com/aboul3la/Sublist3r">aboul3la/Sublist3r</a></td>
+        <td>Fast subdomains enumeration tool for penetration testers</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/ambionics/phpggc">ambionics/phpggc</a></td>
         <td>PHPGGC is a library of unserialize() payloads along with a tool to generate them, from command line or programmatically.</td>
     </tr>
