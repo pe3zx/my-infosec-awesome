@@ -1651,6 +1651,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Monitors for DCSYNC and DCSHADOW attacks and create custom Windows Events for these events.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/SpiderLabs/DoHC2">SpiderLabs/DoHC2</a></td>
+        <td>DoHC2 allows the ExternalC2 library from Ryan Hanson (https://github.com/ryhanson/ExternalC2) to be leveraged for command and control (C2) via DNS over HTTPS (DoH).</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/stephenfewer/ReflectiveDLLInjection">stephenfewer/ReflectiveDLLInjection</a></td>
         <td>Reflective DLL injection is a library injection technique in which the concept of reflective programming is employed to perform the loading of a library from memory into a host process</td>
     </tr>
