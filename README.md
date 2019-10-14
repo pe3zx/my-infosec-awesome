@@ -1615,6 +1615,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>HTA encryption tool for RedTeams</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/Ne0nd0g/merlin">Ne0nd0g/merlin</a></td>
+        <td>Merlin is a cross-platform post-exploitation HTTP/2 Command & Control server and agent written in golang.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/NetSPI/goddi">NetSPI/goddi</a></td>
         <td>goddi (go dump domain info) dumps Active Directory domain information</td>
     </tr>
