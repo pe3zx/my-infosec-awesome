@@ -1599,6 +1599,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>A post-exploitation powershell tool for extracting juicy info from memory.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/mdsecactivebreach/Chameleon">mdsecactivebreach/Chameleon</a></td>
+        <td>Chameleon: A tool for evading Proxy categorisation</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/mdsecactivebreach/SharpShooter">mdsecactivebreach/SharpShooter</a></td>
         <td>SharpShooter is a payload creation framework for the retrieval and execution of arbitrary CSharp source code.</td>
     </tr>
