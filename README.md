@@ -1,5 +1,9 @@
 # My Infosec Awesome <!-- omit in toc -->
 
+<p align="center">
+  <img src="cover.png">
+</p>
+
 <p align="center"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" /> <a href="https://travis-ci.org/pe3zx/my-infosec-awesome"><img src="https://travis-ci.org/pe3zx/my-infosec-awesome.svg?branch=master" /></a> <img src="https://img.shields.io/github/last-commit/pe3zx/my-infosec-awesome.svg"/> </p>
 
 This repository is created as an online bookmark for useful links, resources and tools in infosec field which serve my needs to have a searchable page to look further.
