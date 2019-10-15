@@ -1070,10 +1070,6 @@ This repository is created as an online bookmark for useful links, resources and
         <td>A free Malware repository providing researchers access to samples, malicous feeds, and Yara results</td>
     </tr>
     <tr>
-        <td><a href="https://malware.one/index.php?action=login">malware.one</a></td>
-        <td>malware.one is a binary substring searchable malware catalog containing terabytes of malicious code</td>
-    </tr>
-    <tr>
         <td><a href="https://github.com/MalwareCantFly/Vba2Graph/">MalwareCantFly/Vba2Graph</a></td>
         <td>Vba2Graph - Generate call graphs from VBA code, for easier analysis of malicious documents.</td>
     </tr>
