@@ -1623,6 +1623,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>goddi (go dump domain info) dumps Active Directory domain information</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/outflanknl/Recon-AD">outflanknl/Recon-AD</a></td>
+        <td>Recon-AD, an AD recon tool based on ADSI and reflective DLL’s</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/peewpw/Invoke-PSImage">peewpw/Invoke-PSImage</a></td>
         <td>Embeds a PowerShell script in the pixels of a PNG file and generates a oneliner to execute</td>
     </tr>
