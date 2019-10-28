@@ -1,6 +1,10 @@
 # My Infosec Awesome <!-- omit in toc -->
 
-<p align="center"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" /> <a href="https://travis-ci.org/pe3zx/my-infosec-awesome"><img src="https://travis-ci.org/pe3zx/my-infosec-awesome.svg?branch=master" /></a> <img src="https://img.shields.io/github/last-commit/pe3zx/my-infosec-awesome.svg"/> </p>
+<p align="center">
+  <img src="cover.png">
+</p>
+
+<p align="center"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" /> <a href="https://github.com/pe3zx/my-infosec-awesome/actions"><img src="https://github.com/pe3zx/my-infosec-awesome/workflows/Ruby/badge.svg" /></a> <img src="https://img.shields.io/github/last-commit/pe3zx/my-infosec-awesome.svg"/> </p>
 
 This repository is created as an online bookmark for useful links, resources and tools in infosec field which serve my needs to have a searchable page to look further.
 
@@ -586,7 +590,7 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Kaspersky IR's Artifacts Collector</td>
     </tr>
     <tr>
-        <td><a href="https://arsenalrecon.com/weapons/hibernation-recon/">Hibernation Recon</a></td>
+        <td><a href="https://arsenalrecon.com/downloads/">Hibernation Recon</a></td>
         <td>The tools and techniques used for many years to analyze Microsoft Windows® hibernation files have left digital forensics experts in the dark… until now!</td>
     </tr>
     <tr>
@@ -1068,10 +1072,6 @@ This repository is created as an online bookmark for useful links, resources and
     <tr>
         <td><a href="https://malshare.com/">MalShare</a></td>
         <td>A free Malware repository providing researchers access to samples, malicous feeds, and Yara results</td>
-    </tr>
-    <tr>
-        <td><a href="https://malware.one/index.php?action=login">malware.one</a></td>
-        <td>malware.one is a binary substring searchable malware catalog containing terabytes of malicious code</td>
     </tr>
     <tr>
         <td><a href="https://github.com/MalwareCantFly/Vba2Graph/">MalwareCantFly/Vba2Graph</a></td>
@@ -1621,6 +1621,10 @@ This repository is created as an online bookmark for useful links, resources and
     <tr>
         <td><a href="https://github.com/NetSPI/goddi">NetSPI/goddi</a></td>
         <td>goddi (go dump domain info) dumps Active Directory domain information</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/outflanknl/Recon-AD">outflanknl/Recon-AD</a></td>
+        <td>Recon-AD, an AD recon tool based on ADSI and reflective DLL’s</td>
     </tr>
     <tr>
         <td><a href="https://github.com/peewpw/Invoke-PSImage">peewpw/Invoke-PSImage</a></td>
