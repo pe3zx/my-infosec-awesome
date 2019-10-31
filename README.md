@@ -1627,6 +1627,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>HTA encryption tool for RedTeams</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/nccgroup/GTFOBLookup">nccgroup/GTFOBLookup</a></td>
+        <td>Offline command line lookup utility for GTFOBins</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/Ne0nd0g/merlin">Ne0nd0g/merlin</a></td>
         <td>Merlin is a cross-platform post-exploitation HTTP/2 Command & Control server and agent written in golang.</td>
     </tr>
