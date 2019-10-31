@@ -1110,6 +1110,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Mystique may be used to discover infection markers that can be used to vaccinate endpoints against malware. It receives as input a malicious sample and automatically generates a list of mutexes that could be used to as "vaccines" against the sample</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/mitchellkrogza/Phishing.Database">mitchellkrogza/Phishing.Database</a></td>
+        <td>Phishing Domains, urls websites and threats database. We use the PyFunceble testing tool to validate the status of all known Phishing domains and provide stats to reveal how many unique domains used for Phishing are still active</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/nbeede/BoomBox">nbeede/BoomBox</a></td>
         <td>Automatic deployment of Cuckoo Sandbox malware lab using Packer and Vagrant</td>
     </tr>
