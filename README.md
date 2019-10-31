@@ -326,10 +326,6 @@ This repository is created as an online bookmark for useful links, resources and
         <td>A tool for quickly evaluating IAM permissions in AWS.</td>
     </tr>
     <tr>
-        <td><a href="https://github.com/sendgrid/krampus">sendgrid/krampus</a></td>
-        <td>The original AWS security enforcer™</td>
-    </tr>
-    <tr>
         <td><a href="https://github.com/nccgroup/Scout2">nccgroup/Scout2</a></td>
         <td>Security auditing tool for AWS environments</td>
     </tr>
@@ -346,12 +342,12 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Security Monkey monitors your AWS and GCP accounts for policy changes and alerts on insecure configurations.</td>
     </tr>
     <tr>
-        <td><a href="https://github.com/prevade/cloudjack">prevade/cloudjack</a></td>
-        <td>Route53/CloudFront Vulnerability Assessment Utility</td>
+        <td><a href="https://github.com/NotSoSecure/cloud-service-enum/">NotSoSecure/cloud-service-enum</a></td>
+        <td>This script allows pentesters to validate which cloud tokens (API keys, OAuth tokens and more) can access which cloud service.</td>
     </tr>
     <tr>
-        <td><a href="https://github.com/sa7mon/S3Scanner">sa7mon/S3Scanner</a></td>
-        <td>Scan for open S3 buckets and dump</td>
+        <td><a href="https://github.com/prevade/cloudjack">prevade/cloudjack</a></td>
+        <td>Route53/CloudFront Vulnerability Assessment Utility</td>
     </tr>
     <tr>
         <td><a href="https://github.com/random-robbie/slurp">random-robbie/slurp</a></td>
@@ -364,6 +360,14 @@ This repository is created as an online bookmark for useful links, resources and
     <tr>
         <td><a href="https://github.com/RiotGames/cloud-inquisitor">RiotGames/cloud-inquisitor</a></td>
         <td>Enforce ownership and data security within AWS</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/sa7mon/S3Scanner">sa7mon/S3Scanner</a></td>
+        <td>Scan for open S3 buckets and dump</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/sendgrid/krampus">sendgrid/krampus</a></td>
+        <td>The original AWS security enforcer™</td>
     </tr>
     <tr>
         <td><a href="https://github.com/toniblyx/prowler">toniblyx/prowler</a></td>
