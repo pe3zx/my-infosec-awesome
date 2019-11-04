@@ -1829,6 +1829,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>This repository lists most of the challenges used in the Google CTF 2017. The missing challenges are not ready to be open-sourced, or contain third-party code.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/nccgroup/sadcloud">nccgroup/sadcloud</a></td>
+        <td>A tool for standing up (and tearing down!) purposefully insecure cloud infrastructure</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/OWASP/iGoat-Swift">OWASP/iGoat-Swift</a></td>
         <td>OWASP iGoat (Swift) - A Damn Vulnerable Swift Application for iOS</td>
     </tr>
