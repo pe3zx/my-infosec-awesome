@@ -982,6 +982,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Imaginary C2 is a python tool which aims to help in the behavioral (network) analysis of malware. Imaginary C2 hosts a HTTP server which captures HTTP requests towards selectively chosen domains/IPs. Additionally, the tool aims to make it easy to replay captured Command-and-Control responses/served payloads.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/fortinet/ips-bph-framework">ips-bph-framework</a></td>
+        <td>BLACKPHENIX is an open source malware analysis automation framework composed of services, scripts, plug-ins, and tools and is based on a Command-and-Control (C&C) architecture</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/FortyNorthSecurity/WMImplant">FortyNorthSecurity/WMImplant</a></td>
         <td>This is a PowerShell based tool that is designed to act like a RAT. Its interface is that of a shell where any command that is supported is translated into a WMI-equivalent for use on a network/remote machine. WMImplant is WMI based.</td>
     </tr>
