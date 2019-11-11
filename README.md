@@ -1182,6 +1182,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Advanced Indicator of Compromise (IOC) extractor</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/quarkslab/irma">quarkslab/irma</a></td>
+        <td>IRMA is an asynchronous & customizable analysis system for suspicious files.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/quasar/QuasarRAT">quasar/QuasarRAT</a></td>
         <td>Quasar is a fast and light-weight remote administration tool coded in C#. Providing high stability and an easy-to-use user interface, Quasar is the perfect remote administration solution for you.</td>
     </tr>
