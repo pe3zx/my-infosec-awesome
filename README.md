@@ -1126,6 +1126,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Phishing Domains, urls websites and threats database. We use the PyFunceble testing tool to validate the status of all known Phishing domains and provide stats to reveal how many unique domains used for Phishing are still active</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/mohamedaymenkarmous/alienvault-otx-api-html">mohamedaymenkarmous/alienvault-otx-api-html</a></td>
+        <td>AlienVault OTX API-based project with HTML (pure HTML or mixed PNG screenshots) reports pages that looks like the real AlienVault OTX website</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/nbeede/BoomBox">nbeede/BoomBox</a></td>
         <td>Automatic deployment of Cuckoo Sandbox malware lab using Packer and Vagrant</td>
     </tr>
