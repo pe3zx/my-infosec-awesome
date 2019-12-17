@@ -835,10 +835,6 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Kernel privilege escalation enumeration and exploitation framework</td>
     </tr>
     <tr>
-        <td><a href="https://sploitus.com/">Sploitus</a></td>
-        <td>Exploit & Hacktool Search Engine</td>
-    </tr>
-    <tr>
         <td><a href="https://github.com/tunz/js-vuln-db">tunz/js-vuln-db</a></td>
         <td>A collection of JavaScript engine CVEs with PoCs</td>
     </tr>
@@ -1416,10 +1412,6 @@ This repository is created as an online bookmark for useful links, resources and
         <td><b>Link</b></td>
         <td><b>Description</b></td>
     </tr>
-    <tr>
-		<td><a href="https://inteltechniques.com/menu.html">Buscador</a></td>
-		<td>Buscador is an OSINT Linux Virtual Machine that is pre-configured for online investigations</td>
-	</tr>
     <tr>
         <td><a href="https://cellidfinder.com/">CellID Finder</a></td>
         <td>Find GSM base stations cell id coordinates</a></td>
