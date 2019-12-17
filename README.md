@@ -111,6 +111,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td><a href="https://github.com/SpiderLabs/sheepl">SpiderLabs/sheepl</a></td>
         <td>Sheepl : Creating realistic user behaviour for supporting tradecraft development within lab environments</td>
     </tr>
+	<tr>
+		<td><a href="https://github.com/splunk/attack_range">splunk/attack_range</a></td>
+		<td>A tool that allows you to create vulnerable instrumented local or cloud environments to simulate attacks against and collect the data into Splunk</td>
+	</tr>
     <tr>
         <td><a href="https://github.com/uber-common/metta">uber-common/metta</a></td>
         <td>An information security preparedness tool to do adversarial simulation.</td>
