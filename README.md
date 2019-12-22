@@ -1473,6 +1473,11 @@ This repository is created as an online bookmark for useful links, resources and
         <td>In-depth Attack Surface Mapping and Asset Discovery</td>
     </tr>
     <tr>
+		<td><a href="https://github.com/sshell/reddit-analyzer">sshell/reddit-analyzer</a></td>
+		<td>find out when and where someone is posting to reddit</td>
+	</tr>
+	</tr>
+    <tr>
         <td><a href="http://www.spiderfoot.net/">SpiderFoot</a></td>
         <td>SpiderFoot - Opensource Intelligence Automation</td>
     </tr>
