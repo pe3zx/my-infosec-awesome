@@ -570,6 +570,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>ARDvark parses the Apple Remote Desktop (ARD) files to pull out application usage, user activity, and filesystem listings.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/fireeye/SilkETW">fireeye/SilkETW</a></td>
+        <td>SilkETW & SilkService are flexible C# wrappers for ETW, they are meant to abstract away the complexities of ETW and give people a simple interface to perform research and introspection.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/ForensicArtifacts/artifacts">ForensicArtifacts/artifacts</a></td>
         <td>Digital Forensics Artifact Repository</td>
     </tr>
