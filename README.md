@@ -1830,6 +1830,10 @@ This repository is created as an online bookmark for useful links, resources and
 		<td>AutomatedLab is a provisioning solution and framework that lets you deploy complex labs on HyperV and Azure with simple PowerShell scripts. It supports all Windows operating systems from 2008 R2 to 2016 including Nano Server and various products like AD, Exchange, PKI, IIS, etc.</td>
 	</tr>
     <tr>
+        <td><a href="https://github.com/avishayil/caponeme">avishayil/caponeme</a></td>
+        <td>Repository demonstrating the Capital One breach on your AWS account</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/Billy-Ellis/Exploit-Challenges">Billy-Ellis/Exploit-Challenges</a></td>
         <td>A collection of vulnerable ARM binaries for practicing exploit development</td>
     </tr>
