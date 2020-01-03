@@ -76,6 +76,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Automated Tactics Techniques & Procedures</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/MiladMSFT/ThreatHunt">MiladMSFT/ThreatHunt</a></td>
+        <td>ThreatHunt is a PowerShell repository that allows you to train your threat hunting skills.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/mdsecactivebreach/CACTUSTORCH">mdsecactivebreach/CACTUSTORCH</a></td>
         <td>CACTUSTORCH: Payload Generation for Adversary Simulations</td>
     </tr>
