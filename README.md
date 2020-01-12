@@ -662,6 +662,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Python wrapper for the Mitre ATT&CK framework API</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/mozilla/audit-go">mozilla/audit-go</a></td>
+        <td>Linux Audit Plugin for heka written using netlink Protocol in golang and Lua</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/mozilla/mig">mozilla/mig</a></td>
         <td>Distributed & real time digital forensics at the speed of the cloud</td>
     </tr>
@@ -692,6 +696,10 @@ This repository is created as an online bookmark for useful links, resources and
     <tr>
         <td><a href="https://ossec.github.io/">OSSEC</a></td>
         <td>Open Source HIDS SECurity</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/philhagen/sof-elk">philhagen/sof-elk</a></td>
+        <td>Configuration files for the SOF-ELK VM, used in SANS FOR572</td>
     </tr>
     <tr>
         <td><a href="https://github.com/ptresearch/AttackDetection">ptresearch/AttackDetection</a></td>
@@ -736,10 +744,6 @@ This repository is created as an online bookmark for useful links, resources and
     <tr>
         <td><a href="https://github.com/slackhq/go-audit">slackhq/go-audit</a></td>
         <td>go-audit is an alternative to the auditd daemon that ships with many distros</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/philhagen/sof-elk">philhagen/sof-elk</a></td>
-        <td>Configuration files for the SOF-ELK VM, used in SANS FOR572</td>
     </tr>
 	<tr>
 		<td><a href="https://github.com/s0md3v/Orbit">s0md3v/Orbit</a></td>
