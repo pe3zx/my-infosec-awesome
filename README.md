@@ -1134,6 +1134,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>The following interface stands in front of a live engine which takes binary files and runs them against a pletora of hundreds YARA rules.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/matterpreter/DefenderCheck">matterpreter/DefenderCheck</a></td>
+        <td>Identifies the bytes that Microsoft Defender flags on.</td>
+    </tr>
+    <tr>
         <td><a href="https://macmalware.manwe.io/">100 recent OSX/iOS/Mac malware samples</a></td>
         <td>This is a partial list of mac malware samples.</td>
     </tr>
