@@ -769,6 +769,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td><a href="https://github.com/THIBER-ORG/userline">THIBER-ORG/userline</a></td>
         <td>Query and report user logons relations from MS Windows Security Events</td>
     </tr>
+    <tr>
+        <td><a href="https://github.com/trustedsec/SysmonCommunityGuide">trustedsec/SysmonCommunityGuide</a></td>
+        <td>TrustedSec Sysinternals Sysmon Community Guide</td>
+    </tr>
 	<tr>
 		<td><a href="https://github.com/ufrisk/LeechCore">ufrisk/LeechCore</a></td>
 		<td>LeechCore - Physical Memory Acquisition Library & The LeechAgent Remote Memory Acquisition Agent</td>
