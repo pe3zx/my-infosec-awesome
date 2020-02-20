@@ -1254,6 +1254,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Viewing PAN Unit 42's adversary playbook via web interface</td>
     </tr>
     <tr>
+        <td><a href="https://www.unpac.me/#/">UNPACME</a></td>
+        <td>An automated malware unpacking service from OpenAnalysis</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/ytisf/theZoo">ytisf/theZoo</a></td>
         <td>A repository of LIVE malwares for your own joy and pleasure</td>
     </tr>
