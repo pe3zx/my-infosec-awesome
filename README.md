@@ -1473,6 +1473,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>An advanced Twitter scraping & OSINT tool written in Python that doesn't use Twitter's API, allowing you to scrape a user's followers, following, Tweets and more while evading most API limitations.</td>
     </tr>
     <tr>
+        <td><a href="https://intelx.io/">IntelligenceX</a></td>
+        <td>Search Tor, I2P, data leaks, public web.| </td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/InQuest/omnibus">InQuest/omnibus</a></td>
         <td>The OSINT Omnibus</td>
     </tr>
