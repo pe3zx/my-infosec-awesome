@@ -1505,6 +1505,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>In-depth Attack Surface Mapping and Asset Discovery</td>
     </tr>
     <tr>
+        <td><a href="https://psbdmp.ws/">Pastebin dump collection</a></td>
+        <td>Pastebin dump collection</td>
+    </tr>
+    <tr>
 		<td><a href="https://github.com/sshell/reddit-analyzer">sshell/reddit-analyzer</a></td>
 		<td>find out when and where someone is posting to reddit</td>
 	</tr>
