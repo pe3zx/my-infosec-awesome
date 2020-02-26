@@ -1258,6 +1258,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Viewing PAN Unit 42's adversary playbook via web interface</td>
     </tr>
     <tr>
+        <td><a href="https://www.unpac.me/#/">UNPACME</a></td>
+        <td>An automated malware unpacking service from OpenAnalysis</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/ytisf/theZoo">ytisf/theZoo</a></td>
         <td>A repository of LIVE malwares for your own joy and pleasure</td>
     </tr>
@@ -1477,6 +1481,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>An advanced Twitter scraping & OSINT tool written in Python that doesn't use Twitter's API, allowing you to scrape a user's followers, following, Tweets and more while evading most API limitations.</td>
     </tr>
     <tr>
+        <td><a href="https://intelx.io/">IntelligenceX</a></td>
+        <td>Search Tor, I2P, data leaks, public web.| </td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/InQuest/omnibus">InQuest/omnibus</a></td>
         <td>The OSINT Omnibus</td>
     </tr>
@@ -1507,6 +1515,10 @@ This repository is created as an online bookmark for useful links, resources and
     <tr>
         <td><a href="https://github.com/OWASP/Amass">OWASP/Amass</a></td>
         <td>In-depth Attack Surface Mapping and Asset Discovery</td>
+    </tr>
+    <tr>
+        <td><a href="https://psbdmp.ws/">Pastebin dump collection</a></td>
+        <td>Pastebin dump collection</td>
     </tr>
     <tr>
 		<td><a href="https://github.com/sshell/reddit-analyzer">sshell/reddit-analyzer</a></td>
@@ -1618,6 +1630,10 @@ This repository is created as an online bookmark for useful links, resources and
     <tr>
         <td><a href="https://github.com/eladshamir/Internal-Monologue">eladshamir/Internal-Monologue</a></td>
         <td>Internal Monologue Attack: Retrieving NTLM Hashes without Touching LSASS</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/FSecureLABS/physmem2profit">FSecureLABS/physmem2profit </a></td>
+        <td>Physmem2profit can be used to create a minidump of a target hosts' LSASS process by analysing physical memory remotely</td>
     </tr>
     <tr>
         <td><a href="https://github.com/fbkcs/ThunderDNS">fbkcs/ThunderDNS</a></td>
