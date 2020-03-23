@@ -1122,6 +1122,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>A free Malware repository providing researchers access to samples, malicous feeds, and Yara results</td>
     </tr>
     <tr>
+        <td><a href="https://bazaar.abuse.ch/browse/">MalwareBazaar Database</a></td>
+        <td>MalwareBazaar is a project operated by abuse.ch. The purpose of the project is to collect and share malware samples, helping IT-security researchers and threat analyst protecting their constituency and customers from cyber threats.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/MalwareCantFly/Vba2Graph/">MalwareCantFly/Vba2Graph</a></td>
         <td>Vba2Graph - Generate call graphs from VBA code, for easier analysis of malicious documents.</td>
     </tr>
