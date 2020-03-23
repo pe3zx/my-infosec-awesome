@@ -1541,6 +1541,10 @@ This repository is created as an online bookmark for useful links, resources and
 		<td><a href="https://hackertarget.com/recon-ng-tutorial/">Recon-NG</a></td>
 		<td>Recon-ng is a reconnaissance tool with an interface similar to Metasploit. Running recon-ng from the command line you enter a shell like environment where you can configure options, perform recon and output results to different report types.</td>
 	</tr>
+    <tr>
+        <td><a href="https://whatsmyname.app/">WhatsMyName Web</a></td>
+        <td>This tool allows you to enumerate usernames across many websites</td>
+    </tr>
 	<tr>
 		<td><a href="https://github.com/woj-ciech/kamerka">woj-ciech/kamerka</a></td>
 		<td>Build interactive map of cameras from Shodan</td>
