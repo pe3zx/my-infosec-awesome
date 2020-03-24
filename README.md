@@ -1154,10 +1154,6 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Identifies the bytes that Microsoft Defender flags on.</td>
     </tr>
     <tr>
-        <td><a href="https://macmalware.manwe.io/">100 recent OSX/iOS/Mac malware samples</a></td>
-        <td>This is a partial list of mac malware samples.</td>
-    </tr>
-    <tr>
         <td><a href="https://github.com/MinervaLabsResearch/Mystique">MinervaLabsResearch/Mystique</a></td>
         <td>Mystique may be used to discover infection markers that can be used to vaccinate endpoints against malware. It receives as input a malicious sample and automatically generates a list of mutexes that could be used to as "vaccines" against the sample</td>
     </tr>
