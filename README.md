@@ -1351,6 +1351,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Tool to look for several security related Android application vulnerabilities</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/m0bilesecurity/RMS-Runtime-Mobile-Security">m0bilesecurity/RMS-Runtime-Mobile-Security</a></td>
+        <td>Runtime Mobile Security (RMS) is a powerful web interface that helps you to manipulate Android Java Classes and Methods at Runtime</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/MobSF/Mobile-Security-Framework-MobSF">MobSF/Mobile-Security-Framework-MobSF</a></td>
         <td>Mobile Security Framework is an automated, all-in-one mobile application (Android/iOS/Windows) pen-testing framework capable of performing static analysis, dynamic analysis, malware analysis and web API testing</td>
     </tr>
