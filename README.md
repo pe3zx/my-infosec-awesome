@@ -298,6 +298,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>CloudMapper helps you analyze your Amazon Web Services (AWS) environments.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/endgameinc/varna">endgameinc/varna</a></td>
+        <td>Varna: Quick & Cheap AWS CloudTrail Monitoring with Event Query Language (EQL)</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/eth0izzle/bucket-stream">eth0izzle/bucket-stream</a></td>
         <td>Find interesting Amazon S3 Buckets by watching certificate transparency logs.</td>
     </tr>
