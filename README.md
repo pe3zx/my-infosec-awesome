@@ -1465,6 +1465,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td><b>Description</b></td>
     </tr>
     <tr>
+        <td><a href="https://github.com/arch4ngel/peasant">arch4ngel/peasant</a></td>
+        <td>LinkedIn reconnaissance tool</td>
+    </tr>
+    <tr>
         <td><a href="https://cellidfinder.com/">CellID Finder</a></td>
         <td>Find GSM base stations cell id coordinates</a></td>
     </tr>
