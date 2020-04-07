@@ -1269,6 +1269,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td><a href="https://github.com/t4d/PhishingKitHunter">t4d/PhishingKitHunter</a></td>
         <td>Find phishing kits which use your brand/organization's files and image.</td>
     </tr>
+    <tr>
+        <td><a href="https://github.com/ThisIsLibra/MalPull">ThisIsLibra/MalPull</a></td>
+        <td>A CLI interface to search for a MD-5/SHA-1/SHA-256 hash on multiple malware databases and download the sample from the first hit</td>
+    </tr>
 	<tr>
 		<td><a href="https://github.com/tomchop/malcom">tomchop/malcom</a></td>
 		<td>Malcom - Malware Communications Analyzer</td>
