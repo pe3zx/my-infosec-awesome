@@ -173,8 +173,8 @@ This repository is created as an online bookmark for useful links, resources and
         <td>FireEye Labs Obfuscated String Solver - Automatically extract obfuscated strings from malware.</td>
     </tr>
     <tr>
-        <td><a href="https://github.com/fireeye/flare-fakenet-ng">fireeye/flare-fakenet-ng</a></td>
-        <td>FakeNet-NG - Next Generation Dynamic Network Analysis Tool</td>
+        <td><a href="https://github.com/FuzzySecurity/Fermion">FuzzySecurity/Fermion</a></td>
+        <td>Fermion, an electron wrapper for Frida & Monaco.</td>
     </tr>
     <tr>
         <td><a href="https://ghidra-sre.org/">GHIDRA</a></td>
@@ -1430,6 +1430,10 @@ This repository is created as an online bookmark for useful links, resources and
     <tr>
         <td><a href="https://github.com/eldraco/domain_analyzer/">eldraco/domain_analyzer</a></td>
         <td>Analyze the security of any domain by finding all the information possible. Made in python.</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/fireeye/flare-fakenet-ng">fireeye/flare-fakenet-ng</a></td>
+        <td>FakeNet-NG - Next Generation Dynamic Network Analysis Tool</td>
     </tr>
     <tr>
         <td><a href="https://github.com/infobyte/evilgrade">infobyte/evilgrade</a></td>
