@@ -572,7 +572,11 @@ This repository is created as an online bookmark for useful links, resources and
     <tr>
         <td><a href="https://github.com/draios/sysdig">draios/sysdig</a></td>
         <td>Linux system exploration and troubleshooting tool with first class support for containers</td>
-    </tr>   
+    </tr>
+    <tr>
+        <td><a href="https://github.com/drego85/meioc">drego85/meioc</a></td>
+        <td>Extracting IoC data from eMail</td>
+    </tr>
     <tr>
         <td><a href="https://github.com/DFIRKuiper/Kuiper">DFIRKuiper/Kuiper</a></td>
         <td>Kuiper is a digital investigation platform that provides a capabilities for the investigation team and individuals to parse, search, visualize collected evidences (evidences could be collected by fast traige script like Hoarder).</td>
