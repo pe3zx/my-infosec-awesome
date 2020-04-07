@@ -217,6 +217,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>tool for searching signatures inside files, extremely useful in reversing engineering for figuring or having an initial idea of what encryption/compression algorithm is used for a proprietary protocol or file. it can recognize tons of compression, multimedia and encryption algorithms and many other things like known strings and anti-debugging code which can be also manually added since it's all based on a text signature file read at runtime and easy to modify.</td>
     </tr>
     <tr>
+        <td><a href="https://rayanfam.com/topics/pinitor/">Pinitor</a></td>
+        <td>An API Monitor Based on Pin</td>
+    </tr>
+    <tr>
         <td><a href="https://pypi.org/project/pygore/">pygore</a></td>
         <td>Python library for analyzing Go binaries</td>
     </tr>
