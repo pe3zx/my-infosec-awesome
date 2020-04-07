@@ -618,6 +618,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>A repo to document API functions mapped to security events across diverse platforms</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/hunters-forge/OSSEM">hunters-forge/OSSEM</a></td>
+        <td>Open Source Security Events Metadata (OSSEM)</td>
+    </tr>
+    <tr>
         <td><a href="https://securelist.com/happy-ir-in-the-new-year/83557/">Kaspersky IR's Artifacts Collector</a></td>
         <td>Kaspersky IR's Artifacts Collector</td>
     </tr>
