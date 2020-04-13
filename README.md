@@ -1640,6 +1640,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Empire is a PowerShell and Python post-exploitation agent.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/bohops/GhostBuild">bohops/GhostBuild</a></td>
+        <td>GhostBuild is a collection of simple MSBuild launchers for various GhostPack/.NET projects</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/cobbr/Covenant">cobbr/Covenant</a></td>
         <td> Covenant is a .NET command and control framework that aims to highlight the attack surface of .NET, make the use of offensive .NET tradecraft easier, and serve as a collaborative command and control platform for red teamers.</td>
     </tr>
