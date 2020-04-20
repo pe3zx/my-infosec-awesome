@@ -974,6 +974,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Interesting apt report collection and some special ioc express</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/carbonblack/binee">carbonblack/binee</a></td>
+        <td>Binee: binary emulation environment</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/CapacitorSet/box-js">CapacitorSet/box-js</a></td>
         <td>A tool for studying JavaScript malware</td>
     </tr>
