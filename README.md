@@ -145,6 +145,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>RetDec is a retargetable machine-code decompiler based on LLVM</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/carbonblack/binee">carbonblack/binee</a></td>
+        <td>Binee: binary emulation environment</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/bootleg/ret-sync">bootleg/ret-sync</a></td>
         <td>ret-sync is a set of plugins that helps to synchronize a debugging session (WinDbg/GDB/LLDB/OllyDbg2/x64dbg) with IDA/Ghidra disassemblers.</td>
     </tr>
@@ -223,6 +227,10 @@ This repository is created as an online bookmark for useful links, resources and
     <tr>
         <td><a href="https://pypi.org/project/pygore/">pygore</a></td>
         <td>Python library for analyzing Go binaries</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/qilingframework/qiling">qilingframework/qiling</a></td>
+        <td>Qiling Advanced Binary Emulation Framework</td>
     </tr>
     <tr>
         <td><a href="https://github.com/taviso/loadlibrary">taviso/loadlibrary</a></td>
@@ -972,10 +980,6 @@ This repository is created as an online bookmark for useful links, resources and
     <tr>
         <td><a href="https://github.com/blackorbird/APT_REPORT">blackorbird/APT_REPORT</a></td>
         <td>Interesting apt report collection and some special ioc express</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/carbonblack/binee">carbonblack/binee</a></td>
-        <td>Binee: binary emulation environment</td>
     </tr>
     <tr>
         <td><a href="https://github.com/CapacitorSet/box-js">CapacitorSet/box-js</a></td>
