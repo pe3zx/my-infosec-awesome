@@ -398,12 +398,12 @@ This repository is created as an online bookmark for useful links, resources and
         <td>The original AWS security enforcer™</td>
     </tr>
     <tr>
-        <td><a href="https://github.com/toniblyx/prowler">toniblyx/prowler</a></td>
-        <td>Tool based on AWS-CLI commands for AWS account security assessment and hardening, following guidelines of the CIS Amazon Web Services Foundations Benchmark 1.1</td>
-    </tr>
-    <tr>
         <td><a href="https://github.com/SecurityFTW/cs-suite">SecurityFTW/cs-suite</a></td>
         <td>Cloud Security Suite - One stop tool for auditing the security posture of AWS infrastructure.</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/swimlane/CLAW">swimlane/CLAW</a></td>
+        <td>A packer utility to create and capture DFIR Image for use AWS & Azure</td>
     </tr>
     <tr>
         <td><a href="https://github.com/ThreatResponse/margaritashotgun">ThreatResponse/margaritashotgun</a></td>
@@ -412,6 +412,10 @@ This repository is created as an online bookmark for useful links, resources and
     <tr>
         <td><a href="https://github.com/ThreatResponse/aws_ir">ThreatResponse/aws_ir</a></td>
         <td>Python installable command line utiltity for mitigation of host and key compromises.</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/toniblyx/prowler">toniblyx/prowler</a></td>
+        <td>Tool based on AWS-CLI commands for AWS account security assessment and hardening, following guidelines of the CIS Amazon Web Services Foundations Benchmark 1.1</td>
     </tr>
 </table>
 
