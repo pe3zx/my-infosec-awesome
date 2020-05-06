@@ -394,6 +394,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Scan for open S3 buckets and dump</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/salesforce/cloudsplaining">salesforce/cloudsplaining</a></td>
+        <td>Cloudsplaining is an AWS IAM Security Assessment tool that identifies violations of least privilege and generates a risk-prioritized HTML report with a triage worksheet</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/sendgrid/krampus">sendgrid/krampus</a></td>
         <td>The original AWS security enforcer™</td>
     </tr>
