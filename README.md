@@ -1776,6 +1776,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Merlin is a cross-platform post-exploitation HTTP/2 Command & Control server and agent written in golang.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/NetSPI/ESC">NetSPI/ESC</a></td>
+        <td>Evil SQL Client (ESC) is an interactive .NET SQL console client with enhanced SQL Server discovery, access, and data exfiltration features. While ESC can be a handy SQL Client for daily tasks, it was originally designed for targeting Active Directory domain joined SQL Servers during penetration tests and red team engagements.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/NetSPI/goddi">NetSPI/goddi</a></td>
         <td>goddi (go dump domain info) dumps Active Directory domain information</td>
     </tr>
