@@ -1521,6 +1521,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>crt.sh | Certificate</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/danieliu/play-scraper">danieliu/play-scraper</a></td>
+        <td>A web scraper to retrieve application data from the Google Play Store.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/DataSploit/datasploit">DataSploit/datasploit</a></td>
         <td>An #OSINT Framework to perform various recon techniques on Companies, People, Phone Number, Bitcoin Addresses, etc., aggregate all the raw data, and give data in multiple formats.</td>
     </tr>
