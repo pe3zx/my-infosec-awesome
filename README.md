@@ -173,6 +173,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Free and Open Source RE Platform powered by radare2</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/endgameinc/xori">endgameinc/xori</a></td>
+        <td>Xori is an automation-ready disassembly and static analysis library for PE32, 32+ and shellcode</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/enkomio/shed">enkomio/shed</a></td>
         <td>.NET runtine inspector. <a href="http://antonioparata.blogspot.it/2017/11/shed-inspect-net-malware-like-sir.html">Shed - Inspect .NET malware like a Sir</a></td>
     </tr>
