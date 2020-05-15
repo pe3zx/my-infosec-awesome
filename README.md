@@ -530,6 +530,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Free Forensics Tool – $I File Parser</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/activecm/BeaKer">activecm/BeaKer</a></td>
+        <td>Beacon Kibana Executable Report. Aggregates Sysmon Network Events With Elasticsearch and Kibana</td>
+    </tr>
+    <tr>
         <td><a href="https://www.alienvault.com/products/ossim">AlienVault OSSIM</a></td>
         <td>AlienVault OSSIM: The World’s Most Widely Used Open Source SIEM</td>
     </tr>
