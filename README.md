@@ -286,6 +286,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Open source demos, concept and guidance related to the AWS CIS Foundation framework.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/Azure/Stormspotter">Azure/Stormspotter</a></td>
+        <td>Azure Red Team tool for graphing Azure and Azure Active Directory objects</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/carnal0wnage/weirdAAL/wiki">carnal0wnage/weirdAAL</a></td>
         <td>WeirdAAL [AWS Attack Library] wiki!</td>
     </tr>
