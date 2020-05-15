@@ -798,6 +798,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>SIEMonster is an Affordable Security Monitoring Software Soulution</td>
     </tr>
     <tr>
+        <td><a href="https://sigma.socprime.com/#!/">Sigma Rules Repository Mirror</a></td>
+        <td>Sigma rules repository mirror and translations</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/slackhq/go-audit">slackhq/go-audit</a></td>
         <td>go-audit is an alternative to the auditd daemon that ships with many distros</td>
     </tr>
