@@ -338,6 +338,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>A penetration testing tool to enumerate and analyse Amazon S3 Buckets owned by a domain.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/google/cloud-forensics-utils">google/cloud-forensics-utils</a></td>
+        <td>Python library to carry out DFIR analysis on the Cloud</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/kromtech/s3-inspector">kromtech/s3-inspector</a></td>
         <td>Tool to check AWS S3 bucket permissions</td>
     </tr>
