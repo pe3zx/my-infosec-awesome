@@ -1013,7 +1013,7 @@ This repository is created as an online bookmark for useful links, resources and
         <td><a href="https://github.com/blackorbird/APT_REPORT">blackorbird/APT_REPORT</a></td>
         <td>Interesting apt report collection and some special ioc express</td>
     </tr>
-    <tr>
+    <tching Triage.tr>
         <td><a href="https://github.com/CapacitorSet/box-js">CapacitorSet/box-js</a></td>
         <td>A tool for studying JavaScript malware</td>
     </tr>
@@ -1116,6 +1116,10 @@ This repository is created as an online bookmark for useful links, resources and
     <tr>
         <td><a href="https://github.com/hasherezade/pe-sieve">hasherezade/pe-sieve</a></td>
         <td>Scans a given process, searching for the modules containing in-memory code modifications. When found, it dumps the modified PE.</td>
+    </tr>
+    <tr>
+        <td><a href="https://tria.ge/">Hatching Triage</a></td>
+        <td>Triage is our state-of-the-art malware analysis sandbox designed for cross-platform support (Windows, Android, Linux, and macOS), high-volume malware analysis capabilities, and configuration extraction for numerous malware families.</td>
     </tr>
     <tr>
         <td><a href="https://github.com/hegusung/AVSignSeek">hegusung/AVSignSeek</a></td>
