@@ -1306,6 +1306,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>SEKOIA Dropper Analysis</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/SpamScope/spamscope">SpamScope/spamscope</a></td>
+        <td>Fast Advanced Spam Analysis Tool</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/SpiderLabs/IOCs-IDPS">SpiderLabs/IOCs-IDPS</a></td>
         <td>This repository will hold PCAP IOC data related with known malware samples (owner: Bryant Smith)</td>
     </tr>
