@@ -1529,6 +1529,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td><b>Description</b></td>
     </tr>
     <tr>
+        <td><a href="https://github.com/althonos/InstaLooter">althonos/InstaLooter</a></td>
+        <td>Another API-less Instagram pictures and videos downloader.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/arch4ngel/peasant">arch4ngel/peasant</a></td>
         <td>LinkedIn reconnaissance tool</td>
     </tr>
