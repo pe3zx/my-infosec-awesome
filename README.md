@@ -706,10 +706,6 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Live Response Collection - Cedarpelta </td>
     </tr>
     <tr>
-        <td><a href="https://technet.microsoft.com/en-us/scriptcenter/dd919274.aspx">Log Parser</a></td>
-        <td>Log Parser 2.2 is a powerful, versatile tool that provides universal query access to text-based data such as log files, XML files and CSV files, as well as key data sources on the Windows operating system such as the Event Log, the Registry, the file system, and Active Directory</td>
-    </tr>
-    <tr>
         <td><a href="https://github.com/log2timeline/plaso">log2timeline/plaso</a></td>
         <td>log2timeline is a tool designed to extract timestamps from various files found on a typical computer system(s) and aggregate them.</td>
     </tr>
@@ -905,10 +901,6 @@ This repository is created as an online bookmark for useful links, resources and
     <tr>
         <td><a href="https://github.com/jollheef/out-of-tree">jollheef/out-of-tree</a></td>
         <td>out-of-tree kernel {module, exploit} development tool</td>
-    </tr>
-    <tr>
-        <td><a href="https://twitter.com/aionescu/status/981671095362174978">MSRC-41867 Local DoS on All Windows Version</a></td>
-        <td>MSRC-41867 Local DoS on All Windows Version (Won't Fix)</td>
     </tr>
     <tr>
         <td><a href="https://github.com/ScottyBauer/Android_Kernel_CVE_POCs">ScottyBauer/Android_Kernel_CVE_POCs</a></td>
