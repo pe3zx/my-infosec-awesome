@@ -678,6 +678,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>The Automated Collection and Enrichment (ACE) platform is a suite of tools for threat hunters to collect data from many endpoints in a network and automatically enrich the data. The data is collected by running scripts on each computer without installing any software on the target. ACE supports collecting from Windows, macOS, and Linux hosts.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/jimtin/IRCoreForensicFramework">jimtin/IRCoreForensicFramework</a></td>
+        <td>Powershell 7 (Powershell Core)/ C# cross platform forensic framework. Built by incident responders for incident responders.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/JPCERTCC/LogonTracer">JPCERTCC/LogonTracer</a></td>
         <td>Investigate malicious Windows logon by visualizing and analyzing Windows event log</td>
     </tr>
