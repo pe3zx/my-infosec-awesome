@@ -72,6 +72,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>RTA provides a framework of scripts designed to allow blue teams to test their detection capabilities against malicious tradecraft, modeled after MITRE ATT&CK</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/fireeye/capa">fireeye/capa</a></td>
+        <td>capa detects capabilities in executable files. You run it against a PE file or shellcode and it tells you what it thinks the program can do. For example, it might suggest that the file is a backdoor, is capable of installing services, or relies on HTTP to communicate.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/jymcheong/AutoTTP">jymchoeng/AutoTTP</a></td>
         <td>Automated Tactics Techniques & Procedures</td>
     </tr>
