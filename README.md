@@ -11,6 +11,7 @@ This repository is created as an online bookmark for useful links, resources and
 - [Adversary Simulation & Emulation](#adversary-simulation--emulation)
 - [Binary Analysis](#binary-analysis)
 - [Cloud Security](#cloud-security)
+- [Courses](#courses)
 - [Cryptography](#cryptography)
 - [Data Exfiltration](#data-exfiltration)
 - [Data Sets](#data-sets)
@@ -440,6 +441,19 @@ This repository is created as an online bookmark for useful links, resources and
     <tr>
         <td><a href="https://github.com/toniblyx/prowler">toniblyx/prowler</a></td>
         <td>Tool based on AWS-CLI commands for AWS account security assessment and hardening, following guidelines of the CIS Amazon Web Services Foundations Benchmark 1.1</td>
+    </tr>
+</table>
+
+## Courses
+
+<table>
+    <tr>
+        <td><b>Link</b></td>
+        <td><b>Description</b></td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/specterops/at-ps">specterops/at-ps</a></td>
+        <td>Adversary Tactics - PowerShell Training</td>
     </tr>
 </table>
 
