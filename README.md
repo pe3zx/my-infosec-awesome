@@ -1056,6 +1056,10 @@ This repository is created as an online bookmark for useful links, resources and
 		<td>CRXcavator automatically scans the entire Chrome Web Store every 3 hours and produces a quantified risk score for each Chrome Extension based on several factors.</td>
 	</tr>
     <tr>
+        <td><a href="https://github.com/countercept/snake">countercept/snake</a></td>
+        <td>snake - a malware storage zoo</td>
+    </tr>
+    <tr>
         <td><a href="http://dasmalwerk.eu/">DAS MALWERK</a></td>
         <td>DAS MALWERK - your one stop shop for fresh malware samples</td>
     </tr>
