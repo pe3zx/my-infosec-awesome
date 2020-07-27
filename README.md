@@ -254,6 +254,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Randomly changes Win32/64 PE Files for 'safer' uploading to malware and sandbox sites.</td>
     </tr>
     <tr>
+        <td><a href="https://codisec.com/veles/">Veles</a></td>
+        <td>New open source tool for binary data analysis</td>
+    </tr>
+    <tr>
         <td><a href="https://salmanarif.bitbucket.io/visual/index.html">VisUAL</a></td>
         <td>A highly visual ARM emulator</td>
     </tr>
