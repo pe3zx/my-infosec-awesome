@@ -1623,6 +1623,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>An advanced Twitter scraping & OSINT tool written in Python that doesn't use Twitter's API, allowing you to scrape a user's followers, following, Tweets and more while evading most API limitations.</td>
     </tr>
     <tr>
+        <td><a href="https://iknowwhatyoudownload.com/en/peer/">I Know What You Download</a></td>
+        <td>Torrent downloads and distributions for IP</td>
+    </tr>
+    <tr>
         <td><a href="https://www.immuniweb.com/radar/">ImmuniWeb</a></td>
         <td>Domain Security Test | Detect Dark Web Exposure, Phishing, Squatting and Trademark Infringement</td>
     </tr>
