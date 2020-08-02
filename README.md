@@ -2064,6 +2064,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Repository demonstrating the Capital One breach on your AWS account</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/Azure/Convex">Azure/Convex</a></td>
+        <td>Cloud Open-source Network Vulnerability Exploitation eXperience (CONVEX) spins up Capture The Flag environments in your Azure tenant for participants to play through.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/Billy-Ellis/Exploit-Challenges">Billy-Ellis/Exploit-Challenges</a></td>
         <td>A collection of vulnerable ARM binaries for practicing exploit development</td>
     </tr>
