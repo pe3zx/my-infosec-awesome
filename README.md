@@ -154,6 +154,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>visual analysis of binary files</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/blackberry/pe_tree">blackberry/pe_tree</a></td>
+        <td>Python module for viewing Portable Executable (PE) files in a tree-view using pefile and PyQt5. Can also be used with IDA Pro to dump in-memory PE files and reconstruct imports.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/carbonblack/binee">carbonblack/binee</a></td>
         <td>Binee: binary emulation environment</td>
     </tr>
