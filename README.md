@@ -1746,6 +1746,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>A tool to elevate privilege with Windows Tokens</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/3xpl01tc0d3r/Callidus">3xpl01tc0d3r/Callidus</a></td>
+        <td>It is developed using .net core framework in C# language. Allows operators to leverage O365 services for establishing command & control communication channel. It usages Microsoft Graph APIs for communicating with O365 services.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/411Hall/JAWS">411Hall/JAWS</a></td>
         <td>JAWS is PowerShell script designed to help penetration testers (and CTFers) quickly identify potential privilege escalation vectors on Windows systems. It is written using PowerShell 2.0 so 'should' run on every Windows version since Windows 7.</td>
     </tr>
