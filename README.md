@@ -1538,6 +1538,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>A free, online PCAP analysis engine</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/sensepost/routopsy">sensepost/routopsy</a></td>
+        <td>Routopsy is a toolkit built to attack often overlooked networking protocols. Routopsy currently supports attacks against Dynamic Routing Protocols (DRP) and First-Hop Redundancy Protocols (FHRP).</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/USArmyResearchLab/Dshell">USArmyResearchLab/Dshell</a></td>
         <td>An extensible network forensic analysis framework. Enables rapid development of plugins to support the dissection of network packet captures.</td>
     </tr>
