@@ -1072,6 +1072,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>snake - a malware storage zoo</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/D4stiny/spectre">D4stiny/spectre</a></td>
+        <td>A Windows kernel-mode rootkit that abuses legitimate communication channels to control a machine.</td>
+    </tr>
+    <tr>
         <td><a href="http://dasmalwerk.eu/">DAS MALWERK</a></td>
         <td>DAS MALWERK - your one stop shop for fresh malware samples</td>
     </tr>
