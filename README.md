@@ -150,6 +150,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>RetDec is a retargetable machine-code decompiler based on LLVM</td>
     </tr>
     <tr>
+        <td><a href="https://binvis.io/#/">binvis.io</a></td>
+        <td>visual analysis of binary files</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/carbonblack/binee">carbonblack/binee</a></td>
         <td>Binee: binary emulation environment</td>
     </tr>
@@ -252,6 +256,10 @@ This repository is created as an online bookmark for useful links, resources and
     <tr>
         <td><a href="https://github.com/secretsquirrel/recomposer">secretsquirrel/recomposer</a></td>
         <td>Randomly changes Win32/64 PE Files for 'safer' uploading to malware and sandbox sites.</td>
+    </tr>
+    <tr>
+        <td><a href="https://codisec.com/veles/">Veles</a></td>
+        <td>New open source tool for binary data analysis</td>
     </tr>
     <tr>
         <td><a href="https://salmanarif.bitbucket.io/visual/index.html">VisUAL</a></td>
@@ -1619,6 +1627,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>An advanced Twitter scraping & OSINT tool written in Python that doesn't use Twitter's API, allowing you to scrape a user's followers, following, Tweets and more while evading most API limitations.</td>
     </tr>
     <tr>
+        <td><a href="https://iknowwhatyoudownload.com/en/peer/">I Know What You Download</a></td>
+        <td>Torrent downloads and distributions for IP</td>
+    </tr>
+    <tr>
         <td><a href="https://www.immuniweb.com/radar/">ImmuniWeb</a></td>
         <td>Domain Security Test | Detect Dark Web Exposure, Phishing, Squatting and Trademark Infringement</td>
     </tr>
@@ -1820,6 +1832,10 @@ This repository is created as an online bookmark for useful links, resources and
     <tr>
         <td><a href="https://github.com/google/sandbox-attacksurface-analysis-tools">google/sandbox-attacksurface-analysis-tools</a></td>
         <td>This is a small suite of tools to test various properties of sandboxes on Windows. Many of the checking tools take a -p flag which is used to specify the PID of a sandboxed process. The tool will impersonate the token of that process and determine what access is allowed from that location. Also it's recommended to run these tools as an administrator or local system to ensure the system can be appropriately enumerated.</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/hlldz/dazzleUP">hlldz/dazzleUP</a></td>
+        <td>A tool that detects the privilege escalation vulnerabilities caused by misconfigurations and missing updates in the Windows operating systems.</td>
     </tr>
     <tr>
         <td><a href="https://github.com/hlldz/Invoke-Phant0m">hlldz/Invoke-Phant0m</a></td>
@@ -2050,6 +2066,10 @@ This repository is created as an online bookmark for useful links, resources and
     <tr>
         <td><a href="https://github.com/avishayil/caponeme">avishayil/caponeme</a></td>
         <td>Repository demonstrating the Capital One breach on your AWS account</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/Azure/Convex">Azure/Convex</a></td>
+        <td>Cloud Open-source Network Vulnerability Exploitation eXperience (CONVEX) spins up Capture The Flag environments in your Azure tenant for participants to play through.</td>
     </tr>
     <tr>
         <td><a href="https://github.com/Billy-Ellis/Exploit-Challenges">Billy-Ellis/Exploit-Challenges</a></td>
