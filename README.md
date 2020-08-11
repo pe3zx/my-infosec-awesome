@@ -319,6 +319,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>AWS security scanning checks</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/cr0hn/festin">cr0hn/festin</a></td>
+        <td>FestIn is a tool for discovering open S3 Buckets starting from a domains.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/cyberark/SkyArk">cyberark/SkyArk</a></td>
         <td>SkyArk is a cloud security tool, helps to discover, assess and secure the most privileged entities in AWS</td>
     </tr>
