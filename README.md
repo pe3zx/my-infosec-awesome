@@ -1387,6 +1387,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td><a href="http://vxvault.net/ViriList.php">VX Vault</a></td>
         <td>VX Vault</td>
     </tr>
+    <tr>
+        <td><a href="https://vxug.fakedoma.in/samples.html">vx-undergroud</td>
+        <td>A Malware Block is a compressed 7z file with 40,000 malicious binaries. Each binary is listed in an accompanied 'File listing'. Each block is 100% unique.</td>
+    </tr>
 	<tr>
 		<td><a href="https://github.com/zerosum0x0/smbdoor">zerosum0x0/smbdoor</a></td>
 		<td>kernel backdoor via registering a malicious SMB handler</td>
