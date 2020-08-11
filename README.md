@@ -154,6 +154,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>visual analysis of binary files</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/blackberry/pe_tree">blackberry/pe_tree</a></td>
+        <td>Python module for viewing Portable Executable (PE) files in a tree-view using pefile and PyQt5. Can also be used with IDA Pro to dump in-memory PE files and reconstruct imports.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/carbonblack/binee">carbonblack/binee</a></td>
         <td>Binee: binary emulation environment</td>
     </tr>
@@ -1068,6 +1072,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>snake - a malware storage zoo</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/D4stiny/spectre">D4stiny/spectre</a></td>
+        <td>A Windows kernel-mode rootkit that abuses legitimate communication channels to control a machine.</td>
+    </tr>
+    <tr>
         <td><a href="http://dasmalwerk.eu/">DAS MALWERK</a></td>
         <td>DAS MALWERK - your one stop shop for fresh malware samples</td>
     </tr>
@@ -1550,6 +1558,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>A free, online PCAP analysis engine</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/sensepost/routopsy">sensepost/routopsy</a></td>
+        <td>Routopsy is a toolkit built to attack often overlooked networking protocols. Routopsy currently supports attacks against Dynamic Routing Protocols (DRP) and First-Hop Redundancy Protocols (FHRP).</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/USArmyResearchLab/Dshell">USArmyResearchLab/Dshell</a></td>
         <td>An extensible network forensic analysis framework. Enables rapid development of plugins to support the dissection of network packet captures.</td>
     </tr>
@@ -1744,6 +1756,10 @@ This repository is created as an online bookmark for useful links, resources and
     <tr>
         <td><a href="https://github.com/0xbadjuju/Tokenvator">0xbadjuju/Tokenvator</a></td>
         <td>A tool to elevate privilege with Windows Tokens</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/3xpl01tc0d3r/Callidus">3xpl01tc0d3r/Callidus</a></td>
+        <td>It is developed using .net core framework in C# language. Allows operators to leverage O365 services for establishing command & control communication channel. It usages Microsoft Graph APIs for communicating with O365 services.</td>
     </tr>
     <tr>
         <td><a href="https://github.com/411Hall/JAWS">411Hall/JAWS</a></td>
