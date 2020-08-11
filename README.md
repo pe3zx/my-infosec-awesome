@@ -1136,10 +1136,6 @@ This repository is created as an online bookmark for useful links, resources and
         <td>The project is called Great SCT (Great Scott). Great SCT is an open source project to generate application white list bypasses. This tool is intended for BOTH red and blue team</td>
     </tr>
     <tr>
-        <td><a href="https://iot.newskysecurity.com/">Halo TI Center Beta</a></td>
-        <td>IoT threat intelligence</td>
-    </tr>
-    <tr>
         <td><a href="https://github.com/hasherezade/libpeconv/tree/master/run_pe">hasherezade/libpeconv/runpe</a></td>
         <td>RunPE (aka Process Hollowing) is a well known technique allowing to injecting a new PE into a remote processes, imprersonating this process. The given implementation works for PE 32bit as well as 64bit.</td>
     </tr>
