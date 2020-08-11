@@ -166,6 +166,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>A front-end JavaScript toolkit for creating DNS rebinding attacks.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/facebook/pyre-check/">facebook/pyre-check/</a></td>
+        <td>Performant type-checking for python.</td>
+    </tr>
+    <tr>
         <td><a href="https://illuminatejs.geeksonsecurity.com/">IlluminateJs</a></td>
         <td>IlluminateJs is a static javascript analysis engine (a deobfuscator so to say) aimed to help analyst understand obfuscated and potentially malicious JavaScript Code.</td>
     </tr>
