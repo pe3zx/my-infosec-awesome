@@ -9,6 +9,7 @@
 This repository is created as an online bookmark for useful links, resources and tools in infosec field which serve my needs to have a searchable page to look further.
 
 - [Adversary Simulation & Emulation](#adversary-simulation--emulation)
+- [Application Security](#application-security)
 - [Binary Analysis](#binary-analysis)
 - [Cloud Security](#cloud-security)
 - [Courses](#courses)
@@ -27,7 +28,6 @@ This repository is created as an online bookmark for useful links, resources and
 - [Post Exploitation](#post-exploitation)
 - [Social Engineering](#social-engineering)
 - [Vulnerable](#vulnerable)
-- [Web Application Security](#web-application-security)
 
 ## Adversary Simulation & Emulation
 
@@ -135,6 +135,100 @@ This repository is created as an online bookmark for useful links, resources and
     <tr>
         <td><a href="https://mitre.github.io/unfetter/">Unfetter</a></td>
         <td>Unfetter is a project designed to help network defenders, cyber security professionals, and decision makers identify and analyze defensive gaps in a more scalable and repeatable way</td>
+    </tr>
+</table>
+
+## Application Security
+
+<table>
+    <tr>
+        <td><b>Link</b></td>
+        <td><b>Description</b></td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/aboul3la/Sublist3r">aboul3la/Sublist3r</a></td>
+        <td>Fast subdomains enumeration tool for penetration testers</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/ambionics/phpggc">ambionics/phpggc</a></td>
+        <td>PHPGGC is a library of unserialize() payloads along with a tool to generate them, from command line or programmatically.</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/appsecco/spaces-finder">appsecco/spaces-finder</a></td>
+        <td>A tool to hunt for publicly accessible DigitalOcean Spaces</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/anantshri/svn-extractor">anatshri/svn-extractor</a></td>
+        <td>Simple script to extract all web resources by means of .SVN folder exposed over network.</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/brannondorsey/dns-rebind-toolkit">brannondorsey/dns-rebind-toolkit</a></td>
+        <td>A front-end JavaScript toolkit for creating DNS rebinding attacks.</td>
+    </tr>
+    <tr>
+        <td><a href="https://illuminatejs.geeksonsecurity.com/">IlluminateJs</a></td>
+        <td>IlluminateJs is a static javascript analysis engine (a deobfuscator so to say) aimed to help analyst understand obfuscated and potentially malicious JavaScript Code.</td>
+    </tr>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/ismailtasdelen/xss-payload-list">ismailtasdelen/xss-payload-list</a></td>
+        <td>Cross Site Scripting ( XSS ) Vulnerability Payload List</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/jonluca/Anubis">jonluca/Anubis</a></td>
+        <td>Subdomain enumeration and information gathering tool</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/mazen160/bfac">mazen160/bfac</a></td>
+        <td>BFAC (Backup File Artifacts Checker): An automated tool that checks for backup artifacts that may disclose the web-application's source code.</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/mindedsecurity/JStillery">mindedsecurity/JStillery</a></td>
+        <td>Advanced JS Deobfuscation via Partial Evaluation.</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/mwrlabs/dref">mwrlabs/dref</a></td>
+        <td>DNS Rebinding Exploitation Framework</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/NetSPI/PowerUpSQL">NetSPI/PowerUpSQL</a></td>
+        <td>PowerUpSQL: A PowerShell Toolkit for Attacking SQL Server</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/nccgroup/singularity">nccgroup/singularity</a></td>
+        <td>A DNS rebinding attack framework</td>
+    </tr>
+    <tr>
+        <td><a href="https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project">OWASP Zed Attack Proxy Project</a></td>
+        <td>The OWASP Zed Attack Proxy (ZAP) is one of the world’s most popular free security tools and is actively maintained by hundreds of international volunteers*. It can help you automatically find security vulnerabilities in your web applications while you are developing and testing your applications. Its also a great tool for experienced pentesters to use for manual security testing</td>
+    </tr>
+    <tr>
+        <td><a href="https://publicwww.com/">Public WWW</a></td>
+        <td>Source Code Search Engine</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/pwntester/ysoserial.net">pwntester/ysoserial.net</a></td>
+        <td>Deserialization payload generator for a variety of .NET formatters</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/RhinoSecurityLabs/IPRotate_Burp_Extension">RhinoSecurityLabs/IPRotate_Burp_Extension</a></td>
+        <td>Extension for Burp Suite which uses AWS API Gateway to rotate your IP on every request.</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/RhinoSecurityLabs/SleuthQL">RhinoSecurityLabs/SleuthQL</a></td>
+        <td>Python3 Burp History parsing tool to discover potential SQL injection points. To be used in tandem with SQLmap.</td>
+    </tr>
+    <tr>
+        <td><a href="https://snyk.io/">Snyk</a></td>
+        <td>Continuously find & fix vulnerabilities in your dependencies</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/s0md3v/XSStrike">s0md3v/XSStrike</a></td>
+        <td>Most advanced XSS detection suite</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/subfinder/subfinder">subfinder/subfinder</a></td>
+        <td>SubFinder is a subdomain discovery tool that discovers valid subdomains for websites. Designed as a passive framework to be useful for bug bounties and safe for penetration testing.</td>
     </tr>
 </table>
 
@@ -2138,99 +2232,5 @@ This repository is created as an online bookmark for useful links, resources and
     <tr>
         <td><a href="https://www.notsosecure.com/vulnerable-docker-vm/">Vulnerable Docker VM</a></td>
         <td>Ever fantasized about playing with docker misconfigurations, privilege escalation, etc. within a container?</td>
-    </tr>
-</table>
-
-## Web Application Security
-
-<table>
-    <tr>
-        <td><b>Link</b></td>
-        <td><b>Description</b></td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/aboul3la/Sublist3r">aboul3la/Sublist3r</a></td>
-        <td>Fast subdomains enumeration tool for penetration testers</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/ambionics/phpggc">ambionics/phpggc</a></td>
-        <td>PHPGGC is a library of unserialize() payloads along with a tool to generate them, from command line or programmatically.</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/appsecco/spaces-finder">appsecco/spaces-finder</a></td>
-        <td>A tool to hunt for publicly accessible DigitalOcean Spaces</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/anantshri/svn-extractor">anatshri/svn-extractor</a></td>
-        <td>Simple script to extract all web resources by means of .SVN folder exposed over network.</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/brannondorsey/dns-rebind-toolkit">brannondorsey/dns-rebind-toolkit</a></td>
-        <td>A front-end JavaScript toolkit for creating DNS rebinding attacks.</td>
-    </tr>
-    <tr>
-        <td><a href="https://illuminatejs.geeksonsecurity.com/">IlluminateJs</a></td>
-        <td>IlluminateJs is a static javascript analysis engine (a deobfuscator so to say) aimed to help analyst understand obfuscated and potentially malicious JavaScript Code.</td>
-    </tr>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/ismailtasdelen/xss-payload-list">ismailtasdelen/xss-payload-list</a></td>
-        <td>Cross Site Scripting ( XSS ) Vulnerability Payload List</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/jonluca/Anubis">jonluca/Anubis</a></td>
-        <td>Subdomain enumeration and information gathering tool</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/mazen160/bfac">mazen160/bfac</a></td>
-        <td>BFAC (Backup File Artifacts Checker): An automated tool that checks for backup artifacts that may disclose the web-application's source code.</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/mindedsecurity/JStillery">mindedsecurity/JStillery</a></td>
-        <td>Advanced JS Deobfuscation via Partial Evaluation.</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/mwrlabs/dref">mwrlabs/dref</a></td>
-        <td>DNS Rebinding Exploitation Framework</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/NetSPI/PowerUpSQL">NetSPI/PowerUpSQL</a></td>
-        <td>PowerUpSQL: A PowerShell Toolkit for Attacking SQL Server</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/nccgroup/singularity">nccgroup/singularity</a></td>
-        <td>A DNS rebinding attack framework</td>
-    </tr>
-    <tr>
-        <td><a href="https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project">OWASP Zed Attack Proxy Project</a></td>
-        <td>The OWASP Zed Attack Proxy (ZAP) is one of the world’s most popular free security tools and is actively maintained by hundreds of international volunteers*. It can help you automatically find security vulnerabilities in your web applications while you are developing and testing your applications. Its also a great tool for experienced pentesters to use for manual security testing</td>
-    </tr>
-    <tr>
-        <td><a href="https://publicwww.com/">Public WWW</a></td>
-        <td>Source Code Search Engine</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/pwntester/ysoserial.net">pwntester/ysoserial.net</a></td>
-        <td>Deserialization payload generator for a variety of .NET formatters</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/RhinoSecurityLabs/IPRotate_Burp_Extension">RhinoSecurityLabs/IPRotate_Burp_Extension</a></td>
-        <td>Extension for Burp Suite which uses AWS API Gateway to rotate your IP on every request.</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/RhinoSecurityLabs/SleuthQL">RhinoSecurityLabs/SleuthQL</a></td>
-        <td>Python3 Burp History parsing tool to discover potential SQL injection points. To be used in tandem with SQLmap.</td>
-    </tr>
-    <tr>
-        <td><a href="https://snyk.io/">Snyk</a></td>
-        <td>Continuously find & fix vulnerabilities in your dependencies</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/s0md3v/XSStrike">s0md3v/XSStrike</a></td>
-        <td>Most advanced XSS detection suite</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/subfinder/subfinder">subfinder/subfinder</a></td>
-        <td>SubFinder is a subdomain discovery tool that discovers valid subdomains for websites. Designed as a passive framework to be useful for bug bounties and safe for penetration testing.</td>
     </tr>
 </table>
