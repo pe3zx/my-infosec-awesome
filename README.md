@@ -69,7 +69,7 @@ This repository is created as an online bookmark for useful links, resources and
 		<td>Repo containing docker-compose files and setup scripts without having to clone the individual reternal components</td>
 	</tr>
     <tr>
-        <td><a href="https://github.com/ElevenPaths/ATTPwn0">ElevenPaths/ATTPwn</a></td>
+        <td><a href="https://github.com/ElevenPaths/ATTPwn">ElevenPaths/ATTPwn</a></td>
         <td>ATTPwn is a computer security tool designed to emulate adversaries.</td>
     </tr>
     <tr>
