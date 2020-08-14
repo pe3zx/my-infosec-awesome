@@ -1145,10 +1145,14 @@ This repository is created as an online bookmark for useful links, resources and
         <td><a href="https://github.com/blackorbird/APT_REPORT">blackorbird/APT_REPORT</a></td>
         <td>Interesting apt report collection and some special ioc express</td>
     </tr>
-    <tching Triage.tr>
+    <tr>
         <td><a href="https://github.com/CapacitorSet/box-js">CapacitorSet/box-js</a></td>
         <td>A tool for studying JavaScript malware</td>
     </tr>
+	<tr>
+		<td><a href="https://capesandbox.com/">CAPEv2 Sandbox</a></td>
+		<td>CAPE Sandbox</td>
+	</tr>
     <tr>
         <td><a href="https://github.com/CERT-Polska/drakvuf-sandbox">CERT-Polska/drakvuf-sandbox</a></td>
         <td>DRAKVUF Sandbox - automated hypervisor-level malware analysis system</td>
