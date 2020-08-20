@@ -1713,6 +1713,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>An extendable tool to Collect, Crawl and Monitor onion sites on tor network and index collected information on Elasticsearch</td>
     </tr>
     <tr>
+        <td><a href="https://www.dargle.net/search">Dargle</a></td>
+        <td>Dargle serves as a data aggregation platform for dark web domains. Hidden services on the dark web prove difficult to navigate, but by crawling the clear web, one can accumulate a directory of sorts for these hidden services.</td>
+    </tr>
+    <tr>
         <td><a href="https://dark.fail/">dark.fail: Is a darknet site online?</a></td>
         <td>dark.fail: Is a darknet site online?</td>
     </tr>
