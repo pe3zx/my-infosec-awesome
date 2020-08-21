@@ -1733,6 +1733,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>An #OSINT Framework to perform various recon techniques on Companies, People, Phone Number, Bitcoin Addresses, etc., aggregate all the raw data, and give data in multiple formats.</td>
     </tr>
     <tr>
+        <td><a href="https://tools.epieos.com/google-account.php">Epieos Tools - Google Account Finder</a></td>
+        <td>An online tool to retrieve sensitive information like google maps reviews, public photos, displayed name, usage of google services such as YouTube, Hangouts</td>
+    </tr>
+    <tr>
         <td><a href="https://fofa.so/">FOFA Pro</a></td>
         <td>The Cyberspace Search Engine, Security Situation Awareness</td>
     </tr>
