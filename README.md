@@ -1162,6 +1162,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Malwarre dump</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/CriticalPathSecurity/Zeek-Intelligence-Feeds">CriticalPathSecurity/Zeek-Intelligence-Feeds</a></td>
+        <td>Zeek-Formatted Threat Intelligence Feeds</td>
+    </tr>
+    <tr>
         <td><a href="https://www.malwaretracker.com/doc.php">Cryptam Document Scanner</a></td>
         <td>Encrypted/obfuscated malicious document analyzer</td>
     </tr>
