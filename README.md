@@ -158,6 +158,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>PHPGGC is a library of unserialize() payloads along with a tool to generate them, from command line or programmatically.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/anchore/grype">anchore/grype</a></td>
+        <td>A vulnerability scanner for container images and filesystems</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/appsecco/spaces-finder">appsecco/spaces-finder</a></td>
         <td>A tool to hunt for publicly accessible DigitalOcean Spaces</td>
     </tr>
