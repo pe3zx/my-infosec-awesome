@@ -437,6 +437,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>SkyArk is a cloud security tool, helps to discover, assess and secure the most privileged entities in AWS</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/cyberark/SkyWrapper">cyberark/SkyWrapper</a></td>
+        <td>SkyWrapper helps to discover suspicious creation forms and uses of temporary tokens in AWS</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/dagrz/aws_pwn">dagrz/aws_pwn</a></td>
         <td>A collection of AWS penetration testing junk</td>
     </tr>
