@@ -304,6 +304,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>FireEye Labs Obfuscated String Solver - Automatically extract obfuscated strings from malware.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/fireeye/speakeasy">fireeye/speakeasy</a></td>
+        <td>Speakeasy is a portable, modular, binary emulator designed to emulate Windows kernel and user mode malware.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/FuzzySecurity/Fermion">FuzzySecurity/Fermion</a></td>
         <td>Fermion, an electron wrapper for Frida & Monaco.</td>
     </tr>
