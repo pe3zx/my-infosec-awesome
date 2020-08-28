@@ -517,6 +517,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Security Monkey monitors your AWS and GCP accounts for policy changes and alerts on insecure configurations.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/NetSPI/aws_consoler">NetSPI/aws_consoler</a></td>
+        <td>A utility to convert your AWS CLI credentials into AWS console access.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/NotSoSecure/cloud-service-enum/">NotSoSecure/cloud-service-enum</a></td>
         <td>This script allows pentesters to validate which cloud tokens (API keys, OAuth tokens and more) can access which cloud service.</td>
     </tr>
