@@ -576,6 +576,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td><a href="https://github.com/toniblyx/prowler">toniblyx/prowler</a></td>
         <td>Tool based on AWS-CLI commands for AWS account security assessment and hardening, following guidelines of the CIS Amazon Web Services Foundations Benchmark 1.1</td>
     </tr>
+    <tr>
+        <td><a href="https://github.com/widdix/aws-s3-virusscan">widdix/aws-s3-virusscan</a></td>
+        <td>Antivirus for Amazon S3 buckets</td>
+    </tr>
 </table>
 
 ## Courses
