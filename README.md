@@ -133,6 +133,10 @@ This repository is created as an online bookmark for useful links, resources and
 		<td>A tool that allows you to create vulnerable instrumented local or cloud environments to simulate attacks against and collect the data into Splunk</td>
 	</tr>
     <tr>
+        <td><a href="https://github.com/swimlane/soc-faker">swimlane/soc-faker</a></td>
+        <td>A python package for use in generating fake data for SOC and security automation.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/uber-common/metta">uber-common/metta</a></td>
         <td>An information security preparedness tool to do adversarial simulation.</td>
     </tr>
