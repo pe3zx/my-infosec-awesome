@@ -1615,6 +1615,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Tools to work with android .dex and java .class files</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/quark-engine/quark-engine">quark-engine/quark-engine</a></td>
+        <td>An Obfuscation-Neglect Android Malware Scoring System</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/sensepost/objection">sensepost/objection</a></td>
         <td>objection is a runtime mobile exploration toolkit, powered by Frida. It was built with the aim of helping assess mobile applications and their security posture without the need for a jailbroken or rooted mobile device.</td>
     </tr>
