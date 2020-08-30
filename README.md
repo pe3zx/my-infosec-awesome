@@ -158,6 +158,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>PHPGGC is a library of unserialize() payloads along with a tool to generate them, from command line or programmatically.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/anchore/grype">anchore/grype</a></td>
+        <td>A vulnerability scanner for container images and filesystems</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/appsecco/spaces-finder">appsecco/spaces-finder</a></td>
         <td>A tool to hunt for publicly accessible DigitalOcean Spaces</td>
     </tr>
@@ -300,6 +304,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>FireEye Labs Obfuscated String Solver - Automatically extract obfuscated strings from malware.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/fireeye/speakeasy">fireeye/speakeasy</a></td>
+        <td>Speakeasy is a portable, modular, binary emulator designed to emulate Windows kernel and user mode malware.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/FuzzySecurity/Fermion">FuzzySecurity/Fermion</a></td>
         <td>Fermion, an electron wrapper for Frida & Monaco.</td>
     </tr>
@@ -429,6 +437,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>SkyArk is a cloud security tool, helps to discover, assess and secure the most privileged entities in AWS</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/cyberark/SkyWrapper">cyberark/SkyWrapper</a></td>
+        <td>SkyWrapper helps to discover suspicious creation forms and uses of temporary tokens in AWS</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/dagrz/aws_pwn">dagrz/aws_pwn</a></td>
         <td>A collection of AWS penetration testing junk</td>
     </tr>
@@ -507,6 +519,10 @@ This repository is created as an online bookmark for useful links, resources and
     <tr>
         <td><a href="https://github.com/Netflix/security_monkey">Netflix/security_monkey</a></td>
         <td>Security Monkey monitors your AWS and GCP accounts for policy changes and alerts on insecure configurations.</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/NetSPI/aws_consoler">NetSPI/aws_consoler</a></td>
+        <td>A utility to convert your AWS CLI credentials into AWS console access.</td>
     </tr>
     <tr>
         <td><a href="https://github.com/NotSoSecure/cloud-service-enum/">NotSoSecure/cloud-service-enum</a></td>
@@ -1166,6 +1182,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Malwarre dump</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/CriticalPathSecurity/Zeek-Intelligence-Feeds">CriticalPathSecurity/Zeek-Intelligence-Feeds</a></td>
+        <td>Zeek-Formatted Threat Intelligence Feeds</td>
+    </tr>
+    <tr>
         <td><a href="https://www.malwaretracker.com/doc.php">Cryptam Document Scanner</a></td>
         <td>Encrypted/obfuscated malicious document analyzer</td>
     </tr>
@@ -1735,6 +1755,10 @@ This repository is created as an online bookmark for useful links, resources and
     <tr>
         <td><a href="https://github.com/DataSploit/datasploit">DataSploit/datasploit</a></td>
         <td>An #OSINT Framework to perform various recon techniques on Companies, People, Phone Number, Bitcoin Addresses, etc., aggregate all the raw data, and give data in multiple formats.</td>
+    </tr>
+    <tr>
+        <td><a href="https://tools.epieos.com/google-account.php">Epieos Tools - Google Account Finder</a></td>
+        <td>An online tool to retrieve sensitive information like google maps reviews, public photos, displayed name, usage of google services such as YouTube, Hangouts</td>
     </tr>
     <tr>
         <td><a href="https://fofa.so/">FOFA Pro</a></td>
