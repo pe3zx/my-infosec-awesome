@@ -1816,6 +1816,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>A python based LinkedIn enumeration tool</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/ninoseki/mihari">ninoseki/mihari</a></td>
+        <td>A helper to run OSINT queries & manage results continuously</td>
+    </tr>
+    <tr>
         <td><a href="https://data.occrp.org/">OCCRP Data</a></td>
         <td>Search 102m public records and leaks from 179 sources</td>
     </tr>
