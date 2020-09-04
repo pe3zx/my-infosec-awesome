@@ -133,6 +133,10 @@ This repository is created as an online bookmark for useful links, resources and
 		<td>A tool that allows you to create vulnerable instrumented local or cloud environments to simulate attacks against and collect the data into Splunk</td>
 	</tr>
     <tr>
+        <td><a href="https://github.com/swimlane/soc-faker">swimlane/soc-faker</a></td>
+        <td>A python package for use in generating fake data for SOC and security automation.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/uber-common/metta">uber-common/metta</a></td>
         <td>An information security preparedness tool to do adversarial simulation.</td>
     </tr>
@@ -580,6 +584,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td><a href="https://github.com/toniblyx/prowler">toniblyx/prowler</a></td>
         <td>Tool based on AWS-CLI commands for AWS account security assessment and hardening, following guidelines of the CIS Amazon Web Services Foundations Benchmark 1.1</td>
     </tr>
+    <tr>
+        <td><a href="https://github.com/widdix/aws-s3-virusscan">widdix/aws-s3-virusscan</a></td>
+        <td>Antivirus for Amazon S3 buckets</td>
+    </tr>
 </table>
 
 ## Courses
@@ -1024,6 +1032,10 @@ This repository is created as an online bookmark for useful links, resources and
     <tr>
         <td><a href="https://github.com/yampelo/beagle">yampelo/beagle</a></td>
         <td>Beagle is an incident response and digital forensics tool which transforms security logs and data into graphs.</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/zodiacon/ProcMonXv2">zodiacon/ProcMonXv2</a></td>
+        <td>Procmon-like tool that uses Event Tracing for Windows (ETW) instead of a kernel driver to provide event information.</td>
     </tr>
 </table>
 
@@ -1615,6 +1627,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Tools to work with android .dex and java .class files</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/quark-engine/quark-engine">quark-engine/quark-engine</a></td>
+        <td>An Obfuscation-Neglect Android Malware Scoring System</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/sensepost/objection">sensepost/objection</a></td>
         <td>objection is a runtime mobile exploration toolkit, powered by Frida. It was built with the aim of helping assess mobile applications and their security posture without the need for a jailbroken or rooted mobile device.</td>
     </tr>
@@ -1806,6 +1822,10 @@ This repository is created as an online bookmark for useful links, resources and
     <tr>
         <td><a href="https://github.com/leapsecurity/InSpy">leapsecurity/InSpy</a></td>
         <td>A python based LinkedIn enumeration tool</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/ninoseki/mihari">ninoseki/mihari</a></td>
+        <td>A helper to run OSINT queries & manage results continuously</td>
     </tr>
     <tr>
         <td><a href="https://data.occrp.org/">OCCRP Data</a></td>
