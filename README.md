@@ -561,6 +561,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Cloud Security Suite - One stop tool for auditing the security posture of AWS infrastructure.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/spacesiren/spacesiren">spacesiren/spacesiren</a></td>
+        <td>A honey token manager and alert system for AWS.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/swimlane/CLAW">swimlane/CLAW</a></td>
         <td>A packer utility to create and capture DFIR Image for use AWS & Azure</td>
     </tr>
