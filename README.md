@@ -623,6 +623,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Internet-wide search engine for digital certificates</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/Ciphey/Ciphey">Ciphey/Ciphey</a></td>
+        <td>Automatically decode encryptions without a key, decode encodings, and crack hashes</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/corkami/pocs/">corkami/pocs</a></td>
         <td>Proof of Concepts (PE, PDF...)</td>
     </tr>
