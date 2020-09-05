@@ -481,6 +481,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Python library to carry out DFIR analysis on the Cloud</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/hausec/PowerZure">hausec/PowerZure</a></td>
+        <td>PowerShell framework to assess Azure security</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/kromtech/s3-inspector">kromtech/s3-inspector</a></td>
         <td>Tool to check AWS S3 bucket permissions</td>
     </tr>
