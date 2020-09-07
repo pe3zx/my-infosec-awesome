@@ -1884,6 +1884,10 @@ This repository is created as an online bookmark for useful links, resources and
 		<td><a href="https://github.com/woj-ciech/kamerka">woj-ciech/kamerka</a></td>
 		<td>Build interactive map of cameras from Shodan</td>
 	</tr>
+    <tr>
+        <td><a href="https://github.com/woj-ciech/SocialPath">woj-ciech/SocialPath</a></td>
+        <td>Track users across social media platform</td>
+    </tr>
 </table>
 
 ## Password Cracking and Wordlists
