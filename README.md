@@ -409,6 +409,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td><b>Description</b></td>
     </tr>
     <tr>
+        <td><a href="https://github.com/0xsha/CloudBrute/">0xsha/CloudBrute</a></td>
+        <td>A tool to find a company (target) infrastructure, files, and apps on the top cloud providers (Amazon, Google, Microsoft, DigitalOcean, Alibaba, Vultr, Linode). The outcome is useful for bug bounty hunters, red teamers, and penetration testers alike.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/Alfresco/prowler">Alfresco/prowler</a></td>
         <td>Tool for AWS security assessment, auditing and hardening. It follows guidelines of the CIS Amazon Web Services Foundations Benchmark.</td>
     </tr>
