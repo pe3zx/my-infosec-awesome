@@ -1872,6 +1872,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>OnionScan is a free and open source tool for investigating the Dark Web.</td>
     </tr>
     <tr>
+        <td><a href="https://same.energy/">same.energy</a></td>
+        <td>Tweet Search Engine</td>
+    </tr>
+    <tr>
 		<td><a href="https://github.com/sshell/reddit-analyzer">sshell/reddit-analyzer</a></td>
 		<td>find out when and where someone is posting to reddit</td>
 	</tr>
