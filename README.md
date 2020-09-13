@@ -380,6 +380,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Randomly changes Win32/64 PE Files for 'safer' uploading to malware and sandbox sites.</td>
     </tr>
     <tr>
+        <td><a href="https://shellcode.run/">shellcode.run</a></td>
+        <td>A sandbox, for shellcode - run your shellcode blobs online with no hassle and receive a comprehensive report.</td>
+    </tr>
+    <tr>
         <td><a href="https://codisec.com/veles/">Veles</a></td>
         <td>New open source tool for binary data analysis</td>
     </tr>
@@ -485,6 +489,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Python library to carry out DFIR analysis on the Cloud</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/hausec/PowerZure">hausec/PowerZure</a></td>
+        <td>PowerShell framework to assess Azure security</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/kromtech/s3-inspector">kromtech/s3-inspector</a></td>
         <td>Tool to check AWS S3 bucket permissions</td>
     </tr>
@@ -569,6 +577,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Cloud Security Suite - One stop tool for auditing the security posture of AWS infrastructure.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/spacesiren/spacesiren">spacesiren/spacesiren</a></td>
+        <td>A honey token manager and alert system for AWS.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/swimlane/CLAW">swimlane/CLAW</a></td>
         <td>A packer utility to create and capture DFIR Image for use AWS & Azure</td>
     </tr>
@@ -617,6 +629,10 @@ This repository is created as an online bookmark for useful links, resources and
     <tr>
         <td><a href="https://certdb.com">CertDB</a></td>
         <td>Internet-wide search engine for digital certificates</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/Ciphey/Ciphey">Ciphey/Ciphey</a></td>
+        <td>Automatically decode encryptions without a key, decode encodings, and crack hashes</td>
     </tr>
     <tr>
         <td><a href="https://github.com/corkami/pocs/">corkami/pocs</a></td>
@@ -1876,6 +1892,10 @@ This repository is created as an online bookmark for useful links, resources and
 		<td><a href="https://github.com/woj-ciech/kamerka">woj-ciech/kamerka</a></td>
 		<td>Build interactive map of cameras from Shodan</td>
 	</tr>
+    <tr>
+        <td><a href="https://github.com/woj-ciech/SocialPath">woj-ciech/SocialPath</a></td>
+        <td>Track users across social media platform</td>
+    </tr>
 </table>
 
 ## Password Cracking and Wordlists
