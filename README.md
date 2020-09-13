@@ -81,6 +81,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>capa detects capabilities in executable files. You run it against a PE file or shellcode and it tells you what it thinks the program can do. For example, it might suggest that the file is a backdoor, is capable of installing services, or relies on HTTP to communicate.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/fireeye/capa-rules">fireeye/capa-rules</a></td>
+        <td>Standard collection of rules for capa: the tool for enumerating the capabilities of programs</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/jymcheong/AutoTTP">jymchoeng/AutoTTP</a></td>
         <td>Automated Tactics Techniques & Procedures</td>
     </tr>
