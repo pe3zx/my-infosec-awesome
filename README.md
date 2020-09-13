@@ -182,6 +182,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Performant type-checking for python.</td>
     </tr>
     <tr>
+        <td><a href="https://huntersuite.io/">HunterSuite</a></td>
+        <td>HunterSuite is the next generation offensive security suite. It will automate all the tedious tasks during a test just with few clicks. If you are a penetration tester, red teamer, bug bounty hunter, or you work as an offensive security engineer, you will love what HunterSuite has to offer.</td>
+    </tr>
+    <tr>
         <td><a href="https://illuminatejs.geeksonsecurity.com/">IlluminateJs</a></td>
         <td>IlluminateJs is a static javascript analysis engine (a deobfuscator so to say) aimed to help analyst understand obfuscated and potentially malicious JavaScript Code.</td>
     </tr>
