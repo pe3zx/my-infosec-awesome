@@ -2071,6 +2071,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>A PoC subject interface package (SIP) provider designed to educate about the required components of a SIP provider.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/Ne0nd0g/merlin">Ne0nd0g/merlin</a></td>
+        <td>Merlin is a cross-platform post-exploitation HTTP/2 Command & Control server and agent written in golang.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/OmerYa/Invisi-Shell">OmerYa/Invisi-Shell</a></td>
         <td>Hide your Powershell script in plain sight. Bypass all Powershell security features</td>
     </tr>
