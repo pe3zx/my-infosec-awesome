@@ -1087,6 +1087,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>A proof of concept injectable C++ dll, that uses naked inline hooking and direct memory modification to change your TeamViewer permissions.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/HASecuritySolutions/VulnWhisperer">HASecuritySolutions/VulnWhisperer</a></td>
+        <td>Create actionable data from your Vulnerability Scans</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/hasherezade/process_doppelganging">hasherezade/process_doppelganging</a></td>
         <td>My implementation of enSilo's Process Doppelganging (PE injection technique)</td>
     </tr>
