@@ -1474,6 +1474,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>AlienVault OTX API-based project with HTML (pure HTML or mixed PNG screenshots) reports pages that looks like the real AlienVault OTX website</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/NavyTitanium/Fake-Sandbox-Artifacts">NavyTitanium/Fake-Sandbox-Artifacts</a></td>
+        <td>This script allows you to create various artifacts on a bare-metal Windows computer in an attempt to trick malwares that looks for VM or analysis tools</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/nbeede/BoomBox">nbeede/BoomBox</a></td>
         <td>Automatic deployment of Cuckoo Sandbox malware lab using Packer and Vagrant</td>
     </tr>
