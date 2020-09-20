@@ -1241,10 +1241,6 @@ This repository is created as an online bookmark for useful links, resources and
         <td><a href="https://github.com/CapacitorSet/box-js">CapacitorSet/box-js</a></td>
         <td>A tool for studying JavaScript malware</td>
     </tr>
-	<tr>
-		<td><a href="https://capesandbox.com/">CAPEv2 Sandbox</a></td>
-		<td>CAPE Sandbox</td>
-	</tr>
     <tr>
         <td><a href="https://github.com/CERT-Polska/drakvuf-sandbox">CERT-Polska/drakvuf-sandbox</a></td>
         <td>DRAKVUF Sandbox - automated hypervisor-level malware analysis system</td>
@@ -1592,10 +1588,6 @@ This repository is created as an online bookmark for useful links, resources and
     <tr>
         <td><a href="http://vxvault.net/ViriList.php">VX Vault</a></td>
         <td>VX Vault</td>
-    </tr>
-    <tr>
-        <td><a href="https://vxug.fakedoma.in/samples.html">vx-undergroud</td>
-        <td>A Malware Block is a compressed 7z file with 40,000 malicious binaries. Each binary is listed in an accompanied 'File listing'. Each block is 100% unique.</td>
     </tr>
 	<tr>
 		<td><a href="https://github.com/zerosum0x0/smbdoor">zerosum0x0/smbdoor</a></td>
@@ -2051,10 +2043,6 @@ This repository is created as an online bookmark for useful links, resources and
         <td>An asynchronous, collaborative post-exploitation agent powered by Python and .NET's DLR</td>
     </tr>
     <tr>
-        <td><a href="https://github.com/byt3bl33d3r/SprayingToolkit">byt3bl33d3r/SprayingToolkit</a></td>
-        <td>Scripts to make password spraying attacks against Lync/S4B, OWA & O365 a lot quicker, less painful and more efficient</td>
-    </tr>
-    <tr>
         <td><a href="https://github.com/cobbr/Covenant">cobbr/Covenant</a></td>
         <td> Covenant is a .NET command and control framework that aims to highlight the attack surface of .NET, make the use of offensive .NET tradecraft easier, and serve as a collaborative command and control platform for red teamers.</td>
     </tr>
@@ -2145,18 +2133,6 @@ This repository is created as an online bookmark for useful links, resources and
     <tr>
         <td><a href="https://github.com/mattifestation/PoCSubjectInterfacePackage">mattifestation/PoCSubjectInterfacePackage</a></td>
         <td>A PoC subject interface package (SIP) provider designed to educate about the required components of a SIP provider.</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/Ne0nd0g/merlin">Ne0nd0g/merlin</a></td>
-        <td>Merlin is a cross-platform post-exploitation HTTP/2 Command & Control server and agent written in golang.</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/OmerYa/Invisi-Shell">OmerYa/Invisi-Shell</a></td>
-        <td>Hide your Powershell script in plain sight. Bypass all Powershell security features</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/putterpanda/mimikittenz">putterpanda/mimikittenz</a></td>
-        <td>A post-exploitation powershell tool for extracting juicy info from memory.</td>
     </tr>
     <tr>
         <td><a href="https://github.com/mdsecactivebreach/Chameleon">mdsecactivebreach/Chameleon</a></td>
