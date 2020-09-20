@@ -1692,6 +1692,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Moloch is an open source, large scale, full packet capturing, indexing, and database system</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/austin-taylor/flare">austin-taylor/flare</a></td>
+        <td>An analytical framework for network traffic and behavioral analytics</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/blechschmidt/massdns">blechschmidt/massdns</a></td>
         <td>A high-performance DNS stub resolver for bulk lookups and reconnaissance (subdomain enumeration)</td>
     </tr>
