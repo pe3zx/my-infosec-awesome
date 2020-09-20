@@ -2023,6 +2023,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Empire is a PowerShell and Python post-exploitation agent.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/besimorhino/powercat">besimorhino/powercat</a></td>
+        <td>netshell features all in version 2 powershell</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/bohops/GhostBuild">bohops/GhostBuild</a></td>
         <td>GhostBuild is a collection of simple MSBuild launchers for various GhostPack/.NET projects</td>
     </tr>
