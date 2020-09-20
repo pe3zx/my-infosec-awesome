@@ -1905,6 +1905,10 @@ This repository is created as an online bookmark for useful links, resources and
 		<td>Recon-ng is a reconnaissance tool with an interface similar to Metasploit. Running recon-ng from the command line you enter a shell like environment where you can configure options, perform recon and output results to different report types.</td>
 	</tr>
     <tr>
+        <td><a href="https://github.com/WebBreacher/WhatsMyName">WebBreacher/WhatsMyName</a></td>
+        <td>This repository has the unified data required to perform user enumeration on various websites. Content is in a JSON file and can easily be used in other projects.</td>
+    </tr>
+    <tr>
         <td><a href="https://whatsmyname.app/">WhatsMyName Web</a></td>
         <td>This tool allows you to enumerate usernames across many websites</td>
     </tr>
