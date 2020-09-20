@@ -914,6 +914,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>A forensics tool to convert the data in the Windows srum (System Resource Usage Monitor) database to an xlsx spreadsheet.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/markbaggett/werejugo">markbaggett/werejugo</a></td>
+        <td>Identifies physical locations where a laptop has been based upon wireless profiles and wireless data recorded in event logs</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/mozilla/audit-go">mozilla/audit-go</a></td>
         <td>Linux Audit Plugin for heka written using netlink Protocol in golang and Lua</td>
     </tr>
