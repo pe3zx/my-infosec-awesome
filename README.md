@@ -190,6 +190,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>HTTP Request Smuggling over HTTP/2 Cleartext (h2c)</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/danmar/cppcheck">danmar/cppcheck</a></td>
+        <td>static analysis of C/C++ code</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/facebook/pyre-check/">facebook/pyre-check/</a></td>
         <td>Performant type-checking for python.</td>
     </tr>
