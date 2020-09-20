@@ -910,6 +910,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Python wrapper for the Mitre ATT&CK framework API</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/markbaggett/srum-dump">markbaggett/srum-dump</a></td>
+        <td>A forensics tool to convert the data in the Windows srum (System Resource Usage Monitor) database to an xlsx spreadsheet.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/mozilla/audit-go">mozilla/audit-go</a></td>
         <td>Linux Audit Plugin for heka written using netlink Protocol in golang and Lua</td>
     </tr>
