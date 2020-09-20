@@ -1744,6 +1744,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Evilgrade is a modular framework that allows the user to take advantage of poor upgrade implementations by injecting fake updates. It comes with pre-made binaries (agents), a working default configuration for fast pentests, and has it's own WebServer and DNSServer modules. Easy to set up new settings, and has an autoconfiguration when new binary agents are set.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/joswr1ght/cowpatty">joswr1ght/cowpatty</a></td>
+        <td>coWPAtty: WPA2-PSK Cracking</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/joswr1ght/nm2lp">joswr1ght/nm2lp</a></td>
         <td>Convert Windows Netmon Monitor Mode Wireless Packet Captures to Libpcap Format</td>
     </tr>
