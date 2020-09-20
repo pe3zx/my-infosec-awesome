@@ -1801,6 +1801,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>LinkedIn reconnaissance tool</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/byt3bl33d3r/WitnessMe">byt3bl33d3r/WitnessMe</a></td>
+        <td>Web Inventory tool, takes screenshots of webpages using Pyppeteer (headless Chrome/Chromium) and provides some extra bells & whistles to make life easier.</td>
+    </tr>
+    <tr>
         <td><a href="https://cellidfinder.com/">CellID Finder</a></td>
         <td>Find GSM base stations cell id coordinates</a></td>
     </tr>
