@@ -2183,10 +2183,13 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Generates malicious LNK file payloads for data exfiltration</td>
     </tr>
     <tr>
+        <td><a href="http://prismatica.io/">Project Prismatica</a></td>
+        <td>Project Prismatica is a focused framework for Command and Control that is dedicated to extensibility.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/putterpanda/mimikittenz">putterpanda/mimikittenz</a></td>
         <td>A post-exploitation powershell tool for extracting juicy info from memory.</td>
     </tr>
-
     <tr>
         <td><a href="https://github.com/secretsquirrel/SigThief">secretsquirrel/SigThief</a></td>
         <td>Stealing Signatures and Making One Invalid Signature at a Time</td>
