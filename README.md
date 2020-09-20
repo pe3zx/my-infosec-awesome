@@ -2023,6 +2023,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>A swiss army knife for pentesting networks</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/byt3bl33d3r/SILENTTRINITY">byt3bl33d3r/SILENTTRINITY</a></td>
+        <td>An asynchronous, collaborative post-exploitation agent powered by Python and .NET's DLR</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/cobbr/Covenant">cobbr/Covenant</a></td>
         <td> Covenant is a .NET command and control framework that aims to highlight the attack surface of .NET, make the use of offensive .NET tradecraft easier, and serve as a collaborative command and control platform for red teamers.</td>
     </tr>
