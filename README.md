@@ -235,6 +235,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Source Code Search Engine</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/pumasecurity/puma-scan">pumasecurity/puma-scan</a></td>
+        <td>Puma Scan is a software security Visual Studio extension that provides real time, continuous source code analysis as development teams write code. Vulnerabilities are immediately displayed in the development environment as spell check and compiler warnings, preventing security bugs from entering your applications.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/pwntester/ysoserial.net">pwntester/ysoserial.net</a></td>
         <td>Deserialization payload generator for a variety of .NET formatters</td>
     </tr>
