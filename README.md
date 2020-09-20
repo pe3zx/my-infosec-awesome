@@ -1700,6 +1700,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Framework for Man-In-The-Middle attacks</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/dhoelzer/ShowMeThePackets">dhoelzer/ShowMeThePackets</a></td>
+        <td>Useful network monitoring, analysis, and active response tools used or mentioned in the SANS SEC503 course</td>
+    </tr>
+    <tr>
         <td><a href="https://dnsdumpster.com/">DNSdumpster.com</a></td>
         <td>dns recon & research, find & lookup dns records</td>
     </tr>
