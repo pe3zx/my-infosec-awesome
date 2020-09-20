@@ -215,6 +215,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>BFAC (Backup File Artifacts Checker): An automated tool that checks for backup artifacts that may disclose the web-application's source code.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/microsoft/onefuzz">microsoft/onefuzz</a></td>
+        <td>A self-hosted Fuzzing-As-A-Service platform</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/mindedsecurity/JStillery">mindedsecurity/JStillery</a></td>
         <td>Advanced JS Deobfuscation via Partial Evaluation.</td>
     </tr>
