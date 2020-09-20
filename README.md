@@ -186,6 +186,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>A front-end JavaScript toolkit for creating DNS rebinding attacks.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/BishopFox/h2csmuggler">BishopFox/h2csmuggler</a></td>
+        <td>HTTP Request Smuggling over HTTP/2 Cleartext (h2c)</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/facebook/pyre-check/">facebook/pyre-check/</a></td>
         <td>Performant type-checking for python.</td>
     </tr>
