@@ -774,6 +774,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>DARKSURGEON is a Windows packer project to empower incident response, digital forensics, malware analysis, and network defense.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/cyb3rfox/Aurora-Incident-Response">cyb3rfox/Aurora-Incident-Response</a></td>
+        <td>Incident Response Documentation made easy. Developed by Incident Responders for Incident Responders</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/Cyb3rWard0g/HELK">Cyb3rWard0g/HELK</a></td>
         <td>A Hunting ELK (Elasticsearch, Logstash, Kibana) with advanced analytic capabilities.</td>
     </tr>
