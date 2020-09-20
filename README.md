@@ -565,6 +565,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Route53/CloudFront Vulnerability Assessment Utility</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/pumasecurity/serverless-prey">pumasecurity/serverless-prey</a></td>
+        <td>Serverless Functions for establishing Reverse Shells to Lambda, Azure Functions, and Google Cloud Functions</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/random-robbie/slurp">random-robbie/slurp</a></td>
         <td>Enumerate S3 buckets via certstream, domain, or keywords</td>
     </tr>
