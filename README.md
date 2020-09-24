@@ -1736,6 +1736,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>An analytical framework for network traffic and behavioral analytics</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/crowdsecurity/crowdsec/">crowdsecurity/crowdsec/</a></td>
+        <td>Crowdsec - An open-source, lightweight agent to detect and respond to bad behaviours. It also automatically benefits from our global community-wide IP reputation database.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/blechschmidt/massdns">blechschmidt/massdns</a></td>
         <td>A high-performance DNS stub resolver for bulk lookups and reconnaissance (subdomain enumeration)</td>
     </tr>
