@@ -2260,6 +2260,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td><b>Description</b></td>
     </tr>
     <tr>
+        <td><a href="https://github.com/AlteredSecurity/365-Stealer/">AlteredSecurity/365-Stealer/</a></td>
+        <td>365-Stealer is the tool written in python3 which steals data from victims office365 by using access_token which we get by phishing. It steals outlook mails, attachments, OneDrive files, OneNote notes and injects macros.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/boxug/trape">boxug/trape</a></td>
         <td>People tracker on the Internet: Learn to track the world, to avoid being traced.</td>
     </tr>
