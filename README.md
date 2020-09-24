@@ -1490,6 +1490,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>ph0neutria is a malware zoo builder that sources samples straight from the wild. Everything is stored in Viper for ease of access and manageability.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/PwCUK-CTO/rtfsig">PwCUK-CTO/rtfsig</a></td>
+        <td></td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/InQuest/python-iocextract">python-iocextract</a></td>
         <td>Advanced Indicator of Compromise (IOC) extractor</td>
     </tr>
