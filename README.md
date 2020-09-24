@@ -162,6 +162,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Fast subdomains enumeration tool for penetration testers</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/Acheron-VAF/Acheron">Acheron-VAF/Acheron</a></td>
+        <td>Acheron is a RESTful vulnerability assessment and management framework built around search and dedicated to terminal extensibility.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/ambionics/phpggc">ambionics/phpggc</a></td>
         <td>PHPGGC is a library of unserialize() payloads along with a tool to generate them, from command line or programmatically.</td>
     </tr>
@@ -180,6 +184,14 @@ This repository is created as an online bookmark for useful links, resources and
     <tr>
         <td><a href="https://github.com/brannondorsey/dns-rebind-toolkit">brannondorsey/dns-rebind-toolkit</a></td>
         <td>A front-end JavaScript toolkit for creating DNS rebinding attacks.</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/BishopFox/h2csmuggler">BishopFox/h2csmuggler</a></td>
+        <td>HTTP Request Smuggling over HTTP/2 Cleartext (h2c)</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/danmar/cppcheck">danmar/cppcheck</a></td>
+        <td>static analysis of C/C++ code</td>
     </tr>
     <tr>
         <td><a href="https://github.com/facebook/pyre-check/">facebook/pyre-check/</a></td>
@@ -207,6 +219,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>BFAC (Backup File Artifacts Checker): An automated tool that checks for backup artifacts that may disclose the web-application's source code.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/microsoft/onefuzz">microsoft/onefuzz</a></td>
+        <td>A self-hosted Fuzzing-As-A-Service platform</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/mindedsecurity/JStillery">mindedsecurity/JStillery</a></td>
         <td>Advanced JS Deobfuscation via Partial Evaluation.</td>
     </tr>
@@ -229,6 +245,10 @@ This repository is created as an online bookmark for useful links, resources and
     <tr>
         <td><a href="https://publicwww.com/">Public WWW</a></td>
         <td>Source Code Search Engine</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/pumasecurity/puma-scan">pumasecurity/puma-scan</a></td>
+        <td>Puma Scan is a software security Visual Studio extension that provides real time, continuous source code analysis as development teams write code. Vulnerabilities are immediately displayed in the development environment as spell check and compiler warnings, preventing security bugs from entering your applications.</td>
     </tr>
     <tr>
         <td><a href="https://github.com/pwntester/ysoserial.net">pwntester/ysoserial.net</a></td>
@@ -557,6 +577,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Route53/CloudFront Vulnerability Assessment Utility</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/pumasecurity/serverless-prey">pumasecurity/serverless-prey</a></td>
+        <td>Serverless Functions for establishing Reverse Shells to Lambda, Azure Functions, and Google Cloud Functions</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/random-robbie/slurp">random-robbie/slurp</a></td>
         <td>Enumerate S3 buckets via certstream, domain, or keywords</td>
     </tr>
@@ -774,6 +798,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>DARKSURGEON is a Windows packer project to empower incident response, digital forensics, malware analysis, and network defense.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/cyb3rfox/Aurora-Incident-Response">cyb3rfox/Aurora-Incident-Response</a></td>
+        <td>Incident Response Documentation made easy. Developed by Incident Responders for Incident Responders</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/Cyb3rWard0g/HELK">Cyb3rWard0g/HELK</a></td>
         <td>A Hunting ELK (Elasticsearch, Logstash, Kibana) with advanced analytic capabilities.</td>
     </tr>
@@ -908,6 +936,14 @@ This repository is created as an online bookmark for useful links, resources and
     <tr>
         <td><a href="https://github.com/MalwareSoup/MitreAttack">MalwareSoup/MitreAttack</a></td>
         <td>Python wrapper for the Mitre ATT&CK framework API</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/markbaggett/srum-dump">markbaggett/srum-dump</a></td>
+        <td>A forensics tool to convert the data in the Windows srum (System Resource Usage Monitor) database to an xlsx spreadsheet.</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/markbaggett/werejugo">markbaggett/werejugo</a></td>
+        <td>Identifies physical locations where a laptop has been based upon wireless profiles and wireless data recorded in event logs</td>
     </tr>
     <tr>
         <td><a href="https://github.com/mozilla/audit-go">mozilla/audit-go</a></td>
@@ -1087,6 +1123,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>A proof of concept injectable C++ dll, that uses naked inline hooking and direct memory modification to change your TeamViewer permissions.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/HASecuritySolutions/VulnWhisperer">HASecuritySolutions/VulnWhisperer</a></td>
+        <td>Create actionable data from your Vulnerability Scans</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/hasherezade/process_doppelganging">hasherezade/process_doppelganging</a></td>
         <td>My implementation of enSilo's Process Doppelganging (PE injection technique)</td>
     </tr>
@@ -1209,10 +1249,6 @@ This repository is created as an online bookmark for useful links, resources and
         <td><a href="https://github.com/CapacitorSet/box-js">CapacitorSet/box-js</a></td>
         <td>A tool for studying JavaScript malware</td>
     </tr>
-	<tr>
-		<td><a href="https://capesandbox.com/">CAPEv2 Sandbox</a></td>
-		<td>CAPE Sandbox</td>
-	</tr>
     <tr>
         <td><a href="https://github.com/CERT-Polska/drakvuf-sandbox">CERT-Polska/drakvuf-sandbox</a></td>
         <td>DRAKVUF Sandbox - automated hypervisor-level malware analysis system</td>
@@ -1438,6 +1474,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>AlienVault OTX API-based project with HTML (pure HTML or mixed PNG screenshots) reports pages that looks like the real AlienVault OTX website</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/NavyTitanium/Fake-Sandbox-Artifacts">NavyTitanium/Fake-Sandbox-Artifacts</a></td>
+        <td>This script allows you to create various artifacts on a bare-metal Windows computer in an attempt to trick malwares that looks for VM or analysis tools</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/nbeede/BoomBox">nbeede/BoomBox</a></td>
         <td>Automatic deployment of Cuckoo Sandbox malware lab using Packer and Vagrant</td>
     </tr>
@@ -1565,10 +1605,6 @@ This repository is created as an online bookmark for useful links, resources and
         <td><a href="http://vxvault.net/ViriList.php">VX Vault</a></td>
         <td>VX Vault</td>
     </tr>
-    <tr>
-        <td><a href="https://vxug.fakedoma.in/samples.html">vx-undergroud</td>
-        <td>A Malware Block is a compressed 7z file with 40,000 malicious binaries. Each binary is listed in an accompanied 'File listing'. Each block is 100% unique.</td>
-    </tr>
 	<tr>
 		<td><a href="https://github.com/zerosum0x0/smbdoor">zerosum0x0/smbdoor</a></td>
 		<td>kernel backdoor via registering a malicious SMB handler</td>
@@ -1663,6 +1699,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>An Obfuscation-Neglect Android Malware Scoring System</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/RealityNet/kobackupdechttps://github.com/RealityNet/kobackupdec">RealityNet/kobackupdec</a></td>
+        <td>Huawei backup decryptor</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/sensepost/objection">sensepost/objection</a></td>
         <td>objection is a runtime mobile exploration toolkit, powered by Frida. It was built with the aim of helping assess mobile applications and their security posture without the need for a jailbroken or rooted mobile device.</td>
     </tr>
@@ -1696,12 +1736,24 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Moloch is an open source, large scale, full packet capturing, indexing, and database system</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/austin-taylor/flare">austin-taylor/flare</a></td>
+        <td>An analytical framework for network traffic and behavioral analytics</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/crowdsecurity/crowdsec/">crowdsecurity/crowdsec/</a></td>
+        <td>Crowdsec - An open-source, lightweight agent to detect and respond to bad behaviours. It also automatically benefits from our global community-wide IP reputation database.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/blechschmidt/massdns">blechschmidt/massdns</a></td>
         <td>A high-performance DNS stub resolver for bulk lookups and reconnaissance (subdomain enumeration)</td>
     </tr>
     <tr>
         <td><a href="https://github.com/byt3bl33d3r/MITMf">byt3bl33d3r/MITMf</a></td>
         <td>Framework for Man-In-The-Middle attacks</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/dhoelzer/ShowMeThePackets">dhoelzer/ShowMeThePackets</a></td>
+        <td>Useful network monitoring, analysis, and active response tools used or mentioned in the SANS SEC503 course</td>
     </tr>
     <tr>
         <td><a href="https://dnsdumpster.com/">DNSdumpster.com</a></td>
@@ -1718,6 +1770,14 @@ This repository is created as an online bookmark for useful links, resources and
     <tr>
         <td><a href="https://github.com/infobyte/evilgrade">infobyte/evilgrade</a></td>
         <td>Evilgrade is a modular framework that allows the user to take advantage of poor upgrade implementations by injecting fake updates. It comes with pre-made binaries (agents), a working default configuration for fast pentests, and has it's own WebServer and DNSServer modules. Easy to set up new settings, and has an autoconfiguration when new binary agents are set.</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/joswr1ght/cowpatty">joswr1ght/cowpatty</a></td>
+        <td>coWPAtty: WPA2-PSK Cracking</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/joswr1ght/nm2lp">joswr1ght/nm2lp</a></td>
+        <td>Convert Windows Netmon Monitor Mode Wireless Packet Captures to Libpcap Format</td>
     </tr>
     <tr>
         <td><a href="https://github.com/michenriksen/aquatone">michenriksen/aquatone</a></td>
@@ -1767,6 +1827,10 @@ This repository is created as an online bookmark for useful links, resources and
     <tr>
         <td><a href="https://github.com/arch4ngel/peasant">arch4ngel/peasant</a></td>
         <td>LinkedIn reconnaissance tool</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/byt3bl33d3r/WitnessMe">byt3bl33d3r/WitnessMe</a></td>
+        <td>Web Inventory tool, takes screenshots of webpages using Pyppeteer (headless Chrome/Chromium) and provides some extra bells & whistles to make life easier.</td>
     </tr>
     <tr>
         <td><a href="https://cellidfinder.com/">CellID Finder</a></td>
@@ -1905,6 +1969,10 @@ This repository is created as an online bookmark for useful links, resources and
 		<td>Recon-ng is a reconnaissance tool with an interface similar to Metasploit. Running recon-ng from the command line you enter a shell like environment where you can configure options, perform recon and output results to different report types.</td>
 	</tr>
     <tr>
+        <td><a href="https://github.com/WebBreacher/WhatsMyName">WebBreacher/WhatsMyName</a></td>
+        <td>This repository has the unified data required to perform user enumeration on various websites. Content is in a JSON file and can easily be used in other projects.</td>
+    </tr>
+    <tr>
         <td><a href="https://whatsmyname.app/">WhatsMyName Web</a></td>
         <td>This tool allows you to enumerate usernames across many websites</td>
     </tr>
@@ -1979,8 +2047,20 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Empire is a PowerShell and Python post-exploitation agent.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/besimorhino/powercat">besimorhino/powercat</a></td>
+        <td>netshell features all in version 2 powershell</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/bohops/GhostBuild">bohops/GhostBuild</a></td>
         <td>GhostBuild is a collection of simple MSBuild launchers for various GhostPack/.NET projects</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/byt3bl33d3r/CrackMapExec">byt3bl33d3r/CrackMapExec</a></td>
+        <td>A swiss army knife for pentesting networks</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/byt3bl33d3r/SILENTTRINITY">byt3bl33d3r/SILENTTRINITY</a></td>
+        <td>An asynchronous, collaborative post-exploitation agent powered by Python and .NET's DLR</td>
     </tr>
     <tr>
         <td><a href="https://github.com/cobbr/Covenant">cobbr/Covenant</a></td>
@@ -2075,18 +2155,6 @@ This repository is created as an online bookmark for useful links, resources and
         <td>A PoC subject interface package (SIP) provider designed to educate about the required components of a SIP provider.</td>
     </tr>
     <tr>
-        <td><a href="https://github.com/Ne0nd0g/merlin">Ne0nd0g/merlin</a></td>
-        <td>Merlin is a cross-platform post-exploitation HTTP/2 Command & Control server and agent written in golang.</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/OmerYa/Invisi-Shell">OmerYa/Invisi-Shell</a></td>
-        <td>Hide your Powershell script in plain sight. Bypass all Powershell security features</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/putterpanda/mimikittenz">putterpanda/mimikittenz</a></td>
-        <td>A post-exploitation powershell tool for extracting juicy info from memory.</td>
-    </tr>
-    <tr>
         <td><a href="https://github.com/mdsecactivebreach/Chameleon">mdsecactivebreach/Chameleon</a></td>
         <td>Chameleon: A tool for evading Proxy categorisation</td>
     </tr>
@@ -2119,8 +2187,16 @@ This repository is created as an online bookmark for useful links, resources and
         <td>goddi (go dump domain info) dumps Active Directory domain information</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/nidem/kerberoast">nidem/kerberoast</a></td>
+        <td>Kerberoast is a series of tools for attacking MS Kerberos implementations. Below is a brief overview of what each tool does.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/outflanknl/Recon-AD">outflanknl/Recon-AD</a></td>
         <td>Recon-AD, an AD recon tool based on ADSI and reflective DLL’s</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/OmerYa/Invisi-Shell">OmerYa/Invisi-Shell</a></td>
+        <td>Hide your Powershell script in plain sight. Bypass all Powershell security features</td>
     </tr>
     <tr>
         <td><a href="https://github.com/peewpw/Invoke-PSImage">peewpw/Invoke-PSImage</a></td>
@@ -2133,6 +2209,14 @@ This repository is created as an online bookmark for useful links, resources and
     <tr>
         <td><a href="https://github.com/Plazmaz/LNKUp">Plazmaz/LNKUp</a></td>
         <td>Generates malicious LNK file payloads for data exfiltration</td>
+    </tr>
+    <tr>
+        <td><a href="http://prismatica.io/">Project Prismatica</a></td>
+        <td>Project Prismatica is a focused framework for Command and Control that is dedicated to extensibility.</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/putterpanda/mimikittenz">putterpanda/mimikittenz</a></td>
+        <td>A post-exploitation powershell tool for extracting juicy info from memory.</td>
     </tr>
     <tr>
         <td><a href="https://github.com/secretsquirrel/SigThief">secretsquirrel/SigThief</a></td>
@@ -2178,6 +2262,10 @@ This repository is created as an online bookmark for useful links, resources and
     <tr>
         <td><b>Link</b></td>
         <td><b>Description</b></td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/AlteredSecurity/365-Stealer/">AlteredSecurity/365-Stealer/</a></td>
+        <td>365-Stealer is the tool written in python3 which steals data from victims office365 by using access_token which we get by phishing. It steals outlook mails, attachments, OneDrive files, OneNote notes and injects macros.</td>
     </tr>
     <tr>
         <td><a href="https://github.com/boxug/trape">boxug/trape</a></td>
