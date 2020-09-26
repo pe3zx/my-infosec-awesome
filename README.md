@@ -235,6 +235,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>DNS Rebinding Exploitation Framework</td>
     </tr>
     <tr>
+	<td><a href="https://github.com/nccgroup/whalescan">nccgroup/whalescan</a></td>
+	<td>Whalescan is a vulnerability scanner for Windows containers, which performs several benchmark checks, as well as checking for CVEs/vulnerable packages on the container</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/NetSPI/AutoDirbuster">NetSPI/AutoDirbuster</a></td>
         <td>Automatically run and save Dirbuster scans for multiple IPs</td>
     </tr>
