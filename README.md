@@ -231,6 +231,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>DNS Rebinding Exploitation Framework</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/NetSPI/AutoDirbuster">NetSPI/AutoDirbuster</a></td>
+        <td>Automatically run and save Dirbuster scans for multiple IPs</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/NetSPI/PowerUpSQL">NetSPI/PowerUpSQL</a></td>
         <td>PowerUpSQL: A PowerShell Toolkit for Attacking SQL Server</td>
     </tr>
