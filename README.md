@@ -1901,6 +1901,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>The OSINT Omnibus</td>
     </tr>
     <tr>
+		<td><a href="https://github.com/intelowlproject/IntelOwl">intelowlproject/IntelOwl</a></td>
+		<td>Intel Owl: analyze files, domains, IPs in multiple ways from a single API at scale</td>
+	</tr>
+    <tr>
         <td><a href="https://github.com/iptv-org/iptv">iptv-org/iptv</a></td>
         <td>Collection of 8000+ publicly available IPTV channels from all over the world</td>
     </tr>
