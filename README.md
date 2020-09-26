@@ -472,6 +472,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td><a href="https://github.com/Azure/Stormspotter">Azure/Stormspotter</a></td>
         <td>Azure Red Team tool for graphing Azure and Azure Active Directory objects</td>
     </tr>
+	<tr>
+		<td><a href="https://github.com/bridgecrewio/cfngoat">bridgecrewio/cfngoat</a></td>
+		<td>Cfngoat is Bridgecrew's "Vulnerable by Design" Cloudformation repository. Cfngoat is a learning and training project that demonstrates how common configuration errors can find their way into production cloud environments.</td>
+	</tr>
     <tr>
         <td><a href="https://github.com/carnal0wnage/weirdAAL/wiki">carnal0wnage/weirdAAL</a></td>
         <td>WeirdAAL [AWS Attack Library] wiki!</td>
