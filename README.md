@@ -1551,7 +1551,7 @@ This repository is created as an online bookmark for useful links, resources and
     </tr>
     <tr>
         <td><a href="https://github.com/PwCUK-CTO/rtfsig">PwCUK-CTO/rtfsig</a></td>
-        <td></td>
+        <td>A tool to help malware analysts signature unique parts of RTF documents</td>
     </tr>
     <tr>
         <td><a href="https://github.com/InQuest/python-iocextract">python-iocextract</a></td>
