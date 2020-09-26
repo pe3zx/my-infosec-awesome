@@ -473,6 +473,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Azure Red Team tool for graphing Azure and Azure Active Directory objects</td>
     </tr>
 	<tr>
+		<td><a href="https://github.com/bridgecrewio/cdkgoat">bridgecrewio/cdkgoat</a></td>
+		<td>CdkGoat is Bridgecrew's "Vulnerable by Design" AWS CDK repository. CdkGoat is a learning and training project that demonstrates how common configuration errors can find their way into production cloud environments.</td>
+	</tr>
+	<tr>
 		<td><a href="https://github.com/bridgecrewio/cfngoat">bridgecrewio/cfngoat</a></td>
 		<td>Cfngoat is Bridgecrew's "Vulnerable by Design" Cloudformation repository. Cfngoat is a learning and training project that demonstrates how common configuration errors can find their way into production cloud environments.</td>
 	</tr>
