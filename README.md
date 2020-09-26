@@ -109,6 +109,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Test blue team detections without running any attack</td>
     </tr>
 	<tr>
+		<td><a href="https://github.com/OTRF/SimuLand">OTRF/SimuLand</a></td>
+		<td>Cloud Templates and scripts to deploy mordor environments</a></td>
+	</tr>
+	<tr>
 		<td><a href="https://github.com/praetorian-code/purple-team-attack-automation">praetorian-code/purple-team-attack-automation</a></td>
 		<td>Praetorian's public release of our Metasploit automation of MITRE ATT&CK™ TTPs</td>
 	</tr>
