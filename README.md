@@ -2287,6 +2287,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Powershell script for enumerating vulnerable DCOM Applications</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/slyd0g/UrbanBishopLocal">slyd0g/UrbanBishopLocal</a></td>
+        <td>A port of FuzzySecurity's UrbanBishop project for inline shellcode execution. The execution vector uses a delegate vs an APC on a suspended threat at ntdll!RtlExitUserThread in UrbanBishop</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/TheSecondSun/Bashark">TheSecondSun/Bashark</a></td>
         <td>Bash post exploitation toolkit</td>
     </tr>
