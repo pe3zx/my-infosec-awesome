@@ -2360,10 +2360,6 @@ This repository is created as an online bookmark for useful links, resources and
 		<td>Muraena is an almost-transparent reverse proxy aimed at automating phishing and post-phishing activities.</td>
 	</tr>
     <tr>
-        <td><a href="https://www.phishingfrenzy.com/">Phishing Frenzy</a></td>
-        <td>Phishing Frenzy is an Open Source Ruby on Rails application that is leveraged by penetration testers to manage email phishing campaigns</td>
-    </tr>
-    <tr>
         <td><a href="https://github.com/Raikia/UhOh365">Raikia/UhOh365</a></td>
         <td> A script that can see if an email address is valid in Office365 (user/email enumeration). This does not perform any login attempts, is unthrottled, and is incredibly useful for social engineering assessments to find which emails exist and which don't. </td>
     </tr>
