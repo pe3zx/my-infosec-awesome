@@ -771,7 +771,7 @@ This repository is created as an online bookmark for useful links, resources and
     </tr>
     <tr>
         <td><a href="https://www.flashbackdata.com/free-forensics-tool-i-file-parser/">$I File Parser</a></td>
-        <td>Free Forensics Tool – $I File Parser</td>
+        <td>Free Forensics Tool – \$I File Parser</td>
     </tr>
     <tr>
         <td><a href="https://github.com/activecm/BeaKer">activecm/BeaKer</a></td>
@@ -972,6 +972,10 @@ This repository is created as an online bookmark for useful links, resources and
     <tr>
         <td><a href="https://github.com/markbaggett/werejugo">markbaggett/werejugo</a></td>
         <td>Identifies physical locations where a laptop has been based upon wireless profiles and wireless data recorded in event logs</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/miriamxyra/EventList">miriamxyra/EventList</a></td>
+        <td>EventList is a tool to help improving your Audit capabilities and to help to build your Security Operation Center.</td>
     </tr>
     <tr>
         <td><a href="https://github.com/mozilla/audit-go">mozilla/audit-go</a></td>
