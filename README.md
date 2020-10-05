@@ -1980,6 +1980,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>A helper to run OSINT queries & manage results continuously</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/mxrch/ghunt">mxrch/ghunt</a></td>
+        <td>GHunt is an OSINT tool to extract a lot of informations of someone's Google Account email.</td>
+    </tr>
+    <tr>
         <td><a href="https://data.occrp.org/">OCCRP Data</a></td>
         <td>Search 102m public records and leaks from 179 sources</td>
     </tr>
