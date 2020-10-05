@@ -344,6 +344,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Free and Open Source RE Platform powered by radare2</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/DarthTon/Blackbone">DarthTon/Blackbone</a></td>
+        <td>Windows memory hacking library</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/endgameinc/xori">endgameinc/xori</a></td>
         <td>Xori is an automation-ready disassembly and static analysis library for PE32, 32+ and shellcode</td>
     </tr>
