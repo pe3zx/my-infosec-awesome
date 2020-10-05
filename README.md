@@ -440,6 +440,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>A highly visual ARM emulator</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/Wenzel/checksec.py">Wenzel/checksec.py</a></td>
+        <td>Checksec tool in Python, Rich output. Based on LIEF</td>
+    </tr>
+    <tr>
         <td>
             <a href="https://github.com/williballenthin/python-idb">williballenthin/python-idb</a>
         </td>
