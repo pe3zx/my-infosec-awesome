@@ -1370,6 +1370,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Imaginary C2 is a python tool which aims to help in the behavioral (network) analysis of malware. Imaginary C2 hosts a HTTP server which captures HTTP requests towards selectively chosen domains/IPs. Additionally, the tool aims to make it easy to replay captured Command-and-Control responses/served payloads.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/godaddy/procfilter">godaddy/procfilter</a></td>
+        <td>A YARA-integrated process denial framework for Windows</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/fortinet/ips-bph-framework">ips-bph-framework</a></td>
         <td>BLACKPHENIX is an open source malware analysis automation framework composed of services, scripts, plug-ins, and tools and is based on a Command-and-Control (C&C) architecture</td>
     </tr>
