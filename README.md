@@ -858,6 +858,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>A Powershell incident response framework</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/deepalert/deepalert">deepalert/deepalert</a></td>
+        <td>Serverless SOAR (Security Orchestration, Automation and Response) framework for automatic inspection and evaluation of security alert</td>
+    </tr>
+    <tr>
         <td><a href="https://dfir-orc.github.io/">DFIR ORC</a></td>
         <td>DFIR ORC, where ORC stands for “Outil de Recherche de Compromission” in French, is a collection of specialized tools dedicated to reliably parse and collect critical artefacts such as the MFT, registry hives or event logs. It can also embed external tools and their configurations.</td>
     </tr>
