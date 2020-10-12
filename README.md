@@ -2291,6 +2291,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>A post-exploitation powershell tool for extracting juicy info from memory.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/ScorpionesLabs/DVS">ScorpionesLabs/DVS</a></td>
+        <td>D(COM) V(ulnerability) S(canner) AKA Devious swiss army knife - Lateral movement using DCOM Objects</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/secretsquirrel/SigThief">secretsquirrel/SigThief</a></td>
         <td>Stealing Signatures and Making One Invalid Signature at a Time</td>
     </tr>
