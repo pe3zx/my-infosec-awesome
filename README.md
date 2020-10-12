@@ -364,6 +364,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Speakeasy is a portable, modular, binary emulator designed to emulate Windows kernel and user mode malware.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/forrest-orr/moneta">forrest-orr/moneta</a></td>
+        <td>Moneta is a live usermode memory analysis tool for Windows with the capability to detect malware IOCs</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/FuzzySecurity/Fermion">FuzzySecurity/Fermion</a></td>
         <td>Fermion, an electron wrapper for Frida & Monaco.</td>
     </tr>
