@@ -2012,6 +2012,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>In-depth Attack Surface Mapping and Asset Discovery</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/PaperMtn/gitlab-watchman">PaperMtn/gitlab-watchman</a></td>
+        <td>Monitoring GitLab for sensitive data shared publicly</td>
+    </tr>
+    <tr>
         <td><a href="https://psbdmp.ws/">Pastebin dump collection</a></td>
         <td>Pastebin dump collection</td>
     </tr>
