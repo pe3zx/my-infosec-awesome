@@ -124,6 +124,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td><a href="https://github.com/redcanaryco/atomic-red-team">redcanaryco/atomic-red-team</a></td>
         <td>Small and highly portable detection tests based on MITRE's ATT&CK.</td>
     </tr>
+    <tr>
+        <td><a href="https://github.com/redcanaryco/AtomicTestHarnesses">redcanaryco/AtomicTestHarnesses</a></td>
+        <td>Public Repo for Atomic Test Harness</td>
+    </tr>
 	<tr>
 		<td><a href="https://github.com/redcanaryco/chain-reactor">redcanaryco/chain-reactor</a></td>
 		<td>Chain Reactor is an open source framework for composing executables that simulate adversary behaviors and techniques on Linux endpoints.</td>
