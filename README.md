@@ -85,6 +85,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Standard collection of rules for capa: the tool for enumerating the capabilities of programs</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/FSecureLABS/leonidas">FSecureLABS/leonidas</a></td>
+        <td>Automated Attack Simulation in the Cloud, complete with detection use cases.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/jymcheong/AutoTTP">jymchoeng/AutoTTP</a></td>
         <td>Automated Tactics Techniques & Procedures</td>
     </tr>
