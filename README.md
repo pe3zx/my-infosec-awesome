@@ -1110,6 +1110,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>sleuthkit.org is the official website for The Sleuth Kit®, Autopsy®, and other open source digital investigation tools. From here, you can find documents, case studies, and download the latest versions of the software.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/thewhiteninja/ntfstool">thewhiteninja/ntfstool</a></td>
+        <td>Forensics tool for NTFS (parser, mft, bitlocker, deleted files)</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/THIBER-ORG/userline">THIBER-ORG/userline</a></td>
         <td>Query and report user logons relations from MS Windows Security Events</td>
     </tr>
