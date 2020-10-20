@@ -416,6 +416,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>IKOS (Inference Kernel for Open Static Analyzers) is a static analyzer for C/C++ based on the theory of Abstract Interpretation</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/nsacyber/BAM">nsacyber/BAM</a></td>
+        <td>The Binary Analysis Metadata tool gathers information about Windows binaries to aid in their analysis.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/nccgroup/WindowsMemPageDelta">nccgroup/WindowsMemPageDelta</a></td>
         <td>A Microsoft Windows service to provide telemetry on Windows executable memory page changes to facilitate threat detection</td>
     </tr>
