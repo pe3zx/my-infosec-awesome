@@ -512,6 +512,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td><a href="https://github.com/Azure/Stormspotter">Azure/Stormspotter</a></td>
         <td>Azure Red Team tool for graphing Azure and Azure Active Directory objects</td>
     </tr>
+    <tr>
+        <td><a href="https://github.com/BishopFox/smogcloud">BishopFox/smogcloud</a></td>
+        <td>Find cloud assets that no one wants exposed</td>
+    </tr>
 	<tr>
 		<td><a href="https://github.com/bridgecrewio/cdkgoat">bridgecrewio/cdkgoat</a></td>
 		<td>CdkGoat is Bridgecrew's "Vulnerable by Design" AWS CDK repository. CdkGoat is a learning and training project that demonstrates how common configuration errors can find their way into production cloud environments.</td>
