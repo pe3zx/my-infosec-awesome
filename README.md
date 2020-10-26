@@ -121,6 +121,10 @@ This repository is created as an online bookmark for useful links, resources and
 		<td>Praetorian's public release of our Metasploit automation of MITRE ATT&CK™ TTPs</td>
 	</tr>
     <tr>
+        <td><a href="https://github.com/scythe-io/community-threats">scythe-io/community-threats</a></td>
+        <td>The GitHub of Adversary Emulation Plans in JSON. Share SCYTHE threats with the community. #ThreatThursday adversary emulation plans are shared here.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/TryCatchHCF/DumpsterFire">TryCatchHCF/DumpsterFire</a></td>
         <td>"Security Incidents In A Box!" A modular, menu-driven, cross-platform tool for building customized, time-delayed, distributed security events.</td>
     </tr>
