@@ -125,6 +125,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>"Security Incidents In A Box!" A modular, menu-driven, cross-platform tool for building customized, time-delayed, distributed security events.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/ReconInfoSec/adversary-emulation-map">ReconInfoSec/adversary-emulation-map</a></td>
+        <td>Creates an ATT&CK Navigator map of an Adversary Emulation Plan</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/redcanaryco/atomic-red-team">redcanaryco/atomic-red-team</a></td>
         <td>Small and highly portable detection tests based on MITRE's ATT&CK.</td>
     </tr>
