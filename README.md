@@ -771,6 +771,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td><a href="https://github.com/SySS-Research/Seth">SySS-Research/Seth</a></td>
         <td>Perform a MitM attack and extract clear text credentials from RDP connections</td>
     </tr>
+    <tr>
+        <td><a href="https://github.com/vp777/procrustes">vp777/procrustes</a></td>
+        <td>A bash script that automates the exfiltration of data over dns in case we have a blind command execution on a server where all outbound connections except DNS are blocked.</td>
+    </tr>
 </table>
 
 ## Data Sets
