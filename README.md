@@ -930,6 +930,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>SilkETW & SilkService are flexible C# wrappers for ETW, they are meant to abstract away the complexities of ETW and give people a simple interface to perform research and introspection.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/fireeye/ThreatPursuit-VM">fireeye/ThreatPursuit-VM</a></td>
+        <td>Threat Pursuit Virtual Machine (VM): A fully customizable, open-sourced Windows-based distribution focused on threat intelligence analysis and hunting designed for intel and malware analysts as well as threat hunters to get up and running quickly.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/ForensicArtifacts/artifacts">ForensicArtifacts/artifacts</a></td>
         <td>Digital Forensics Artifact Repository</td>
     </tr>
