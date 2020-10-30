@@ -2044,6 +2044,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>GHunt is an OSINT tool to extract a lot of informations of someone's Google Account email.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/nccgroup/scrying">nccgroup/scrying</a></td>
+        <td>A tool for collecting RDP, web and VNC screenshots all in one place</td>
+    </tr>
+    <tr>
         <td><a href="https://data.occrp.org/">OCCRP Data</a></td>
         <td>Search 102m public records and leaks from 179 sources</td>
     </tr>
