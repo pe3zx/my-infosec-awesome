@@ -1953,6 +1953,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Another API-less Instagram pictures and videos downloader.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/americanexpress/earlybird">americanexpress/earlybird</a></td>
+        <td>EarlyBird is a sensitive data detection tool capable of scanning source code repositories for clear text password violations, PII, outdated cryptography methods, key files and more.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/arch4ngel/peasant">arch4ngel/peasant</a></td>
         <td>LinkedIn reconnaissance tool</td>
     </tr>
