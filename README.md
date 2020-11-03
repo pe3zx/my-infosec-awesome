@@ -1578,6 +1578,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Identifies the bytes that Microsoft Defender flags on.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/mindcollapse/MalwareMultiScan">mindcollapse/MalwareMultiScan</a></td>
+        <td>Self-hosted VirusTotal / MetaDefender wannabe with API, demo UI and Scanners running in Docker.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/MinervaLabsResearch/Mystique">MinervaLabsResearch/Mystique</a></td>
         <td>Mystique may be used to discover infection markers that can be used to vaccinate endpoints against malware. It receives as input a malicious sample and automatically generates a list of mutexes that could be used to as "vaccines" against the sample</td>
     </tr>
