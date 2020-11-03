@@ -1042,6 +1042,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>EventList is a tool to help improving your Audit capabilities and to help to build your Security Operation Center.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/mitre-attack/bzar">mitre-attack/bzar</a></td>
+        <td>A set of Zeek scripts to detect ATT&CK techniques.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/mozilla/audit-go">mozilla/audit-go</a></td>
         <td>Linux Audit Plugin for heka written using netlink Protocol in golang and Lua</td>
     </tr>
