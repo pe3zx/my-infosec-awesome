@@ -862,6 +862,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Inception is a physical memory manipulation and hacking tool exploiting PCI-based DMA. The tool can attack over FireWire, Thunderbolt, ExpressCard, PC Card and any other PCI/PCIe interfaces.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/chrisandoryan/Nethive-Project">chrisandoryan/Nethive-Project</a></td>
+        <td>Restructured and Collaborated SIEM and CVSS Infrastructure. Presented at Blackhat Asia Arsenal 2020.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/coinbase/dexter">coinbase/dexter</a></td>
         <td>Forensics acquisition framework designed to be extensible and secure</td>
     </tr>
