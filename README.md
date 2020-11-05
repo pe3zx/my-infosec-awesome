@@ -280,7 +280,7 @@ This repository is created as an online bookmark for useful links, resources and
     </tr>
     <tr>
         <td><a href="https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project">OWASP Zed Attack Proxy Project</a></td>
-        <td>The OWASP Zed Attack Proxy (ZAP) is one of the world’s most popular free security tools and is actively maintained by hundreds of international volunteers*. It can help you automatically find security vulnerabilities in your web applications while you are developing and testing your applications. Its also a great tool for experienced pentesters to use for manual security testing</td>
+        <td>The OWASP Zed Attack Proxy (ZAP) is one of the world’s most popular free security tools and is actively maintained by hundreds of international volunteers</td>
     </tr>
     <tr>
         <td><a href="https://publicwww.com/">Public WWW</a></td>
@@ -402,6 +402,10 @@ This repository is created as an online bookmark for useful links, resources and
     <tr>
         <td><a href="https://go-re.tk/">Go Reverse Engineering Toolkit</a></td>
         <td>A Reverse Engineering Tool Kit for Go, Written in Go.</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/grimm-co/GEARSHIFT">grimm-co/GEARSHIFT</a></td>
+        <td>GEARSHIFT is a tool that performs structure recovery for a specified function within a stripped binary. It also generates a fuzz harness that can be used to call functions in a shared object (.so) or dynamically linked library (.dll) file.</td>
     </tr>
     <tr>
         <td><a href="https://github.com/hasherezade/hollows_hunter">hasherezade/hollows_hunter</a></td>
