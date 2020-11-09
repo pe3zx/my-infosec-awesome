@@ -784,6 +784,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>A wanna be swiss army knife for data encryption, exfiltration and covert communication.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/hackerschoice/gsocket">hackerschoice/gsockethackerschoice/gsocket</a></td>
+        <td>Global Socket. Moving data from here to there. Securely, Fast and trough NAT/Firewalls</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/pentestpartners/PTP-RAT">pentestpartners/PTP-RAT</a></td>
         <td>Exfiltrate data over screen interfaces. <a href="https://www.pentestpartners.com/security-blog/exfiltration-by-encoding-data-in-pixel-colour-values/">For more information.</a></td>
     </tr>
