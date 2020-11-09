@@ -314,6 +314,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td><a href="https://github.com/subfinder/subfinder">subfinder/subfinder</a></td>
         <td>SubFinder is a subdomain discovery tool that discovers valid subdomains for websites. Designed as a passive framework to be useful for bug bounties and safe for penetration testing.</td>
     </tr>
+    <tr>
+        <td><a href="https://github.com/wagiro/BurpBounty">wagiro/BurpBounty</a></td>
+        <td>Burp Bounty (Scan Check Builder in BApp Store) is a extension of Burp Suite that allows you, in a quick and simple way, to improve the active and passive scanner by means of personalized rules through a very intuitive graphical interface.</td>
+    </tr>
 	<tr>
 		<td><a href="https://github.com/Yelp/detect-secrets">Yelp/detect-secrets</a></td>
 		<td>An enterprise friendly way of detecting and preventing secrets in code.</td>
