@@ -886,6 +886,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Forensics acquisition framework designed to be extensible and secure</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/ComodoSecurity/openedr">ComodoSecurity/openedr</a></td>
+        <td>Open EDR public repository</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/CrowdStrike/automactc">CrowdStrike/automactc</a></td>
         <td>AutoMacTC: Automated Mac Forensic Triage Collector</td>
     </tr>
