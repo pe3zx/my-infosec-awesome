@@ -2076,8 +2076,8 @@ This repository is created as an online bookmark for useful links, resources and
         <td>A python based LinkedIn enumeration tool</td>
     </tr>
     <tr>
-        <td><a href="https://github.com/ninoseki/mihari">ninoseki/mihari</a></td>
-        <td>A helper to run OSINT queries & manage results continuously</td>
+        <td><a href="https://github.com/megadose/holehe">megadose/holehe</a></td>
+        <td>holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.</td>
     </tr>
     <tr>
         <td><a href="https://github.com/mxrch/ghunt">mxrch/ghunt</a></td>
@@ -2086,6 +2086,10 @@ This repository is created as an online bookmark for useful links, resources and
     <tr>
         <td><a href="https://github.com/nccgroup/scrying">nccgroup/scrying</a></td>
         <td>A tool for collecting RDP, web and VNC screenshots all in one place</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/ninoseki/mihari">ninoseki/mihari</a></td>
+        <td>A helper to run OSINT queries & manage results continuously</td>
     </tr>
     <tr>
         <td><a href="https://data.occrp.org/">OCCRP Data</a></td>
