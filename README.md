@@ -2152,6 +2152,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td><a href="https://github.com/woj-ciech/SocialPath">woj-ciech/SocialPath</a></td>
         <td>Track users across social media platform</td>
     </tr>
+    <tr>
+        <td><a href="https://github.com/yogeshojha/rengine">yogeshojha/rengine</a></td>
+        <td>reNgine is an automated reconnaissance framework meant for information gathering during penetration testing of web applications. reNgine has customizable scan engines, which can be used to scan the websites, endpoints, and gather information.</td>
+    </tr>
 </table>
 
 ## Password Cracking and Wordlists
