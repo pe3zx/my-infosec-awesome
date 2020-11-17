@@ -412,6 +412,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>GEARSHIFT is a tool that performs structure recovery for a specified function within a stripped binary. It also generates a fuzz harness that can be used to call functions in a shared object (.so) or dynamically linked library (.dll) file.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/guelfoweb/peframe">guelfoweb/peframe</a></td>
+        <td>PEframe is a open source tool to perform static analysis on Portable Executable malware and malicious MS Office documents.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/hasherezade/hollows_hunter">hasherezade/hollows_hunter</a></td>
         <td>A process scanner detecting and dumping hollowed PE modules.</td>
     </tr>
