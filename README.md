@@ -384,6 +384,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>.NET runtine inspector. <a href="http://antonioparata.blogspot.it/2017/11/shed-inspect-net-malware-like-sir.html">Shed - Inspect .NET malware like a Sir</a></td>
     </tr>
     <tr>
+        <td><a href="https://github.com/fireeye/flare-emu">flare-emu</a></td>
+        <td>flare-emu marries a supported binary analysis framework, such as IDA Pro or Radare2, with Unicorns emulation framework to provide the user with an easy to use and flexible interface for scripting emulation tasks.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/fireeye/flare-floss">fireeye/flare-floss</a></td>
         <td>FireEye Labs Obfuscated String Solver - Automatically extract obfuscated strings from malware.</td>
     </tr>
