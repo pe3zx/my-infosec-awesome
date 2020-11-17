@@ -210,6 +210,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>HTTP Request Smuggling over HTTP/2 Cleartext (h2c)</td>
     </tr>
     <tr>
+        <td><a href="https://bugbountyrecon.com/">Bug Bounty Recon</a></td>
+        <td>Bug Bounty Recon (bbrecon) is a Recon-as-a-Service for bug bounty hunters and security researchers. The API aims to provide a continuously up-to-date map of the Internet "safe harbor" attack surface, excluding out-of-scope targets.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/danmar/cppcheck">danmar/cppcheck</a></td>
         <td>static analysis of C/C++ code</td>
     </tr>
