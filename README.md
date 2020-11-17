@@ -2605,6 +2605,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>A modern vulnerable web app</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/rewanth1997/Damn-Vulnerable-Bank">rewanth1997/Damn-Vulnerable-Bank</a></td>
+        <td>Vulnerable Banking Application for Android</td>
+    </tr>
+    <tr>
         <td><a href="https://martin.uy/blog/projects/reverse-engineering/">Reverse Engineering</a></td>
         <td>Welcome to the Reverse Engineering open course! This course is a journey into executable binaries and operating systems from 3 different angles: 1) Malware analysis, 2) Bug hunting and 3) Exploit writing. Both  Windows and Linux x86/x86_64 platforms are under scope.</td>
     </tr>
