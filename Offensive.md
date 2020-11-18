@@ -159,6 +159,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Miscellaneous Tools</td>
     </tr>
     <tr>
+        <td><a href="https://gist.github.com/ropnop/fdd4e4ab537821eee5a1a751c044924f">ropnop/go-sharp-loader.go</a></td>
+        <td>Example Go program with multiple .NET Binaries embedded</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/sh4hin/GoPurple">sh4hin/GoPurple</a></td>
         <td>Yet another shellcode runner consists of different techniques for evaluating detection capabilities of endpoint security solutions</td>
     </tr>
