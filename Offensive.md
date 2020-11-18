@@ -176,6 +176,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Injects C# EXE or DLL Assembly into every CLR runtime and AppDomain of another process.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/jthuraisamy/SysWhispers">jthuraisamy/SysWhispers</a></td>
+        <td>SysWhispers helps with evasion by generating header/ASM files implants can use to make direct system calls.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/monoxgas/sRDI">monoxgas/sRDI</a></td>
         <td>Shellcode implementation of Reflective DLL Injection. Convert DLLs to position independent shellcode</td>
     </tr>
