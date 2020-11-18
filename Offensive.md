@@ -307,6 +307,10 @@ This page will contain my bookmark for offensive tools, briefly categorized base
         <td>Bloodhound for Blue and Purple Teams</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/Mr-Un1k0d3r/SCShell">Mr-Un1k0d3r/SCShell</a></td>
+        <td>Fileless lateral movement tool that relies on ChangeServiceConfigA to run command</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/ScorpionesLabs/DVS">ScorpionesLabs/DVS</a></td>
         <td>D(COM) V(ulnerability) S(canner) AKA Devious swiss army knife - Lateral movement using DCOM Objects</td>
     </tr>
