@@ -1,19 +1,22 @@
 # Offensive Bookmark <!-- omit in toc -->
 
 <p align="center">
-  <img src="cover.png">
+    <img src="cover.png">
 </p>
 
-<p align="center"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" /> <a href="https://github.com/pe3zx/my-infosec-awesome/actions"><img src="https://github.com/pe3zx/my-infosec-awesome/workflows/Ruby/badge.svg" /></a> <img src="https://img.shields.io/github/last-commit/pe3zx/my-infosec-awesome.svg"/> </p>
+<p align="center"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" /> <a href="https://github.com/pe3zx/my-infosec-awesome/actions"><img src="https://github.com/pe3zx/my-infosec-awesome/workflows/Ruby/badge.svg" /></a> <img src="https://img.shields.io/github/last-commit/pe3zx/my-infosec-awesome.svg" /> </p>
 
-This page will contain my bookmark for offensive tools, briefly categorized based on [MITRE ATT&CK Enterprise Matrix](https://attack.mitre.org/matrices/enterprise/). Some links and sections on [README.md](README.md) will be relocated to this page if it's related to offensive tactics and techniques.
+This page will contain my bookmark for offensive tools, briefly categorized based on [MITRE ATT&CK Enterprise
+Matrix](https://attack.mitre.org/matrices/enterprise/). Some links and sections on [README.md](README.md) will be
+relocated to this page if it's related to offensive tactics and techniques.
 
-Some tools can be categorized in more than one category. But because the current bookmark model doesn't support 1-to-many mapping, I will decide a tool's category based on its ultimate goal.
+Some tools can be categorized in more than one category. But because the current bookmark model doesn't support
+1-to-many mapping, I will decide a tool's category based on its ultimate goal.
 
 - [Reconnaissance/Discovery](#reconnaissancediscovery)
 - [Execution](#execution)
-  - [Manipulating Binary's Internal](#manipulating-binarys-internal)
-  - [Payload Generation](#payload-generation)
+    - [Manipulating Binary's Internal](#manipulating-binarys-internal)
+    - [Payload Generation](#payload-generation)
 - [Persistence](#persistence)
 - [Privilege Escalation](#privilege-escalation)
 - [Defense Evasion](#defense-evasion)
@@ -30,12 +33,14 @@ Some tools can be categorized in more than one category. But because the current
         <td><b>Description</b></td>
     </tr>
     <tr>
-        <td><a href="https://github.com/danielbohannon/Invoke-CradleCrafter">danielbohannon/Invoke-CradleCrafter</a></td>
+        <td><a href="https://github.com/danielbohannon/Invoke-CradleCrafter">danielbohannon/Invoke-CradleCrafter</a>
+        </td>
         <td>PowerShell Remote Download Cradle Generator & Obfuscator</td>
     </tr>
     <tr>
         <td><a href="https://github.com/dev-2null/adcollector">dev-2null/ADCollector<a></td>
-        <td>A lightweight tool to quickly extract valuable information from the Active Directory environment for both attacking and defending.</td>
+        <td>A lightweight tool to quickly extract valuable information from the Active Directory environment for both
+            attacking and defending.</td>
     </tr>
     <tr>
         <td><a href="https://github.com/dirkjanm/ROADtools">dirkjanm/ROADtools</a></td>
@@ -47,7 +52,8 @@ Some tools can be categorized in more than one category. But because the current
     </tr>
     <tr>
         <td><a href="https://github.com/GhostPack/Seatbelt">GhostPack/Seatbelt</a></td>
-        <td>Seatbelt is a C# project that performs a number of security oriented host-survey "safety checks" relevant from both offensive and defensive security perspectives.</td>
+        <td>Seatbelt is a C# project that performs a number of security oriented host-survey "safety checks" relevant
+            from both offensive and defensive security perspectives.</td>
     </tr>
     <tr>
         <td><a href="https://github.com/jaredhaight/scout">jaredhaight/scout</a></td>
@@ -67,7 +73,8 @@ Some tools can be categorized in more than one category. But because the current
     </tr>
     <tr>
         <td><a href="https://github.com/rasta-mouse/Watson">rasta-mouse/Watson</a></td>
-        <td>Enumerate missing KBs and suggest exploits for useful Privilege Escalation vulnerabilitiesEnumerate missing KBs and suggest exploits for useful Privilege Escalation vulnerabilities</td>
+        <td>Enumerate missing KBs and suggest exploits for useful Privilege Escalation vulnerabilitiesEnumerate missing
+            KBs and suggest exploits for useful Privilege Escalation vulnerabilities</td>
     </tr>
     <tr>
         <td><a href="https://github.com/stufus/reconerator">stufus/reconerator</a></td>
@@ -83,7 +90,8 @@ Some tools can be categorized in more than one category. But because the current
     </tr>
     <tr>
         <td><a href="https://github.com/TonyPhipps/Meerkat">TonyPhipps/Meerkat</a></td>
-        <td>A collection of PowerShell modules designed for artifact gathering and reconnaisance of Windows-based endpoints.</td>
+        <td>A collection of PowerShell modules designed for artifact gathering and reconnaisance of Windows-based
+            endpoints.</td>
     </tr>
 </table>
 
@@ -108,23 +116,30 @@ Some tools can be categorized in more than one category. But because the current
     </tr>
     <tr>
         <td><a href="https://github.com/checkymander/Zolom">checkymander/Zolom</a></td>
-        <td>C# Executable with embedded Python that can be used reflectively to run python code on systems without Python installed</td>
+        <td>C# Executable with embedded Python that can be used reflectively to run python code on systems without
+            Python installed</td>
     </tr>
     <tr>
         <td><a href="https://github.com/Cn33liz/p0wnedShell">Cn33liz/p0wnedShell</a></td>
-        <td>p0wnedShell is an offensive PowerShell host application written in C# that does not rely on powershell.exe but runs powershell commands and functions within a powershell runspace environment (.NET)</td>
+        <td>p0wnedShell is an offensive PowerShell host application written in C# that does not rely on powershell.exe
+            but runs powershell commands and functions within a powershell runspace environment (.NET)</td>
     </tr>
     <tr>
         <td><a href="https://github.com/D00MFist/Go4aRun">D00MFist/Go4aRun</a></td>
-        <td>Shellcode runner in GO that incorporates shellcode encryption, remote process injection, block dlls, and spoofed parent process</td>
+        <td>Shellcode runner in GO that incorporates shellcode encryption, remote process injection, block dlls, and
+            spoofed parent process</td>
     </tr>
     <tr>
         <td><a href="https://github.com/Flangvik/SharpCollection">Flangvik/SharpCollection</a></td>
-        <td>Nightly builds of common C# offensive tools, fresh from their respective master branches built and released in a CDI fashion using Azure DevOps release pipelines.</td>
+        <td>Nightly builds of common C# offensive tools, fresh from their respective master branches built and released
+            in a CDI fashion using Azure DevOps release pipelines.</td>
     </tr>
-   <tr>
+    <tr>
         <td><a href="https://github.com/FuzzySecurity/PowerShell-Suite">FuzzySecurity/PowerShell-Suite</a></td>
-        <td>There are great tools and resources online to accomplish most any task in PowerShell, sometimes however, there is a need to script together a util for a specific purpose or to bridge an ontological gap. This is a collection of PowerShell utilities I put together either for fun or because I had a narrow application in mind.</td>
+        <td>There are great tools and resources online to accomplish most any task in PowerShell, sometimes however,
+            there is a need to script together a util for a specific purpose or to bridge an ontological gap. This is a
+            collection of PowerShell utilities I put together either for fun or because I had a narrow application in
+            mind.</td>
     </tr>
     <tr>
         <td><a href="https://github.com/GhostPack/SharpWMI">GhostPack/SharpWMI</a></td>
@@ -140,11 +155,13 @@ Some tools can be categorized in more than one category. But because the current
     </tr>
     <tr>
         <td><a href="https://github.com/mgeeky/Stracciatella">mgeeky/Stracciatella</a></td>
-        <td>OpSec-safe Powershell runspace from within C# (aka SharpPick) with AMSI, Constrained Language Mode and Script Block Logging disabled at startup</td>
+        <td>OpSec-safe Powershell runspace from within C# (aka SharpPick) with AMSI, Constrained Language Mode and
+            Script Block Logging disabled at startup</td>
     </tr>
     <tr>
         <td><a href="https://github.com/Mr-Un1k0d3r/RedTeamCSharpScripts">Mr-Un1k0d3r/RedTeamCSharpScripts</a></td>
-        <td>C# Script used for Red Team. These binaries can be used by Cobalt Strike execute-assembly or as standalone executable.</td>
+        <td>C# Script used for Red Team. These binaries can be used by Cobalt Strike execute-assembly or as standalone
+            executable.</td>
     </tr>
     <tr>
         <td><a href="https://github.com/nccgroup/GTFOBLookup">nccgroup/GTFOBLookup</a></td>
@@ -164,7 +181,8 @@ Some tools can be categorized in more than one category. But because the current
     </tr>
     <tr>
         <td><a href="https://github.com/sh4hin/GoPurple">sh4hin/GoPurple</a></td>
-        <td>Yet another shellcode runner consists of different techniques for evaluating detection capabilities of endpoint security solutions</td>
+        <td>Yet another shellcode runner consists of different techniques for evaluating detection capabilities of
+            endpoint security solutions</td>
     </tr>
 </table>
 
@@ -177,18 +195,22 @@ Some tools can be categorized in more than one category. But because the current
     </tr>
     <tr>
         <td><a href="https://github.com/Cybellum/DoubleAgent">Cybellum/DoubleAgent</a></td>
-        <td>DoubleAgent is a new Zero-Day technique for injecting code and maintaining persistence on a machine (i.e. auto-run).</td>
+        <td>DoubleAgent is a new Zero-Day technique for injecting code and maintaining persistence on a machine (i.e.
+            auto-run).</td>
     </tr>
     <tr>
         <td><a href="https://github.com/Flangvik/SharpDllProxy">Flangvik/SharpDllProxy</a></td>
-        <td>Retrieves exported functions from a legitimate DLL and generates a proxy DLL source code/template for DLL proxy loading or sideloading</td>
+        <td>Retrieves exported functions from a legitimate DLL and generates a proxy DLL source code/template for DLL
+            proxy loading or sideloading</td>
     </tr>
     <tr>
-        <td><a href="https://github.com/forrest-orr/phantom-dll-hollower-poc">/forrest-orr/phantom-dll-hollower-poc</a></td>
+        <td><a href="https://github.com/forrest-orr/phantom-dll-hollower-poc">/forrest-orr/phantom-dll-hollower-poc</a>
+        </td>
         <td>Phantom DLL hollowing PoC</td>
     </tr>
     <tr>
-        <td><a href="https://github.com/GoodstudyChina/APC-injection-x86-x64">GoodstudyChina/APC-injection-x86-x64</a></td>
+        <td><a href="https://github.com/GoodstudyChina/APC-injection-x86-x64">GoodstudyChina/APC-injection-x86-x64</a>
+        </td>
         <td>injdrv is a proof-of-concept Windows Driver for injecting DLL into user-mode processes using APC.</td>
     </tr>
     <tr>
@@ -197,23 +219,28 @@ Some tools can be categorized in more than one category. But because the current
     </tr>
     <tr>
         <td><a href="https://github.com/jthuraisamy/SysWhispers">jthuraisamy/SysWhispers</a></td>
-        <td>SysWhispers helps with evasion by generating header/ASM files implants can use to make direct system calls.</td>
+        <td>SysWhispers helps with evasion by generating header/ASM files implants can use to make direct system calls.
+        </td>
     </tr>
     <tr>
         <td><a href="https://github.com/mobdk/Sigma">mobdk/Sigma</a></td>
-        <td>Execute shellcode with ZwCreateSection, ZwMapViewOfSection, ZwOpenProcess, ZwMapViewOfSection and ZwCreateThreadEx</td>
+        <td>Execute shellcode with ZwCreateSection, ZwMapViewOfSection, ZwOpenProcess, ZwMapViewOfSection and
+            ZwCreateThreadEx</td>
     </tr>
     <tr>
         <td><a href="https://github.com/monoxgas/sRDI">monoxgas/sRDI</a></td>
         <td>Shellcode implementation of Reflective DLL Injection. Convert DLLs to position independent shellcode</td>
     </tr>
-   <tr>
-        <td><a href="https://github.com/stephenfewer/ReflectiveDLLInjection">stephenfewer/ReflectiveDLLInjection</a></td>
-        <td>Reflective DLL injection is a library injection technique in which the concept of reflective programming is employed to perform the loading of a library from memory into a host process</td>
+    <tr>
+        <td><a href="https://github.com/stephenfewer/ReflectiveDLLInjection">stephenfewer/ReflectiveDLLInjection</a>
+        </td>
+        <td>Reflective DLL injection is a library injection technique in which the concept of reflective programming is
+            employed to perform the loading of a library from memory into a host process</td>
     </tr>
     <tr>
         <td><a href="https://github.com/slyd0g/UrbanBishopLocal">slyd0g/UrbanBishopLocal</a></td>
-        <td>A port of FuzzySecurity's UrbanBishop project for inline shellcode execution. The execution vector uses a delegate vs an APC on a suspended threat at ntdll!RtlExitUserThread in UrbanBishop</td>
+        <td>A port of FuzzySecurity's UrbanBishop project for inline shellcode execution. The execution vector uses a
+            delegate vs an APC on a suspended threat at ntdll!RtlExitUserThread in UrbanBishop</td>
     </tr>
     <tr>
         <td><a href="https://github.com/r3nhat/XORedReflectiveDLL">r3nhat/XORedReflectiveDLL</a></td>
@@ -234,18 +261,22 @@ Some tools can be categorized in more than one category. But because the current
     </tr>
     <tr>
         <td><a href="https://github.com/Binject/backdoorfactory">Binject/backdoorfactory</a></td>
-        <td>A from-scratch rewrite of The Backdoor Factory - a MitM tool for inserting shellcode into all types of binaries on the wire.</td>
+        <td>A from-scratch rewrite of The Backdoor Factory - a MitM tool for inserting shellcode into all types of
+            binaries on the wire.</td>
     </tr>
     <tr>
         <td><a href="https://github.com/BishopFox/sliver">BishopFox/sliver</a></td>
-        <td>Sliver is a general purpose cross-platform implant framework that supports C2 over Mutual-TLS, HTTP(S), and DNS. Implants are dynamically compiled with unique X.509 certificates signed by a per-instance certificate authority generated when you first run the binary.</td>
+        <td>Sliver is a general purpose cross-platform implant framework that supports C2 over Mutual-TLS, HTTP(S), and
+            DNS. Implants are dynamically compiled with unique X.509 certificates signed by a per-instance certificate
+            authority generated when you first run the binary.</td>
     </tr>
     <tr>
         <td><a href="https://github.com/cedowens/Mythic-Macro-Generator">cedowens/Mythic-Macro-Generator</a></td>
         <td>Python3 script to generate a macro to launch a Mythic payload. Author: Cedric Owens</td>
     </tr>
     <tr>
-        <td><a href="https://github.com/damienvanrobaeys/PS1-To-EXE-Generator">damienvanrobaeys/PS1-To-EXE-Generator</a></td>
+        <td><a href="https://github.com/damienvanrobaeys/PS1-To-EXE-Generator">damienvanrobaeys/PS1-To-EXE-Generator</a>
+        </td>
         <td>PS1 to EXE Generator: Create an EXE for your PS1 scripts</td>
     </tr>
     <tr>
@@ -270,7 +301,8 @@ Some tools can be categorized in more than one category. But because the current
     </tr>
     <tr>
         <td><a href="https://github.com/infosecn1nja/MaliciousMacroMSBuild">infosecn1nja/MaliciousMacroMSBuild</a></td>
-        <td>Generates Malicious Macro and Execute Powershell or Shellcode via MSBuild Application Whitelisting Bypass.</td>
+        <td>Generates Malicious Macro and Execute Powershell or Shellcode via MSBuild Application Whitelisting Bypass.
+        </td>
     </tr>
     <tr>
         <td><a href="https://github.com/l373/GIVINGSTORM">l373/GIVINGSTORM</a></td>
@@ -278,7 +310,8 @@ Some tools can be categorized in more than one category. But because the current
     </tr>
     <tr>
         <td><a href="https://github.com/mdsecactivebreach/SharpShooter">mdsecactivebreach/SharpShooter</a></td>
-        <td>SharpShooter is a payload creation framework for the retrieval and execution of arbitrary CSharp source code.</td>
+        <td>SharpShooter is a payload creation framework for the retrieval and execution of arbitrary CSharp source
+            code.</td>
     </tr>
     <tr>
         <td><a href="https://github.com/michaelweber/Macrome">michaelweber/Macrome</a></td>
@@ -294,19 +327,25 @@ Some tools can be categorized in more than one category. But because the current
     </tr>
     <tr>
         <td><a href="https://github.com/redcanaryco/chain-reactor">redcanaryco/chain-reactor</a></td>
-        <td>Chain Reactor is an open source framework for composing executables that simulate adversary behaviors and techniques on Linux endpoints.</td>
+        <td>Chain Reactor is an open source framework for composing executables that simulate adversary behaviors and
+            techniques on Linux endpoints.</td>
     </tr>
     <tr>
         <td><a href="https://github.com/sevagas/macro_pack">sevagas/macro_pack</a></td>
-        <td>macro_pack is a tool used to automatize obfuscation and generation of MS Office documents for pentest, demo, and social engineering assessments. The goal of macro_pack is to simplify antimalware bypass and automatize the process from vba generation to final Office document generation.</td>
+        <td>macro_pack is a tool used to automatize obfuscation and generation of MS Office documents for pentest, demo,
+            and social engineering assessments. The goal of macro_pack is to simplify antimalware bypass and automatize
+            the process from vba generation to final Office document generation.</td>
     </tr>
     <tr>
         <td><a href="https://github.com/TheWover/donut">TheWover/donut</a></td>
-        <td>Generates x86, x64, or AMD64+x86 position-independent shellcode that loads .NET Assemblies, PE files, and other Windows payloads from memory and runs them with parameters</td>
+        <td>Generates x86, x64, or AMD64+x86 position-independent shellcode that loads .NET Assemblies, PE files, and
+            other Windows payloads from memory and runs them with parameters</td>
     </tr>
     <tr>
         <td><a href="https//github.com/trustedsec/unicorn">trustedsec/unicorn</a></td>
-        <td>Unicorn is a simple tool for using a PowerShell downgrade attack and inject shellcode straight into memory. Based on Matthew Graeber's powershell attacks and the powershell bypass technique presented by David Kennedy (TrustedSec) and Josh Kelly at Defcon 18.</td>
+        <td>Unicorn is a simple tool for using a PowerShell downgrade attack and inject shellcode straight into memory.
+            Based on Matthew Graeber's powershell attacks and the powershell bypass technique presented by David Kennedy
+            (TrustedSec) and Josh Kelly at Defcon 18.</td>
     </tr>
 </table>
 
@@ -352,19 +391,23 @@ Some tools can be categorized in more than one category. But because the current
     </tr>
     <tr>
         <td><a href="https://github.com/411Hall/JAWS">411Hall/JAWS</a></td>
-        <td>JAWS is PowerShell script designed to help penetration testers (and CTFers) quickly identify potential privilege escalation vectors on Windows systems. It is written using PowerShell 2.0 so 'should' run on every Windows version since Windows 7.</td>
+        <td>JAWS is PowerShell script designed to help penetration testers (and CTFers) quickly identify potential
+            privilege escalation vectors on Windows systems. It is written using PowerShell 2.0 so 'should' run on every
+            Windows version since Windows 7.</td>
     </tr>
     <tr>
         <td><a href="https://github.com/antonioCoco/RogueWinRM">antonioCoco/RogueWinRM</a></td>
         <td>Windows Local Privilege Escalation from Service Account to System</td>
     </tr>
     <tr>
-        <td><a href="https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite">carlospolop/privilege-escalation-awesome-scripts-suite</a></td>
+        <td><a href="https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite">carlospolop/privilege-escalation-awesome-scripts-suite</a>
+        </td>
         <td>PEASS - Privilege Escalation Awesome Scripts SUITE (with colors)</td>
     </tr>
     <tr>
         <td><a href="https://github.com/hlldz/dazzleUP">hlldz/dazzleUP</a></td>
-        <td>A tool that detects the privilege escalation vulnerabilities caused by misconfigurations and missing updates in the Windows operating systems.</td>
+        <td>A tool that detects the privilege escalation vulnerabilities caused by misconfigurations and missing updates
+            in the Windows operating systems.</td>
     </tr>
     <tr>
         <td><a href="https://github.com/itm4n/PrivescCheck">itm4n/PrivescCheck</a></td>
@@ -385,10 +428,13 @@ Some tools can be categorized in more than one category. But because the current
     </tr>
     <tr>
         <td><a href="https://github.com/89luca89/pakkero">89luca89/pakkero</a></td>
-        <td>Pakkero is a binary packer written in Go made for fun and educational purpose. Its main goal is to take in input a program file (elf binary, script, even appimage) and compress it, protect it from tampering and intrusion.</td>
+        <td>Pakkero is a binary packer written in Go made for fun and educational purpose. Its main goal is to take in
+            input a program file (elf binary, script, even appimage) and compress it, protect it from tampering and
+            intrusion.</td>
     </tr>
     <tr>
-        <td><a href="https://github.com/api0cradle/UltimateAppLockerByPassList">api0cradle/UltimateAppLockerByPassList</a></td>
+        <td><a href="https://github.com/api0cradle/UltimateAppLockerByPassList">api0cradle/UltimateAppLockerByPassList</a>
+        </td>
         <td>The goal of this repository is to document the most common techniques to bypass AppLocker.</td>
     </tr>
     <tr>
@@ -429,13 +475,14 @@ Some tools can be categorized in more than one category. But because the current
     </tr>
     <tr>
         <td><a href="https://github.com/EgeBalci/Amber">EgeBalci/Amber</a></td>
-        <td>amber is a reflective PE packer for bypassing security products and mitigations. It can pack regularly compiled PE files into reflective payloads that can load and execute itself like a shellcode.</td>
+        <td>amber is a reflective PE packer for bypassing security products and mitigations. It can pack regularly
+            compiled PE files into reflective payloads that can load and execute itself like a shellcode.</td>
     </tr>
-   <tr>
+    <tr>
         <td><a href="https://github.com/ffuf/pencode">ffuf/pencode</a></td>
         <td>Complex payload encoder</td>
     </tr>
-   <tr>
+    <tr>
         <td><a href="https://github.com/hlldz/Invoke-Phant0m">hlldz/Invoke-Phant0m</a></td>
         <td>Windows Event Log Killer</td>
     </tr>
@@ -457,7 +504,8 @@ Some tools can be categorized in more than one category. But because the current
     </tr>
     <tr>
         <td><a href="https://github.com/mdsecactivebreach/firewalker">mdsecactivebreach/firewalker</a></td>
-        <td>This repo contains a simple library which can be used to add FireWalker hook bypass capabilities to existing code</td>
+        <td>This repo contains a simple library which can be used to add FireWalker hook bypass capabilities to existing
+            code</td>
     </tr>
     <tr>
         <td><a href="https://github.com/nccgroup/demiguise">nccgroup/demiguise</a></td>
@@ -481,7 +529,10 @@ Some tools can be categorized in more than one category. But because the current
     </tr>
     <tr>
         <td><a href="https://github.com/PwnDexter/SharpEDRChecker">PwnDexter/SharpEDRChecker</a></td>
-        <td>Checks running processes, process metadata, Dlls loaded into your current process and the each DLLs metadata, common install directories, installed services and each service binaries metadata, installed drivers and each drivers metadata, all for the presence of known defensive products such as AV's, EDR's and logging tools.</td>
+        <td>Checks running processes, process metadata, Dlls loaded into your current process and the each DLLs
+            metadata, common install directories, installed services and each service binaries metadata, installed
+            drivers and each drivers metadata, all for the presence of known defensive products such as AV's, EDR's and
+            logging tools.</td>
     </tr>
     <tr>
         <td><a href="https://github.com/secretsquirrel/SigThief">secretsquirrel/SigThief</a></td>
@@ -497,7 +548,8 @@ Some tools can be categorized in more than one category. But because the current
     </tr>
     <tr>
         <td><a href="https://github.com/tokyoneon/chimera">tokyoneon/chimera</a></td>
-        <td>Chimera is a (shiny and very hack-ish) PowerShell obfuscation script designed to bypass AMSI and commercial antivirus solutions.</td>
+        <td>Chimera is a (shiny and very hack-ish) PowerShell obfuscation script designed to bypass AMSI and commercial
+            antivirus solutions.</td>
     </tr>
 </table>
 
@@ -513,9 +565,11 @@ Some tools can be categorized in more than one category. But because the current
         <td>Credentials gathering tool automating remote procdump and parse of lsass process.</td>
     </tr>
     <tr>
-		<td><a href="https://github.com/Arvanaghi/SessionGopher">Arvanaghi/SessionGopher</a></td>
-		<td>SessionGopher is a PowerShell tool that uses WMI to extract saved session information for remote access tools such as WinSCP, PuTTY, SuperPuTTY, FileZilla, and Microsoft Remote Desktop. It can be run remotely or locally.</td>
-	</tr>
+        <td><a href="https://github.com/Arvanaghi/SessionGopher">Arvanaghi/SessionGopher</a></td>
+        <td>SessionGopher is a PowerShell tool that uses WMI to extract saved session information for remote access
+            tools such as WinSCP, PuTTY, SuperPuTTY, FileZilla, and Microsoft Remote Desktop. It can be run remotely or
+            locally.</td>
+    </tr>
     <tr>
         <td><a href="https://github.com/b4rtik/SharpKatz">b4rtik/SharpKatz</a></td>
         <td>Porting of mimikatz sekurlsa::logonpasswords, sekurlsa::ekeys and lsadump::dcsync commands</td>
@@ -526,7 +580,8 @@ Some tools can be categorized in more than one category. But because the current
     </tr>
     <tr>
         <td><a href="https://github.com/DanMcInerney/icebreaker">DanMcInerney/icebreaker</a></td>
-        <td>Gets plaintext Active Directory credentials if you're on the internal network but outside the AD environment</td>
+        <td>Gets plaintext Active Directory credentials if you're on the internal network but outside the AD environment
+        </td>
     </tr>
     <tr>
         <td><a href="https://github.com/eladshamir/Internal-Monologue">eladshamir/Internal-Monologue</a></td>
@@ -534,11 +589,13 @@ Some tools can be categorized in more than one category. But because the current
     </tr>
     <tr>
         <td><a href="https://github.com/Flangvik/BetterSafetyKatz">Flangvik/BetterSafetyKatz</a></td>
-        <td>Fork of SafetyKatz that dynamically fetches the latest pre-compiled release of Mimikatz directly from gentilkiwi GitHub repo, runtime patches signatures and uses SharpSploit DInvoke to PE-Load into memory.</td>
+        <td>Fork of SafetyKatz that dynamically fetches the latest pre-compiled release of Mimikatz directly from
+            gentilkiwi GitHub repo, runtime patches signatures and uses SharpSploit DInvoke to PE-Load into memory.</td>
     </tr>
     <tr>
         <td><a href="https://github.com/FSecureLABS/physmem2profit">FSecureLABS/physmem2profit </a></td>
-        <td>Physmem2profit can be used to create a minidump of a target hosts' LSASS process by analysing physical memory remotely</td>
+        <td>Physmem2profit can be used to create a minidump of a target hosts' LSASS process by analysing physical
+            memory remotely</td>
     </tr>
     <tr>
         <td><a href="https://github.com/G0ldenGunSec/SharpSecDump">G0ldenGunSec/SharpSecDump</a></td>
@@ -546,7 +603,8 @@ Some tools can be categorized in more than one category. But because the current
     </tr>
     <tr>
         <td><a href="https://github.com/GhostPack/SafetyKatz">GhostPack/SafetyKatz</a></td>
-        <td>SafetyKatz is a combination of slightly modified version of @gentilkiwi's Mimikatz project and @subTee's .NET PE Loader</td>
+        <td>SafetyKatz is a combination of slightly modified version of @gentilkiwi's Mimikatz project and @subTee's
+            .NET PE Loader</td>
     </tr>
     <tr>
         <td><a href="https://github.com/GhostPack/SharpDump">GhostPack/SharpDump</a></td>
@@ -554,7 +612,8 @@ Some tools can be categorized in more than one category. But because the current
     </tr>
     <tr>
         <td><a href="https://github.com/GhostPack/Rubeus">GhostPack/Rubeus</a></td>
-        <td>Rubeus is a C# toolset for raw Kerberos interaction and abusesRubeus is a C# toolset for raw Kerberos interaction and abuses</td>
+        <td>Rubeus is a C# toolset for raw Kerberos interaction and abusesRubeus is a C# toolset for raw Kerberos
+            interaction and abuses</td>
     </tr>
     <tr>
         <td><a href="https://github.com/gitjdm/dumper2020">gitjdm/dumper2020</a></td>
@@ -570,7 +629,8 @@ Some tools can be categorized in more than one category. But because the current
     </tr>
     <tr>
         <td><a href="https://github.com/nidem/kerberoast">nidem/kerberoast</a></td>
-        <td>Kerberoast is a series of tools for attacking MS Kerberos implementations. Below is a brief overview of what each tool does.</td>
+        <td>Kerberoast is a series of tools for attacking MS Kerberos implementations. Below is a brief overview of what
+            each tool does.</td>
     </tr>
     <tr>
         <td><a href="https://github.com/peewpw/Invoke-WCMDump">peewpw/Invoke-WCMDump</a></td>
@@ -586,11 +646,15 @@ Some tools can be categorized in more than one category. But because the current
     </tr>
     <tr>
         <td><a href="https://github.com/SnaffCon/Snaffler">SnaffCon/Snaffler</a></td>
-        <td>Snaffler is a tool for pentesters to help find delicious candy needles (creds mostly, but it's flexible) in a bunch of horrible boring haystacks (a massive Windows/AD environment).</td>
+        <td>Snaffler is a tool for pentesters to help find delicious candy needles (creds mostly, but it's flexible) in
+            a bunch of horrible boring haystacks (a massive Windows/AD environment).</td>
     </tr>
     <tr>
-        <td><a href="https://github.com/Viralmaniar/Remote-Desktop-Caching-">Viralmaniar/Remote-Desktop-Caching-</a></td>
-        <td>This tool allows one to recover old RDP (mstsc) session information in the form of broken PNG files. These PNG files allows Red Team member to extract juicy information such as LAPS passwords or any sensitive information on the screen.</td>
+        <td><a href="https://github.com/Viralmaniar/Remote-Desktop-Caching-">Viralmaniar/Remote-Desktop-Caching-</a>
+        </td>
+        <td>This tool allows one to recover old RDP (mstsc) session information in the form of broken PNG files. These
+            PNG files allows Red Team member to extract juicy information such as LAPS passwords or any sensitive
+            information on the screen.</td>
     </tr>
 </table>
 
@@ -611,7 +675,8 @@ Some tools can be categorized in more than one category. But because the current
     </tr>
     <tr>
         <td><a href="https://github.com/bohops/WSMan-WinRM">bohops/WSMan-WinRM</a></td>
-        <td>A collection of proof-of-concept source code and scripts for executing remote commands over WinRM using the WSMan.Automation COM object</td>
+        <td>A collection of proof-of-concept source code and scripts for executing remote commands over WinRM using the
+            WSMan.Automation COM object</td>
     </tr>
     <tr>
         <td><a href="https://github.com/byt3bl33d3r/CrackMapExec">byt3bl33d3r/CrackMapExec</a></td>
@@ -627,7 +692,8 @@ Some tools can be categorized in more than one category. But because the current
     </tr>
     <tr>
         <td><a href="https://github.com/infosecn1nja/SharpDoor">infosecn1nja/SharpDoor</a></td>
-        <td>SharpDoor is alternative RDPWrap written in C# to allowed multiple RDP (Remote Desktop) sessions by patching termsrv.dll file.</td>
+        <td>SharpDoor is alternative RDPWrap written in C# to allowed multiple RDP (Remote Desktop) sessions by patching
+            termsrv.dll file.</td>
     </tr>
     <tr>
         <td><a href="https://github.com/Mr-Un1k0d3r/SCShell">Mr-Un1k0d3r/SCShell</a></td>
@@ -652,7 +718,9 @@ Some tools can be categorized in more than one category. But because the current
     </tr>
     <tr>
         <td><a href="https://github.com/3xpl01tc0d3r/Callidus">3xpl01tc0d3r/Callidus</a></td>
-        <td>It is developed using .net core framework in C# language. Allows operators to leverage O365 services for establishing command & control communication channel. It usages Microsoft Graph APIs for communicating with O365 services.</td>
+        <td>It is developed using .net core framework in C# language. Allows operators to leverage O365 services for
+            establishing command & control communication channel. It usages Microsoft Graph APIs for communicating with
+            O365 services.</td>
     </tr>
     <tr>
         <td><a href="https://github.com/bats3c/shad0w">bats3c/shad0w</a></td>
@@ -664,7 +732,9 @@ Some tools can be categorized in more than one category. But because the current
     </tr>
     <tr>
         <td><a href="https://github.com/cobbr/Covenant">cobbr/Covenant</a></td>
-        <td> Covenant is a .NET command and control framework that aims to highlight the attack surface of .NET, make the use of offensive .NET tradecraft easier, and serve as a collaborative command and control platform for red teamers.</td>
+        <td> Covenant is a .NET command and control framework that aims to highlight the attack surface of .NET, make
+            the use of offensive .NET tradecraft easier, and serve as a collaborative command and control platform for
+            red teamers.</td>
     </tr>
     <tr>
         <td><a href="https://github.com/DeimosC2/DeimosC2">DeimosC2/DeimosC2</a></td>
@@ -684,7 +754,8 @@ Some tools can be categorized in more than one category. But because the current
     </tr>
     <tr>
         <td><a href="https://github.com/Ne0nd0g/merlin">Ne0nd0g/merlin</a></td>
-        <td>Merlin is a cross-platform post-exploitation HTTP/2 Command & Control server and agent written in golang.</td>
+        <td>Merlin is a cross-platform post-exploitation HTTP/2 Command & Control server and agent written in golang.
+        </td>
     </tr>
     <tr>
         <td><a href="https://github.com/p3nt4/Nuages">p3nt4/Nuages</a></td>
@@ -700,7 +771,8 @@ Some tools can be categorized in more than one category. But because the current
     </tr>
     <tr>
         <td><a href="https://github.com/SpiderLabs/DoHC2">SpiderLabs/DoHC2</a></td>
-        <td>DoHC2 allows the ExternalC2 library from Ryan Hanson (https://github.com/ryhanson/ExternalC2) to be leveraged for command and control (C2) via DNS over HTTPS (DoH).</td>
+        <td>DoHC2 allows the ExternalC2 library from Ryan Hanson (https://github.com/ryhanson/ExternalC2) to be
+            leveraged for command and control (C2) via DNS over HTTPS (DoH).</td>
     </tr>
 </table>
 
@@ -728,16 +800,22 @@ Some tools can be categorized in more than one category. But because the current
         <td>DNS Exfiltration tool for stealthily sending files over DNS requests.</td>
     </tr>
     <tr>
-        <td><a href="https://github.com/mdsecactivebreach/RegistryStrikesBack">mdsecactivebreach/RegistryStrikesBack</a></td>
-        <td>RegistryStrikesBack allows a red team operator to export valid .reg files for portions of the Windows Registry via a .NET assembly that should run as a standard user. It can be useful in exfiltrating config files such as to support actions like are described in the "Segmentation Vault" article on the MDSec Blog.</td>
+        <td><a href="https://github.com/mdsecactivebreach/RegistryStrikesBack">mdsecactivebreach/RegistryStrikesBack</a>
+        </td>
+        <td>RegistryStrikesBack allows a red team operator to export valid .reg files for portions of the Windows
+            Registry via a .NET assembly that should run as a standard user. It can be useful in exfiltrating config
+            files such as to support actions like are described in the "Segmentation Vault" article on the MDSec Blog.
+        </td>
     </tr>
     <tr>
         <td><a href="https://github.com/pentestpartners/PTP-RAT">pentestpartners/PTP-RAT</a></td>
-        <td>Exfiltrate data over screen interfaces. <a href="https://www.pentestpartners.com/security-blog/exfiltration-by-encoding-data-in-pixel-colour-values/">For more information.</a></td>
+        <td>Exfiltrate data over screen interfaces. <a href="https://www.pentestpartners.com/security-blog/exfiltration-by-encoding-data-in-pixel-colour-values/">For
+                more information.</a></td>
     </tr>
     <tr>
         <td><a href="https://github.com/sensepost/DET">sensepost/DET</a></td>
-        <td>DET (is provided AS IS), is a proof of concept to perform Data Exfiltration using either single or multiple channel(s) at the same time.</td>
+        <td>DET (is provided AS IS), is a proof of concept to perform Data Exfiltration using either single or multiple
+            channel(s) at the same time.</td>
     </tr>
     <tr>
         <td><a href="https://github.com/SySS-Research/Seth">SySS-Research/Seth</a></td>
@@ -749,6 +827,7 @@ Some tools can be categorized in more than one category. But because the current
     </tr>
     <tr>
         <td><a href="https://github.com/vp777/procrustes">vp777/procrustes</a></td>
-        <td>A bash script that automates the exfiltration of data over dns in case we have a blind command execution on a server where all outbound connections except DNS are blocked.</td>
+        <td>A bash script that automates the exfiltration of data over dns in case we have a blind command execution on
+            a server where all outbound connections except DNS are blocked.</td>
     </tr>
 </table>
