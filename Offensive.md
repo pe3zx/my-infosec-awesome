@@ -37,6 +37,10 @@ This page will contain my bookmark for offensive tools, briefly categorized base
         <td>Seatbelt is a C# project that performs a number of security oriented host-survey "safety checks" relevant from both offensive and defensive security perspectives.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/jaredhaight/scout">jaredhaight/scout</a></td>
+        <td>A .NET assembly for performing recon against hosts on a network</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/NetSPI/goddi">NetSPI/goddi</a></td>
         <td>goddi (go dump domain info) dumps Active Directory domain information</td>
     </tr>
