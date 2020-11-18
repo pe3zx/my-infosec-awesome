@@ -305,6 +305,10 @@ Some tools can be categorized in more than one category. But because the current
         <td><b>Description</b></td>
     </tr>
     <tr>
+        <td><a href="https://github.com/aas-n/spraykatz">aas-n/spraykatz</a></td>
+        <td>Credentials gathering tool automating remote procdump and parse of lsass process.</td>
+    </tr>
+    <tr>
 		<td><a href="https://github.com/Arvanaghi/SessionGopher">Arvanaghi/SessionGopher</a></td>
 		<td>SessionGopher is a PowerShell tool that uses WMI to extract saved session information for remote access tools such as WinSCP, PuTTY, SuperPuTTY, FileZilla, and Microsoft Remote Desktop. It can be run remotely or locally.</td>
 	</tr>
