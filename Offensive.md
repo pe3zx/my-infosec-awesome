@@ -452,6 +452,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Hide your Powershell script in plain sight. Bypass all Powershell security features</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/OsandaMalith/PE2HTML">OsandaMalith/PE2HTML</a></td>
+        <td>Injects HTML/PHP/ASP to the PE</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/peewpw/Invoke-PSImage">peewpw/Invoke-PSImage</a></td>
         <td>Embeds a PowerShell script in the pixels of a PNG file and generates a oneliner to execute</td>
     </tr>
