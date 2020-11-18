@@ -176,6 +176,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Retrieves exported functions from a legitimate DLL and generates a proxy DLL source code/template for DLL proxy loading or sideloading</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/forrest-orr/phantom-dll-hollower-poc">/forrest-orr/phantom-dll-hollower-poc</a></td>
+        <td>Phantom DLL hollowing PoC</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/GoodstudyChina/APC-injection-x86-x64">GoodstudyChina/APC-injection-x86-x64</a></td>
         <td>injdrv is a proof-of-concept Windows Driver for injecting DLL into user-mode processes using APC.</td>
     </tr>
