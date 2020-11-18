@@ -53,6 +53,10 @@ This page will contain my bookmark for offensive tools, briefly categorized base
         <td>Recon-AD, an AD recon tool based on ADSI and reflective DLL’s</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/rasta-mouse/Watson">rasta-mouse/Watson</a></td>
+        <td>Enumerate missing KBs and suggest exploits for useful Privilege Escalation vulnerabilitiesEnumerate missing KBs and suggest exploits for useful Privilege Escalation vulnerabilities</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/sud0woodo/DCOMrade">sud0woodo/DCOMrade</a></td>
         <td>Powershell script for enumerating vulnerable DCOM Applications</td>
     </tr>
