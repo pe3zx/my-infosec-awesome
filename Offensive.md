@@ -444,6 +444,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Slides and reference material from Evading Autoruns presentation at DerbyCon 7 (September 2017)</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/jthuraisamy/TelemetrySourcerer">jthuraisamy/TelemetrySourcerer</a></td>
+        <td>Enumerate and disable common sources of telemetry used by AV/EDR.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/matterpreter/DefenderCheck">matterpreter/DefenderCheck</a></td>
         <td>Identifies the bytes that Microsoft Defender flags on.</td>
     </tr>
