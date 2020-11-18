@@ -351,6 +351,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Windows Local Privilege Escalation from Service Account to System</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite">privilege-escalation-awesome-scripts-suite</a></td>
+        <td>PEASS - Privilege Escalation Awesome Scripts SUITE (with colors)</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/hlldz/dazzleUP">hlldz/dazzleUP</a></td>
         <td>A tool that detects the privilege escalation vulnerabilities caused by misconfigurations and missing updates in the Windows operating systems.</td>
     </tr>
@@ -611,4 +615,4 @@ Some tools can be categorized in more than one category. But because the current
         <td><a href="https://github.com/vp777/procrustes">vp777/procrustes</a></td>
         <td>A bash script that automates the exfiltration of data over dns in case we have a blind command execution on a server where all outbound connections except DNS are blocked.</td>
     </tr>
-e/table>
+</table>
