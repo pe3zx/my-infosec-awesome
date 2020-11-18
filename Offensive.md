@@ -468,6 +468,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Embeds a PowerShell script in the pixels of a PNG file and generates a oneliner to execute</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/PwnDexter/SharpEDRChecker">PwnDexter/SharpEDRChecker</a></td>
+        <td>Checks running processes, process metadata, Dlls loaded into your current process and the each DLLs metadata, common install directories, installed services and each service binaries metadata, installed drivers and each drivers metadata, all for the presence of known defensive products such as AV's, EDR's and logging tools.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/secretsquirrel/SigThief">secretsquirrel/SigThief</a></td>
         <td>Stealing Signatures and Making One Invalid Signature at a Time</td>
     </tr>
