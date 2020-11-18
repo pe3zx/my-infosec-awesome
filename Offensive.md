@@ -189,6 +189,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Empire is a PowerShell and Python post-exploitation agent.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/l373/GIVINGSTORM">l373/GIVINGSTORM</a></td>
+        <td>Infection vector that bypasses AV, IDS, and IPS. (For now...)</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/mdsecactivebreach/SharpShooter">mdsecactivebreach/SharpShooter</a></td>
         <td>SharpShooter is a payload creation framework for the retrieval and execution of arbitrary CSharp source code.</td>
     </tr>
