@@ -557,6 +557,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Rubeus is a C# toolset for raw Kerberos interaction and abusesRubeus is a C# toolset for raw Kerberos interaction and abuses</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/gitjdm/dumper2020">gitjdm/dumper2020</a></td>
+        <td>Yet another LSASS dumper</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/Kevin-Robertson/Inveigh">Kevin-Robertson/Inveigh</td>
         <td>Windows PowerShell ADIDNS/LLMNR/mDNS/NBNS spoofer/man-in-the-middle tool</td>
     </tr>
