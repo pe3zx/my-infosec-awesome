@@ -209,6 +209,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Sliver is a general purpose cross-platform implant framework that supports C2 over Mutual-TLS, HTTP(S), and DNS. Implants are dynamically compiled with unique X.509 certificates signed by a per-instance certificate authority generated when you first run the binary.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/Greenwolf/ntlm_theft">Greenwolf/ntlm_theft</a></td>
+        <td>A tool for generating multiple types of NTLMv2 hash theft files by Jacob Wilkin (Greenwolf)</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/infosecn1nja/MaliciousMacroMSBuild">infosecn1nja/MaliciousMacroMSBuild</a></td>
         <td>Generates Malicious Macro and Execute Powershell or Shellcode via MSBuild Application Whitelisting Bypass.</td>
     </tr>
@@ -499,4 +503,4 @@ Some tools can be categorized in more than one category. But because the current
         <td><a href="https://github.com/vp777/procrustes">vp777/procrustes</a></td>
         <td>A bash script that automates the exfiltration of data over dns in case we have a blind command execution on a server where all outbound connections except DNS are blocked.</td>
     </tr>
-</table>
+e/table>
