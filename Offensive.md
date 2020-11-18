@@ -541,6 +541,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Physmem2profit can be used to create a minidump of a target hosts' LSASS process by analysing physical memory remotely</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/G0ldenGunSec/SharpSecDump">G0ldenGunSec/SharpSecDump</a></td>
+        <td>.Net port of the remote SAM + LSA Secrets dumping functionality of impacket's secretsdump.py</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/GhostPack/SafetyKatz">GhostPack/SafetyKatz</a></td>
         <td>SafetyKatz is a combination of slightly modified version of @gentilkiwi's Mimikatz project and @subTee's .NET PE Loader</td>
     </tr>
