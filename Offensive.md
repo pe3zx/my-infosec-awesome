@@ -343,6 +343,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>JAWS is PowerShell script designed to help penetration testers (and CTFers) quickly identify potential privilege escalation vectors on Windows systems. It is written using PowerShell 2.0 so 'should' run on every Windows version since Windows 7.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/antonioCoco/RogueWinRM">antonioCoco/RogueWinRM</a></td>
+        <td>Windows Local Privilege Escalation from Service Account to System</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/hlldz/dazzleUP">hlldz/dazzleUP</a></td>
         <td>A tool that detects the privilege escalation vulnerabilities caused by misconfigurations and missing updates in the Windows operating systems.</td>
     </tr>
