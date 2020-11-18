@@ -667,6 +667,10 @@ Some tools can be categorized in more than one category. But because the current
         <td> Covenant is a .NET command and control framework that aims to highlight the attack surface of .NET, make the use of offensive .NET tradecraft easier, and serve as a collaborative command and control platform for red teamers.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/DeimosC2/DeimosC2">DeimosC2/DeimosC2</a></td>
+        <td>DeimosC2 is a Golang command and control framework for post-exploitation.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/fbkcs/ThunderDNS">fbkcs/ThunderDNS</a></td>
         <td>This tool can forward TCP traffic over DNS protocol. Non-compile clients + socks5 support.</td>
     </tr>
