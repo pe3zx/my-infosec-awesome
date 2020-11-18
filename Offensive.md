@@ -655,6 +655,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>It is developed using .net core framework in C# language. Allows operators to leverage O365 services for establishing command & control communication channel. It usages Microsoft Graph APIs for communicating with O365 services.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/bats3c/shad0w">bats3c/shad0w</a></td>
+        <td>SHAD0W is a modular C2 framework designed to successfully operate on mature environments.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/byt3bl33d3r/SILENTTRINITY">byt3bl33d3r/SILENTTRINITY</a></td>
         <td>An asynchronous, collaborative post-exploitation agent powered by Python and .NET's DLR</td>
     </tr>
