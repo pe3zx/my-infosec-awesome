@@ -221,6 +221,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Excel Macro Document Reader/Writer for Red Teamers & Analysts</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/Mr-Un1k0d3r/MaliciousDLLGenerator">Mr-Un1k0d3r/MaliciousDLLGenerator</a></td>
+        <td>DLL Generator for side loading attack</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/Plazmaz/LNKUp">Plazmaz/LNKUp</a></td>
         <td>Generates malicious LNK file payloads for data exfiltration</td>
     </tr>
