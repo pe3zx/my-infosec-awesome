@@ -209,6 +209,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>SharpShooter is a payload creation framework for the retrieval and execution of arbitrary CSharp source code.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/michaelweber/Macrome">michaelweber/Macrome</a></td>
+        <td>Excel Macro Document Reader/Writer for Red Teamers & Analysts</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/Plazmaz/LNKUp">Plazmaz/LNKUp</a></td>
         <td>Generates malicious LNK file payloads for data exfiltration</td>
     </tr>
