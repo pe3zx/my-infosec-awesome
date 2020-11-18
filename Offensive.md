@@ -52,6 +52,10 @@ This page will contain my bookmark for offensive tools, briefly categorized base
         <td><a href="https://github.com/sud0woodo/DCOMrade">sud0woodo/DCOMrade</a></td>
         <td>Powershell script for enumerating vulnerable DCOM Applications</td>
     </tr>
+    <tr>
+        <td><a href="https://github.com/TonyPhipps/Meerkat">TonyPhipps/Meerkat</a></td>
+        <td>A collection of PowerShell modules designed for artifact gathering and reconnaisance of Windows-based endpoints.</td>
+    </tr>
 </table>
 
 ## Execution
