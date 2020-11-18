@@ -371,6 +371,10 @@ Some tools can be categorized in more than one category. But because the current
         <td><a href="https://github.com/danielbohannon/Invoke-DOSfuscation">danielbohannon/Invoke-DOSfuscation</a></td>
         <td>Cmd.exe Command Obfuscation Generator & Detection Test Harness</td>
     </tr>
+    <tr>
+        <td><a href="https://github.com/DarthTon/Polychaos">DarthTon/Polychaos</a></td>
+        <td>PE permutation library</td>
+    </tr>
    <tr>
         <td><a href="https://github.com/ffuf/pencode">ffuf/pencode</a></td>
         <td>Complex payload encoder</td>
