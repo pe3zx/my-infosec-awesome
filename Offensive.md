@@ -736,6 +736,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Perform a MitM attack and extract clear text credentials from RDP connections</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/veggiedefender/browsertunnel">veggiedefender/browsertunnel</a></td>
+        <td></td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/vp777/procrustes">vp777/procrustes</a></td>
         <td>A bash script that automates the exfiltration of data over dns in case we have a blind command execution on a server where all outbound connections except DNS are blocked.</td>
     </tr>
