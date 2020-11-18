@@ -351,12 +351,16 @@ Some tools can be categorized in more than one category. But because the current
         <td>Windows Local Privilege Escalation from Service Account to System</td>
     </tr>
     <tr>
-        <td><a href="https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite">privilege-escalation-awesome-scripts-suite</a></td>
+        <td><a href="https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite">carlospolop/privilege-escalation-awesome-scripts-suite</a></td>
         <td>PEASS - Privilege Escalation Awesome Scripts SUITE (with colors)</td>
     </tr>
     <tr>
         <td><a href="https://github.com/hlldz/dazzleUP">hlldz/dazzleUP</a></td>
         <td>A tool that detects the privilege escalation vulnerabilities caused by misconfigurations and missing updates in the Windows operating systems.</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/sailay1996/delete2SYSTEM">sailay1996/delete2SYSTEM</a></td>
+        <td>Weaponizing for Arbitrary Files/Directories Delete bugs to Get NT AUTHORITY\SYSTEM</td>
     </tr>
 </table>
 
