@@ -610,6 +610,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>A Bypass Anti-virus Software Lateral Movement Command Execution Tool</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/bohops/WSMan-WinRM">bohops/WSMan-WinRM</a></td>
+        <td>A collection of proof-of-concept source code and scripts for executing remote commands over WinRM using the WSMan.Automation COM object</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/byt3bl33d3r/CrackMapExec">byt3bl33d3r/CrackMapExec</a></td>
         <td>A swiss army knife for pentesting networks</td>
     </tr>
