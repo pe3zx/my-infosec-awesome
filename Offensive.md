@@ -720,6 +720,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Global Socket. Moving data from here to there. Securely, Fast and trough NAT/Firewalls</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/m57/dnsteal">m57/dnsteal</a></td>
+        <td>DNS Exfiltration tool for stealthily sending files over DNS requests.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/pentestpartners/PTP-RAT">pentestpartners/PTP-RAT</a></td>
         <td>Exfiltrate data over screen interfaces. <a href="https://www.pentestpartners.com/security-blog/exfiltration-by-encoding-data-in-pixel-colour-values/">For more information.</a></td>
     </tr>
