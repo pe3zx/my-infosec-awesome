@@ -344,14 +344,18 @@ Some tools can be categorized in more than one category. But because the current
         <td>An on-the-fly Powershell script obfuscator meant for red team engagements. Built out of necessity.</td>
     </tr>
     <tr>
-        <td><a href="https://github.com/danielbohannon/Invoke-DOSfuscation">danielbohannon/Invoke-DOSfuscation</a></td>
-        <td>Cmd.exe Command Obfuscation Generator & Detection Test Harness</td>
-    </tr>
-    <tr>
         <td><a href="https://github.com/d00rt/ebfuscator">d00rt/ebfuscator</a></td>
         <td>Ebfuscator: Abusing system errors for binary obfuscation</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/d35ha/CallObfuscator">d35ha/CallObfuscator</a></td>
+        <td>Obfuscate specific windows apis with different apis</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/danielbohannon/Invoke-DOSfuscation">danielbohannon/Invoke-DOSfuscation</a></td>
+        <td>Cmd.exe Command Obfuscation Generator & Detection Test Harness</td>
+    </tr>
+   <tr>
         <td><a href="https://github.com/ffuf/pencode">ffuf/pencode</a></td>
         <td>Complex payload encoder</td>
     </tr>
