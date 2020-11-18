@@ -602,6 +602,10 @@ Some tools can be categorized in more than one category. But because the current
         <td><b>Description</b></td>
     </tr>
     <tr>
+        <td><a href="https://github.com/0xthirteen/SharpRDP">0xthirteen/SharpRDP</a></td>
+        <td>Remote Desktop Protocol .NET Console Application for Authenticated Command Execution</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/360-Linton-Lab/WMIHACKER">360-Linton-Lab/WMIHACKER</a></td>
         <td>A Bypass Anti-virus Software Lateral Movement Command Execution Tool</td>
     </tr>
