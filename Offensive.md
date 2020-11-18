@@ -356,6 +356,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>The goal of this repository is to document the most common techniques to bypass AppLocker.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/br-sn/CheekyBlinder">br-sn/CheekyBlinder</a></td>
+        <td>Enumerating and removing kernel callbacks using signed vulnerable drivers</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/CCob/SharpBlock">CCob/SharpBlock</a></td>
         <td>A method of bypassing EDR's active projection DLL's by preventing entry point execution.</td>
     </tr>
