@@ -96,6 +96,10 @@ This page will contain my bookmark for offensive tools, briefly categorized base
         <td>GhostBuild is a collection of simple MSBuild launchers for various GhostPack/.NET projects</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/cobbr/SharpSploit">cobbr/SharpSploit</a></td>
+        <td>SharpSploit is a .NET post-exploitation library written in C#</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/Cn33liz/p0wnedShell">Cn33liz/p0wnedShell</a></td>
         <td>p0wnedShell is an offensive PowerShell host application written in C# that does not rely on powershell.exe but runs powershell commands and functions within a powershell runspace environment (.NET)</td>
     </tr>
