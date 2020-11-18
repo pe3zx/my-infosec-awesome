@@ -172,6 +172,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Retrieves exported functions from a legitimate DLL and generates a proxy DLL source code/template for DLL proxy loading or sideloading</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/GoodstudyChina/APC-injection-x86-x64">GoodstudyChina/APC-injection-x86-x64</a></td>
+        <td>injdrv is a proof-of-concept Windows Driver for injecting DLL into user-mode processes using APC.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/jonatan1024/clrinject">jonatan1024/clrinject</a></td>
         <td>Injects C# EXE or DLL Assembly into every CLR runtime and AppDomain of another process.</td>
     </tr>
