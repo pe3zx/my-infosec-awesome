@@ -213,6 +213,22 @@ Some tools can be categorized in more than one category. But because the current
         <td>PS1 to EXE Generator: Create an EXE for your PS1 scripts</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/FortyNorthSecurity/EXCELntDonut">FortyNorthSecurity/EXCELntDonut</a></td>
+        <td>Excel 4.0 (XLM) Macro Generator for injecting DLLs and EXEs into memory.</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/FortyNorthSecurity/hot-manchego">FortyNorthSecurity/hot-manchego</a></td>
+        <td>Macro-Enabled Excel File Generator (.xlsm) using the EPPlus Library.</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/gen0cide/gscript">gen0cide/gscript</a></td>
+        <td>framework to rapidly implement custom droppers for all three major operating systems</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/glinares/InlineShapesPayload">glinares/InlineShapesPayload</a></td>
+        <td>VBA InlineShapes Payload Generator</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/Greenwolf/ntlm_theft">Greenwolf/ntlm_theft</a></td>
         <td>A tool for generating multiple types of NTLMv2 hash theft files by Jacob Wilkin (Greenwolf)</td>
     </tr>
@@ -315,23 +331,7 @@ Some tools can be categorized in more than one category. But because the current
         <td><a href="https://github.com/ffuf/pencode">ffuf/pencode</a></td>
         <td>Complex payload encoder</td>
     </tr>
-    <tr>
-        <td><a href="https://github.com/FortyNorthSecurity/EXCELntDonut">FortyNorthSecurity/EXCELntDonut</a></td>
-        <td>Excel 4.0 (XLM) Macro Generator for injecting DLLs and EXEs into memory.</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/FortyNorthSecurity/hot-manchego">FortyNorthSecurity/hot-manchego</a></td>
-        <td>Macro-Enabled Excel File Generator (.xlsm) using the EPPlus Library.</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/gen0cide/gscript">gen0cide/gscript</a></td>
-        <td>framework to rapidly implement custom droppers for all three major operating systems</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/glinares/InlineShapesPayload">glinares/InlineShapesPayload</a></td>
-        <td>VBA InlineShapes Payload Generator</td>
-    </tr>
-    <tr>
+   <tr>
         <td><a href="https://github.com/hlldz/Invoke-Phant0m">hlldz/Invoke-Phant0m</a></td>
         <td>Windows Event Log Killer</td>
     </tr>
@@ -362,6 +362,10 @@ Some tools can be categorized in more than one category. But because the current
     <tr>
         <td><a href="https://github.com/the-xentropy/xencrypt">the-xentropy/xencrypt</a></td>
         <td>A PowerShell script anti-virus evasion tool</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/tokyoneon/chimera">tokyoneon/chimera</a></td>
+        <td>Chimera is a (shiny and very hack-ish) PowerShell obfuscation script designed to bypass AMSI and commercial antivirus solutions.</td>
     </tr>
 </table>
 
