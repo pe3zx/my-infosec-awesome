@@ -667,6 +667,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>This tool can forward TCP traffic over DNS protocol. Non-compile clients + socks5 support.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/nettitude/SharpSocks">nettitude/SharpSocks</a></td>
+        <td>Tunnellable HTTP/HTTPS socks4a proxy written in C# and deployable via PowerShell</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/Ne0nd0g/merlin">Ne0nd0g/merlin</a></td>
         <td>Merlin is a cross-platform post-exploitation HTTP/2 Command & Control server and agent written in golang.</td>
     </tr>
