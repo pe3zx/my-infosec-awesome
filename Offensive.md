@@ -138,6 +138,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Offline command line lookup utility for GTFOBins</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/NYAN-x-CAT/Csharp-Loader">NYAN-x-CAT/Csharp-Loader</a></td>
+        <td>Download a .NET payload and run it on memory</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/rasta-mouse/MiscTools">rasta-mouse/MiscTools</a></td>
         <td>Miscellaneous Tools</td>
     </tr>
