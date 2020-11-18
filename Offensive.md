@@ -116,6 +116,10 @@ This page will contain my bookmark for offensive tools, briefly categorized base
         <td>Simple PoC demonstrating syscall execution in C#</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/mgeeky/Stracciatella">mgeeky/Stracciatella</a></td>
+        <td>OpSec-safe Powershell runspace from within C# (aka SharpPick) with AMSI, Constrained Language Mode and Script Block Logging disabled at startup</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/Mr-Un1k0d3r/RedTeamCSharpScripts">Mr-Un1k0d3r/RedTeamCSharpScripts</a></td>
         <td>C# Script used for Red Team. These binaries can be used by Cobalt Strike execute-assembly or as standalone executable.</td>
     </tr>
