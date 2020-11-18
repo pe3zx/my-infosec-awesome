@@ -400,6 +400,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Chameleon: A tool for evading Proxy categorisation</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/mdsecactivebreach/firewalker">mdsecactivebreach/firewalker</a></td>
+        <td>This repo contains a simple library which can be used to add FireWalker hook bypass capabilities to existing code</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/nccgroup/demiguise">nccgroup/demiguise</a></td>
         <td>HTA encryption tool for RedTeams</td>
     </tr>
