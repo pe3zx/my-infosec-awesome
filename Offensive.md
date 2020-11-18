@@ -33,6 +33,10 @@ This page will contain my bookmark for offensive tools, briefly categorized base
         <td>A lightweight tool to quickly extract valuable information from the Active Directory environment for both attacking and defending.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/dirkjanm/ROADtools">dirkjanm/ROADtools</a></td>
+        <td>The Azure AD exploration framework.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/GhostPack/Seatbelt">GhostPack/Seatbelt</a></td>
         <td>Seatbelt is a C# project that performs a number of security oriented host-survey "safety checks" relevant from both offensive and defensive security perspectives.</td>
     </tr>
