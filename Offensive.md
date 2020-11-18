@@ -310,6 +310,10 @@ Some tools can be categorized in more than one category. But because the current
         <td><b>Description</b></td>
     </tr>
     <tr>
+        <td><a href="https://github.com/360-Linton-Lab/Telemetry">360-Linton-Lab/Telemetry</a></td>
+        <td>TELEMETRY is a C# For Windows PERSISTENCE</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/airzero24/PortMonitorPersist">airzero24/PortMonitorPersist</a></td>
         <td>PoC for Port Monitor Persistence</td>
     </tr>
