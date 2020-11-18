@@ -556,6 +556,10 @@ Some tools can be categorized in more than one category. But because the current
         <td><a href="https://github.com/putterpanda/mimikittenz">putterpanda/mimikittenz</a></td>
         <td>A post-exploitation powershell tool for extracting juicy info from memory.</td>
     </tr>
+    <tr>
+        <td><a href="https://github.com/Viralmaniar/Remote-Desktop-Caching-">Viralmaniar/Remote-Desktop-Caching-</a></td>
+        <td>This tool allows one to recover old RDP (mstsc) session information in the form of broken PNG files. These PNG files allows Red Team member to extract juicy information such as LAPS passwords or any sensitive information on the screen.</td>
+    </tr>
 </table>
 
 ## Lateral Movement
