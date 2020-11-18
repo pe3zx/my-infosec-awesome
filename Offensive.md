@@ -577,6 +577,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>A post-exploitation powershell tool for extracting juicy info from memory.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/skelsec/pypykatz">skelsec/pypykatz</a></td>
+        <td>Mimikatz implementation in pure Python</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/SnaffCon/Snaffler">SnaffCon/Snaffler</a></td>
         <td>Snaffler is a tool for pentesters to help find delicious candy needles (creds mostly, but it's flexible) in a bunch of horrible boring haystacks (a massive Windows/AD environment).</td>
     </tr>
