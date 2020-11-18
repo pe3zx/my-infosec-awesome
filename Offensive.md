@@ -316,6 +316,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Complex payload encoder</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/FortyNorthSecurity/EXCELntDonut">FortyNorthSecurity/EXCELntDonut</a></td>
+        <td>Excel 4.0 (XLM) Macro Generator for injecting DLLs and EXEs into memory.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/hlldz/Invoke-Phant0m">hlldz/Invoke-Phant0m</a></td>
         <td>Windows Event Log Killer</td>
     </tr>
