@@ -320,6 +320,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Excel 4.0 (XLM) Macro Generator for injecting DLLs and EXEs into memory.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/gen0cide/gscript">gen0cide/gscript</a></td>
+        <td>framework to rapidly implement custom droppers for all three major operating systems</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/glinares/InlineShapesPayload">glinares/InlineShapesPayload</a></td>
         <td>VBA InlineShapes Payload Generator</td>
     </tr>
