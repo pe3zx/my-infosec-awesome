@@ -192,6 +192,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>SysWhispers helps with evasion by generating header/ASM files implants can use to make direct system calls.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/mobdk/Sigma">mobdk/Sigma</a></td>
+        <td>Execute shellcode with ZwCreateSection, ZwMapViewOfSection, ZwOpenProcess, ZwMapViewOfSection and ZwCreateThreadEx</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/monoxgas/sRDI">monoxgas/sRDI</a></td>
         <td>Shellcode implementation of Reflective DLL Injection. Convert DLLs to position independent shellcode</td>
     </tr>
