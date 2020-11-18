@@ -344,6 +344,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Cmd.exe Command Obfuscation Generator & Detection Test Harness</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/d00rt/ebfuscator">d00rt/ebfuscator</a></td>
+        <td>Ebfuscator: Abusing system errors for binary obfuscation</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/ffuf/pencode">ffuf/pencode</a></td>
         <td>Complex payload encoder</td>
     </tr>
