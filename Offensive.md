@@ -114,7 +114,7 @@ Some tools can be categorized in more than one category. But because the current
         <td><a href="https://github.com/Flangvik/SharpCollection">Flangvik/SharpCollection</a></td>
         <td>Nightly builds of common C# offensive tools, fresh from their respective master branches built and released in a CDI fashion using Azure DevOps release pipelines.</td>
     </tr>
-    <tr>
+   <tr>
         <td><a href="https://github.com/FuzzySecurity/PowerShell-Suite">FuzzySecurity/PowerShell-Suite</a></td>
         <td>There are great tools and resources online to accomplish most any task in PowerShell, sometimes however, there is a need to script together a util for a specific purpose or to bridge an ontological gap. This is a collection of PowerShell utilities I put together either for fun or because I had a narrow application in mind.</td>
     </tr>
@@ -158,6 +158,10 @@ Some tools can be categorized in more than one category. But because the current
     <tr>
         <td><a href="https://github.com/Cybellum/DoubleAgent">Cybellum/DoubleAgent</a></td>
         <td>DoubleAgent is a new Zero-Day technique for injecting code and maintaining persistence on a machine (i.e. auto-run).</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/Flangvik/SharpDllProxy">Flangvik/SharpDllProxy</a></td>
+        <td>Retrieves exported functions from a legitimate DLL and generates a proxy DLL source code/template for DLL proxy loading or sideloading</td>
     </tr>
     <tr>
         <td><a href="https://github.com/jonatan1024/clrinject">jonatan1024/clrinject</a></td>
