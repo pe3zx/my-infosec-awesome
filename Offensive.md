@@ -716,12 +716,20 @@ Some tools can be categorized in more than one category. But because the current
         <td>A wanna be swiss army knife for data encryption, exfiltration and covert communication.</td>
     </tr>
     <tr>
-        <td><a href="https://github.com/hackerschoice/gsocket">hackerschoice/gsockethackerschoice/gsocket</a></td>
+        <td><a href="https://github.com/hackerschoice/gsocket">hackerschoice/gsocket</a></td>
         <td>Global Socket. Moving data from here to there. Securely, Fast and trough NAT/Firewalls</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/hackerschoice/gs-transfer">hackerschoice/gs-transfer</a></td>
+        <td>Secure File Transfer via Global Socket Bounce Network</td>
     </tr>
     <tr>
         <td><a href="https://github.com/m57/dnsteal">m57/dnsteal</a></td>
         <td>DNS Exfiltration tool for stealthily sending files over DNS requests.</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/mdsecactivebreach/RegistryStrikesBack">mdsecactivebreach/RegistryStrikesBack</a></td>
+        <td>RegistryStrikesBack allows a red team operator to export valid .reg files for portions of the Windows Registry via a .NET assembly that should run as a standard user. It can be useful in exfiltrating config files such as to support actions like are described in the "Segmentation Vault" article on the MDSec Blog.</td>
     </tr>
     <tr>
         <td><a href="https://github.com/pentestpartners/PTP-RAT">pentestpartners/PTP-RAT</a></td>
