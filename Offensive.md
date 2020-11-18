@@ -629,6 +629,10 @@ Some tools can be categorized in more than one category. But because the current
         <td><a href="https://github.com/ScorpionesLabs/DVS">ScorpionesLabs/DVS</a></td>
         <td>D(COM) V(ulnerability) S(canner) AKA Devious swiss army knife - Lateral movement using DCOM Objects</td>
     </tr>
+    <tr>
+        <td><a href="https://github.com/tothi/rbcd-attack">tothi/rbcd-attack</a></td>
+        <td>Kerberos Resource-Based Constrained Delegation Attack from Outside using Impacket</td>
+    </tr>
 </table>
 
 ## Command & Control
