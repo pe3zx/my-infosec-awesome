@@ -329,6 +329,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Physmem2profit can be used to create a minidump of a target hosts' LSASS process by analysing physical memory remotely</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/GhostPack/SharpDump">GhostPack/SharpDump</a></td>
+        <td>SharpDump is a C# port of PowerSploit's Out-Minidump.ps1 functionality.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/Kevin-Robertson/Inveigh">Kevin-Robertson/Inveigh</td>
         <td>Windows PowerShell ADIDNS/LLMNR/mDNS/NBNS spoofer/man-in-the-middle tool</td>
     </tr>
