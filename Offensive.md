@@ -427,6 +427,10 @@ Some tools can be categorized in more than one category. But because the current
         <td><a href="https://github.com/dsnezhkov/zombieant">dsnezhkov/zombieant</a></td>
         <td>Zombie Ant Farm: Primitives and Offensive Tooling for Linux EDR evasion.</td>
     </tr>
+    <tr>
+        <td><a href="https://github.com/EgeBalci/Amber">EgeBalci/Amber</a></td>
+        <td>amber is a reflective PE packer for bypassing security products and mitigations. It can pack regularly compiled PE files into reflective payloads that can load and execute itself like a shellcode.</td>
+    </tr>
    <tr>
         <td><a href="https://github.com/ffuf/pencode">ffuf/pencode</a></td>
         <td>Complex payload encoder</td>
