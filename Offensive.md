@@ -61,6 +61,10 @@ This page will contain my bookmark for offensive tools, briefly categorized base
         <td>Powershell script for enumerating vulnerable DCOM Applications</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/tevora-threat/SharpView">tevora-threat/SharpView</a></td>
+        <td>C# implementation of harmj0y's PowerView</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/TonyPhipps/Meerkat">TonyPhipps/Meerkat</a></td>
         <td>A collection of PowerShell modules designed for artifact gathering and reconnaisance of Windows-based endpoints.</td>
     </tr>
