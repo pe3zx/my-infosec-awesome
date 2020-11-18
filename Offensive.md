@@ -476,6 +476,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Stealing Signatures and Making One Invalid Signature at a Time</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/slyd0g/SharpCrashEventLog">slyd0g/SharpCrashEventLog</a></td>
+        <td>C# port of LogServiceCrash</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/the-xentropy/xencrypt">the-xentropy/xencrypt</a></td>
         <td>A PowerShell script anti-virus evasion tool</td>
     </tr>
