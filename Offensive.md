@@ -111,6 +111,10 @@ This page will contain my bookmark for offensive tools, briefly categorized base
         <td><a href="https://github.com/nccgroup/GTFOBLookup">nccgroup/GTFOBLookup</a></td>
         <td>Offline command line lookup utility for GTFOBins</td>
     </tr>
+    <tr>
+        <td><a href="https://github.com/rasta-mouse/MiscTools">rasta-mouse/MiscTools</a></td>
+        <td>Miscellaneous Tools</td>
+    </tr>
 </table>
 
 ### Manipulating Binary's Internal
