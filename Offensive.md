@@ -115,6 +115,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>p0wnedShell is an offensive PowerShell host application written in C# that does not rely on powershell.exe but runs powershell commands and functions within a powershell runspace environment (.NET)</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/D00MFist/Go4aRun">D00MFist/Go4aRun</a></td>
+        <td>Shellcode runner in GO that incorporates shellcode encryption, remote process injection, block dlls, and spoofed parent process</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/Flangvik/SharpCollection">Flangvik/SharpCollection</a></td>
         <td>Nightly builds of common C# offensive tools, fresh from their respective master branches built and released in a CDI fashion using Azure DevOps release pipelines.</td>
     </tr>
