@@ -201,6 +201,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Empire is a PowerShell and Python post-exploitation agent.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/infosecn1nja/MaliciousMacroMSBuild">infosecn1nja/MaliciousMacroMSBuild</a></td>
+        <td>Generates Malicious Macro and Execute Powershell or Shellcode via MSBuild Application Whitelisting Bypass.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/l373/GIVINGSTORM">l373/GIVINGSTORM</a></td>
         <td>Infection vector that bypasses AV, IDS, and IPS. (For now...)</td>
     </tr>
