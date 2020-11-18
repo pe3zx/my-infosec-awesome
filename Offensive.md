@@ -119,6 +119,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>There are great tools and resources online to accomplish most any task in PowerShell, sometimes however, there is a need to script together a util for a specific purpose or to bridge an ontological gap. This is a collection of PowerShell utilities I put together either for fun or because I had a narrow application in mind.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/GhostPack/SharpWMI">GhostPack/SharpWMI</a></td>
+        <td>SharpWMI is a C# implementation of various WMI functionality.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/jhalon/SharpCall">jhalon/SharpCall</a></td>
         <td>Simple PoC demonstrating syscall execution in C#</td>
     </tr>
