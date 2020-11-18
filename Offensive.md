@@ -359,6 +359,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>A tool that detects the privilege escalation vulnerabilities caused by misconfigurations and missing updates in the Windows operating systems.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/itm4n/PrivescCheck">itm4n/PrivescCheck</a></td>
+        <td>Privilege Escalation Enumeration Script for Windows</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/sailay1996/delete2SYSTEM">sailay1996/delete2SYSTEM</a></td>
         <td>Weaponizing for Arbitrary Files/Directories Delete bugs to Get NT AUTHORITY\SYSTEM</td>
     </tr>
