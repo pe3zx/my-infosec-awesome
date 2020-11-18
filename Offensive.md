@@ -285,6 +285,10 @@ Some tools can be categorized in more than one category. But because the current
         <td><a href="https://github.com/fireeye/SharPersist">fireeye/SharPersist</a></td>
         <td>Windows persistence toolkit written in C#.</td>
     </tr>
+    <tr>
+        <td><a href="https://github.com/slaeryan/MIDNIGHTTRAIN">slaeryan/MIDNIGHTTRAIN</a></td>
+        <td>Covert Stage-3 Persistence Framework</td>
+    </tr>
 </table>
 
 ## Privilege Escalation
