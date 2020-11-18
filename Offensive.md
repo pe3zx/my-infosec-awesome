@@ -312,6 +312,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Cmd.exe Command Obfuscation Generator & Detection Test Harness</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/ffuf/pencode">ffuf/pencode</a></td>
+        <td>Complex payload encoder</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/hlldz/Invoke-Phant0m">hlldz/Invoke-Phant0m</a></td>
         <td>Windows Event Log Killer</td>
     </tr>
