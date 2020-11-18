@@ -183,7 +183,7 @@ Some tools can be categorized in more than one category. But because the current
         <td><a href="https://github.com/monoxgas/sRDI">monoxgas/sRDI</a></td>
         <td>Shellcode implementation of Reflective DLL Injection. Convert DLLs to position independent shellcode</td>
     </tr>
-    <tr>
+   <tr>
         <td><a href="https://github.com/stephenfewer/ReflectiveDLLInjection">stephenfewer/ReflectiveDLLInjection</a></td>
         <td>Reflective DLL injection is a library injection technique in which the concept of reflective programming is employed to perform the loading of a library from memory into a host process</td>
     </tr>
@@ -292,6 +292,10 @@ Some tools can be categorized in more than one category. But because the current
     <tr>
         <td><a href="https://github.com/fireeye/SharPersist">fireeye/SharPersist</a></td>
         <td>Windows persistence toolkit written in C#.</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/panagioto/SyscallHide">panagioto/SyscallHide</a></td>
+        <td>Create a Run registry key with direct system calls. Inspired by @Cneelis's Dumpert and SharpHide.</td>
     </tr>
     <tr>
         <td><a href="https://github.com/slaeryan/MIDNIGHTTRAIN">slaeryan/MIDNIGHTTRAIN</a></td>
