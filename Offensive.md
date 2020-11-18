@@ -675,6 +675,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Merlin is a cross-platform post-exploitation HTTP/2 Command & Control server and agent written in golang.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/p3nt4/Nuages">p3nt4/Nuages</a></td>
+        <td>A modular C2 framework</td>
+    </tr>
+    <tr>
         <td><a href="http://prismatica.io/">Project Prismatica</a></td>
         <td>Project Prismatica is a focused framework for Command and Control that is dedicated to extensibility.</td>
     </tr>
