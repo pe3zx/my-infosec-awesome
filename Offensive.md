@@ -131,6 +131,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>SharpWMI is a C# implementation of various WMI functionality.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/hausec/MaliciousClickOnceMSBuild">hausec/MaliciousClickOnceMSBuild</a></td>
+        <td>Basic C# Project that will take an MSBuild payload and run it with MSBuild via ClickOnce.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/jhalon/SharpCall">jhalon/SharpCall</a></td>
         <td>Simple PoC demonstrating syscall execution in C#</td>
     </tr>
