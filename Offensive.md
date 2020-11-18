@@ -561,6 +561,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Yet another LSASS dumper</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/Hackndo/lsassy">Hackndo/lsassy</a></td>
+        <td>Extract credentials from lsass remotely</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/Kevin-Robertson/Inveigh">Kevin-Robertson/Inveigh</td>
         <td>Windows PowerShell ADIDNS/LLMNR/mDNS/NBNS spoofer/man-in-the-middle tool</td>
     </tr>
