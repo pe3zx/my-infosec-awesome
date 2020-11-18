@@ -61,6 +61,10 @@ This page will contain my bookmark for offensive tools, briefly categorized base
         <td>Enumerate missing KBs and suggest exploits for useful Privilege Escalation vulnerabilitiesEnumerate missing KBs and suggest exploits for useful Privilege Escalation vulnerabilities</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/stufus/reconerator">stufus/reconerator</a></td>
+        <td>C# Targeted Attack Reconnissance Tools</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/sud0woodo/DCOMrade">sud0woodo/DCOMrade</a></td>
         <td>Powershell script for enumerating vulnerable DCOM Applications</td>
     </tr>
