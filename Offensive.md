@@ -209,6 +209,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Sliver is a general purpose cross-platform implant framework that supports C2 over Mutual-TLS, HTTP(S), and DNS. Implants are dynamically compiled with unique X.509 certificates signed by a per-instance certificate authority generated when you first run the binary.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/damienvanrobaeys/PS1-To-EXE-Generator">damienvanrobaeys/PS1-To-EXE-Generator</a></td>
+        <td>PS1 to EXE Generator: Create an EXE for your PS1 scripts</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/Greenwolf/ntlm_theft">Greenwolf/ntlm_theft</a></td>
         <td>A tool for generating multiple types of NTLMv2 hash theft files by Jacob Wilkin (Greenwolf)</td>
     </tr>
