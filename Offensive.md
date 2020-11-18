@@ -325,6 +325,10 @@ Some tools can be categorized in more than one category. But because the current
         <td><b>Description</b></td>
     </tr>
     <tr>
+        <td><a href="https://github.com/360-Linton-Lab/WMIHACKER">360-Linton-Lab/WMIHACKER</a></td>
+        <td>A Bypass Anti-virus Software Lateral Movement Command Execution Tool</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/byt3bl33d3r/CrackMapExec">byt3bl33d3r/CrackMapExec</a></td>
         <td>A swiss army knife for pentesting networks</td>
     </tr>
