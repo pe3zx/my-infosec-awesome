@@ -112,6 +112,10 @@ This page will contain my bookmark for offensive tools, briefly categorized base
         <td>Simple PoC demonstrating syscall execution in C#</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/Mr-Un1k0d3r/RedTeamCSharpScripts">Mr-Un1k0d3r/RedTeamCSharpScripts</a></td>
+        <td>C# Script used for Red Team. These binaries can be used by Cobalt Strike execute-assembly or as standalone executable.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/nccgroup/GTFOBLookup">nccgroup/GTFOBLookup</a></td>
         <td>Offline command line lookup utility for GTFOBins</td>
     </tr>
