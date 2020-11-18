@@ -310,6 +310,10 @@ Some tools can be categorized in more than one category. But because the current
         <td><b>Description</b></td>
     </tr>
     <tr>
+        <td><a href="https://github.com/airzero24/PortMonitorPersist">airzero24/PortMonitorPersist</a></td>
+        <td>PoC for Port Monitor Persistence</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/fireeye/SharPersist">fireeye/SharPersist</a></td>
         <td>Windows persistence toolkit written in C#.</td>
     </tr>
