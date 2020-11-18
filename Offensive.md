@@ -12,7 +12,6 @@ Some tools can be categorized in more than one category. But because the current
 
 - [Reconnaissance/Discovery](#reconnaissancediscovery)
 - [Execution](#execution)
-  - [Living Off The Land](#living-off-the-land)
   - [Manipulating Binary's Internal](#manipulating-binarys-internal)
   - [Payload Generation](#payload-generation)
 - [Persistence](#persistence)
@@ -86,8 +85,6 @@ Some tools can be categorized in more than one category. But because the current
 
 ## Execution
 
-### Living Off The Land
-
 <table>
     <tr>
         <td><b>Link</b></td>
@@ -144,6 +141,10 @@ Some tools can be categorized in more than one category. But because the current
     <tr>
         <td><a href="https://github.com/rasta-mouse/MiscTools">rasta-mouse/MiscTools</a></td>
         <td>Miscellaneous Tools</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/sh4hin/GoPurple">sh4hin/GoPurple</a></td>
+        <td>Yet another shellcode runner consists of different techniques for evaluating detection capabilities of endpoint security solutions</td>
     </tr>
 </table>
 
