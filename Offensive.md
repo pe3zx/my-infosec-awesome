@@ -45,6 +45,10 @@ This page will contain my bookmark for offensive tools, briefly categorized base
         <td>A .NET assembly for performing recon against hosts on a network</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/mdsecactivebreach/sitrep">mdsecactivebreach/sitrep</a></td>
+        <td>SitRep is intended to provide a lightweight, extensible host triage alternative.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/NetSPI/goddi">NetSPI/goddi</a></td>
         <td>goddi (go dump domain info) dumps Active Directory domain information</td>
     </tr>
