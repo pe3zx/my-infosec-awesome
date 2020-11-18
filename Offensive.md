@@ -191,6 +191,10 @@ Some tools can be categorized in more than one category. But because the current
         <td><a href="https://github.com/slyd0g/UrbanBishopLocal">slyd0g/UrbanBishopLocal</a></td>
         <td>A port of FuzzySecurity's UrbanBishop project for inline shellcode execution. The execution vector uses a delegate vs an APC on a suspended threat at ntdll!RtlExitUserThread in UrbanBishop</td>
     </tr>
+    <tr>
+        <td><a href="https://github.com/r3nhat/XORedReflectiveDLL">r3nhat/XORedReflectiveDLL</a></td>
+        <td>Reflective DLL Injection with obfuscated (XOR) shellcode</td>
+    </tr>
 </table>
 
 ### Payload Generation
