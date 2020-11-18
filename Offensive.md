@@ -30,6 +30,10 @@ Some tools can be categorized in more than one category. But because the current
         <td><b>Description</b></td>
     </tr>
     <tr>
+        <td><a href="https://github.com/danielbohannon/Invoke-CradleCrafter">danielbohannon/Invoke-CradleCrafter</a></td>
+        <td>PowerShell Remote Download Cradle Generator & Obfuscator</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/dev-2null/adcollector">dev-2null/ADCollector<a></td>
         <td>A lightweight tool to quickly extract valuable information from the Active Directory environment for both attacking and defending.</td>
     </tr>
