@@ -8,6 +8,8 @@
 
 This page will contain my bookmark for offensive tools, briefly categorized based on [MITRE ATT&CK Enterprise Matrix](https://attack.mitre.org/matrices/enterprise/). Some links and sections on [README.md](README.md) will be relocated to this page if it's related to offensive tactics and techniques.
 
+Some tools can be categorized in more than one category. But because the current bookmark model doesn't support 1-to-many mapping, I will decide a tool's category based on its ultimate goal.
+
 - [Reconnaissance/Discovery](#reconnaissancediscovery)
 - [Execution](#execution)
   - [Living Off The Land](#living-off-the-land)
@@ -106,6 +108,10 @@ This page will contain my bookmark for offensive tools, briefly categorized base
     <tr>
         <td><a href="https://github.com/Cn33liz/p0wnedShell">Cn33liz/p0wnedShell</a></td>
         <td>p0wnedShell is an offensive PowerShell host application written in C# that does not rely on powershell.exe but runs powershell commands and functions within a powershell runspace environment (.NET)</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/Flangvik/SharpCollection">Flangvik/SharpCollection</a></td>
+        <td>Nightly builds of common C# offensive tools, fresh from their respective master branches built and released in a CDI fashion using Azure DevOps release pipelines.</td>
     </tr>
     <tr>
         <td><a href="https://github.com/FuzzySecurity/PowerShell-Suite">FuzzySecurity/PowerShell-Suite</a></td>
