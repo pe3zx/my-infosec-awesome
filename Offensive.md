@@ -213,6 +213,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Generates malicious LNK file payloads for data exfiltration</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/redcanaryco/chain-reactor">redcanaryco/chain-reactor</a></td>
+        <td>Chain Reactor is an open source framework for composing executables that simulate adversary behaviors and techniques on Linux endpoints.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/sevagas/macro_pack">sevagas/macro_pack</a></td>
         <td>macro_pack is a tool used to automatize obfuscation and generation of MS Office documents for pentest, demo, and social engineering assessments. The goal of macro_pack is to simplify antimalware bypass and automatize the process from vba generation to final Office document generation.</td>
     </tr>
