@@ -667,6 +667,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>This tool can forward TCP traffic over DNS protocol. Non-compile clients + socks5 support.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/mhaskar/Octopus">mhaskar/Octopus</a></td>
+        <td>Open source pre-operation C2 server based on python and powershell</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/nettitude/SharpSocks">nettitude/SharpSocks</a></td>
         <td>Tunnellable HTTP/HTTPS socks4a proxy written in C# and deployable via PowerShell</td>
     </tr>
