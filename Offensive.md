@@ -37,6 +37,10 @@ This page will contain my bookmark for offensive tools, briefly categorized base
         <td>The Azure AD exploration framework.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/djhohnstein/SharpShares">djhohnstein/SharpShares</a></td>
+        <td>Enumerate all network shares in the current domain. Also, can resolve names to IP addresses.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/GhostPack/Seatbelt">GhostPack/Seatbelt</a></td>
         <td>Seatbelt is a C# project that performs a number of security oriented host-survey "safety checks" relevant from both offensive and defensive security perspectives.</td>
     </tr>
