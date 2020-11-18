@@ -383,6 +383,10 @@ Some tools can be categorized in more than one category. But because the current
         <td><a href="https://github.com/DarthTon/Polychaos">DarthTon/Polychaos</a></td>
         <td>PE permutation library</td>
     </tr>
+    <tr>
+        <td><a href="https://github.com/dsnezhkov/zombieant">dsnezhkov/zombieant</a></td>
+        <td>Zombie Ant Farm: Primitives and Offensive Tooling for Linux EDR evasion.</td>
+    </tr>
    <tr>
         <td><a href="https://github.com/ffuf/pencode">ffuf/pencode</a></td>
         <td>Complex payload encoder</td>
