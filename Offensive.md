@@ -438,6 +438,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>The goal of this repository is to document the most common techniques to bypass AppLocker.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/Arvanaghi/CheckPlease">Arvanaghi/CheckPlease</a></td>
+        <td>Sandbox evasion modules written in PowerShell, Python, Go, Ruby, C, C#, Perl, and Rust.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/bhumic/PErmutator">bhumic/PErmutator</a></td>
         <td>The goal of this project is to create a permutation engine for PE files. The engine should randomize the executable parts of the file.</td>
     </tr>
