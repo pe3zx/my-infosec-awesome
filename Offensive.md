@@ -495,6 +495,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Complex payload encoder</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/fireeye/OfficePurge">fireeye/OfficePurge</a></td>
+        <td>VBA purge your Office documents with OfficePurge. VBA purging removes P-code from module streams within Office documents.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/hlldz/Invoke-Phant0m">hlldz/Invoke-Phant0m</a></td>
         <td>Windows Event Log Killer</td>
     </tr>
