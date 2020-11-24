@@ -716,6 +716,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Fileless lateral movement tool that relies on ChangeServiceConfigA to run command</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/rvrsh3ll/SharpCOM">rvrsh3ll/SharpCOM</a></td>
+        <td>SharpCOM is a c# port of Invoke-DCOM</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/ScorpionesLabs/DVS">ScorpionesLabs/DVS</a></td>
         <td>D(COM) V(ulnerability) S(canner) AKA Devious swiss army knife - Lateral movement using DCOM Objects</td>
     </tr>
