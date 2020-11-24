@@ -721,6 +721,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>A packer utility to create and capture DFIR Image for use AWS & Azure</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/theflakes/reg_hunter">theflakes/reg_hunter</a></td>
+        <td>Blueteam operational triage registry hunting/forensic tool</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/ThreatResponse/margaritashotgun">ThreatResponse/margaritashotgun</a></td>
         <td>Remote Memory Acquisition Tool for AWS</td>
     </tr>
