@@ -682,6 +682,10 @@ Some tools can be categorized in more than one category. But because the current
         <td><b>Description</b></td>
     </tr>
     <tr>
+        <td><a href="https://github.com/0xthirteen/SharpMove">0xthirteen/SharpMove</a></td>
+        <td>.NET Project for performing Authenticated Remote Execution</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/0xthirteen/SharpRDP">0xthirteen/SharpRDP</a></td>
         <td>Remote Desktop Protocol .NET Console Application for Authenticated Command Execution</td>
     </tr>
