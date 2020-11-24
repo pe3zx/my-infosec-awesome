@@ -388,6 +388,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Windows memory hacking library</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/dr4k0nia/Unscrambler">dr4k0nia/Unscrambler</a></td>
+        <td>Universal unpacker and fixer for a number of modded ConfuserEx protections</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/endgameinc/xori">endgameinc/xori</a></td>
         <td>Xori is an automation-ready disassembly and static analysis library for PE32, 32+ and shellcode</td>
     </tr>
