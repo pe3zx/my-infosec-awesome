@@ -327,6 +327,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>SubFinder is a subdomain discovery tool that discovers valid subdomains for websites. Designed as a passive framework to be useful for bug bounties and safe for penetration testing.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/wallarm/gotestwaf">wallarm/gotestwaf</a></td>
+        <td>Go Test WAF project, a tool to test different WAF detects for apps and APIs</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/wagiro/BurpBounty">wagiro/BurpBounty</a></td>
         <td>Burp Bounty (Scan Check Builder in BApp Store) is a extension of Burp Suite that allows you, in a quick and simple way, to improve the active and passive scanner by means of personalized rules through a very intuitive graphical interface.</td>
     </tr>
