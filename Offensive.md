@@ -111,8 +111,8 @@ Some tools can be categorized in more than one category. But because the current
         <td>GhostBuild is a collection of simple MSBuild launchers for various GhostPack/.NET projects</td>
     </tr>
     <tr>
-        <td><a href="https://github.com/cobbr/SharpSploit">cobbr/SharpSploit</a></td>
-        <td>SharpSploit is a .NET post-exploitation library written in C#</td>
+        <td><a href="https://github.com/cdong1012/Crab-Runner">cdong1012/Crab-Runner</a></td>
+        <td>Shellcode runner in Rust</td>
     </tr>
     <tr>
         <td><a href="https://github.com/checkymander/Zolom">checkymander/Zolom</a></td>
@@ -120,6 +120,10 @@ Some tools can be categorized in more than one category. But because the current
             Python installed</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/cobbr/SharpSploit">cobbr/SharpSploit</a></td>
+        <td>SharpSploit is a .NET post-exploitation library written in C#</td>
+    </tr>
+   <tr>
         <td><a href="https://github.com/Cn33liz/p0wnedShell">Cn33liz/p0wnedShell</a></td>
         <td>p0wnedShell is an offensive PowerShell host application written in C# that does not rely on powershell.exe
             but runs powershell commands and functions within a powershell runspace environment (.NET)</td>
