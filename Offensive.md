@@ -134,6 +134,10 @@ Some tools can be categorized in more than one category. But because the current
             spoofed parent process</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/dtrizna/easy-hollow">dtrizna/easy-hollow</a></td>
+        <td>Automated build for process hollowing shellcode loader. Build on top of TikiTorch and donut projects.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/Flangvik/SharpCollection">Flangvik/SharpCollection</a></td>
         <td>Nightly builds of common C# offensive tools, fresh from their respective master branches built and released
             in a CDI fashion using Azure DevOps release pipelines.</td>
