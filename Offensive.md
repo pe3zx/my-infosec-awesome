@@ -607,6 +607,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Create a minidump of the LSASS process from memory</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/blacklanternsecurity/TREVORspray">blacklanternsecurity/TREVORspray</a></td>
+        <td>A featureful round-robin SOCKS proxy and Python O365 sprayer based on MSOLSpray which uses the Microsoft Graph API</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/DanMcInerney/icebreaker">DanMcInerney/icebreaker</a></td>
         <td>Gets plaintext Active Directory credentials if you're on the internal network but outside the AD environment
         </td>
