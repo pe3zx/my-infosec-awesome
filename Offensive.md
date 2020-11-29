@@ -470,6 +470,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Enumerating and removing kernel callbacks using signed vulnerable drivers</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/c0de90e7/GhostWriting">c0de90e7/GhostWriting</a></td>
+        <td>GhostWriting Injection Technique.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/CCob/SharpBlock">CCob/SharpBlock</a></td>
         <td>A method of bypassing EDR's active projection DLL's by preventing entry point execution.</td>
     </tr>
