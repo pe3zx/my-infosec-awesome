@@ -961,6 +961,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Digital Forensics Artifact Repository</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/frikky/Shuffle">frikky/Shuffle</a></td>
+        <td>Shuffle: A general purpose security automation platform platform. We focus on accessibility for all.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/gleeda/memtriage">gleeda/memtriage</a></td>
         <td>Allows you to quickly query a Windows machine for RAM artifacts</td>
     </tr>
