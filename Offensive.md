@@ -22,6 +22,7 @@ Some tools can be categorized in more than one category. But because the current
 - [Defense Evasion](#defense-evasion)
 - [Credential Access](#credential-access)
 - [Lateral Movement](#lateral-movement)
+- [Collection](#collection)
 - [Command & Control](#command--control)
 - [Exfiltration](#exfiltration)
 
@@ -754,6 +755,19 @@ Some tools can be categorized in more than one category. But because the current
     <tr>
         <td><a href="https://github.com/tothi/rbcd-attack">tothi/rbcd-attack</a></td>
         <td>Kerberos Resource-Based Constrained Delegation Attack from Outside using Impacket</td>
+    </tr>
+</table>
+
+## Collection
+
+<table>
+    <tr>
+        <td><b>Link</b></td>
+        <td><b>Description</b></td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/djhohnstein/SharpChromium">djhohnstein/SharpChromium</a></td>
+        <td>.NET 4.0 CLR Project to retrieve Chromium data, such as cookies, history and saved logins.</td>
     </tr>
 </table>
 
