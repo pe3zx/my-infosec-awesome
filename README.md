@@ -1967,6 +1967,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>NetworkScan Monitor by Netlab 360</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/odedshimon/BruteShark">odedshimon/BruteShark</a></td>
+        <td>BruteShark is a Network Forensic Analysis Tool (NFAT) that performs deep processing and inspection of network traffic (mainly PCAP files)</td>
+    </tr>
+    <tr>
         <td><a href="https://packettotal.com/">PacketTotal</a></td>
         <td>A free, online PCAP analysis engine</td>
     </tr>
