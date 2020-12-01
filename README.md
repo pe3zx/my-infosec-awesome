@@ -1967,6 +1967,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>A free, online PCAP analysis engine</td>
     </tr>
     <tr>
+        <td><a href="https://www.netresec.com/?page=PolarProxy">PolarProxy</a></td>
+        <td>PolarProxy is a transparent SSL/TLS proxy created for incident responders and malware researchers. PolarProxy is primarily designed to intercept and decrypt TLS encrypted traffic from malware. PolarProxy decrypts and re-encrypts TLS traffic, while also saving the decrypted traffic in a PCAP file that can be loaded into Wireshark or an intrusion detection system (IDS).</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/sensepost/routopsy">sensepost/routopsy</a></td>
         <td>Routopsy is a toolkit built to attack often overlooked networking protocols. Routopsy currently supports attacks against Dynamic Routing Protocols (DRP) and First-Hop Redundancy Protocols (FHRP).</td>
     </tr>
