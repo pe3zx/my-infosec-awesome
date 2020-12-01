@@ -661,6 +661,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>A tool for quickly evaluating IAM permissions in AWS.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/nccgroup/s3_objects_check">nccgroup/s3_objects_check</a></td>
+        <td>Whitebox evaluation of effective S3 object permissions, in order to identify publicly accessible objects.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/nccgroup/Scout2">nccgroup/Scout2</a></td>
         <td>Security auditing tool for AWS environments</td>
     </tr>
