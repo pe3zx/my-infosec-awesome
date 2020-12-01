@@ -2172,6 +2172,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>SpiderFoot - Opensource Intelligence Automation</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/sundowndev/PhoneInfoga">sundowndev/PhoneInfoga</a></td>
+        <td>Advanced information gathering & OSINT framework for phone numbersAdvanced information gathering & OSINT framework for phone numbers</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/superhedgy/AttackSurfaceMapper">superhedgy/AttackSurfaceMapper</a></td>
         <td>AttackSurfaceMapper is a tool that aims to automate the reconnaissance process.</td>
     </tr>
