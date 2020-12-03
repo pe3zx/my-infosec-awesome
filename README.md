@@ -307,6 +307,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Deserialization payload generator for a variety of .NET formatters</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/RedTeamPentesting/monsoon">RedTeamPentesting/monsoon</a></td>
+        <td>Fast HTTP enumerator</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/RhinoSecurityLabs/IPRotate_Burp_Extension">RhinoSecurityLabs/IPRotate_Burp_Extension</a></td>
         <td>Extension for Burp Suite which uses AWS API Gateway to rotate your IP on every request.</td>
     </tr>
