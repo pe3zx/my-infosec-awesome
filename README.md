@@ -1561,6 +1561,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Java library to analyse Portable Executable files with a special focus on malware analysis and PE malformation robustness</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/kevoreilly/CAPEv2">kevoreilly/CAPEv2</a></td>
+        <td>Malware Configuration And Payload Extraction</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/kirk-sayre-work/VBASeismograph">kirk-sayre-work/VBASeismograph</a></td>
         <td>A tool for detecting VBA stomping.</td>
     </tr>
