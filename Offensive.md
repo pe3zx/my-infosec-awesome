@@ -540,6 +540,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Identifies the bytes that Microsoft Defender flags on.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/matterpreter/SHAPESHIFTER">matterpreter/SHAPESHIFTERmatterpreter/SHAPESHIFTER</a></td>
+        <td>Companion PoC for the "Adventures in Dynamic Evasion" blog post</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/mdsecactivebreach/Chameleon">mdsecactivebreach/Chameleon</a></td>
         <td>Chameleon: A tool for evading Proxy categorisation</td>
     </tr>
