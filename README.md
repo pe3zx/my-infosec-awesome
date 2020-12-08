@@ -96,15 +96,19 @@ This repository is created as an online bookmark for useful links, resources and
         <td><a href="https://github.com/jymcheong/AutoTTP">jymchoeng/AutoTTP</a></td>
         <td>Automated Tactics Techniques & Procedures</td>
     </tr>
-    <tr>
-        <td><a href="https://github.com/MiladMSFT/ThreatHunt">MiladMSFT/ThreatHunt</a></td>
-        <td>ThreatHunt is a PowerShell repository that allows you to train your threat hunting skills.</td>
-    </tr>
-    <tr>
+     <tr>
         <td><a href="https://github.com/mdsecactivebreach/CACTUSTORCH">mdsecactivebreach/CACTUSTORCH</a></td>
         <td>CACTUSTORCH: Payload Generation for Adversary Simulations</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/microsoft/restler-fuzzer">microsoft/restler-fuzzer</a></td>
+        <td>RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services.</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/MiladMSFT/ThreatHunt">MiladMSFT/ThreatHunt</a></td>
+        <td>ThreatHunt is a PowerShell repository that allows you to train your threat hunting skills.</td>
+    </tr>
+   <tr>
         <td><a href="https://github.com/mitre/caldera">mitre/caldera</a></td>
         <td>An automated adversary emulation system</td>
     </tr>
