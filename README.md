@@ -1404,6 +1404,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td><a href="https://github.com/CERT-Polska/drakvuf-sandbox">CERT-Polska/drakvuf-sandbox</a></td>
         <td>DRAKVUF Sandbox - automated hypervisor-level malware analysis system</td>
     </tr>
+    <tr>
+        <td><a href="https://github.com/CERT-Polska/mwdb-core">CERT-Polska/mwdb-core</a></td>
+        <td>Malware repository component for samples & static configuration with REST API interface.</td>
+    </tr>
 	<tr>
 		<td><a href="https://github.com/CheckPointSW/showstopper">CheckPointSW/showstopper</a></td>
 		<td>ShowStopper is a tool for helping malware researchers explore and test anti-debug techniques or verify debugger plugins or other solutions that clash with standard anti-debug methods.</td>
