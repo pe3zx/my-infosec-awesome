@@ -2128,8 +2128,13 @@ This repository is created as an online bookmark for useful links, resources and
         <td>An open source intelligence tool to crawl the graph of certificate Alternate Names</td>
     </tr>
     <tr>
-	<td><a href="https://leakix.net/">LeakIX</a></td>
-	<td>This project goes around the internet and finds services to index them.</td></tr>
+	    <td><a href="https://leakix.net/">LeakIX</a></td>
+	    <td>This project goes around the internet and finds services to index them.</td>
+    </tr>
+    <tr>
+        <td><a href="https://leak-lookup.com/">Leak-Lookup</a></td>
+        <td>Data Breach Search Engine</td>
+    </tr>
     <tr>
         <td><a href="https://github.com/leapsecurity/InSpy">leapsecurity/InSpy</a></td>
         <td>A python based LinkedIn enumeration tool</td>
