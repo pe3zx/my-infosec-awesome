@@ -238,6 +238,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Performant type-checking for python.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/google/atheris">google/atheris</a></td>
+        <td>Atheris is a coverage-guided Python fuzzing engine. It supports fuzzing of Python code, but also native extensions written for CPython. Atheris is based off of libFuzzer. When fuzzing native code, Atheris can be used in combination with Address Sanitizer or Undefined Behavior Sanitizer to catch extra bugs.</td>
+    </tr>
+    <tr>
         <td><a href="https://huntersuite.io/">HunterSuite</a></td>
         <td>HunterSuite is the next generation offensive security suite. It will automate all the tedious tasks during a test just with few clicks. If you are a penetration tester, red teamer, bug bounty hunter, or you work as an offensive security engineer, you will love what HunterSuite has to offer.</td>
     </tr>
