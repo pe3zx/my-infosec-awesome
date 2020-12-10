@@ -2180,6 +2180,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Phonebook lists all domains, email addresses, or URLs for the given input domain.</td>
     </tr>
     <tr>
+        <td><a href="https://psbdmp.ws/">Psbdmp</a></td>
+        <td>Data Breach Dump</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/s-rah/onionscan">s-rah/onionscan</a></td>
         <td>OnionScan is a free and open source tool for investigating the Dark Web.</td>
     </tr>
