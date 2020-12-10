@@ -2192,6 +2192,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Tweet Search Engine</td>
     </tr>
     <tr>
+        <td><a href="https://snusbase.com/">SnusBase</a></td>
+        <td>The longest standing data breach search engine.</td>
+    </tr>
+    <tr>
 		<td><a href="https://github.com/sshell/reddit-analyzer">sshell/reddit-analyzer</a></td>
 		<td>find out when and where someone is posting to reddit</td>
 	</tr>
