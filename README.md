@@ -504,16 +504,20 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Qiling Advanced Binary Emulation Framework</td>
     </tr>
     <tr>
-        <td><a href="https://github.com/taviso/loadlibrary">taviso/loadlibrary</a></td>
-        <td>Porting Windows Dynamic Link Libraries to Linux</td>
+        <td><a href="https://rizin.re/">rizin</a></td>
+        <td>Free and Open Source Reverse Engineering Framework</td>
     </tr>
-    <tr>
+   <tr>
         <td><a href="https://github.com/secretsquirrel/recomposer">secretsquirrel/recomposer</a></td>
         <td>Randomly changes Win32/64 PE Files for 'safer' uploading to malware and sandbox sites.</td>
     </tr>
     <tr>
         <td><a href="https://shellcode.run/">shellcode.run</a></td>
         <td>A sandbox, for shellcode - run your shellcode blobs online with no hassle and receive a comprehensive report.</td>
+    </tr>
+     <tr>
+        <td><a href="https://github.com/taviso/loadlibrary">taviso/loadlibrary</a></td>
+        <td>Porting Windows Dynamic Link Libraries to Linux</td>
     </tr>
     <tr>
         <td><a href="https://codisec.com/veles/">Veles</a></td>
