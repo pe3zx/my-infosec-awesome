@@ -1963,6 +1963,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Framework for Man-In-The-Middle attacks</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/cisco/mercury">cisco/mercury</a></td>
+        <td>Mercury: network metadata capture and analysis</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/dhoelzer/ShowMeThePackets">dhoelzer/ShowMeThePackets</a></td>
         <td>Useful network monitoring, analysis, and active response tools used or mentioned in the SANS SEC503 course</td>
     </tr>
