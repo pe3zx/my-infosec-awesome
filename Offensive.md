@@ -350,6 +350,10 @@ Some tools can be categorized in more than one category. But because the current
             the process from vba generation to final Office document generation.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/s0lst1c3/dropengine">s0lst1c3/dropengine</a></td>
+        <td>DropEngine provides a malleable framework for creating shellcode runners, allowing operators to choose from a selection of components and combine them to create highly sophisticated payloads within seconds.DropEngine provides a malleable framework for creating shellcode runners, allowing operators to choose from a selection of components and combine them to create highly sophisticated payloads within seconds.DropEngine provides a malleable framework for creating shellcode runners, allowing operators to choose from a selection of components and combine them to create highly sophisticated payloads within seconds.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/TheWover/donut">TheWover/donut</a></td>
         <td>Generates x86, x64, or AMD64+x86 position-independent shellcode that loads .NET Assemblies, PE files, and
             other Windows payloads from memory and runs them with parameters</td>
