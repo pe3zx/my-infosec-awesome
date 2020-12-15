@@ -1709,6 +1709,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Automatically rebuild Import Address Table for dumped PE file. With python bindings!</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/oasis-open/cti-stix-generator">oasis-open/cti-stix-generator</a></td>
+        <td>OASIS Cyber Threat Intelligence (CTI) TC: A tool for generating STIX content for prototyping and testing.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/ohjeongwook/PowerShellRunBox">ohjeongwook/PowerShellRunBox</a></td>
         <td>Dynamic PowerShell analysis framework</td>
     </tr>
