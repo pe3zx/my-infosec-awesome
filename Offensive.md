@@ -467,6 +467,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Sandbox evasion modules written in PowerShell, Python, Go, Ruby, C, C#, Perl, and Rust.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/asaurusrex/DoppelGate">asaurusrex/DoppelGate</a></td>
+        <td>This project is designed to provide a method of extracting syscalls dynamically directly from on-disk ntdll. Userland hooks have become prevalent in many security products these days, and bypassing these hooks is a great way for red teamers/pentesters to bypass these defenses.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/bats3c/Ghost-In-The-Logs">bats3c/Ghost-In-The-Logs</a></td>
         <td>Evade sysmon and windows event logginEvade sysmon and windows event loggingg</td>
     </tr>
