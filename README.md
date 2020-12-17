@@ -593,6 +593,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>WeirdAAL [AWS Attack Library] wiki!</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/cloudquery/cloudquery">cloudquery/cloudquery</a></td>
+        <td>cloudquery transforms your cloud infrastructure into queryable SQL tables for easy monitoring, governance and security.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/cloudsploit/scans">cloudsploit/scans</a></td>
         <td>AWS security scanning checks</td>
     </tr>
