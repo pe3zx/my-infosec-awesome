@@ -719,6 +719,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>对密码已保存在 Windwos 系统上的部分程序进行解析,包括：Navicat,TeamViewer,FileZilla,WinSCP,Xmangager系列产品（Xshell,Xftp)。</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/ustayready/SharpHose">ustayready/SharpHose</a></td>
+        <td>Asynchronous Password Spraying Tool in C# for Windows Environments</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/Viralmaniar/Remote-Desktop-Caching-">Viralmaniar/Remote-Desktop-Caching-</a>
         </td>
         <td>This tool allows one to recover old RDP (mstsc) session information in the form of broken PNG files. These
