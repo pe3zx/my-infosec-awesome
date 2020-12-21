@@ -475,6 +475,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Evade sysmon and windows event logginEvade sysmon and windows event loggingg</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/BinaryScary/NET-Obfuscate">BinaryScary/NET-Obfuscate</a></td>
+        <td>Obfuscate ECMA CIL (.NET IL) assemblies to evade Windows Defender AMSI</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/bhumic/PErmutator">bhumic/PErmutator</a></td>
         <td>The goal of this project is to create a permutation engine for PE files. The engine should randomize the executable parts of the file.</td>
     </tr>
