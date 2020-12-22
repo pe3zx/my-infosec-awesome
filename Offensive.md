@@ -193,6 +193,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Example Go program with multiple .NET Binaries embedded</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/rvrsh3ll/NoMSBuild">rvrsh3ll/NoMSBuild</a></td>
+        <td>MSBuild without MSbuild.exe</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/sh4hin/GoPurple">sh4hin/GoPurple</a></td>
         <td>Yet another shellcode runner consists of different techniques for evaluating detection capabilities of
             endpoint security solutions</td>
