@@ -2108,6 +2108,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>An #OSINT Framework to perform various recon techniques on Companies, People, Phone Number, Bitcoin Addresses, etc., aggregate all the raw data, and give data in multiple formats.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/felix83000/Watcher">felix83000/Watcher</a></td>
+        <td>Watcher - Open Source Cybersecurity Threat Hunting Platform. Developed with Django & React JS.</td>
+    </tr>
+    <tr>
         <td><a href="https://tools.epieos.com/google-account.php">Epieos Tools - Google Account Finder</a></td>
         <td>An online tool to retrieve sensitive information like google maps reviews, public photos, displayed name, usage of google services such as YouTube, Hangouts</td>
     </tr>
