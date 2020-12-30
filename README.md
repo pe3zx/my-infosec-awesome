@@ -2371,7 +2371,7 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication</td>
     </tr>
     <tr>
-        <td><a href="https://www.mailsploit.com/index">Mailsploit</a></td>
+        <td><a href="https://mailsploit.pwnsdx.com/index">Mailsploit</a></td>
         <td>TL;DR: Mailsploit is a collection of bugs in email clients that allow effective sender spoofing and code injection attacks. The spoofing is not detected by Mail Transfer Agents (MTA) aka email servers, therefore circumventing spoofing protection mechanisms such as DMARC (DKIM/SPF) or spam filters.</td>
     </tr>
 	<tr>
