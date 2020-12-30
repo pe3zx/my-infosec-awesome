@@ -211,6 +211,10 @@ Some tools can be categorized in more than one category. But because the current
         <td><b>Description</b></td>
     </tr>
     <tr>
+        <td><a href="https://github.com/Akaion/Bleak">Akaion/Bleak</a></td>
+        <td>A Windows native DLL injection library that supports several methods of injection.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/Cybellum/DoubleAgent">Cybellum/DoubleAgent</a></td>
         <td>DoubleAgent is a new Zero-Day technique for injecting code and maintaining persistence on a machine (i.e.
             auto-run).</td>
