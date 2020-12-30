@@ -841,6 +841,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>An asynchronous, collaborative post-exploitation agent powered by Python and .NET's DLR</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/cedowens/C2_Cradle">cedowens/C2_Cradle</a></td>
+        <td>Tool to download, install, and run macOS capable command & control servers (i.e., C2s with macOS payloads/clients) as docker containers from a list of options. This is helpful for automating C2 server setup.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/cobbr/Covenant">cobbr/Covenant</a></td>
         <td> Covenant is a .NET command and control framework that aims to highlight the attack surface of .NET, make
             the use of offensive .NET tradecraft easier, and serve as a collaborative command and control platform for
