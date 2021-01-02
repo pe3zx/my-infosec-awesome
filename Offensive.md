@@ -664,6 +664,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>A featureful round-robin SOCKS proxy and Python O365 sprayer based on MSOLSpray which uses the Microsoft Graph API</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/byt3bl33d3r/SprayingToolkit">byt3bl33d3r/SprayingToolkit</a></td>
+        <td>Scripts to make password spraying attacks against Lync/S4B, OWA & O365 a lot quicker, less painful and more efficient</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/DanMcInerney/icebreaker">DanMcInerney/icebreaker</a></td>
         <td>Gets plaintext Active Directory credentials if you're on the internal network but outside the AD environment
         </td>
