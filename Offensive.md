@@ -458,6 +458,10 @@ Some tools can be categorized in more than one category. But because the current
         <td><a href="https://github.com/sailay1996/delete2SYSTEM">sailay1996/delete2SYSTEM</a></td>
         <td>Weaponizing for Arbitrary Files/Directories Delete bugs to Get NT AUTHORITY\SYSTEM</td>
     </tr>
+    <tr>
+        <td><a href="https://github.com/slyd0g/PrimaryTokenTheft">slyd0g/PrimaryTokenTheft</a></td>
+        <td>Steal a primary token and spawn cmd.exe using the stolen token</td>
+    </tr>
 </table>
 
 ## Defense Evasion
