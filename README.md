@@ -1322,6 +1322,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>out-of-tree kernel {module, exploit} development tool</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/opencve/opencve">opencve/opencve</a></td>
+        <td>CVE Alerting Platform</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/ScottyBauer/Android_Kernel_CVE_POCs">ScottyBauer/Android_Kernel_CVE_POCs</a></td>
         <td>A list of my CVE's with POCs</td>
     </tr>
