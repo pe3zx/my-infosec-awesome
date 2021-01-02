@@ -222,6 +222,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Bug Bounty Recon (bbrecon) is a Recon-as-a-Service for bug bounty hunters and security researchers. The API aims to provide a continuously up-to-date map of the Internet "safe harbor" attack surface, excluding out-of-scope targets.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/chvancooten/BugBountyScanner">chvancooten/BugBountyScanner</a></td>
+        <td>A Bash script and Docker image for Bug Bounty reconnaissance. Intended for headless use.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/danmar/cppcheck">danmar/cppcheck</a></td>
         <td>static analysis of C/C++ code</td>
     </tr>
