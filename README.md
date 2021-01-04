@@ -1449,6 +1449,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>DRAKVUF Sandbox - automated hypervisor-level malware analysis system</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/CERT-Polska/karton/">CERT-Polska/karton</a></td>
+        <td>Distributed malware processing framework based on Python, Redis and MinIO.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/CERT-Polska/mwdb-core">CERT-Polska/mwdb-core</a></td>
         <td>Malware repository component for samples & static configuration with REST API interface.</td>
     </tr>
