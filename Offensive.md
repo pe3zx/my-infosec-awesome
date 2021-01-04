@@ -244,6 +244,10 @@ Some tools can be categorized in more than one category. But because the current
         </td>
     </tr>
     <tr>
+        <td><a href="https://github.com/jthuraisamy/SysWhispers2">jthuraisamy/SysWhispers2</a></td>
+        <td>AV/EDR evasion via direct system calls.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/mobdk/Sigma">mobdk/Sigma</a></td>
         <td>Execute shellcode with ZwCreateSection, ZwMapViewOfSection, ZwOpenProcess, ZwMapViewOfSection and
             ZwCreateThreadEx</td>
