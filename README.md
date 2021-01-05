@@ -1793,6 +1793,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Proof-of-concept two-stage dropper generator that uses bits from external sources</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/SentineLabs/SentinelLabs_RevCore_Tools">SentineLabs/SentinelLabs_RevCore_Tools</a></td>
+        <td>The Windows Malware Analysis Reversing Core Tools</td>
+    </tr>
+    <tr>
         <td><a href="https://malware.sekoia.fr/new">SEKOIA Dropper Analysis</a></td>
         <td>SEKOIA Dropper Analysis</td>
     </tr>
