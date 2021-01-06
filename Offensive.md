@@ -808,6 +808,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>SharpSploit is a .NET post-exploitation library written in C#</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/cyberark/shimit">cyberark/shimit</a></td>
+        <td>A tool that implements the Golden SAML attack</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/DefensiveOrigins/PlumHound">DefensiveOrigins/PlumHound</a></td>
         <td>Bloodhound for Blue and Purple Teams</td>
     </tr>
