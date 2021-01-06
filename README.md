@@ -2330,6 +2330,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Scripts to make password spraying attacks against Lync/S4B & OWA a lot quicker, less painful and more efficient</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/f0cker/crackq">f0cker/crackq</a></td>
+        <td>CrackQ: A Python Hashcat cracking queue system</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/fireeye/gocrack">fireeye/gocrack</a></td>
         <td>GoCrack provides APIs to manage password cracking tasks across supported cracking engines.</td>
     </tr>
