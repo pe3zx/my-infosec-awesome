@@ -350,6 +350,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td><a href="https://github.com/wagiro/BurpBounty">wagiro/BurpBounty</a></td>
         <td>Burp Bounty (Scan Check Builder in BApp Store) is a extension of Burp Suite that allows you, in a quick and simple way, to improve the active and passive scanner by means of personalized rules through a very intuitive graphical interface.</td>
     </tr>
+    <tr>
+        <td><a href="https://docs.wpdc.org/">wpdc</a></td>
+        <td>Detect malicious dependencies, magecart, malvertising, and more on your web properties!</td>
+    </tr>
 	<tr>
 		<td><a href="https://github.com/Yelp/detect-secrets">Yelp/detect-secrets</a></td>
 		<td>An enterprise friendly way of detecting and preventing secrets in code.</td>
