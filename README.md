@@ -2047,6 +2047,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>AQUATONE is a set of tools for performing reconnaissance on domain names. It can discover subdomains on a given domain by using open sources as well as the more common subdomain dictionary brute force approach. After subdomain discovery, AQUATONE can then scan the hosts for common web ports and HTTP headers, HTML bodies and screenshots can be gathered and consolidated into a report for easy analysis of the attack surface.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/nesfit/NetfoxDetective/">nesfit/NetfoxDetective</a></td>
+        <td>NFX Detective is a novel Network forensic analysis tool that implements methods for extraction of application content from communication using supported protocols.</td>
+    </tr>
+    <tr>
         <td><a href="https://scan.netlab.360.com">NetworkScan Mon</a></td>
         <td>NetworkScan Monitor by Netlab 360</td>
     </tr>
