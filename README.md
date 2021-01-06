@@ -2216,6 +2216,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>A python based LinkedIn enumeration tool</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/loseys/Oblivion">loseys/Oblivion</a></td>
+        <td>Data leak checker & OSINT Tool</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/megadose/holehe">megadose/holehe</a></td>
         <td>holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.</td>
     </tr>
