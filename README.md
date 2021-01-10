@@ -210,6 +210,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Simple script to extract all web resources by means of .SVN folder exposed over network.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/aquasecurity/kube-hunter">aquasecurity/kube-hunter</a></td>
+        <td>Hunt for security weaknesses in Kubernetes clusters</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/brannondorsey/dns-rebind-toolkit">brannondorsey/dns-rebind-toolkit</a></td>
         <td>A front-end JavaScript toolkit for creating DNS rebinding attacks.</td>
     </tr>
