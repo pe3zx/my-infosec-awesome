@@ -65,6 +65,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>SitRep is intended to provide a lightweight, extensible host triage alternative.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/mez-0/SharpShares">mez-0/SharpShares</a></td>
+        <td>.NET 4.0 Share Hunting and ACL Mapping</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/nccgroup/Carnivore">nccgroup/Carnivore</a></td>
         <td>Tool for assessing on-premises Microsoft servers authentication such as ADFS, Skype, Exchange, and RDWeb</td>
     </tr>
