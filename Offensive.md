@@ -82,8 +82,7 @@ Some tools can be categorized in more than one category. But because the current
     </tr>
     <tr>
         <td><a href="https://github.com/rasta-mouse/Watson">rasta-mouse/Watson</a></td>
-        <td>Enumerate missing KBs and suggest exploits for useful Privilege Escalation vulnerabilitiesEnumerate missing
-            KBs and suggest exploits for useful Privilege Escalation vulnerabilities</td>
+        <td>Enumerate missing KBs and suggest exploits for useful Privilege Escalation vulnerabilitiesEnumerate missing KBs and suggest exploits for useful Privilege Escalation vulnerabilities</td>
     </tr>
     <tr>
         <td><a href="https://github.com/stufus/reconerator">stufus/reconerator</a></td>
@@ -439,6 +438,10 @@ Some tools can be categorized in more than one category. But because the current
     <tr>
         <td><a href="https://github.com/antonioCoco/RogueWinRM">antonioCoco/RogueWinRM</a></td>
         <td>Windows Local Privilege Escalation from Service Account to System</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/antonioCoco/RunasCs">antonioCoco/RunasCs</a></td>
+        <td>RunasCs - Csharp and open version of windows builtin runas.exe</td>
     </tr>
     <tr>
         <td><a href="https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite">carlospolop/privilege-escalation-awesome-scripts-suite</a>
