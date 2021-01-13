@@ -420,6 +420,10 @@ Some tools can be categorized in more than one category. But because the current
         <td><a href="https://github.com/slaeryan/MIDNIGHTTRAIN">slaeryan/MIDNIGHTTRAIN</a></td>
         <td>Covert Stage-3 Persistence Framework</td>
     </tr>
+    <tr>
+        <td><a href="https://github.com/vivami/OutlookParasite">vivami/OutlookParasite</a></td>
+        <td>Outlook persistence using VSTO add-ins</td>
+    </tr>
 </table>
 
 ## Privilege Escalation
