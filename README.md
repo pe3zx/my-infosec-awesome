@@ -472,6 +472,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>a small tool for investigating inline hooks (and other in-memory code patches)</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/hzqst/unicorn_pe">hzqst/unicorn_pe</a></td>
+        <td>Unicorn PE is an unicorn based instrumentation project designed to emulate code execution for windows PE files.</td>
+    </tr>
+    <tr>
         <td><a href="https://kaitai.io">Kaitai Struct</a></td>
         <td>Kaitai Struct is a declarative language used to describe various binary data structures, laid out in files or in memory: i.e. binary file formats, network stream packet formats, etc.</td>
     </tr>
