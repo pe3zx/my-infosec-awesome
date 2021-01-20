@@ -111,6 +111,10 @@ Some tools can be categorized in more than one category. But because the current
         <td><b>Description</b></td>
     </tr>
     <tr>
+        <td><a href="https://github.com/aeverj/NimShellCodeLoader">aeverj/NimShellCodeLoader</a></td>
+        <td>Nim编写Windows平台shellcode免杀加载器</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/api0cradle/LOLBAS">api0cradle/LOLBAS</a></td>
         <td>Living Off The Land Binaries and Scripts (and now also Libraries)</td>
     </tr>
