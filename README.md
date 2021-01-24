@@ -560,6 +560,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Checksec tool in Python, Rich output. Based on LIEF</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/WerWolv/ImHex">WerWolv/ImHex</a></td>
+        <td>A Hex Editor for Reverse Engineers, Programmers and people that value their eye sight when working at 3 AM.</td>
+    </tr>
+    <tr>
         <td>
             <a href="https://github.com/williballenthin/python-idb">williballenthin/python-idb</a>
         </td>
