@@ -905,6 +905,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Beacon Kibana Executable Report. Aggregates Sysmon Network Events With Elasticsearch and Kibana</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/ahmedkhlief/APT-Hunter">ahmedkhlief/APT-Hunter</a></td>
+        <td>APT-Hunter is Threat Hunting tool for windows event logs which made by purple team mindset to provide detect APT movements hidden in the sea of windows event logs to decrease the time to uncover suspicious activity</td>
+    </tr>
+    <tr>
         <td><a href="https://www.alienvault.com/products/ossim">AlienVault OSSIM</a></td>
         <td>AlienVault OSSIM: The World’s Most Widely Used Open Source SIEM</td>
     </tr>
