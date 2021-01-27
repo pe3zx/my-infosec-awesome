@@ -777,6 +777,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>PowerShell Script to Dump Windows Credentials from the Credential Manager</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/PorLaCola25/TransactedSharpMiniDump">PorLaCola25/TransactedSharpMiniDump</a></td>
+        <td>Implementation of b4rtiks's SharpMiniDump using NTFS transactions to avoid writting the minidump to disk and exfiltrating it via HTTPS using sockets.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/putterpanda/mimikittenz">putterpanda/mimikittenz</a></td>
         <td>A post-exploitation powershell tool for extracting juicy info from memory.</td>
     </tr>
