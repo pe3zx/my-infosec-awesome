@@ -315,6 +315,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>The OWASP Zed Attack Proxy (ZAP) is one of the world’s most popular free security tools and is actively maintained by hundreds of international volunteers</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/presidentbeef/brakeman">presidentbeef/brakeman</a></td>
+        <td>A static analysis security vulnerability scanner for Ruby on Rails applications</td>
+    </tr>
+    <tr>
         <td><a href="https://publicwww.com/">Public WWW</a></td>
         <td>Source Code Search Engine</td>
     </tr>
