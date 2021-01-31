@@ -504,6 +504,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>A Linux version of the ProcDump Sysinternals tool</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/MITRECND/malchive">MITRECND/malchive</a></td>
+        <td>Various capabilities for static malware analysis.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/mxmssh/drltrace">mxmssh/drltrace</a></td>
         <td>Drltrace is a library calls tracer for Windows and Linux applications</td>
     </tr>
