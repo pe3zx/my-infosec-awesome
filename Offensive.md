@@ -683,6 +683,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Chimera is a (shiny and very hack-ish) PowerShell obfuscation script designed to bypass AMSI and commercial
             antivirus solutions.</td>
     </tr>
+    <tr>
+        <td><a href="https://github.com/zeroSteiner/crimson-forge">zeroSteiner/crimson-forge</a></td>
+        <td>Crimson Forge intends to provide sustainable evasion capabilities for native code on the x86 and AMD64 architectures. Crimson Forge intends to provide sustainable evasion capabilities for native code on the x86 and AMD64 architectures.</td>
+    </tr>
 </table>
 
 ## Credential Access
