@@ -558,6 +558,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>GhostWriting Injection Technique.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/calebstewart/bypass-clm">calebstewart/bypass-clm</a></td>
+        <td>PowerShell Constrained Language Mode Bypass</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/CCob/SharpBlock">CCob/SharpBlock</a></td>
         <td>A method of bypassing EDR's active projection DLL's by preventing entry point execution.</td>
     </tr>
