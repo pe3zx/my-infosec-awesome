@@ -2248,6 +2248,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>People tracker on the Internet: OSINT analysis and research tool.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/khast3x/h8mail">khast3x/h8mail</a></td>
+        <td>Email OSINT & Password breach hunting tool, locally or using premium services. Supports chasing down related email</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/lanrat/certgraph">lanrat/certgraph</a></td>
         <td>An open source intelligence tool to crawl the graph of certificate Alternate Names</td>
     </tr>
