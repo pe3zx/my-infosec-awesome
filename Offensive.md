@@ -247,6 +247,10 @@ Some tools can be categorized in more than one category. But because the current
             auto-run).</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/DarthTon/Xenos">DarthTon/Xenos</a></td>
+        <td>Windows dll injector</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/Flangvik/SharpDllProxy">Flangvik/SharpDllProxy</a></td>
         <td>Retrieves exported functions from a legitimate DLL and generates a proxy DLL source code/template for DLL
             proxy loading or sideloading</td>
