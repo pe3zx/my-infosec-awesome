@@ -145,6 +145,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>A protective and Low Level Shellcode Loader the defeats modern EDR systems.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/DamonMohammadbagher/NativePayload_Tinjection">DamonMohammadbagher/NativePayload_Tinjection</a></td>
+        <td>Remote Thread Injection by C#</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/D00MFist/Go4aRun">D00MFist/Go4aRun</a></td>
         <td>Shellcode runner in GO that incorporates shellcode encryption, remote process injection, block dlls, and
             spoofed parent process</td>
