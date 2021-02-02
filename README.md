@@ -2308,6 +2308,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Pastebin dump collection</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/Patrowl/PatrowlHears">Patrowl/PatrowlHears</a></td>
+        <td>PatrowlHears - Vulnerability Intelligence Center / Exploits</td>
+    </tr>
+    <tr>
         <td><a href="https://phonebook.cz/">Phonebook.cz</a></td>
         <td>Phonebook lists all domains, email addresses, or URLs for the given input domain.</td>
     </tr>
