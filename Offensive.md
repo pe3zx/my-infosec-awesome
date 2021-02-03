@@ -793,6 +793,10 @@ Some tools can be categorized in more than one category. But because the current
             each tool does.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/oxfemale/LogonCredentialsSteal">oxfemale/LogonCredentialsSteal</a></td>
+        <td>LOCAL AND REMOTE HOOK msv1_0!SpAcceptCredentials from LSASS.exe and DUMP DOMAIN/LOGIN/PASSWORD IN CLEARTEXT to text file.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/peewpw/Invoke-WCMDump">peewpw/Invoke-WCMDump</a></td>
         <td>PowerShell Script to Dump Windows Credentials from the Credential Manager</td>
     </tr>
