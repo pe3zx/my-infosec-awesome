@@ -1845,6 +1845,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>SEKOIA Dropper Analysis</td>
     </tr>
     <tr>
+		<td><a href="https://github.com/sophos-ai/yaraml_rules">sophos-ai/yaraml_rules</a></td>
+		<td>Security ML models encoded as Yara rules</td>
+	</tr>
+    <tr>
         <td><a href="https://github.com/SpamScope/spamscope">SpamScope/spamscope</a></td>
         <td>Fast Advanced Spam Analysis Tool</td>
     </tr>
