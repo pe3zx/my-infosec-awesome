@@ -842,6 +842,10 @@ Some tools can be categorized in more than one category. But because the current
         <td><b>Description</b></td>
     </tr>
     <tr>
+        <td><a href="https://github.com/0xcpu/winsmsd">0xcpu/winsmsd</a></td>
+        <td>Windows (ShadowMove) Socket Duplication</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/0xthirteen/SharpMove">0xthirteen/SharpMove</a></td>
         <td>.NET Project for performing Authenticated Remote Execution</td>
     </tr>
