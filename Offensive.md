@@ -386,6 +386,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>DLL Generator for side loading attack</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/optiv/ScareCrow">optiv/ScareCrow</a></td>
+        <td>ScareCrow - Payload creation framework designed around EDR bypass.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/Plazmaz/LNKUp">Plazmaz/LNKUp</a></td>
         <td>Generates malicious LNK file payloads for data exfiltration</td>
     </tr>
