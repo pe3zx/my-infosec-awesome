@@ -53,6 +53,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Blue Team Training Toolkit (BT3) is designed for network analysis training sessions, incident response drills and red team engagements</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/center-for-threat-informed-defense/adversary_emulation_library">center-for-threat-informed-defense/adversary_emulation_library</a></td>
+        <td>An open library of adversary emulation plans designed to empower organizations to test their defenses based on real-world TTPs.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/Coalfire-Research/Red-Baron">Coalfire-Research/Red-Baron</a></td>
         <td>Automate creating resilient, disposable, secure and agile infrastructure for Red Teams</td>
     </tr>
