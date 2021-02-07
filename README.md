@@ -2564,6 +2564,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>SecGen creates vulnerable virtual machines so students can learn security penetration testing techniques.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/detectify/vulnerable-nginx">detectify/vulnerable-nginx</a></td>
+        <td>An intentionally vulnerable NGINX setup</td>
+    </tr>
+    <tr>
         <td><a href="https://tuts4you.com/download.php?list.17">Lenas Reversing for Newbies</a></td>
         <td>Nice collection of tutorials aimed particularly for newbie reverse enginners...</td>
     </tr>
