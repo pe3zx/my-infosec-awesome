@@ -119,6 +119,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Living Off The Land Binaries and Scripts (and now also Libraries)</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/b1tg/rust-windows-shellcode">b1tg/rust-windows-shellcode</a></td>
+        <td>Windows shellcode development in Rust</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/bohops/GhostBuild">bohops/GhostBuild</a></td>
         <td>GhostBuild is a collection of simple MSBuild launchers for various GhostPack/.NET projects</td>
     </tr>
