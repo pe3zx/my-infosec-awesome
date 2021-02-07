@@ -398,6 +398,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Generates malicious LNK file payloads for data exfiltration</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/postrequest/xeca">postrequest/xeca</a></td>
+        <td>PowerShell payload generator</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/redcanaryco/chain-reactor">redcanaryco/chain-reactor</a></td>
         <td>Chain Reactor is an open source framework for composing executables that simulate adversary behaviors and
             techniques on Linux endpoints.</td>
