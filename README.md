@@ -2600,6 +2600,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Various labs from SEED Project</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/shellphish/how2heap">shellphish/how2heap</a></td>
+        <td>A repository for learning various heap exploitation techniques.</td>
+    </tr>
+    <tr>
         <td><a href="https://www.notsosecure.com/vulnerable-docker-vm/">Vulnerable Docker VM</a></td>
         <td>Ever fantasized about playing with docker misconfigurations, privilege escalation, etc. within a container?</td>
     </tr>
