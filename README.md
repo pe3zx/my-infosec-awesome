@@ -41,6 +41,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td><b>Description</b></td>
     </tr>
     <tr>
+        <td><a href="https://github.com/activeshadow/go-atomicredteam">activeshadow/go-atomicredteam</a></td>
+        <td>go-atomicredteam is a Golang application to execute tests as defined in the atomics folder of Red Canary's Atomic Red Team project</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/alphasoc/flightsim">alphasoc/flightsim</a></td>
         <td>A utility to generate malicious network traffic and evaluate controls</td>
     </tr>
