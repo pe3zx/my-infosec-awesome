@@ -900,6 +900,10 @@ Some tools can be categorized in more than one category. But because the current
             termsrv.dll file.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/knavesec/Max">knavesec/Max</a></td>
+        <td>Maximizing BloodHound. Max is a good boy.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/Mr-Un1k0d3r/SCShell">Mr-Un1k0d3r/SCShell</a></td>
         <td>Fileless lateral movement tool that relies on ChangeServiceConfigA to run command</td>
     </tr>
