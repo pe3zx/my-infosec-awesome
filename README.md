@@ -354,15 +354,19 @@ This repository is created as an online bookmark for useful links, resources and
         <td><a href="https://github.com/RhinoSecurityLabs/SleuthQL">RhinoSecurityLabs/SleuthQL</a></td>
         <td>Python3 Burp History parsing tool to discover potential SQL injection points. To be used in tandem with SQLmap.</td>
     </tr>
-    <tr>
-        <td><a href="https://snyk.io/">Snyk</a></td>
-        <td>Continuously find & fix vulnerabilities in your dependencies</td>
-    </tr>
-    <tr>
+     <tr>
         <td><a href="https://github.com/s0md3v/XSStrike">s0md3v/XSStrike</a></td>
         <td>Most advanced XSS detection suite</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/Screetsec/Sudomy">Screetsec/Sudomy</a></td>
+        <td>Sudomy is a subdomain enumeration tool to collect subdomains and analyzing domains performing automated reconnaissance (recon) for bug hunting / pentesting</td>
+    </tr>
+    <tr>
+        <td><a href="https://snyk.io/">Snyk</a></td>
+        <td>Continuously find & fix vulnerabilities in your dependencies</td>
+    </tr>
+   <tr>
         <td><a href="https://github.com/subfinder/subfinder">subfinder/subfinder</a></td>
         <td>SubFinder is a subdomain discovery tool that discovers valid subdomains for websites. Designed as a passive framework to be useful for bug bounties and safe for penetration testing.</td>
     </tr>
