@@ -764,6 +764,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Internal Monologue Attack: Retrieving NTLM Hashes without Touching LSASS</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/fireeye/ADFSpoof">fireeye/ADFSpoof</a></td>
+        <td>A python tool to forge AD FS security tokens.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/Flangvik/BetterSafetyKatz">Flangvik/BetterSafetyKatz</a></td>
         <td>Fork of SafetyKatz that dynamically fetches the latest pre-compiled release of Mimikatz directly from
             gentilkiwi GitHub repo, runtime patches signatures and uses SharpSploit DInvoke to PE-Load into memory.</td>
