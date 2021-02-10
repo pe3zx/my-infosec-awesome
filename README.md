@@ -673,6 +673,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>This tool queries the following configurations in the Azure AD/O365 tenant which can shed light on hard to find permissions and configuration settings in order to assist organizations in securing these environments.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/cyberark/blobhunter">cyberark/blobhunter</a></td>
+        <td>Find exposed data in Azure with this public blob scanner</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/cyberark/SkyArk">cyberark/SkyArk</a></td>
         <td>SkyArk is a cloud security tool, helps to discover, assess and secure the most privileged entities in AWS</td>
     </tr>
