@@ -178,6 +178,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>SharpWMI is a C# implementation of various WMI functionality.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/gigajew/WinXRunPE">gigajew/WinXRunPE</a></td>
+        <td>Two C# RunPE's capable of x86 and x64 injections</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/hausec/MaliciousClickOnceMSBuild">hausec/MaliciousClickOnceMSBuild</a></td>
         <td>Basic C# Project that will take an MSBuild payload and run it with MSBuild via ClickOnce.</td>
     </tr>
