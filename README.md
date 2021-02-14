@@ -1386,6 +1386,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>My implementation of enSilo's Process Doppelganging (PE injection technique)</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/itm4n/Perfusion">itm4n/Perfusion</a></td>
+        <td>Exploit for the RpcEptMapper registry key permissions vulnerability (Windows 7 / 2088R2 / 8 / 2012)</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/itm4n/UsoDllLoader">itm4n/UsoDllLoader</a></td>
         <td>Windows - Weaponizing privileged file writes with the Update Session Orchestrator service</td>
     </tr>
