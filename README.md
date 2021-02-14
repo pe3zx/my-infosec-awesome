@@ -1173,6 +1173,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Identifies physical locations where a laptop has been based upon wireless profiles and wireless data recorded in event logs</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/microsoft/avml">microsoft/avml</a></td>
+        <td>AVML - Acquire Volatile Memory for Linux</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/miriamxyra/EventList">miriamxyra/EventList</a></td>
         <td>EventList is a tool to help improving your Audit capabilities and to help to build your Security Operation Center.</td>
     </tr>
