@@ -246,12 +246,16 @@ This repository is created as an online bookmark for useful links, resources and
         <td>static analysis of C/C++ code</td>
     </tr>
     <tr>
-        <td><a href="https://github.com/dstotijn/hetty">dstotijn/hetty</a></td>
-        <td>Hetty is an HTTP toolkit for security research. It aims to become an open source alternative to commercial software like Burp Suite Pro, with powerful features tailored to the needs of the infosec and bug bounty community.</td>
+        <td><a href="https://github.com/deepfence/SecretScanner">deepfence/SecretScanner</a></td>
+        <td>Find secrets and passwords in container images and file systems</td>
     </tr>
     <tr>
         <td><a href="https://github.com/doyensec/inql">doyensec/inql</a></td>
         <td>InQL - A Burp Extension for GraphQL Security Testing</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/dstotijn/hetty">dstotijn/hetty</a></td>
+        <td>Hetty is an HTTP toolkit for security research. It aims to become an open source alternative to commercial software like Burp Suite Pro, with powerful features tailored to the needs of the infosec and bug bounty community.</td>
     </tr>
     <tr>
         <td><a href="https://github.com/facebook/pyre-check/">facebook/pyre-check/</a></td>
