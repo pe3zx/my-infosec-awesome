@@ -416,12 +416,12 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Python module for viewing Portable Executable (PE) files in a tree-view using pefile and PyQt5. Can also be used with IDA Pro to dump in-memory PE files and reconstruct imports.</td>
     </tr>
     <tr>
-        <td><a href="https://github.com/carbonblack/binee">carbonblack/binee</a></td>
-        <td>Binee: binary emulation environment</td>
-    </tr>
-    <tr>
         <td><a href="https://github.com/bootleg/ret-sync">bootleg/ret-sync</a></td>
         <td>ret-sync is a set of plugins that helps to synchronize a debugging session (WinDbg/GDB/LLDB/OllyDbg2/x64dbg) with IDA/Ghidra disassemblers.</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/carbonblack/binee">carbonblack/binee</a></td>
+        <td>Binee: binary emulation environment</td>
     </tr>
     <tr>
         <td><a href="https://github.com/Cisco-Talos/GhIDA">Cisco-Talos/GhIDA</a></td>
