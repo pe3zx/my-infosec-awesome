@@ -1309,6 +1309,10 @@ This repository is created as an online bookmark for useful links, resources and
 		<td>Blockchain Transactions Investigation Tool</td>
 	</tr>
     <tr>
+        <td><a href="https://www.cgsecurity.org/wiki/TestDisk">TestDisk</a></td>
+        <td>TestDisk is powerful free data recovery software! It was primarily designed to help recover lost partitions and/or make non-booting disks bootable again when these symptoms are caused by faulty software: certain types of viruses or human error (such as accidentally deleting a Partition Table). Partition table recovery using TestDisk is really easy.</td>
+    </tr>
+    <tr>
         <td><a href="https://www.sleuthkit.org/">The Sleuth Kit</a></td>
         <td>sleuthkit.org is the official website for The Sleuth Kit®, Autopsy®, and other open source digital investigation tools. From here, you can find documents, case studies, and download the latest versions of the software.</td>
     </tr>
