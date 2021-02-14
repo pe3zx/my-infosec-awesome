@@ -820,6 +820,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Windows PowerShell ADIDNS/LLMNR/mDNS/NBNS spoofer/man-in-the-middle tool</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/m0rv4i/SafetyDump">m0rv4i/SafetyDump</a></td>
+        <td>Dump stuff without touching disk</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/nidem/kerberoast">nidem/kerberoast</a></td>
         <td>Kerberoast is a series of tools for attacking MS Kerberos implementations. Below is a brief overview of what
             each tool does.</td>
