@@ -1337,10 +1337,6 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Uncoder.IO is the online translator for SIEM saved searches, filters, queries, API requests, correlation and Sigma rules to help SOC Analysts, Threat Hunters and SIEM Engineers</td>
     </tr>
     <tr>
-        <td><a href="http://www.kazamiya.net/en/usn_analytics">USN Analytics</a></td>
-        <td>USN Analytics is a tool that specializes in USN Journal ($UsnJrnl:$J) analysis</td>
-    </tr>
-    <tr>
         <td><a href="https://binaryforay.blogspot.com/2018/09/introducing-vscmount.html">VSCMount</a></td>
         <td>Volume shadow copies mounter tool</td>
     </tr>
