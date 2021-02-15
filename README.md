@@ -92,11 +92,7 @@ This repository is created as an online bookmark for useful links, resources and
         <td><a href="https://github.com/endgameinc/RTA">endgameinc/RTA</a></td>
         <td>RTA provides a framework of scripts designed to allow blue teams to test their detection capabilities against malicious tradecraft, modeled after MITRE ATT&CK</td>
     </tr>
-    <tr>
-        <td><a href="https://github.com/fireeye/capa">fireeye/capa</a></td>
-        <td>capa detects capabilities in executable files. You run it against a PE file or shellcode and it tells you what it thinks the program can do. For example, it might suggest that the file is a backdoor, is capable of installing services, or relies on HTTP to communicate.</td>
-    </tr>
-    <tr>
+   <tr>
         <td><a href="https://github.com/fireeye/capa-rules">fireeye/capa-rules</a></td>
         <td>Standard collection of rules for capa: the tool for enumerating the capabilities of programs</td>
     </tr>
@@ -141,14 +137,6 @@ This repository is created as an online bookmark for useful links, resources and
 		<td>Praetorian's public release of our Metasploit automation of MITRE ATT&CK™ TTPs</td>
 	</tr>
     <tr>
-        <td><a href="https://github.com/scythe-io/community-threats">scythe-io/community-threats</a></td>
-        <td>The GitHub of Adversary Emulation Plans in JSON. Share SCYTHE threats with the community. #ThreatThursday adversary emulation plans are shared here.</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/TryCatchHCF/DumpsterFire">TryCatchHCF/DumpsterFire</a></td>
-        <td>"Security Incidents In A Box!" A modular, menu-driven, cross-platform tool for building customized, time-delayed, distributed security events.</td>
-    </tr>
-    <tr>
         <td><a href="https://github.com/ReconInfoSec/adversary-emulation-map">ReconInfoSec/adversary-emulation-map</a></td>
         <td>Creates an ATT&CK Navigator map of an Adversary Emulation Plan</td>
     </tr>
@@ -169,6 +157,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Virtual Machine for Adversary Emulation and Threat Hunting</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/scythe-io/community-threats">scythe-io/community-threats</a></td>
+        <td>The GitHub of Adversary Emulation Plans in JSON. Share SCYTHE threats with the community. #ThreatThursday adversary emulation plans are shared here.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/SpiderLabs/sheepl">SpiderLabs/sheepl</a></td>
         <td>Sheepl : Creating realistic user behaviour for supporting tradecraft development within lab environments</td>
     </tr>
@@ -179,6 +171,10 @@ This repository is created as an online bookmark for useful links, resources and
     <tr>
         <td><a href="https://github.com/swimlane/soc-faker">swimlane/soc-faker</a></td>
         <td>A python package for use in generating fake data for SOC and security automation.</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/TryCatchHCF/DumpsterFire">TryCatchHCF/DumpsterFire</a></td>
+        <td>"Security Incidents In A Box!" A modular, menu-driven, cross-platform tool for building customized, time-delayed, distributed security events.</td>
     </tr>
     <tr>
         <td><a href="https://github.com/uber-common/metta">uber-common/metta</a></td>
@@ -464,6 +460,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>flare-emu marries a supported binary analysis framework, such as IDA Pro or Radare2, with Unicorns emulation framework to provide the user with an easy to use and flexible interface for scripting emulation tasks.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/fireeye/capa">fireeye/capa</a></td>
+        <td>capa detects capabilities in executable files. You run it against a PE file or shellcode and it tells you what it thinks the program can do. For example, it might suggest that the file is a backdoor, is capable of installing services, or relies on HTTP to communicate.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/fireeye/flare-floss">fireeye/flare-floss</a></td>
         <td>FireEye Labs Obfuscated String Solver - Automatically extract obfuscated strings from malware.</td>
     </tr>
@@ -729,16 +729,16 @@ This repository is created as an online bookmark for useful links, resources and
         <td>PowerShell framework to assess Azure security</td>
     </tr>
     <tr>
-        <td><a href="https://github.com/kromtech/s3-inspector">kromtech/s3-inspector</a></td>
-        <td>Tool to check AWS S3 bucket permissions</td>
-    </tr>
-    <tr>
         <td><a href="https://github.com/jordanpotti/AWSBucketDump">jordanpotti/AWSBucketDump</a></td>
         <td>Security Tool to Look For Interesting Files in S3 Buckets</td>
     </tr>
     <tr>
         <td><a href="https://github.com/jordanpotti/CloudScraper">jordanpotti/CloudScraper</a></td>
         <td>CloudScraper: Tool to enumerate targets in search of cloud resources. S3 Buckets, Azure Blobs, Digital Ocean Storage Space.</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/kromtech/s3-inspector">kromtech/s3-inspector</a></td>
+        <td>Tool to check AWS S3 bucket permissions</td>
     </tr>
     <tr>
         <td><a href="https://github.com/lyft/metadataproxy">lyft/metadataproxy</a></td>
@@ -1119,10 +1119,6 @@ This repository is created as an online bookmark for useful links, resources and
     <tr>
         <td><a href="https://securelist.com/happy-ir-in-the-new-year/83557/">Kaspersky IR's Artifacts Collector</a></td>
         <td>Kaspersky IR's Artifacts Collector</td>
-    </tr>
-    <tr>
-        <td><a href="https://arsenalrecon.com/downloads/">Hibernation Recon</a></td>
-        <td>The tools and techniques used for many years to analyze Microsoft Windows® hibernation files have left digital forensics experts in the dark… until now!</td>
     </tr>
     <tr>
         <td><a href="https://github.com/Invoke-IR/ACE">Invoke-IR/ACE</a></td>
