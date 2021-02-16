@@ -184,6 +184,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td><a href="https://mitre.github.io/unfetter/">Unfetter</a></td>
         <td>Unfetter is a project designed to help network defenders, cyber security professionals, and decision makers identify and analyze defensive gaps in a more scalable and repeatable way</td>
     </tr>
+    <tr>
+        <td><a href="https://github.com/securityriskadvisors/vectr">securityriskadvisors/vectr</a></td>
+        <td></td>
+    </tr>
 </table>
 
 ## Application Security
