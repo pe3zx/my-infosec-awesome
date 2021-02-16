@@ -476,6 +476,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Moneta is a live usermode memory analysis tool for Windows with the capability to detect malware IOCs</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/FuzzySecurity/Dendrobate">FuzzySecurity/Dendrobate</a></td>
+        <td>Managed code hooking template.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/FuzzySecurity/Fermion">FuzzySecurity/Fermion</a></td>
         <td>Fermion, an electron wrapper for Frida & Monaco.</td>
     </tr>
