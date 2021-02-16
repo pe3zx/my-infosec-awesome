@@ -93,10 +93,6 @@ This repository is created as an online bookmark for useful links, resources and
         <td>RTA provides a framework of scripts designed to allow blue teams to test their detection capabilities against malicious tradecraft, modeled after MITRE ATT&CK</td>
     </tr>
    <tr>
-        <td><a href="https://github.com/fireeye/capa-rules">fireeye/capa-rules</a></td>
-        <td>Standard collection of rules for capa: the tool for enumerating the capabilities of programs</td>
-    </tr>
-    <tr>
         <td><a href="https://github.com/FSecureLABS/leonidas">FSecureLABS/leonidas</a></td>
         <td>Automated Attack Simulation in the Cloud, complete with detection use cases.</td>
     </tr>
@@ -136,6 +132,10 @@ This repository is created as an online bookmark for useful links, resources and
 		<td><a href="https://github.com/praetorian-code/purple-team-attack-automation">praetorian-code/purple-team-attack-automation</a></td>
 		<td>Praetorian's public release of our Metasploit automation of MITRE ATT&CK™ TTPs</td>
 	</tr>
+    <tr>
+        <td><a href="https://github.com/qsecure-labs/overlord">qsecure-labs/overlord</a></td>
+        <td>Overlord - Red Teaming Infrastructure Automation</td>
+    </tr>
     <tr>
         <td><a href="https://github.com/ReconInfoSec/adversary-emulation-map">ReconInfoSec/adversary-emulation-map</a></td>
         <td>Creates an ATT&CK Navigator map of an Adversary Emulation Plan</td>
@@ -462,6 +462,10 @@ This repository is created as an online bookmark for useful links, resources and
     <tr>
         <td><a href="https://github.com/fireeye/capa">fireeye/capa</a></td>
         <td>capa detects capabilities in executable files. You run it against a PE file or shellcode and it tells you what it thinks the program can do. For example, it might suggest that the file is a backdoor, is capable of installing services, or relies on HTTP to communicate.</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/fireeye/capa-rules">fireeye/capa-rules</a></td>
+        <td>Standard collection of rules for capa: the tool for enumerating the capabilities of programs</td>
     </tr>
     <tr>
         <td><a href="https://github.com/fireeye/flare-floss">fireeye/flare-floss</a></td>
