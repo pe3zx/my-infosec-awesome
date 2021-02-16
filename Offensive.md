@@ -566,6 +566,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Project to check which Nt/Zw functions your local EDR is hooking</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/Bashfuscator/Bashfuscator">Bashfuscator/Bashfuscator</a></td>
+        <td>A fully configurable and extendable Bash obfuscation framework. This tool is intended to help both red team and blue team.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/bats3c/Ghost-In-The-Logs">bats3c/Ghost-In-The-Logs</a></td>
         <td>Evade sysmon and windows event logginEvade sysmon and windows event loggingg</td>
     </tr>
