@@ -115,6 +115,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Nim编写Windows平台shellcode免杀加载器</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/antonioCoco/SharPyShell">antonioCoco/SharPyShell</a></td>
+        <td>SharPyShell - tiny and obfuscated ASP.NET webshell for C# web applications</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/api0cradle/LOLBAS">api0cradle/LOLBAS</a></td>
         <td>Living Off The Land Binaries and Scripts (and now also Libraries)</td>
     </tr>
