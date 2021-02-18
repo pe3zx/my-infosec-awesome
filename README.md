@@ -2659,4 +2659,8 @@ This repository is created as an online bookmark for useful links, resources and
         <td><a href="https://www.notsosecure.com/vulnerable-docker-vm/">Vulnerable Docker VM</a></td>
         <td>Ever fantasized about playing with docker misconfigurations, privilege escalation, etc. within a container?</td>
     </tr>
+    <tr>
+        <td><a href="https//github.com/vulhub/vulhub">vulhub/vulhub</a></td>
+        <td>Pre-Built Vulnerable Environments Based on Docker-Compose</td>
+    </tr>
 </table>
