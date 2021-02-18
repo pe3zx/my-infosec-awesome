@@ -379,6 +379,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>SubFinder is a subdomain discovery tool that discovers valid subdomains for websites. Designed as a passive framework to be useful for bug bounties and safe for penetration testing.</td>
     </tr>
     <tr>
+        <td><a href="https//github.com/visma-prodsec/confused">visma-prodsec/confused</a></td>
+        <td>Tool to check for dependency confusion vulnerabilities in multiple package management systems</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/wallarm/gotestwaf">wallarm/gotestwaf</a></td>
         <td>Go Test WAF project, a tool to test different WAF detects for apps and APIs</td>
     </tr>
