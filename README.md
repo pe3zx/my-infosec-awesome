@@ -2616,6 +2616,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Nice collection of tutorials aimed particularly for newbie reverse enginners...</td>
     </tr>
     <tr>
+        <td><a href="https//github.com/globocom/secDevLabs">globocom/secDevLabs</a></td>
+        <td>A laboratory for learning secure web and mobile development in a practical manner.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/google/google-ctf">google/google-ctf</a></td>
         <td>This repository lists most of the challenges used in the Google CTF 2017. The missing challenges are not ready to be open-sourced, or contain third-party code.</td>
     </tr>
