@@ -805,6 +805,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Route53/CloudFront Vulnerability Assessment Utility</td>
     </tr>
     <tr>
+        <td><a href="https//github.com/projectdiscovery/cloudlist">projectdiscovery/cloudlist</a></td>
+        <td>Cloudlist is a tool for listing Assets from multiple Cloud Providers.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/pumasecurity/serverless-prey">pumasecurity/serverless-prey</a></td>
         <td>Serverless Functions for establishing Reverse Shells to Lambda, Azure Functions, and Google Cloud Functions</td>
     </tr>
