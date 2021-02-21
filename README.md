@@ -745,6 +745,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>PowerShell framework to assess Azure security</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/initstring/cloud_enum">initstring/cloud_enum</a></td>
+        <td>Multi-cloud OSINT tool. Enumerate public resources in AWS, Azure, and Google Cloud.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/jordanpotti/AWSBucketDump">jordanpotti/AWSBucketDump</a></td>
         <td>Security Tool to Look For Interesting Files in S3 Buckets</td>
     </tr>
