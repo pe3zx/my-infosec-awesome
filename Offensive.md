@@ -93,6 +93,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Powershell script for enumerating vulnerable DCOM Applications</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/T0pCyber/hawk">T0pCyber/hawk</a></td>
+        <td>Powershell Based tool for gathering information related to O365 intrusions and potential Breaches</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/tevora-threat/SharpView">tevora-threat/SharpView</a></td>
         <td>C# implementation of harmj0y's PowerView</td>
     </tr>
