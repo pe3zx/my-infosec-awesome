@@ -488,6 +488,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Speakeasy is a portable, modular, binary emulator designed to emulate Windows kernel and user mode malware.</td>
     </tr>
     <tr>
+	    <td><a href="https://github.com/fireeye/stringsifter">fireeye/stringsifter</a></td>
+	    <td>A machine learning tool that ranks strings based on their relevance for malware analysis.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/forrest-orr/moneta">forrest-orr/moneta</a></td>
         <td>Moneta is a live usermode memory analysis tool for Windows with the capability to detect malware IOCs</td>
     </tr>
