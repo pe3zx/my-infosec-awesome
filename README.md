@@ -2380,6 +2380,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Phonebook lists all domains, email addresses, or URLs for the given input domain.</td>
     </tr>
     <tr>
+		<td><a href="https://github.com/qeeqbox/social-analyzer">qeeqbox/social-analyzer</a></td>
+		<td>API, CLI & Web App for analyzing & finding a person's profile across 350+ social media websites (Detections are updated regularly)</td>
+	</tr>
+    <tr>
         <td><a href="https://github.com/s-rah/onionscan">s-rah/onionscan</a></td>
         <td>OnionScan is a free and open source tool for investigating the Dark Web.</td>
     </tr>
