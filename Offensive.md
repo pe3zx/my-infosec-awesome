@@ -34,9 +34,8 @@ Some tools can be categorized in more than one category. But because the current
         <td><b>Description</b></td>
     </tr>
     <tr>
-        <td><a href="https://github.com/danielbohannon/Invoke-CradleCrafter">danielbohannon/Invoke-CradleCrafter</a>
-        </td>
-        <td>PowerShell Remote Download Cradle Generator & Obfuscator</td>
+        <td><a href="https://github.com/asaurusrex/Probatorum-EDR-Userland-Hook-Checker">asaurusrex/Probatorum-EDR-Userland-Hook-Checker</a>
+        <td>Project to check which Nt/Zw functions your local EDR is hooking</td>
     </tr>
     <tr>
         <td><a href="https://github.com/dev-2null/adcollector">dev-2null/ADCollector<a></td>
@@ -632,6 +631,11 @@ Some tools can be categorized in more than one category. But because the current
     <tr>
         <td><a href="https://github.com/d35ha/CallObfuscator">d35ha/CallObfuscator</a></td>
         <td>Obfuscate specific windows apis with different apis</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/danielbohannon/Invoke-CradleCrafter">danielbohannon/Invoke-CradleCrafter</a>
+        </td>
+        <td>PowerShell Remote Download Cradle Generator & Obfuscator</td>
     </tr>
     <tr>
         <td><a href="https://github.com/danielbohannon/Invoke-DOSfuscation">danielbohannon/Invoke-DOSfuscation</a></td>
