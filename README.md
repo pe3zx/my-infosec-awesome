@@ -668,6 +668,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td><a href="https://github.com/BishopFox/smogcloud">BishopFox/smogcloud</a></td>
         <td>Find cloud assets that no one wants exposed</td>
     </tr>
+    <tr>
+        <td><a href="https://github.com/brandongalbraith/endgame">brandongalbraith/endgame</a></td>
+        <td>An AWS Pentesting tool that lets you use one-liner commands to backdoor an AWS account's resources with a rogue AWS account - or share the resources with the entire internet </td>
+    </tr>
 	<tr>
 		<td><a href="https://github.com/bridgecrewio/cdkgoat">bridgecrewio/cdkgoat</a></td>
 		<td>CdkGoat is Bridgecrew's "Vulnerable by Design" AWS CDK repository. CdkGoat is a learning and training project that demonstrates how common configuration errors can find their way into production cloud environments.</td>
