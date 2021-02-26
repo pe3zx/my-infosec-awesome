@@ -1601,6 +1601,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>snake - a malware storage zoo</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/CybercentreCanada/CCCS-Yara">CybercentreCanada/CCCS-Yara</a></td>
+        <td>YARA rule metadata specification and validation utility / Spécification et validation pour les règles YARA</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/D4stiny/spectre">D4stiny/spectre</a></td>
         <td>A Windows kernel-mode rootkit that abuses legitimate communication channels to control a machine.</td>
     </tr>
