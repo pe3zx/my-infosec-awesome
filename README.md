@@ -2260,6 +2260,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>dark.fail: Is a darknet site online?</td>
     </tr>
     <tr>
+        <td><a href="https://darksearch.io/">DarkSearch</a></td>
+        <td>The 1st Real Dark Web Search Engine</td>
+    </tr>
+    <tr>
         <td><a href="https://domainbigdata.com/">DomainBigData</a></td>
         <td>DomainBigData is a big database of domains and whois records</td>
     </tr>
