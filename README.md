@@ -540,6 +540,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Library to Instrument Executable Formats</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/Martyx00/CollaRE">Martyx00/CollaRE</a></td>
+        <td>CollareRE is a tool for collaborative reverse engineering that aims to allow teams that do need to use more then one tool during a project to collaborate without the need to share the files on a separate locations.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/Microsoft/binskim">Microsoft/binskim</a></td>
         <td>A binary static analysis tool that provides security and correctness results for Windows portable executables</td>
     </tr>
