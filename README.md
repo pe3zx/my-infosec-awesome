@@ -2244,6 +2244,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>crt.sh | Certificate</td>
     </tr>
     <tr>
+        <td><a href="https://start.me/p/EL84Km/cse-utopia">CSE Utopia</a></td>
+        <td>CSE Utopia</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/danieleperera/onioningestor">danieleperera/onioningestor</a></td>
         <td>An extendable tool to Collect, Crawl and Monitor onion sites on tor network and index collected information on Elasticsearch</td>
     </tr>
