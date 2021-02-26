@@ -2014,6 +2014,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Simple iOS app blackbox assessment tool. Powered by frida.re and vuejs.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/charles2gan/GDA-android-reversing-Tool">charles2gan/GDA-android-reversing-Tool</a></td>
+        <td>GDA is a new fast and powerful decompiler in C++(working without Java VM) for the APK, DEX, ODEX, OAT, JAR, AAR, and CLASS file. which supports malicious behavior detection, privacy leaking detection, vulnerability detection, path solving, packer identification, variable tracking, deobfuscation, python&java scripts, device memory extraction, dat</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/dpnishant/appmon">dpnishant/appmon</a></td>
         <td>AppMon is an automated framework for monitoring and tampering system API calls of native macOS, iOS and android apps. It is based on Frida.</td>
     </tr>
