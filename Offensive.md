@@ -796,6 +796,10 @@ Some tools can be categorized in more than one category. But because the current
         </td>
     </tr>
     <tr>
+        <td><a href="https://github.com/deepinstinct/LsassSilentProcessExit">deepinstinct/LsassSilentProcessExit</a></td>
+        <td>Command line interface to dump LSASS memory to disk via SilentProcessExit</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/eladshamir/Internal-Monologue">eladshamir/Internal-Monologue</a></td>
         <td>Internal Monologue Attack: Retrieving NTLM Hashes without Touching LSASS</td>
     </tr>
