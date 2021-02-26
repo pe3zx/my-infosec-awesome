@@ -2652,6 +2652,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>An intentionally vulnerable NGINX setup</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/dolevf/Damn-Vulnerable-GraphQL-Application">dolevf/Damn-Vulnerable-GraphQL-Application</a></td>
+        <td>Damn Vulnerable GraphQL Application is an intentionally vulnerable implementation of Facebook's GraphQL technology, to learn and practice GraphQL Security.</td>
+    </tr>
+    <tr>
         <td><a href="https://tuts4you.com/download.php?list.17">Lenas Reversing for Newbies</a></td>
         <td>Nice collection of tutorials aimed particularly for newbie reverse enginners...</td>
     </tr>
