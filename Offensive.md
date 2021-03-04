@@ -1020,6 +1020,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>SHAD0W is a modular C2 framework designed to successfully operate on mature environments.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/blackbotinc/Atomic-Red-Team-Intelligence-C2">blackbotinc/Atomic-Red-Team-Intelligence-C2</a></td>
+        <td>ARTi-C2 is a post-exploitation framework used to execute Atomic Red Team test cases with rapid payload deployment and execution capabilities via .NET's DLR.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/byt3bl33d3r/SILENTTRINITY">byt3bl33d3r/SILENTTRINITY</a></td>
         <td>An asynchronous, collaborative post-exploitation agent powered by Python and .NET's DLR</td>
     </tr>
