@@ -2364,6 +2364,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Data leak checker & OSINT Tool</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/medialab/minet">medialab/minet</a></td>
+        <td>A webmining CLI tool & library for python.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/megadose/holehe">megadose/holehe</a></td>
         <td>holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.</td>
     </tr>
