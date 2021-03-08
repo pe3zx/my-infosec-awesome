@@ -243,6 +243,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Yet another shellcode runner consists of different techniques for evaluating detection capabilities of
             endpoint security solutions</td>
     </tr>
+    <tr>
+        <td><a href="https://github.com/snovvcrash/peas">snovvcrash/peas</a></td>
+        <td>Modified version of PEAS client for offensive operations</td>
+    </tr>
 </table>
 
 ### Manipulating Binary's Internal
