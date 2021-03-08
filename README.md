@@ -383,6 +383,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>SubFinder is a subdomain discovery tool that discovers valid subdomains for websites. Designed as a passive framework to be useful for bug bounties and safe for penetration testing.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/vchinnipilli/kubestriker">vchinnipilli/kubestriker</a></td>
+        <td>A Blazing fast Security Auditing tool for Kubernetes</td>
+    </tr>
+    <tr>
         <td><a href="https//github.com/visma-prodsec/confused">visma-prodsec/confused</a></td>
         <td>Tool to check for dependency confusion vulnerabilities in multiple package management systems</td>
     </tr>
