@@ -88,6 +88,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Load C# Code from a Webserver straight to memory and execute it there.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/sophoslabs/metasploit_gather_exchange">sophoslabs/metasploit_gather_exchange</a></td>
+        <td>Metasploit Post-Exploitation Gather module for Exchange Server</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/stufus/reconerator">stufus/reconerator</a></td>
         <td>C# Targeted Attack Reconnissance Tools</td>
     </tr>
