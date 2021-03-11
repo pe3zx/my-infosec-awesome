@@ -2559,6 +2559,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Gophish is an open-source phishing toolkit designed for businesses and penetration testers. It provides the ability to quickly and easily setup and execute phishing engagements and security awareness training</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/htr-tech/zphisher">htr-tech/zphisher</a></td>
+        <td>An automated phishing tool with 30+ templates.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/kgretzky/evilginx2">kgretzky/evilginx2</a></td>
         <td>Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication</td>
     </tr>
