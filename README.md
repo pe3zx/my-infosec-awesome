@@ -2050,6 +2050,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Comprehensive security and attack framework for Android</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/dwisiswant0/apkleaks">dwisiswant0/apkleaks</a></td>
+        <td>Scanning APK file for URIs, endpoints & secrets.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/frida/frida">frida/frida</a></td>
         <td>Dynamic instrumentation toolkit for developers, reverse-engineers, and security researchers.</td>
     </tr>
