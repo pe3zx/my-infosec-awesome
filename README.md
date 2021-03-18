@@ -399,6 +399,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Burp Bounty (Scan Check Builder in BApp Store) is a extension of Burp Suite that allows you, in a quick and simple way, to improve the active and passive scanner by means of personalized rules through a very intuitive graphical interface.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/wagoodman/dive">wagoodman/dive</a></td>
+        <td>A tool for exploring each layer in a docker image</td>
+    </tr>
+    <tr>
         <td><a href="https://docs.wpdc.org/">wpdc</a></td>
         <td>Detect malicious dependencies, magecart, malvertising, and more on your web properties!</td>
     </tr>
