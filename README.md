@@ -355,6 +355,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Deserialization payload generator for a variety of .NET formatters</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/redphx/localify">redphx/localify</a></td>
+        <td>Effectively debug minified JS files</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/RedTeamPentesting/monsoon">RedTeamPentesting/monsoon</a></td>
         <td>Fast HTTP enumerator</td>
     </tr>
