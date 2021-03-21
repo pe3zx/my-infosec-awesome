@@ -2696,6 +2696,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>SecGen creates vulnerable virtual machines so students can learn security penetration testing techniques.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/CodeShield-Security/Serverless-Goat-Java">CodeShield-Security/Serverless-Goat-Java</a></td>
+        <td>Java version of the deliberately vulnerable serverless application Serverless-Goat from https://github.com/OWASP/Serverless-Goat</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/detectify/vulnerable-nginx">detectify/vulnerable-nginx</a></td>
         <td>An intentionally vulnerable NGINX setup</td>
     </tr>
