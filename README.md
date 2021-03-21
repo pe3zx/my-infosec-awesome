@@ -1049,6 +1049,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Restructured and Collaborated SIEM and CVSS Infrastructure. Presented at Blackhat Asia Arsenal 2020.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/cisagov/CHIRP">cisagov/CHIRP</a></td>
+        <td>A forensic collection tool written in Python.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/coinbase/dexter">coinbase/dexter</a></td>
         <td>Forensics acquisition framework designed to be extensible and secure</td>
     </tr>
