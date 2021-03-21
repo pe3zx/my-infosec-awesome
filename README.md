@@ -2404,6 +2404,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Data leak checker & OSINT Tool</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/Malfrats/xeuledoc">Malfrats/xeuledoc</a></td>
+        <td>Fetch information about a public Google document.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/medialab/minet">medialab/minet</a></td>
         <td>A webmining CLI tool & library for python.</td>
     </tr>
