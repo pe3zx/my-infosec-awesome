@@ -1305,6 +1305,10 @@ This repository is created as an online bookmark for useful links, resources and
 		<td>An open source framework for enterprise level automated analysis.</td>
 	</tr>
     <tr>
+        <td><a href="https://github.com/PwC-IR/Office-365-Extractor">PwC-IR/Office-365-Extractor</a></td>
+        <td>The Office 365 Extractor is a tool that allows for complete and reliable extraction of the Unified Audit Log (UAL)</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/refractionPOINT/limacharlie">refractionPOINT/limacharlie</a></td>
         <td>LC is an Open Source, cross-platform (Windows, MacOS, Linux ++), realtime Endpoint Detection and Response sensor. The extra-light sensor, once installed on a system provides Flight Data Recorder type information (telemetry on all aspects of the system like processes, DNS, network IO, file IO etc).</td>
     </tr>
