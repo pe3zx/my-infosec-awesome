@@ -2340,6 +2340,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Database Lookup of 1.4 Billion Password Breach Compilation</td>
     </tr>
     <tr>
+        <td><a href="https://grep.app/">grep.app</a></td>
+        <td>Search across a half million git repos</td>
+    </tr>
+    <tr>
         <td><a href="https://viz.greynoise.io/">GreyNoise Visualizer</a></td>
         <td>GreyNoise Visualizer</td>
     </tr>
