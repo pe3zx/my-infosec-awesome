@@ -733,6 +733,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>A collection of AWS penetration testing junk</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/darkbitio/aws-recon">darkbitio/aws-recon</a></td>
+        <td>Multi-threaded AWS inventory collection tool with a focus on security-relevant resources and metadata.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/disruptops/cred_scanner">disruptops/cred_scanner</a></td>
         <td>A simple file-based scaner to look for potential AWS accesses and secret keys in files</td>
     </tr>
