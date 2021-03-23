@@ -864,8 +864,12 @@ Some tools can be categorized in more than one category. But because the current
         <td>Duplicating handles to dump LSASS since 2021</td>
     </tr>
     <tr>
-        <td><a href="https://github.com/Kevin-Robertson/Inveigh">Kevin-Robertson/Inveigh</td>
+        <td><a href="https://github.com/Kevin-Robertson/Inveigh">Kevin-Robertson/Inveigh</a></td>
         <td>Windows PowerShell ADIDNS/LLMNR/mDNS/NBNS spoofer/man-in-the-middle tool</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/knavesec/CredMaster">knavesec/CredMaster</a></td>
+        <td>Refactored & improved CredKing password spraying tool, uses FireProx APIs to rotate IP addresses, stay anonymous, and beat throttling</td>
     </tr>
     <tr>
         <td><a href="https://github.com/m0rv4i/SafetyDump">m0rv4i/SafetyDump</a></td>
