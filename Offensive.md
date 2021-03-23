@@ -1070,6 +1070,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Open source pre-operation C2 server based on python and powershell</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/NetSPI/SQLC2">NetSPI/SQLC2</a></td>
+        <td>SQLC2 is a PowerShell script for deploying and managing a command and control system that uses SQL Server as both the control server and the agent.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/nettitude/SharpSocks">nettitude/SharpSocks</a></td>
         <td>Tunnellable HTTP/HTTPS socks4a proxy written in C# and deployable via PowerShell</td>
     </tr>
