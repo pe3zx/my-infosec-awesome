@@ -108,6 +108,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Powershell Based tool for gathering information related to O365 intrusions and potential Breaches</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/tasox/LogRM">tasox/LogRM</a></td>
+        <td>LogRM is a post exploitation powershell script which it uses windows event logs to gather information about internal network</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/tevora-threat/SharpView">tevora-threat/SharpView</a></td>
         <td>C# implementation of harmj0y's PowerView</td>
     </tr>
