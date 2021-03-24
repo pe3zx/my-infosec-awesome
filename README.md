@@ -1129,10 +1129,6 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Extracting IoC data from eMail</td>
     </tr>
     <tr>
-        <td><a href="https://github.com/DFIRKuiper/Kuiper">DFIRKuiper/Kuiper</a></td>
-        <td>Kuiper is a digital investigation platform that provides a capabilities for the investigation team and individuals to parse, search, visualize collected evidences (evidences could be collected by fast traige script like Hoarder).</td>
-    </tr>
-    <tr>
         <td><a href="https://github.com/fireeye/ARDvark">fireeye/ARDvark</a></td>
         <td>ARDvark parses the Apple Remote Desktop (ARD) files to pull out application usage, user activity, and filesystem listings.</td>
     </tr>
