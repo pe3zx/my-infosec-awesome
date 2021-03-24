@@ -375,6 +375,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>PS1 to EXE Generator: Create an EXE for your PS1 scripts</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/erikgeiser/govenom">erikgeiser/govenom</a></td>
+        <td>govenom is a msfvenom-inspired cross-platform payload generator toolkit written in Go</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/forrest-orr/artifacts-kit">forrest-orr/artifacts-kit</a></td>
         <td>Pseudo-malicious usermode memory artifact generator kit designed to easily mimic the footprints left by real malware on an infected Windows OS.</td>
     </tr>
