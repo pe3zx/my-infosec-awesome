@@ -221,6 +221,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Executes position independent shellcode from an encrypted zip</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/maxlandon/wiregost">maxlandon/wiregost</a></td>
+        <td>Golang Implant & Post-Exploitation Framework</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/mgeeky/Stracciatella">mgeeky/Stracciatella</a></td>
         <td>OpSec-safe Powershell runspace from within C# (aka SharpPick) with AMSI, Constrained Language Mode and
             Script Block Logging disabled at startup</td>
