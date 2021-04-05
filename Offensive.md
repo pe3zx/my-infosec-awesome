@@ -1004,6 +1004,10 @@ Some tools can be categorized in more than one category. But because the current
             termsrv.dll file.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/klezVirus/CheeseTools">klezVirus/CheeseTools</a></td>
+        <td>Self-developed tools for Lateral Movement/Code Execution</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/knavesec/Max">knavesec/Max</a></td>
         <td>Maximizing BloodHound. Max is a good boy.</td>
     </tr>
