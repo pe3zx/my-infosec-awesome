@@ -370,6 +370,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td><a href="https://github.com/RhinoSecurityLabs/SleuthQL">RhinoSecurityLabs/SleuthQL</a></td>
         <td>Python3 Burp History parsing tool to discover potential SQL injection points. To be used in tandem with SQLmap.</td>
     </tr>
+    <tr>
+        <td><a href="https://github.com/rpgeeganage/audit-node-modules-with-yara">rpgeeganage/audit-node-modules-with-yara</a></td>
+        <td>Audit Node Module folder with YARA rules to identify possible malicious packages hiding in node_moudles</td>
+    </tr>
      <tr>
         <td><a href="https://github.com/s0md3v/XSStrike">s0md3v/XSStrike</a></td>
         <td>Most advanced XSS detection suite</td>
