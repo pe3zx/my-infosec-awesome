@@ -608,6 +608,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Qiling Advanced Binary Emulation Framework</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/revng/pagebuster">revng/pagebuster</a></td>
+        <td>PageBuster - dump all executable pages of packed processes.</td>
+    </tr>
+    <tr>
         <td><a href="https://rizin.re/">rizin</a></td>
         <td>Free and Open Source Reverse Engineering Framework</td>
     </tr>
