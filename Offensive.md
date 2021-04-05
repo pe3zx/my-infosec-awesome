@@ -346,6 +346,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>GhostLoader - AppDomainManager - Injection - 攻壳机动队</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/timwhitez/Doge-sRDI">timwhitez/Doge-sRDI</a></td>
+        <td>Shellcode implementation of Reflective DLL Injection by Golang. Convert DLLs to position independent shellcode</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/r3nhat/XORedReflectiveDLL">r3nhat/XORedReflectiveDLL</a></td>
         <td>Reflective DLL Injection with obfuscated (XOR) shellcode</td>
     </tr>
