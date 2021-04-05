@@ -1041,6 +1041,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>PowerShell module for Office 365 and Azure AD log collection</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/aquasecurity/tracee">aquasecurity/tracee</a></td>
+        <td>Linux Runtime Security and Forensics using eBPF</td>
+    </tr>
+    <tr>
         <td><a href="https://arsenalrecon.com/downloads/">Arsenal Recon Free Tools</a></td>
         <td>Arsenal Recon Free Tools</td>
     </tr>
