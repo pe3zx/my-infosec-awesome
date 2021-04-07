@@ -793,6 +793,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Multi-cloud OSINT tool. Enumerate public resources in AWS, Azure, and Google Cloud.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/jonrau1/ElectricEye">jonrau1/ElectricEye</a></td>
+        <td>Continuously monitor your AWS services for configurations that can lead to degradation of confidentiality, integrity or availability. All results will be sent to Security Hub for further aggregation and analysis.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/jordanpotti/AWSBucketDump">jordanpotti/AWSBucketDump</a></td>
         <td>Security Tool to Look For Interesting Files in S3 Buckets</td>
     </tr>
