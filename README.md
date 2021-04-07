@@ -428,6 +428,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td><b>Description</b></td>
     </tr>
     <tr>
+        <td><a href="https://github.com/acsdavid97/DotNetHooker">acsdavid97/DotNetHooker</a></td>
+        <td>API tracing and argument dumping to ease reverse engineering .NET malware.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/avast-tl/retdec">avast-tl/retdec</a></td>
         <td>RetDec is a retargetable machine-code decompiler based on LLVM</td>
     </tr>
