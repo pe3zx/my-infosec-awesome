@@ -784,8 +784,12 @@ Some tools can be categorized in more than one category. But because the current
         <td>Simple AV Evasion for PE Files</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/zeroperil/HookDump">zeroperil/HookDump</a></td>
+        <td>Security product hook detection</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/zeroSteiner/crimson-forge">zeroSteiner/crimson-forge</a></td>
-        <td>Crimson Forge intends to provide sustainable evasion capabilities for native code on the x86 and AMD64 architectures. Crimson Forge intends to provide sustainable evasion capabilities for native code on the x86 and AMD64 architectures.</td>
+        <td>Crimson Forge intends to provide sustainable evasion capabilities for native code on the x86 and AMD64 architectures.</td>
     </tr>
 </table>
 
