@@ -254,6 +254,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Find secrets and passwords in container images and file systems</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/deepfence/ThreatMapper">deepfence/ThreatMapper</a></td>
+        <td>Identify vulnerabilities in running containers, images, hosts and repositories</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/doyensec/inql">doyensec/inql</a></td>
         <td>InQL - A Burp Extension for GraphQL Security Testing</td>
     </tr>
