@@ -1098,6 +1098,10 @@ Some tools can be categorized in more than one category. But because the current
             red teamers.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/cyberark/kubesploit">cyberark/kubesploit</a></td>
+        <td>Kubesploit is a cross-platform post-exploitation HTTP/2 Command & Control server and agent written in Golang, focused on containerized environments.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/DeimosC2/DeimosC2">DeimosC2/DeimosC2</a></td>
         <td>DeimosC2 is a Golang command and control framework for post-exploitation.</td>
     </tr>
