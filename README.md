@@ -1445,6 +1445,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Open Source Host and Endpoint Security</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/wagga40/Zircolite">wagga40/Zircolite</a></td>
+        <td>A standalone SIGMA-based detection tool for EVTX.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/williballenthin/EVTXtract">williballenthin/EVTXtract</a></td>
         <td>EVTXtract recovers and reconstructs fragments of EVTX log files from raw binary data, including unallocated space and memory images.</td>
     </tr>
