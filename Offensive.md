@@ -458,6 +458,10 @@ Some tools can be categorized in more than one category. But because the current
             techniques on Linux endpoints.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/redcode-labs/SNOWCRASH">redcode-labs/SNOWCRASH</a></td>
+        <td>A polyglot payload generator</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/sevagas/macro_pack">sevagas/macro_pack</a></td>
         <td>macro_pack is a tool used to automatize obfuscation and generation of MS Office documents for pentest, demo,
             and social engineering assessments. The goal of macro_pack is to simplify antimalware bypass and automatize
