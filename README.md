@@ -234,6 +234,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>A front-end JavaScript toolkit for creating DNS rebinding attacks.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/bridgecrewio/checkov">bridgecrewio/checkov</a></td>
+        <td>Prevent cloud misconfigurations during build-time for Terraform, Cloudformation, Kubernetes, Serverless framework and other infrastructure-as-code-languages with Checkov by Bridgecrew.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/brompwnie/botb">brompwnie/botb</a></td>
         <td>A container analysis and exploitation tool for pentesters and engineers.</td>
     </tr>
