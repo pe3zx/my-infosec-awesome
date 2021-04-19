@@ -2775,17 +2775,21 @@ This repository is created as an online bookmark for useful links, resources and
         <td><a href="https://github.com/dolevf/Damn-Vulnerable-GraphQL-Application">dolevf/Damn-Vulnerable-GraphQL-Application</a></td>
         <td>Damn Vulnerable GraphQL Application is an intentionally vulnerable implementation of Facebook's GraphQL technology, to learn and practice GraphQL Security.</td>
     </tr>
-    <tr>
-        <td><a href="https://tuts4you.com/download.php?list.17">Lenas Reversing for Newbies</a></td>
-        <td>Nice collection of tutorials aimed particularly for newbie reverse enginners...</td>
-    </tr>
-    <tr>
+   <tr>
         <td><a href="https//github.com/globocom/secDevLabs">globocom/secDevLabs</a></td>
         <td>A laboratory for learning secure web and mobile development in a practical manner.</td>
     </tr>
     <tr>
         <td><a href="https://github.com/google/google-ctf">google/google-ctf</a></td>
         <td>This repository lists most of the challenges used in the Google CTF 2017. The missing challenges are not ready to be open-sourced, or contain third-party code.</td>
+    </tr>
+    <tr>
+        <td><a href="https://tuts4you.com/download.php?list.17">Lenas Reversing for Newbies</a></td>
+        <td>Nice collection of tutorials aimed particularly for newbie reverse enginners...</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/InsiderPhD/Generic-University">InsiderPhD/Generic-University</a></td>
+        <td>Vulnerable API</td>
     </tr>
     <tr>
         <td><a href="https://github.com/nccgroup/sadcloud">nccgroup/sadcloud</a></td>
