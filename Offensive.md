@@ -784,6 +784,10 @@ Some tools can be categorized in more than one category. But because the current
             antivirus solutions.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/Tylous/Limelighter">Tylous/Limelighter</a></td>
+        <td>A tool for generating fake code signing certificates or signing real ones</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/xct/morbol">xct/morbol</a></td>
         <td>Simple AV Evasion for PE Files</td>
     </tr>
