@@ -457,6 +457,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>PowerShell payload generator</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/praetorian-inc/Matryoshka">praetorian-inc/Matryoshka</a></td>
+        <td>Matryoshka loader is a tool that red team operators can leverage to generate shellcode for Microsoft Office document phishing payloads.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/redcanaryco/chain-reactor">redcanaryco/chain-reactor</a></td>
         <td>Chain Reactor is an open source framework for composing executables that simulate adversary behaviors and
             techniques on Linux endpoints.</td>
