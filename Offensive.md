@@ -322,6 +322,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>AV/EDR evasion via direct system calls.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/magnusstubman/dll-exports">magnusstubman/dll-exports</a></td>
+        <td>Collection of DLL function export forwards for DLL export function proxying</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/mobdk/Sigma">mobdk/Sigma</a></td>
         <td>Execute shellcode with ZwCreateSection, ZwMapViewOfSection, ZwOpenProcess, ZwMapViewOfSection and
             ZwCreateThreadEx</td>
