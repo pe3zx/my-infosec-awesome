@@ -1008,6 +1008,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Google Dataset Search</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/FiveDirections/OpTC-data">FiveDirections/OpTC-data</a></td>
+        <td>Operationally Transparent Cyber (OpTC) Data</td>
+    </tr>
+    <tr>
         <td><a href="https://www.kaggle.com/ymirsky/network-attack-dataset-kitsune">Kitsune Network Attack Dataset</a></td>
         <td>Nine labeled attacks with extracted features and the original network capture</td>
     </tr>
