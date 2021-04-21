@@ -1605,6 +1605,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td><b>Description</b></td>
     </tr>
     <tr>
+        <td><a href="https://github.com/accidentalrebel/mbcscan">accidentalrebel/mbcscan</a></td>
+        <td>Scans a malware file and lists down the related MBC (Malware Behavior Catalog) details.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/activecm/rita">activecm/rita</a></td>
         <td> Real Intelligence Threat Analytics</td>
     </tr>
