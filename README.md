@@ -426,6 +426,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td><a href="https://docs.wpdc.org/">wpdc</a></td>
         <td>Detect malicious dependencies, magecart, malvertising, and more on your web properties!</td>
     </tr>
+    <tr>
+        <td><a href="https://github.com/xmendez/wfuzz">xmendez/wfuzz</a></td>
+        <td>Wfuzz has been created to facilitate the task in web applications assessments and it is based on a simple concept: it replaces any reference to the FUZZ keyword by the value of a given payload.</td>
+    </tr>
 	<tr>
 		<td><a href="https://github.com/Yelp/detect-secrets">Yelp/detect-secrets</a></td>
 		<td>An enterprise friendly way of detecting and preventing secrets in code.</td>
