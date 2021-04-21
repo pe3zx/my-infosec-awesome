@@ -945,6 +945,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>A post-exploitation powershell tool for extracting juicy info from memory.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/ricardojoserf/adfsbrute">ricardojoserf/adfsbrute</a></td>
+        <td>A script to test credentials against Active Directory Federation Services (ADFS), allowing password spraying or bruteforce attacks.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/ropnop/kerbrute">ropnop/kerbrute</a></td>
         <td>A tool to perform Kerberos pre-auth bruteforcing</td>
     </tr>
