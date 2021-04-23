@@ -791,6 +791,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>A PowerShell script anti-virus evasion tool</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/TheWover/CertStealer">TheWover/CertStealer</a></td>
+        <td>A .NET tool for exporting and importing certificates without touching disk.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/tokyoneon/chimera">tokyoneon/chimera</a></td>
         <td>Chimera is a (shiny and very hack-ish) PowerShell obfuscation script designed to bypass AMSI and commercial
             antivirus solutions.</td>
