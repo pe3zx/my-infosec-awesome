@@ -908,6 +908,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Extract credentials from lsass remotely</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/itm4n/PPLdump">itm4n/PPLdump</a></td>
+        <td>Dump the memory of a PPL with a userland exploit</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/jfmaes/SharpHandler">jfmaes/SharpHandler</a></td>
         <td>Duplicating handles to dump LSASS since 2021</td>
     </tr>
