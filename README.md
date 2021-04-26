@@ -2667,6 +2667,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>ReelPhish: A Real-Time Two-Factor Phishing Tool</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/GemGeorge/SniperPhish/">GemGeorge/SniperPhish/</a></td>
+        <td>SniperPhish - The Web-Email Spear Phishing Toolkit</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/gophish/gophish">gophish/gophish</a></td>
         <td>Gophish is an open-source phishing toolkit designed for businesses and penetration testers. It provides the ability to quickly and easily setup and execute phishing engagements and security awareness training</td>
     </tr>
