@@ -1228,15 +1228,7 @@ This repository is created as an online bookmark for useful links, resources and
         <td><a href="https://github.com/hunters-forge/OSSEM">hunters-forge/OSSEM</a></td>
         <td>Open Source Security Events Metadata (OSSEM)</td>
     </tr>
-    <tr>
-        <td><a href="https://securelist.com/happy-ir-in-the-new-year/83557/">Kaspersky IR's Artifacts Collector</a></td>
-        <td>Kaspersky IR's Artifacts Collector</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/Invoke-IR/ACE">Invoke-IR/ACE</a></td>
-        <td>The Automated Collection and Enrichment (ACE) platform is a suite of tools for threat hunters to collect data from many endpoints in a network and automatically enrich the data. The data is collected by running scripts on each computer without installing any software on the target. ACE supports collecting from Windows, macOS, and Linux hosts.</td>
-    </tr>
-    <tr>
+   <tr>
         <td><a href="https://github.com/jimtin/IRCoreForensicFramework">jimtin/IRCoreForensicFramework</a></td>
         <td>Powershell 7 (Powershell Core)/ C# cross platform forensic framework. Built by incident responders for incident responders.</td>
     </tr>
@@ -1256,9 +1248,21 @@ This repository is created as an online bookmark for useful links, resources and
         <td><a href="https://github.com/intezer/linux-explorer">intezer/linux-explorer</a></td>
         <td>Easy-to-use live forensics toolbox for Linux endpoints</td>
     </tr>
+   <tr>
+        <td><a href="https://github.com/Invoke-IR/ACE">Invoke-IR/ACE</a></td>
+        <td>The Automated Collection and Enrichment (ACE) platform is a suite of tools for threat hunters to collect data from many endpoints in a network and automatically enrich the data. The data is collected by running scripts on each computer without installing any software on the target. ACE supports collecting from Windows, macOS, and Linux hosts.</td>
+    </tr>
     <tr>
         <td><a href="https://github.com/Invoke-IR/PowerForensics">Invoke-IR/PowerForensics</a></td>
         <td>PowerForensics provides an all in one platform for live disk forensic analysis</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/ion-storm/sysmon-edr">ion-storm/sysmod-edr</a></td>
+        <td>Sysmon EDR Active Response</td>
+    </tr>
+    <tr>
+        <td><a href="https://securelist.com/happy-ir-in-the-new-year/83557/">Kaspersky IR's Artifacts Collector</a></td>
+        <td>Kaspersky IR's Artifacts Collector</td>
     </tr>
     <tr>
         <td><a href="https://www.brimorlabsblog.com/2019/04/live-response-collection-cedarpelta.html">Live Response Collection - Cedarpelta</a></td>
