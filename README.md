@@ -1579,6 +1579,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td><b>Description</b></td>
     </tr>
     <tr>
+        <td><a href="https://linuxreviews.org/Linux_Kernel_Runtime_Guard">Linux Kernel Runtime Guard</a></td>
+        <td>Linux Kernel Runtime Guard (LKRG) is a out-of-tree security module for the Linux kernel developed by Openwall. It does run-time integrity checks in order to stop known, and unknown, security vulnerabilities in the Linux kernel. It can log detected intrusion attempts or stop them by causing a kernel panic - resulting in a frozen machine or a reboot depending on how the kernel is configured.</td>
+    </tr>
+    <tr>
         <td><a href="https://public.cyber.mil/stigs/">Security Technical Implementation Guides (STIGs)</a></td>
         <td>The Security Technical Implementation Guides (STIGs) are the configuration standards for DOD IA and IA-enabled devices/systems.</td>
     </tr>
