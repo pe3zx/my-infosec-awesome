@@ -743,6 +743,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Trigen is a Python script which uses different combinations of Win32 function calls in generated VBA to execute shellcode.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/lawiet47/STFUEDR">lawiet47/STFUEDR</a></td>
+        <td>Silence EDRs by removing kernel callbacks</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/matterpreter/DefenderCheck">matterpreter/DefenderCheck</a></td>
         <td>Identifies the bytes that Microsoft Defender flags on.</td>
     </tr>
