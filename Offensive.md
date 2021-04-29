@@ -563,6 +563,10 @@ Some tools can be categorized in more than one category. But because the current
             Windows version since Windows 7.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/antonioCoco/RemotePotato0">antonioCoco/RemotePotato0</a></td>
+        <td>Just another "Won't Fix" Windows Privilege Escalation from User to Domain Admin.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/antonioCoco/RogueWinRM">antonioCoco/RogueWinRM</a></td>
         <td>Windows Local Privilege Escalation from Service Account to System</td>
     </tr>
