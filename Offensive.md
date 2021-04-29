@@ -120,6 +120,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>A collection of PowerShell modules designed for artifact gathering and reconnaisance of Windows-based
             endpoints.</td>
     </tr>
+    <tr>
+        <td><a href="https://github.com/ZeroPointSecurity/Domain-Enumeration-Tool">ZeroPointSecurity/Domain-Enumeration-Tool</a></td>
+        <td>Perform Windows domain enumeration via LDAP</td>
+    </tr>
 </table>
 
 ## Execution
