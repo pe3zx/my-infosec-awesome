@@ -973,6 +973,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>A tool to perform Kerberos pre-auth bruteforcing</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/sec-consult/aggrokatz">sec-consult/aggrokatz</a></td>
+        <td>Aggrokatz is an aggressor plugin extension for Cobalt Strike which enables pypykatz to interface with the beacons remotely and allows it to parse LSASS dump files and registry hive files to extract credentials and other secrets stored without downloading the file and without uploading any suspicious code to the beacon.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/shantanu561993/SharpLoginPrompt">shantanu561993/SharpLoginPrompt</a></td>
         <td>This Program creates a login prompt to gather username and password of the current user. This project allows red team to phish username and password of the current user without touching lsass and having adminitrator credentials on the system.</td>
     </tr>
