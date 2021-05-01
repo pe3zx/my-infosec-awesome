@@ -419,6 +419,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Macro-Enabled Excel File Generator (.xlsm) using the EPPlus Library.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/GetRektBoy724/MeterPwrShell">GetRektBoy724/MeterPwrShell</a></td>
+        <td>Automated Tool That Generate The Perfect Powershell Payload</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/gen0cide/gscript">gen0cide/gscript</a></td>
         <td>framework to rapidly implement custom droppers for all three major operating systems</td>
     </tr>
