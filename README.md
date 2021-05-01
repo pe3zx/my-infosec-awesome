@@ -909,6 +909,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Cloud Security Suite - One stop tool for auditing the security posture of AWS infrastructure.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/soteria-security/365Inspect">soteria-security/365Inspect</a></td>
+        <td>A PowerShell script that automates the security assessment of Microsoft Office 365 environments.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/spacesiren/spacesiren">spacesiren/spacesiren</a></td>
         <td>A honey token manager and alert system for AWS.</td>
     </tr>
