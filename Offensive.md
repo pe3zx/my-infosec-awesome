@@ -279,6 +279,10 @@ Some tools can be categorized in more than one category. But because the current
         <td><a href="https://github.com/snovvcrash/peas">snovvcrash/peas</a></td>
         <td>Modified version of PEAS client for offensive operations</td>
     </tr>
+    <tr>
+       <td><a href="https://github.com/xinbailu/DripLoader">xinbailu/DripLoader</a></td>
+       <td>Evasive shellcode loader for bypassing event-based injection detection (PoC)</td>
+   </tr>
 </table>
 
 ### Manipulating Binary's Internal
