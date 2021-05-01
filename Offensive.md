@@ -271,6 +271,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>CallBack-Techniques for Shellcode execution ported to Nim</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/scythe-io/memory-module-loader">scythe-io/memory-module-loader</a></td>
+        <td>An implementation of a Windows loader that can load dynamic-linked libraries (DLLs) directly from memory</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/sh4hin/GoPurple">sh4hin/GoPurple</a></td>
         <td>Yet another shellcode runner consists of different techniques for evaluating detection capabilities of
             endpoint security solutions</td>
