@@ -739,6 +739,10 @@ Some tools can be categorized in more than one category. But because the current
             compiled PE files into reflective payloads that can load and execute itself like a shellcode.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/FatRodzianko/SharpBypassUAC">FatRodzianko/SharpBypassUAC</a></td>
+        <td>C# tool for UAC bypasses</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/ffuf/pencode">ffuf/pencode</a></td>
         <td>Complex payload encoder</td>
     </tr>
