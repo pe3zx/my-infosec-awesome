@@ -96,6 +96,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Discover Printers</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/s0lst1c3/SharpFinder">s0lst1c3/SharpFinder</a></td>
+        <td>Description: Searches for files matching specific criteria on readable shares within the domain.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/S3cur3Th1sSh1t/Invoke-Sharpcradle">S3cur3Th1sSh1t/Invoke-Sharpcradle</a></td>
         <td>Load C# Code from a Webserver straight to memory and execute it there.</td>
     </tr>
