@@ -956,6 +956,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Yet another LSASS dumper</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/G0ldenGunSec/SharpSecDump">G0ldenGunSec/SharpSecDump</a></td>
+        <td>.Net port of the remote SAM + LSA Secrets dumping functionality of impacket's secretsdump.py</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/Hackndo/lsassy">Hackndo/lsassy</a></td>
         <td>Extract credentials from lsass remotely</td>
     </tr>
