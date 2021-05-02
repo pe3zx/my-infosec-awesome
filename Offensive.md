@@ -121,6 +121,10 @@ Some tools can be categorized in more than one category. But because the current
             endpoints.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/tomcarver16/ADSearch">tomcarver16/ADSearch</a></td>
+        <td>A tool to help query AD via the LDAP protocol</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/ZeroPointSecurity/Domain-Enumeration-Tool">ZeroPointSecurity/Domain-Enumeration-Tool</a></td>
         <td>Perform Windows domain enumeration via LDAP</td>
     </tr>
