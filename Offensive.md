@@ -170,6 +170,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>GhostBuild is a collection of simple MSBuild launchers for various GhostPack/.NET projects</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/bytecode77/self-morphing-csharp-binary">bytecode77/self-morphing-csharp-binary</a></td>
+        <td>Executable that mutates its own code</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/cdong1012/Crab-Runner">cdong1012/Crab-Runner</a></td>
         <td>Shellcode runner in Rust</td>
     </tr>
