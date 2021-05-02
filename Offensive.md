@@ -1017,6 +1017,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>PowerShell Script to Dump Windows Credentials from the Credential Manager</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/Pickfordmatt/SharpLocker">Pickfordmatt/SharpLocker</a></td>
+        <td>SharpLocker helps get current user credentials by popping a fake Windows lock screen, all output is sent to Console which works perfect for Cobalt Strike.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/PorLaCola25/TransactedSharpMiniDump">PorLaCola25/TransactedSharpMiniDump</a></td>
         <td>Implementation of b4rtiks's SharpMiniDump using NTFS transactions to avoid writting the minidump to disk and exfiltrating it via HTTPS using sockets.</td>
     </tr>
