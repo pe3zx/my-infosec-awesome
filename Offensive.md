@@ -174,6 +174,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Inject C# code into a running process</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/checkymander/Sharp-SMBExec">checkymander/Sharp-SMBExec</a></td>
+        <td>SMBExec C# module</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/checkymander/Zolom">checkymander/Zolom</a></td>
         <td>C# Executable with embedded Python that can be used reflectively to run python code on systems without
             Python installed</td>
