@@ -1013,6 +1013,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>A tool to perform Kerberos pre-auth bruteforcing</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/rvrsh3ll/SharpSMBSpray">rvrsh3ll/SharpSMBSpray</a></td>
+        <td>Spray a hash via smb to check for local administrator access</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/sec-consult/aggrokatz">sec-consult/aggrokatz</a></td>
         <td>Aggrokatz is an aggressor plugin extension for Cobalt Strike which enables pypykatz to interface with the beacons remotely and allows it to parse LSASS dump files and registry hive files to extract credentials and other secrets stored without downloading the file and without uploading any suspicious code to the beacon.</td>
     </tr>
