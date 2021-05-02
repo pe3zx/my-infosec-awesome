@@ -55,6 +55,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Iterative AD discovery toolkit for offensive operations</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/fashionproof/CheckSafeBoot">fashionproof/CheckSafeBoot</a></td>
+        <td>I used this to see if an EDR is running in Safe Mode</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/GhostPack/Seatbelt">GhostPack/Seatbelt</a></td>
         <td>Seatbelt is a C# project that performs a number of security oriented host-survey "safety checks" relevant
             from both offensive and defensive security perspectives.</td>
