@@ -489,6 +489,10 @@ Some tools can be categorized in more than one category. But because the current
             code.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/med0x2e/GadgetToJScript">med0x2e/GadgetToJScript</a></td>
+        <td>A tool for generating .NET serialized gadgets that can trigger .NET assembly load/execution when deserialized using BinaryFormatter from JS/VBS/VBA based scripts.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/michaelweber/Macrome">michaelweber/Macrome</a></td>
         <td>Excel Macro Document Reader/Writer for Red Teamers & Analysts</td>
     </tr>
