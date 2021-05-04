@@ -434,6 +434,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Python3 script to generate a macro to launch a Mythic payload. Author: Cedric Owens</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/cytopia/kusanagi">cytopia/kusanagi</a></td>
+        <td>Kusanagi is a bind and reverse shell payload generator with obfuscation and badchar support.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/damienvanrobaeys/PS1-To-EXE-Generator">damienvanrobaeys/PS1-To-EXE-Generator</a>
         </td>
         <td>PS1 to EXE Generator: Create an EXE for your PS1 scripts</td>
