@@ -1258,6 +1258,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>This tool can forward TCP traffic over DNS protocol. Non-compile clients + socks5 support.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/gl4ssesbo1/Nebula">gl4ssesbo1/Nebula</a></td>
+        <td>Cloud C2 Framework, which at the moment offers reconnaissance, enumeration, exploitation, post exploitation on AWS, but still working to allow testing other Cloud Providers and DevOps Components.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/kgretzky/pwndrop">kgretzky/pwndrop</a></td>
         <td>Self-deployable file hosting service for red teamers, allowing to easily upload and share payloads over HTTP and WebDAV.</td>
     </tr>
