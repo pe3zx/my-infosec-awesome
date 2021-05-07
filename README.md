@@ -391,6 +391,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Most advanced XSS detection suite</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/salesforce/DazedAndConfused">salesforce/DazedAndConfused</a></td>
+        <td>DazedAndConfused is a tool to help determine dependency confusion exposure.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/Screetsec/Sudomy">Screetsec/Sudomy</a></td>
         <td>Sudomy is a subdomain enumeration tool to collect subdomains and analyzing domains performing automated reconnaissance (recon) for bug hunting / pentesting</td>
     </tr>
