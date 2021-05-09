@@ -2739,6 +2739,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Phishing Tool for 18 social media: Instagram, Facebook, Snapchat, Github, Twitter, Yahoo, Protonmail, Spotify, Netflix, Linkedin, Wordpress, Origin, Steam, Microsoft, InstaFollowers, Gitlab, Pinterest</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/threatexpress/domainhunter">threatexpress/domainhunter</a></td>
+        <td>Checks expired domains for categorization/reputation and Archive.org history to determine good candidates for phishing and C2 domain names</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/UndeadSec/EvilURL">Undeadsec/EvilURL</a></td>
         <td>An unicode domain phishing generator for IDN Homograph Attack</td>
     </tr>
