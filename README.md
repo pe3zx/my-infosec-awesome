@@ -2227,6 +2227,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>An analytical framework for network traffic and behavioral analytics</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/Ben0xA/HoneyCreds">Ben0xA/HoneyCreds</a></td>
+        <td>HoneyCreds network credential injection to detect responder and other network poisoners.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/certego/PcapMonkey">certego/PcapMonkey</a></td>
         <td>PcapMonkey will provide an easy way to analyze pcap using the latest version of Suricata and Zeek.</td>
     </tr>
