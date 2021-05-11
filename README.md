@@ -2800,6 +2800,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>OWASP Juice Shop is an intentionally insecure webapp for security trainings written entirely in Javascript which encompasses the entire OWASP Top Ten and other severe security flaws.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/brant-ruan/metarget">brant-ruan/metarget</a></td>
+        <td>Framework providing automatic constructions of vulnerable infrastructures</td>
+    </tr>
+    <tr>
 		<td><a href="https://github.com/bridgecrewio/terragoat">bridgecrewio/terragoat</a></td>
 		<td>TerraGoat is Bridgecrew's "Vulnerable by Design" Terraform repository. TerraGoat is a learning and training project that demonstrates how common configuration errors can find their way into production cloud environments.</td>
 	</tr>
