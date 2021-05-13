@@ -100,6 +100,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td><a href="https://github.com/jymcheong/AutoTTP">jymchoeng/AutoTTP</a></td>
         <td>Automated Tactics Techniques & Procedures</td>
     </tr>
+    <tr>
+        <td><a href="https://github.com/lawrenceamer/0xsp-Mongoose">lawrenceamer/0xsp-Mongoose</a></td>
+        <td>a unique framework for cybersecurity simulation and red teaming operations, windows auditing for newer vulnerabilities, misconfigurations and privilege escalations attacks, replicate the tactics and techniques of an advanced adversary in a network.</td>
+    </tr>
      <tr>
         <td><a href="https://github.com/mdsecactivebreach/CACTUSTORCH">mdsecactivebreach/CACTUSTORCH</a></td>
         <td>CACTUSTORCH: Payload Generation for Adversary Simulations</td>
