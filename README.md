@@ -709,6 +709,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Bootstraps an AWS account with everything you need to generate, mangage, and distribute and alert on AWS honey tokens. Made with breakfast roti by the Atlassian security team.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/aws-cloudformation/cloudformation-guard">aws-cloudformation/cloudformation-guard</a></td>
+        <td>Guard offers a policy-as-code domain-specific language (DSL) to write rules and validate JSON- and YAML-formatted data such as CloudFormation Templates, K8s configurations, and Terraform JSON plans/configurations against those rules.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/awslabs/aws-security-benchmark">awslabs/aws-security-benchmark</a></td>
         <td>Open source demos, concept and guidance related to the AWS CIS Foundation framework.</td>
     </tr>
