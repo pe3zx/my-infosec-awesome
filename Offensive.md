@@ -217,6 +217,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Automated build for process hollowing shellcode loader. Build on top of TikiTorch and donut projects.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/EddieIvan01/memexec">EddieIvan01/memexec</a></td>
+        <td>A library for loading and executing PE (Portable Executable) from memory without ever touching the disk</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/Flangvik/SharpCollection">Flangvik/SharpCollection</a></td>
         <td>Nightly builds of common C# offensive tools, fresh from their respective master branches built and released
             in a CDI fashion using Azure DevOps release pipelines.</td>
