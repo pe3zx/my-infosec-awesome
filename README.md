@@ -230,6 +230,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Hunt for security weaknesses in Kubernetes clusters</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/aquasecurity/trivy">aquasecurity/trivy</a></td>
+        <td>A Simple and Comprehensive Vulnerability Scanner for Container Images, Git Repositories and Filesystems. Suitable for CI</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/BishopFox/h2csmuggler">BishopFox/h2csmuggler</a></td>
         <td>HTTP Request Smuggling over HTTP/2 Cleartext (h2c)</td>
     </tr>
