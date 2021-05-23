@@ -943,6 +943,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Create a minidump of the LSASS process from memory</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/Barbarisch/forkatz">Barbarisch/forkatz</a></td>
+        <td>credential dump using foreshaw technique using SeTrustedCredmanAccessPrivilege</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/blacklanternsecurity/TREVORspray">blacklanternsecurity/TREVORspray</a></td>
         <td>A featureful round-robin SOCKS proxy and Python O365 sprayer based on MSOLSpray which uses the Microsoft Graph API</td>
     </tr>
