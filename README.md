@@ -2884,6 +2884,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>A repository for learning various heap exploitation techniques.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/Azure/SimuLand">Azure/SimuLand</a></td>
+        <td>Understand adversary tradecraft and improve detection strategies</td>
+    </tr>
+    <tr>
         <td><a href="https://www.notsosecure.com/vulnerable-docker-vm/">Vulnerable Docker VM</a></td>
         <td>Ever fantasized about playing with docker misconfigurations, privilege escalation, etc. within a container?</td>
     </tr>
