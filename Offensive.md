@@ -534,6 +534,10 @@ Some tools can be categorized in more than one category. But because the current
             techniques on Linux endpoints.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/redcode-labs/GoSH">redcode-labs/GoSH</a></td>
+        <td>Golang reverse/bind shell generator</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/redcode-labs/SNOWCRASH">redcode-labs/SNOWCRASH</a></td>
         <td>A polyglot payload generator</td>
     </tr>
