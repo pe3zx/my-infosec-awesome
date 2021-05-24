@@ -274,6 +274,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Identify vulnerabilities in running containers, images, hosts and repositories</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/DefectDojo/django-DefectDojo">DefectDojo/django-DefectDojo</a></td>
+        <td>DefectDojo is an open-source application vulnerability correlation and security orchestration tool.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/doyensec/inql">doyensec/inql</a></td>
         <td>InQL - A Burp Extension for GraphQL Security Testing</td>
     </tr>
