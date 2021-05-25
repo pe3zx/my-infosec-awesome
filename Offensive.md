@@ -1097,6 +1097,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Spray a hash via smb to check for local administrator access</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/S3cur3Th1sSh1t/RDPThiefInject">S3cur3Th1sSh1t/RDPThiefInject</a></td>
+        <td>RDPThief donut shellcode inject into mstsc</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/sec-consult/aggrokatz">sec-consult/aggrokatz</a></td>
         <td>Aggrokatz is an aggressor plugin extension for Cobalt Strike which enables pypykatz to interface with the beacons remotely and allows it to parse LSASS dump files and registry hive files to extract credentials and other secrets stored without downloading the file and without uploading any suspicious code to the beacon.</td>
     </tr>
