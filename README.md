@@ -1776,11 +1776,7 @@ This repository is created as an online bookmark for useful links, resources and
         <td><a href="https://github.com/godaddy/procfilter">godaddy/procfilter</a></td>
         <td>A YARA-integrated process denial framework for Windows</td>
     </tr>
-    <tr>
-        <td><a href="https://github.com/fortinet/ips-bph-framework">ips-bph-framework</a></td>
-        <td>BLACKPHENIX is an open source malware analysis automation framework composed of services, scripts, plug-ins, and tools and is based on a Command-and-Control (C&C) architecture</td>
-    </tr>
-    <tr>
+   <tr>
         <td><a href="https://github.com/gen0cide/gscript">gen0cide/gscript</a></td>
         <td>Framework to rapidly implement custom droppers for all three major operating systems</td>
     </tr>
@@ -1833,6 +1829,10 @@ This repository is created as an online bookmark for useful links, resources and
 		<td>An extendable tool to extract and aggregate IOCs from threat feeds.</td>
 	</tr>
     <tr>
+        <td><a href="https://github.com/fortinet/ips-bph-framework">ips-bph-framework</a></td>
+        <td>BLACKPHENIX is an open source malware analysis automation framework composed of services, scripts, plug-ins, and tools and is based on a Command-and-Control (C&C) architecture</td>
+    </tr>
+    <tr>
         <td><a href="https://iris-h.malwageddon.com/">IRIS-H</a></td>
         <td>IRIS-H is an online digital forensics tool that performs automated static analysis of files stored in a directory-based or strictly structured formats.</td>
     </tr>
@@ -1847,6 +1847,10 @@ This repository is created as an online bookmark for useful links, resources and
     <tr>
         <td><a href="https://github.com/JohnLaTwC/PyPowerShellXray">JohnLaTwC/PyPowerShellXray</a></td>
         <td>Python script to decode common encoded PowerShell scripts</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/jstrosch/malware-samples">jstrosch/malware-samples</a></td>
+        <td>Malware samples, analysis exercises and other interesting resources.</td>
     </tr>
     <tr>
         <td><a href="https://github.com/KasperskyLab/klara">KasperskyLab/klara</a></td>
