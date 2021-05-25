@@ -1036,6 +1036,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Duplicating handles to dump LSASS since 2021</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/jfmaes/SharpRDPDump">jfmaes/SharpRDPDump</a></td>
+        <td>Create a minidump of TermService for clear text pw extraction</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/Kevin-Robertson/Inveigh">Kevin-Robertson/Inveigh</a></td>
         <td>Windows PowerShell ADIDNS/LLMNR/mDNS/NBNS spoofer/man-in-the-middle tool</td>
     </tr>
