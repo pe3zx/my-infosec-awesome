@@ -294,6 +294,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>The fastest and cross-platform subdomain enumerator, do not waste your time.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/fkie-cad/cwe_checker">fkie-cad/cwe_checker</a></td>
+        <td>cwe_checker finds vulnerable patterns in binary executables</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/google/atheris">google/atheris</a></td>
         <td>Atheris is a coverage-guided Python fuzzing engine. It supports fuzzing of Python code, but also native extensions written for CPython. Atheris is based off of libFuzzer. When fuzzing native code, Atheris can be used in combination with Address Sanitizer or Undefined Behavior Sanitizer to catch extra bugs.</td>
     </tr>
