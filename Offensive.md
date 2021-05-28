@@ -542,14 +542,18 @@ Some tools can be categorized in more than one category. But because the current
         <td>A polyglot payload generator</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/s0lst1c3/dropengine">s0lst1c3/dropengine</a></td>
+        <td>DropEngine provides a malleable framework for creating shellcode runners, allowing operators to choose from a selection of components and combine them to create highly sophisticated payloads within seconds.DropEngine provides a malleable framework for creating shellcode runners, allowing operators to choose from a selection of components and combine them to create highly sophisticated payloads within seconds.DropEngine provides a malleable framework for creating shellcode runners, allowing operators to choose from a selection of components and combine them to create highly sophisticated payloads within seconds.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/sevagas/macro_pack">sevagas/macro_pack</a></td>
         <td>macro_pack is a tool used to automatize obfuscation and generation of MS Office documents for pentest, demo,
             and social engineering assessments. The goal of macro_pack is to simplify antimalware bypass and automatize
             the process from vba generation to final Office document generation.</td>
     </tr>
     <tr>
-        <td><a href="https://github.com/s0lst1c3/dropengine">s0lst1c3/dropengine</a></td>
-        <td>DropEngine provides a malleable framework for creating shellcode runners, allowing operators to choose from a selection of components and combine them to create highly sophisticated payloads within seconds.DropEngine provides a malleable framework for creating shellcode runners, allowing operators to choose from a selection of components and combine them to create highly sophisticated payloads within seconds.DropEngine provides a malleable framework for creating shellcode runners, allowing operators to choose from a selection of components and combine them to create highly sophisticated payloads within seconds.</td>
+        <td><a href="https://github.com/STMSolutions/boobsnail">STMSolutions/boobsnail</a></td>
+        <td>BoobSnail allows generating Excel 4.0 XLM macro. Its purpose is to support the RedTeam and BlueTeam in XLM macro generation.</td>
     </tr>
     <tr>
         <td><a href="https://github.com/TheWover/donut">TheWover/donut</a></td>
