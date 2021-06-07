@@ -2868,6 +2868,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Vulnerable API</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/madhuakula/kubernetes-goat">madhuakula/kubernetes-goat</a></td>
+        <td>Kubernetes Goat is "Vulnerable by Design" Kubernetes Cluster. Designed to be an intentionally vulnerable cluster environment to learn and practice Kubernetes security.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/nccgroup/sadcloud">nccgroup/sadcloud</a></td>
         <td>A tool for standing up (and tearing down!) purposefully insecure cloud infrastructure</td>
     </tr>
