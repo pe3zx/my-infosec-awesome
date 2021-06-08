@@ -2105,6 +2105,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>VX Vault</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/W3ndige/aurora">W3ndige/aurora</a></td>
+        <td>Malware similarity platform with modularity in mind.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/zerofox-oss/phishpond">zerofox-oss/phishpond</a></td>
         <td>Because phishtank was taken.. explore phishing kits in a contained environment!</td>
     </tr>
