@@ -2767,6 +2767,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Phishing Campaign Toolkit</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/secureworks/PhishInSuits">secureworks/PhishInSuits</a></td>
+        <td>PhishInSuits: OAuth Device Code Phishing with Verified Apps</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/thelinuxchoice/blackeye">thelinuxchoice/blackeye</a></td>
         <td>The most complete Phishing Tool, with 32 templates +1 customizable</td>
     </tr>
