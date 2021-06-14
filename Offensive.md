@@ -600,6 +600,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>This leverages the NetUserAdd Win32 API to create a new computer account. This is done by setting the usri1_priv of the USER_INFO_1 type to 0x1000. The primary goal is to avoid the normal detection of new user created events (4720).</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/CyborgSecurity/PoisonApple">CyborgSecurity/PoisonApple</a></td>
+        <td>Command-line tool to perform various persistence mechanism techniques on macOS. This tool was designed to be used by threat hunters for cyber threat emulation purposes.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/djhohnstein/SharpSC">djhohnstein/SharpSC</a></td>
         <td>Simple .NET assembly to interact with services.</td>
     </tr>
