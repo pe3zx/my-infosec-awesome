@@ -983,6 +983,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>A password spraying tool for Microsoft Online accounts (Azure/O365). The script logs if a user cred is valid, if MFA is enabled on the account, if a tenant doesn't exist, if a user doesn't exist, if the account is locked, or if the account is disabled.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/danf42/GetLsaSecrets">danf42/GetLsaSecrets</a></td>
+        <td>C# implementation of Get-LSASecrets originally written in PowerShell</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/DanMcInerney/icebreaker">DanMcInerney/icebreaker</a></td>
         <td>Gets plaintext Active Directory credentials if you're on the internal network but outside the AD environment
         </td>
