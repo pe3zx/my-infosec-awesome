@@ -1121,6 +1121,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Office365 Log Analysis Framework: OLAF is a collection of tools, scripts, and analysis techniques dealing with O365 Investigations.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/BSI-Bund/RdpCacheStitcher">BSI-Bund/RdpCacheStitcher</a></td>
+        <td>RdpCacheStitcher is a tool that supports forensic analysts in reconstructing useful images out of RDP cache bitmaps.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/carmaa/inception">carmaa/inception</a></td>
         <td>Inception is a physical memory manipulation and hacking tool exploiting PCI-based DMA. The tool can attack over FireWire, Thunderbolt, ExpressCard, PC Card and any other PCI/PCIe interfaces.</td>
     </tr>
