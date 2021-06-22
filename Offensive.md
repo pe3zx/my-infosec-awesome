@@ -1125,6 +1125,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Implementation of b4rtiks's SharpMiniDump using NTFS transactions to avoid writting the minidump to disk and exfiltrating it via HTTPS using sockets.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/postrequest/safetydump">postrequest/safetydump</a></td>
+        <td>MiniDump a process in memory with rust</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/putterpanda/mimikittenz">putterpanda/mimikittenz</a></td>
         <td>A post-exploitation powershell tool for extracting juicy info from memory.</td>
     </tr>
