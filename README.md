@@ -1566,6 +1566,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>out-of-tree kernel {module, exploit} development tool</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/nomi-sec/PoC-in-GitHub">nomi-sec/PoC-in-GitHub</a></td>
+        <td>📡 PoC auto collect from GitHub. ⚠️ Be careful Malware.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/opencve/opencve">opencve/opencve</a></td>
         <td>CVE Alerting Platform</td>
     </tr>
