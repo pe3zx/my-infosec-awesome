@@ -1693,6 +1693,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>A tool for studying JavaScript malware</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/captainGeech42/ransomwatch">captainGeech42/ransomwatch</a></td>
+        <td>Ransomware leak site monitoring</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/CERT-Polska/drakvuf-sandbox">CERT-Polska/drakvuf-sandbox</a></td>
         <td>DRAKVUF Sandbox - automated hypervisor-level malware analysis system</td>
     </tr>
