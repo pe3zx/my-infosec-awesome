@@ -960,6 +960,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Simple AV Evasion for PE Files</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/Yaxser/Backstab">Yaxser/Backstab</a></td>
+        <td>A tool to kill antimalware protected processes</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/zeroperil/HookDump">zeroperil/HookDump</a></td>
         <td>Security product hook detection</td>
     </tr>
