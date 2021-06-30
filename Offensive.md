@@ -801,6 +801,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>An on-the-fly Powershell script obfuscator meant for red team engagements. Built out of necessity.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/cyberark/Evasor">cyberark/Evasor</a></td>
+        <td>A tool to be used in post exploitation phase for blue and red teams to bypass APPLICATIONCONTROL policies</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/d00rt/ebfuscator">d00rt/ebfuscator</a></td>
         <td>Ebfuscator: Abusing system errors for binary obfuscation</td>
     </tr>
