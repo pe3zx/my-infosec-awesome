@@ -1635,6 +1635,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>The Australian Signals Directorate (ASD) has developed prioritised mitigation strategies to help technical cyber security professionals in all organisations mitigate cyber security incidents. This guidance addresses targeted cyber intrusions, ransomware and external adversaries with destructive intent, malicious insiders, 'business email compromise' and industrial control systems.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/ukncsc/Device-Security-Guidance-Configuration-Packs">ukncsc/Device-Security-Guidance-Configuration-Packs</a></td>
+        <td>This repository contains policy packs which can be used by system management software to configure device platforms (such as Windows 10 and iOS) in accordance with NCSC device security guidance. These configurations are aimed primarily at government and other medium/large organisations.</td>
+    </tr>
+    <tr>
         <td><a href="https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-security-baselines">Windows Security Baseline</a></td>
         <td>A security baseline is a group of Microsoft-recommended configuration settings that explains their security impact. These settings are based on feedback from Microsoft security engineering teams, product groups, partners, and customers.</td>
     </tr>
