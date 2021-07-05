@@ -343,8 +343,12 @@ This repository is created as an online bookmark for useful links, resources and
         <td>DNS Rebinding Exploitation Framework</td>
     </tr>
     <tr>
-	<td><a href="https://github.com/nccgroup/whalescan">nccgroup/whalescan</a></td>
-	<td>Whalescan is a vulnerability scanner for Windows containers, which performs several benchmark checks, as well as checking for CVEs/vulnerable packages on the container</td>
+        <td><a href="https://github.com/nccgroup/singularity">nccgroup/singularity</a></td>
+        <td>A DNS rebinding attack framework</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/nccgroup/whalescan">nccgroup/whalescan</a></td>
+        <td>Whalescan is a vulnerability scanner for Windows containers, which performs several benchmark checks, as well as checking for CVEs/vulnerable packages on the container</td>
     </tr>
     <tr>
         <td><a href="https://github.com/NetSPI/AutoDirbuster">NetSPI/AutoDirbuster</a></td>
@@ -355,8 +359,8 @@ This repository is created as an online bookmark for useful links, resources and
         <td>PowerUpSQL: A PowerShell Toolkit for Attacking SQL Server</td>
     </tr>
     <tr>
-        <td><a href="https://github.com/nccgroup/singularity">nccgroup/singularity</a></td>
-        <td>A DNS rebinding attack framework</td>
+        <td><a href="https://github.com/NotSoSecure/SerializedPayloadGenerator">NotSoSecure/SerializedPayloadGenerator</a></td>
+        <td>It's Web Interface to generate payload using various deserialization exploitation framework</td>
     </tr>
     <tr>
         <td><a href="https://github.com/OJ/gobuster">OJ/gobuster</a></td>
