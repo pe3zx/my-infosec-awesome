@@ -476,6 +476,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Hypervisor based anti anti debug plugin for x64dbg</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/ajpc500/RelayRumbler">ajpc500/RelayRumbler</a></td>
+        <td>A proof-of-concept tool that attempts to retrieve the configuration from the memory dump of an F-Secure C3 Relay executable.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/avast-tl/retdec">avast-tl/retdec</a></td>
         <td>RetDec is a retargetable machine-code decompiler based on LLVM</td>
     </tr>
