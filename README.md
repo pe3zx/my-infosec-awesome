@@ -1361,6 +1361,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Utilities for Sysmon (Sysmon View and Sysmon Shell)</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/NVISOsecurity/evtx-hunter">NVISOsecurity/evtx-hunter</a></td>
+        <td>evtx-hunter helps to quickly spot interesting security-related activity in Windows Event Viewer (EVTX) files.</td>
+    </tr>
+    <tr>
         <td><a href="https://nxlog.co/">NXLog</a></td>
         <td>The modern open source log collector.</td>
     </tr>
