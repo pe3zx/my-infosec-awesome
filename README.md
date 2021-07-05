@@ -1377,6 +1377,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>ReWrite of AChoir in Go for Cross PlatformReWrite of AChoir in Go for Cross Platform</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/opencybersecurityalliance/kestrel-lang">opencybersecurityalliance/kestrel-lang</a></td>
+        <td>Kestrel Threat Hunting Language</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/OpenEx-Platform/openex">OpenEx-Platform/openex</a></td>
         <td>Open Crisis Exercises Planning Platform</td>
     </tr>
