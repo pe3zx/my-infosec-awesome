@@ -1201,6 +1201,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>CDIR (Cyber Defense Institute Incident Response) Collector - live collection tool based on oss tool/library</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/DamonMohammadbagher/ETWProcessMon2">DamonMohammadbagher/ETWProcessMon2</a></td>
+        <td>ETWProcessMon2 is for Monitoring Process/Thread/Memory/Imageloads/TCPIP via ETW + Detection for Remote-Thread-Injection etc.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/davehull/Kansa">davehull/Kansa</a></td>
         <td>A Powershell incident response framework</td>
     </tr>
