@@ -2827,6 +2827,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Generate similar-looking domains for phishing attacks. Check expired domains and their categorized domain status to evade proxy categorization. Whitelisted domains are perfect for your C2 servers.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/sebastian-mora/awsssome_phish">sebastian-mora/awsssome_phish</a></td>
+        <td>AWS SSO serverless phishing API.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/securestate/king-phisher/">securestate/king-phisher</a></td>
         <td>Phishing Campaign Toolkit</td>
     </tr>
