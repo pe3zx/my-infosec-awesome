@@ -700,6 +700,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>WSuspicious - A tool to abuse insecure WSUS connections for privilege escalationsWSuspicious - A tool to abuse insecure WSUS connections for privilege escalations</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/gtworek/Priv2Admin">gtworek/Priv2Admin</a></td>
+        <td>Exploitation paths allowing you to (mis)use the Windows Privileges to elevate your rights within the OS.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/hlldz/dazzleUP">hlldz/dazzleUP</a></td>
         <td>A tool that detects the privilege escalation vulnerabilities caused by misconfigurations and missing updates
             in the Windows operating systems.</td>
