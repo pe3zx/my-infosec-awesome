@@ -363,6 +363,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>It's Web Interface to generate payload using various deserialization exploitation framework</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/ossf/scorecard">ossf/scorecard</a></td>
+        <td>Security Scorecards - Security health metrics for Open Source</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/OJ/gobuster">OJ/gobuster</a></td>
         <td>Directory/File, DNS and VHost busting tool written in Go</td>
     </tr>
