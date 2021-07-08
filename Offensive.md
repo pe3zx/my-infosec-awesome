@@ -972,6 +972,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>A tool for generating fake code signing certificates or signing real ones</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/Unknow101/FuckThatPacker">Unknow101/FuckThatPacker</a></td>
+        <td>A simple python packer to easily bypass Windows Defender</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/xct/morbol">xct/morbol</a></td>
         <td>Simple AV Evasion for PE Files</td>
     </tr>
