@@ -1177,6 +1177,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>C# Implementation of Get-VaultCredential</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/rvrsh3ll/TokenTactics">rvrsh3ll/TokenTactics</a></td>
+        <td>Azure JWT Token Manipulation Toolset</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/rvrsh3ll/SharpSMBSpray">rvrsh3ll/SharpSMBSpray</a></td>
         <td>Spray a hash via smb to check for local administrator access</td>
     </tr>
