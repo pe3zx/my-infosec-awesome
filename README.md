@@ -1501,6 +1501,10 @@ This repository is created as an online bookmark for useful links, resources and
 		<td>Blockchain Transactions Investigation Tool</td>
 	</tr>
     <tr>
+        <td><a href="https://github.com/sumeshi/evtx2es">sumeshi/evtx2es</a></td>
+        <td>A library for fast import of Windows Eventlogs into Elasticsearch.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/swisscom/Invoke-Forensics">swisscom/Invoke-Forensics</a></td>
         <td>Invoke-Forensics provides PowerShell commands to simplify working with the forensic tools KAPE and RegRipper.</td>
     </tr>
