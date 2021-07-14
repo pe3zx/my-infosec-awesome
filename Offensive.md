@@ -242,6 +242,10 @@ Some tools can be categorized in more than one category. But because the current
             in a CDI fashion using Azure DevOps release pipelines.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/FortyNorthSecurity/CIMplant">FortyNorthSecurity/CIMplant</a></td>
+        <td>C# port of WMImplant which uses either CIM or WMI to query remote systems</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/FortyNorthSecurity/EDD">FortyNorthSecurity/EDD</a></td>
         <td>Enumerate Domain Data is designed to be similar to PowerView but in .NET. PowerView is essentially the ultimate domain enumeration tool, and we wanted a .NET implementation that we worked on ourselves. This tool was largely put together by viewing implementations of different functionality across a wide range of existing projects and combining them into EDD.</td>
     </tr>
