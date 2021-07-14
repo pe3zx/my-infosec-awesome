@@ -14,6 +14,7 @@ Some tools can be categorized in more than one category. But because the current
 1-to-many mapping, I will decide a tool's category based on its ultimate goal.
 
 - [Reconnaissance/Discovery](#reconnaissancediscovery)
+- [Initial Access](#initial-access)
 - [Execution](#execution)
     - [Manipulating Binary's Internal](#manipulating-binarys-internal)
     - [Payload Generation](#payload-generation)
@@ -147,6 +148,19 @@ Some tools can be categorized in more than one category. But because the current
     <tr>
         <td><a href="https://github.com/ZeroPointSecurity/Domain-Enumeration-Tool">ZeroPointSecurity/Domain-Enumeration-Tool</a></td>
         <td>Perform Windows domain enumeration via LDAP</td>
+    </tr>
+</table>
+
+## Initial Access
+
+<table>
+    <tr>
+        <td><b>Link</b></td>
+        <td><b>Description</b></td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/BeetleChunks/SpoolSploit">BeetleChunks/SpoolSploit</a></td>
+        <td>A collection of Windows print spooler exploits containerized with other utilities for practical exploitation.</td>
     </tr>
 </table>
 
