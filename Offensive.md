@@ -988,6 +988,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>A tool to kill antimalware protected processes</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/Yet-Zio/WusaBypassUAC">Yet-Zio/WusaBypassUAC</a></td>
+        <td>UAC bypass abusing WinSxS in "wusa.exe".</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/zeroperil/HookDump">zeroperil/HookDump</a></td>
         <td>Security product hook detection</td>
     </tr>
