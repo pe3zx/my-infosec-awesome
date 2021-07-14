@@ -80,6 +80,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>.NET 4.0 Share Hunting and ACL Mapping</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/Mr-Un1k0d3r/ADHuntTool">Mr-Un1k0d3r/ADHuntTool</a></td>
+        <td>official repo for the AdHuntTool (part of the old RedTeamCSharpScripts repo)</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/nccgroup/Carnivore">nccgroup/Carnivore</a></td>
         <td>Tool for assessing on-premises Microsoft servers authentication such as ADFS, Skype, Exchange, and RDWeb</td>
     </tr>
