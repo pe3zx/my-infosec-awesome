@@ -769,6 +769,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Project to check which Nt/Zw functions your local EDR is hooking</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/audibleblink/dummyDLL">audibleblink/dummyDLL</a></td>
+        <td>Utility for hunting UAC bypasses or COM/DLL hijacks that alerts on the exported function that was consumed.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/AzAgarampur/byeintegrity4-uac">AzAgarampur/byeintegrity4-uac</a></td>
         <td>Bypass UAC by abusing the Windows Defender Firewall Control Panel, environment variables, and shell protocol handlers</td>
     </tr>
