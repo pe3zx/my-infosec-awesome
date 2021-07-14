@@ -721,6 +721,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Weaponizing for Arbitrary Files/Directories Delete bugs to Get NT AUTHORITY\SYSTEM</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/S3cur3Th1sSh1t/SharpImpersonation">S3cur3Th1sSh1t/SharpImpersonation</a></td>
+        <td>A User Impersonation tool - via Token or Shellcode injection</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/slyd0g/PrimaryTokenTheft">slyd0g/PrimaryTokenTheft</a></td>
         <td>Steal a primary token and spawn cmd.exe using the stolen token</td>
     </tr>
