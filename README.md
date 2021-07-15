@@ -584,6 +584,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Fermion, an electron wrapper for Frida & Monaco.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/gaasedelen/tenet">gaasedelen/tenet</a></td>
+        <td>A Trace Explorer for Reverse Engineers</td>
+    </tr>
+    <tr>
         <td><a href="https://ghidra-sre.org/">GHIDRA</a></td>
         <td>A software reverse engineering (SRE) suite of tools developed by NSA's Research Directorate in support of the Cybersecurity mission</td>
     </tr>
