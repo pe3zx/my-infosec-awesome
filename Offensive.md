@@ -893,6 +893,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>VBA purge your Office documents with OfficePurge. VBA purging removes P-code from module streams within Office documents.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/GetRektBoy724/TripleS">GetRektBoy724/TripleS</a></td>
+        <td>Syscall Stub Stealer - Freshly steal Syscall stub straight from the disk</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/HackOvert/AntiDBG">HackOvert/AntiDBG</a></td>
         <td>A bunch of Windows anti-debugging tricks for x86 and x64.</td>
     </tr>
