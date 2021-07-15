@@ -616,6 +616,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Converts PE into a shellcode</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/HyperDbg/HyperDbg">HyperDbg/HyperDbg</a></td>
+        <td>The Source Code of HyperDbg Debugger 🐞</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/hzqst/unicorn_pe">hzqst/unicorn_pe</a></td>
         <td>Unicorn PE is an unicorn based instrumentation project designed to emulate code execution for windows PE files.</td>
     </tr>
