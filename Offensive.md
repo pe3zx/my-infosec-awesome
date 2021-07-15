@@ -329,6 +329,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Miscellaneous Tools</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/rek7/fireELF">rek7/fireELF</a></td>
+        <td>fireELF - Fileless Linux Malware Framework</td>
+    </tr>
+    <tr>
         <td><a href="https://gist.github.com/ropnop/fdd4e4ab537821eee5a1a751c044924f">ropnop/go-sharp-loader.go</a></td>
         <td>Example Go program with multiple .NET Binaries embedded</td>
     </tr>
