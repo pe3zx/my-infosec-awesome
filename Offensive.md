@@ -1408,6 +1408,10 @@ Some tools can be categorized in more than one category. But because the current
             red teamers.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/Cr4sh/MicroBackdoor">Cr4sh/MicroBackdoor</a></td>
+        <td>Small and convenient C2 tool for Windows targets</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/cyberark/kubesploit">cyberark/kubesploit</a></td>
         <td>Kubesploit is a cross-platform post-exploitation HTTP/2 Command & Control server and agent written in Golang, focused on containerized environments.</td>
     </tr>
