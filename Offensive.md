@@ -383,6 +383,10 @@ Some tools can be categorized in more than one category. But because the current
         <td><b>Description</b></td>
     </tr>
     <tr>
+        <td><a href="https://github.com/Accenture/CLRvoyance">Accenture/CLRvoyance</a></td>
+        <td>Managed assembly shellcode generation</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/ajpc500/NimlineWhispers">ajpc500/NimlineWhispers</a></td>
         <td>A very proof-of-concept port of InlineWhispers for using syscalls in Nim projects.</td>
     </tr>
