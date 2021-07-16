@@ -362,6 +362,10 @@ Some tools can be categorized in more than one category. But because the current
        <td>Evasive shellcode loader for bypassing event-based injection detection (PoC)</td>
    </tr>
     <tr>
+        <td><a href="https://github.com/xinbailu/DripLoader-Ops">xinbailu/DripLoader-Ops</a></td>
+        <td>a usable, cleaned-up version for script kiddies</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/xpn/NautilusProject">xpn/NautilusProject</a></td>
         <td>A collection of weird ways to execute unmanaged code in .NET</td>
     </tr>
