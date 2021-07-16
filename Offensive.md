@@ -361,10 +361,14 @@ Some tools can be categorized in more than one category. But because the current
        <td><a href="https://github.com/xinbailu/DripLoader">xinbailu/DripLoader</a></td>
        <td>Evasive shellcode loader for bypassing event-based injection detection (PoC)</td>
    </tr>
-        <tr>
-            <td><a href="https://github.com/zerosum0x0/rcmd">zerosum0x0/rcmd</a></td>
-            <td>Runs a command in another process</td>
-        </tr>
+    <tr>
+        <td><a href="https://github.com/xpn/NautilusProject">xpn/NautilusProject</a></td>
+        <td>A collection of weird ways to execute unmanaged code in .NET</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/zerosum0x0/rcmd">zerosum0x0/rcmd</a></td>
+        <td>Runs a command in another process</td>
+    </tr>
 </table>
 
 ### Manipulating Binary's Internal
