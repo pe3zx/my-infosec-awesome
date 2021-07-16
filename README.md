@@ -2656,6 +2656,10 @@ This repository is created as an online bookmark for useful links, resources and
 		<td>API, CLI & Web App for analyzing & finding a person's profile across 350+ social media websites (Detections are updated regularly)</td>
 	</tr>
     <tr>
+		<td><a href="https://hackertarget.com/recon-ng-tutorial/">Recon-NG</a></td>
+		<td>Recon-ng is a reconnaissance tool with an interface similar to Metasploit. Running recon-ng from the command line you enter a shell like environment where you can configure options, perform recon and output results to different report types.</td>
+	</tr>
+    <tr>
         <td><a href="https://github.com/s-rah/onionscan">s-rah/onionscan</a></td>
         <td>OnionScan is a free and open source tool for investigating the Dark Web.</td>
     </tr>
@@ -2684,11 +2688,11 @@ This repository is created as an online bookmark for useful links, resources and
         <td><a href="https://github.com/superhedgy/AttackSurfaceMapper">superhedgy/AttackSurfaceMapper</a></td>
         <td>AttackSurfaceMapper is a tool that aims to automate the reconnaissance process.</td>
     </tr>
-	<tr>
-		<td><a href="https://hackertarget.com/recon-ng-tutorial/">Recon-NG</a></td>
-		<td>Recon-ng is a reconnaissance tool with an interface similar to Metasploit. Running recon-ng from the command line you enter a shell like environment where you can configure options, perform recon and output results to different report types.</td>
-	</tr>
     <tr>
+        <td><a href="https://github.com/thewhiteh4t/nexfil">thewhiteh4t/nexfil</a></td>
+        <td>OSINT tool for finding profiles by username</td>
+    </tr>
+	<tr>
         <td><a href="https://github.com/vysecurity/LinkedInt">vysecurity/LinkedInt</a></td>
         <td>LinkedIn Recon Tool</td>
     </tr>
