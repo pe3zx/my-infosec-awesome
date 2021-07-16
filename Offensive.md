@@ -1550,7 +1550,7 @@ Some tools can be categorized in more than one category. But because the current
     </tr>
     <tr>
         <td><a href="https://github.com/veggiedefender/browsertunnel">veggiedefender/browsertunnel</a></td>
-        <td></td>
+        <td>Surreptitiously exfiltrate data from the browser over DNS</td>
     </tr>
     <tr>
         <td><a href="https://github.com/vp777/procrustes">vp777/procrustes</a></td>
