@@ -1390,6 +1390,10 @@ Some tools can be categorized in more than one category. But because the current
         <td><a href="https://github.com/djhohnstein/SharpChromium">djhohnstein/SharpChromium</a></td>
         <td>.NET 4.0 CLR Project to retrieve Chromium data, such as cookies, history and saved logins.</td>
     </tr>
+    <tr>
+        <td><a href="https://github.com/seastorm/PuttyRider">seastorm/PuttyRider</a></td>
+        <td>Hijack Putty sessions in order to sniff conversation and inject Linux commands.</td>
+    </tr>
 </table>
 
 ## Command & Control
