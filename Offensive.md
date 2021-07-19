@@ -457,6 +457,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Shellcode implementation of Reflective DLL Injection. Convert DLLs to position independent shellcode</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/Moriarty2016/NimRDI">Moriarty2016/NimRDI</a></td>
+        <td>RDI implementation in Nim</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/passthehashbrowns/DInvokeProcessHollowing">passthehashbrowns/DInvokeProcessHollowing</a></td>
         <td>This repository is an implementation of process hollowing shellcode injection using DInvoke from SharpSploit. DInvoke allows operators to use unmanaged code while avoiding suspicious imports or API hooking.</td>
     </tr>
