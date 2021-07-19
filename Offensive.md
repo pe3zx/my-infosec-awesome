@@ -1407,6 +1407,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Read Excel Spreadsheets (XLS/XLSX) using Cobalt Strike's Execute-Assembly</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/OG-Sadpanda/SharpSword">OG-Sadpanda/SharpSword</a></td>
+        <td>Read the contents of DOCX files using Cobalt Strike's Execute-Assembly</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/seastorm/PuttyRider">seastorm/PuttyRider</a></td>
         <td>Hijack Putty sessions in order to sniff conversation and inject Linux commands.</td>
     </tr>
