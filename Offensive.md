@@ -1332,6 +1332,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>SharpExec is an offensive security C# tool designed to aid with lateral movement.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/bigb0sss/Bankai">bigb0sss/Bankai</a></td>
+        <td>Another Go Shellcode Loader</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/bohops/WSMan-WinRM">bohops/WSMan-WinRM</a></td>
         <td>A collection of proof-of-concept source code and scripts for executing remote commands over WinRM using the
             WSMan.Automation COM object</td>
