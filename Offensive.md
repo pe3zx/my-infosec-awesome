@@ -796,6 +796,10 @@ Some tools can be categorized in more than one category. But because the current
         <td><b>Description</b></td>
     </tr>
     <tr>
+        <td><a href="https://github.com/0xZDH/redirect.rules">0xZDH/redirect.rules</a></td>
+        <td>Quick and dirty dynamic redirect.rules generator</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/89luca89/pakkero">89luca89/pakkero</a></td>
         <td>Pakkero is a binary packer written in Go made for fun and educational purpose. Its main goal is to take in
             input a program file (elf binary, script, even appimage) and compress it, protect it from tampering and
