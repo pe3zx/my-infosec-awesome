@@ -200,6 +200,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>GhostBuild is a collection of simple MSBuild launchers for various GhostPack/.NET projects</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/boku7/bof-spawnSuspendedProcess">boku7/bof-spawnSuspendedProcess</a></td>
+        <td>Cobalt Strike Beacon Object File (BOF) that takes the name of of a PE file as an argument and spawns the process in a suspended state</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/bytecode77/self-morphing-csharp-binary">bytecode77/self-morphing-csharp-binary</a></td>
         <td>Executable that mutates its own code</td>
     </tr>
