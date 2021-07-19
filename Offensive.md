@@ -953,6 +953,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Trigen is a Python script which uses different combinations of Win32 function calls in generated VBA to execute shellcode.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/klezVirus/chameleon">klezVirus/chameleon</a></td>
+        <td>Chameleon is yet another PowerShell obfuscation tool designed to bypass AMSI and commercial antivirus solutions.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/lawiet47/STFUEDR">lawiet47/STFUEDR</a></td>
         <td>Silence EDRs by removing kernel callbacks</td>
     </tr>
