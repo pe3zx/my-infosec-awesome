@@ -806,6 +806,10 @@ Some tools can be categorized in more than one category. But because the current
             intrusion.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/AnErrupTion/LoGiC.NET">AnErrupTion/LoGiC.NET</a></td>
+        <td>A more advanced free and open .NET obfuscator using dnlib.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/api0cradle/UltimateAppLockerByPassList">api0cradle/UltimateAppLockerByPassList</a>
         </td>
         <td>The goal of this repository is to document the most common techniques to bypass AppLocker.</td>
