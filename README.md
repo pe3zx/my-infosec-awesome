@@ -1789,10 +1789,6 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Zeek-Formatted Threat Intelligence Feeds</td>
     </tr>
     <tr>
-        <td><a href="https://www.malwaretracker.com/doc.php">Cryptam Document Scanner</a></td>
-        <td>Encrypted/obfuscated malicious document analyzer</td>
-    </tr>
-    <tr>
         <td><a href="https://github.com/cmu-sei/cyobstract">cmu-sei/cyobstract</a></td>
         <td>A tool to extract structured cyber information from incident reports.</td>
     </tr>
