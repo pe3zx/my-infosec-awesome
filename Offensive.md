@@ -859,6 +859,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>A centralized resource for previously documented WDAC bypass techniques</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/boku7/injectAmsiBypass">boku7/injectAmsiBypass</a></td>
+        <td>Cobalt Strike BOF - Bypass AMSI in a remote process with code injection.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/br-sn/CheekyBlinder">br-sn/CheekyBlinder</a></td>
         <td>Enumerating and removing kernel callbacks using signed vulnerable drivers</td>
     </tr>
