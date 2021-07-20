@@ -1785,6 +1785,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Malwarre dump</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/CRED-CLUB/ARTIF">CRED-CLUB/ARTIF</a></td>
+        <td>An advanced real time threat intelligence framework to identify threats and malicious web traffic on the basis of IP reputation and historical data.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/CriticalPathSecurity/Zeek-Intelligence-Feeds">CriticalPathSecurity/Zeek-Intelligence-Feeds</a></td>
         <td>Zeek-Formatted Threat Intelligence Feeds</td>
     </tr>
