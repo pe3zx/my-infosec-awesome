@@ -851,6 +851,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Evade sysmon and windows event logginEvade sysmon and windows event loggingg</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/BaumFX/cpp-anti-debug">BaumFX/cpp-anti-debug</a></td>
+        <td>anti debugging library in c++.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/BinaryScary/NET-Obfuscate">BinaryScary/NET-Obfuscate</a></td>
         <td>Obfuscate ECMA CIL (.NET IL) assemblies to evade Windows Defender AMSI</td>
     </tr>
