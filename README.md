@@ -1929,6 +1929,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Volatility plugin for extracts configuration data of known malware</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/JohnHammond/vbe-decoder">JohnHammond/vbe-decoder</a></td>
+        <td>A Python3 script to decode an encoded VBScript file, often seen with a .vbe file extension</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/JohnLaTwC/PyPowerShellXray">JohnLaTwC/PyPowerShellXray</a></td>
         <td>Python script to decode common encoded PowerShell scripts</td>
     </tr>
