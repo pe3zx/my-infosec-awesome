@@ -387,6 +387,10 @@ Some tools can be categorized in more than one category. But because the current
         <td><b>Description</b></td>
     </tr>
     <tr>
+        <td><a href="https://github.com/aaaddress1/wowGrail">aaaddress1/wowGrail</a></td>
+        <td>PoC: Rebuild A New Path Back to the Heaven's Gate (HITB 2021)</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/Accenture/CLRvoyance">Accenture/CLRvoyance</a></td>
         <td>Managed assembly shellcode generation</td>
     </tr>
