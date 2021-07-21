@@ -524,6 +524,10 @@ Some tools can be categorized in more than one category. But because the current
             authority generated when you first run the binary.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/capt-meelo/Beaconator">capt-meelo/Beaconator</a></td>
+        <td>A beacon generator using Cobalt Strike and PEzor.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/cedowens/Mythic-Macro-Generator">cedowens/Mythic-Macro-Generator</a></td>
         <td>Python3 script to generate a macro to launch a Mythic payload. Author: Cedric Owens</td>
     </tr>
