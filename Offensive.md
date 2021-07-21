@@ -1194,6 +1194,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>.Net port of the remote SAM + LSA Secrets dumping functionality of impacket's secretsdump.py</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/GossiTheDog/HiveNightmare">GossiTheDog/HiveNightmare</a></td>
+        <td>Exploit allowing you to read registry hives as non-admin</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/Hackndo/lsassy">Hackndo/lsassy</a></td>
         <td>Extract credentials from lsass remotely</td>
     </tr>
