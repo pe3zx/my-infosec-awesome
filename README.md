@@ -165,6 +165,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>The GitHub of Adversary Emulation Plans in JSON. Share SCYTHE threats with the community. #ThreatThursday adversary emulation plans are shared here.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/SecurityRiskAdvisors/VECTR">SecurityRiskAdvisors/VECTR</a></td>
+        <td>VECTR is a tool that facilitates tracking of your red and blue team testing activities to measure detection and prevention capabilities across different attack scenarios</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/SpiderLabs/sheepl">SpiderLabs/sheepl</a></td>
         <td>Sheepl : Creating realistic user behaviour for supporting tradecraft development within lab environments</td>
     </tr>
