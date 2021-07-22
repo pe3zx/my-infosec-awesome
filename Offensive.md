@@ -403,6 +403,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>A Windows native DLL injection library that supports several methods of injection.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/boku7/HOLLOW">boku7/HOLLOW</a></td>
+        <td>EarlyBird process hollowing technique (BOF) - Spawns a process in a suspended state, inject shellcode, hijack main thread with APC, and execute shellcode</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/Cybellum/DoubleAgent">Cybellum/DoubleAgent</a></td>
         <td>DoubleAgent is a new Zero-Day technique for injecting code and maintaining persistence on a machine (i.e.
             auto-run).</td>
