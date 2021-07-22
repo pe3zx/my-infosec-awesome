@@ -43,6 +43,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Receive the status of Windows Defender Credential Guard on network hosts.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/codingo/Reconnoitre">codingo/Reconnoitre</a></td>
+        <td>A security tool for multithreaded information gathering and service enumeration whilst building directory structures to store results, along with writing out recommendations for further testing.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/dev-2null/adcollector">dev-2null/ADCollector<a></td>
         <td>A lightweight tool to quickly extract valuable information from the Active Directory environment for both
             attacking and defending.</td>
