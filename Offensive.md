@@ -540,6 +540,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Python3 script to generate a macro to launch a Mythic payload. Author: Cedric Owens</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/connormcgarr/LittleCorporal">connormcgarr/LittleCorporal</a></td>
+        <td>LittleCorporal: A C# Automated Maldoc Generator</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/cytopia/kusanagi">cytopia/kusanagi</a></td>
         <td>Kusanagi is a bind and reverse shell payload generator with obfuscation and badchar support.</td>
     </tr>
