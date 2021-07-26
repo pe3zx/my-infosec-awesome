@@ -903,6 +903,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>A method of bypassing EDR's active projection DLL's by preventing entry point execution.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/cipheras/obfus">cipheras/obfus</a></td>
+        <td>Curated list of examples, tools, frameworks, etc in various languages with various techniques for obfuscation of RATs, malwares, etc. Only for learning purposes & red teaming.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/cnsimo/BypassUAC">cnsimo/BypassUAC</a></td>
         <td>Use ICMLuaUtil to Bypass UAC!</td>
     </tr>
