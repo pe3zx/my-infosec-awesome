@@ -838,6 +838,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>A more advanced free and open .NET obfuscator using dnlib.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/anthemtotheego/Detect-Hooks">anthemtotheego/Detect-Hooks</a></td>
+        <td>Proof of concept Beacon Object File (BOF) that attempts to detect userland hooks in place by AV/EDR</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/api0cradle/UltimateAppLockerByPassList">api0cradle/UltimateAppLockerByPassList</a>
         </td>
         <td>The goal of this repository is to document the most common techniques to bypass AppLocker.</td>
