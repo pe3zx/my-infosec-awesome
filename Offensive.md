@@ -1042,6 +1042,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Embeds a PowerShell script in the pixels of a PNG file and generates a oneliner to execute</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/PELock/JObfuscator-Python">PELock/JObfuscator-Python</a></td>
+        <td>JObfuscator is a source code obfuscator for the Java language. Protect Java source code & algorithms from hacking, cracking, reverse engineering, decompilation & technology theft.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/phra/PEzor">phra/PEzor</a></td>
         <td>Open-Source PE Packer</td>
     </tr>
