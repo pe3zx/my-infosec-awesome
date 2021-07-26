@@ -431,6 +431,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Sudomy is a subdomain enumeration tool to collect subdomains and analyzing domains performing automated reconnaissance (recon) for bug hunting / pentesting</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/securego/gosec">securego/gosec</a></td>
+        <td>Golang security checker</td>
+    </tr>
+    <tr>
         <td><a href="https://snyk.io/">Snyk</a></td>
         <td>Continuously find & fix vulnerabilities in your dependencies</td>
     </tr>
