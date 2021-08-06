@@ -778,6 +778,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Whisker is a C# tool for taking over Active Directory user and computer accounts by manipulating their msDS-KeyCredentialLink attribute, effectively adding "Shadow Credentials" to the target account.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/GhostPack/ForgeCert">GhostPack/ForgeCert</a></td>
+        <td>ForgeCert uses the BouncyCastle C# API and a stolen Certificate Authority (CA) certificate + private key to forge certificates for arbitrary users capable of authentication to Active Directory.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/GoSecure/WSuspicious">GoSecure/WSuspicious</a></td>
         <td>WSuspicious - A tool to abuse insecure WSUS connections for privilege escalationsWSuspicious - A tool to abuse insecure WSUS connections for privilege escalations</td>
     </tr>
