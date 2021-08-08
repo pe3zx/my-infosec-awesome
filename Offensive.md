@@ -1621,6 +1621,10 @@ Some tools can be categorized in more than one category. But because the current
         <td><a href="https://github.com/threatexpress/mythic2modrewrite">threatexpress/mythic2modrewrite</a></td>
         <td>Generate Apache mod_rewrite rules for Mythic C2 profiles</td>
     </tr>
+    <tr>
+        <td><a href="https://github.com/Tylous/SourcePoint">Tylous/SourcePoint</a></td>
+        <td>SourcePoint is a C2 profile generator for Cobalt Strike command and control servers designed to ensure evasion.</td>
+    </tr>
 </table>
 
 ## Exfiltration
