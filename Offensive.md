@@ -1600,6 +1600,10 @@ Some tools can be categorized in more than one category. But because the current
         <td><a href="http://prismatica.io/">Project Prismatica</a></td>
         <td>Project Prismatica is a focused framework for Command and Control that is dedicated to extensibility.</td>
     </tr>
+    <tr>
+        <td><a href="https://github.com/pucarasec/zuthaka">pucarasec/zuthaka</a></td>
+        <td>Zuthaka is an open source application designed to assist red-teaming efforts, by simplifying the task of managing different APTs and other post-exploitation tools.</td>
+    </tr>
         <tr>
             <td><a href="https://github.com/r3nhat/GRAT2">r3nhat/GRAT2</a></td>
             <td>GRAT2 is a Command and Control (C2) tool written in python3 and the client in .NET 4.5</td>
