@@ -1037,6 +1037,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Companion PoC for the "Adventures in Dynamic Evasion" blog post</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/med0x2e/SigFlip">med0x2e/SigFlip</a></td>
+        <td>SigFlip is a tool for patching authenticode signed PE files (exe, dll, sys ..etc) without invalidating or breaking the existing signature.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/mdsecactivebreach/Chameleon">mdsecactivebreach/Chameleon</a></td>
         <td>Chameleon: A tool for evading Proxy categorisation</td>
     </tr>
