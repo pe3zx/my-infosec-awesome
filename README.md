@@ -125,6 +125,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>An automated adversary emulation system</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/mvelazc0/PurpleSharp">mvelazc0/PurpleSharp</a></td>
+        <td>PurpleSharp is a C# adversary simulation tool that executes adversary techniques with the purpose of generating attack telemetry in monitored Windows environments</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/NextronSystems/APTSimulator">NextronSystems/APTSimulator</a></td>
         <td>A toolset to make a system look as if it was the victim of an APT attack</td>
     </tr>
