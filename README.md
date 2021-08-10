@@ -53,6 +53,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Simulate realistic attacks on Office 365 environment</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/Azure/Cloud-Katana">Azure/Cloud-Katana</a></td>
+        <td>Unlocking Serverless Computing to Assess Security Controls</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/blackbotinc/Atomic-Red-Team-Intelligence-C2">blackbotinc/Atomic-Red-Team-Intelligence-C2</a></td>
         <td>ARTi-C2 is a post-exploitation framework used to execute Atomic Red Team test cases with rapid payload deployment and execution capabilities via .NET's DLR.</td>
     </tr>
