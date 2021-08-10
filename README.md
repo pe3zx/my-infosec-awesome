@@ -2855,6 +2855,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>ReelPhish: A Real-Time Two-Factor Phishing Tool</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/fkasler/phishmonger">fkasler/phishmonger</a></td>
+        <td>Phishing Framework for Pentesters</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/GemGeorge/SniperPhish/">GemGeorge/SniperPhish/</a></td>
         <td>SniperPhish - The Web-Email Spear Phishing Toolkit</td>
     </tr>
