@@ -700,6 +700,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>PageBuster - dump all executable pages of packed processes.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/REW-sploit/REW-sploit">REW-sploit/REW-sploit</a></td>
+        <td>Emulate and Dissect MSF and *other* attacks</td>
+    </tr>
+    <tr>
         <td><a href="https://rizin.re/">rizin</a></td>
         <td>Free and Open Source Reverse Engineering Framework</td>
     </tr>
