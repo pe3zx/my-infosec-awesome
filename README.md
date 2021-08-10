@@ -1293,6 +1293,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Shuffle: A general purpose security automation platform platform. We focus on accessibility for all.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/G-Research/siembol">G-Research/siembol</a></td>
+        <td>An open-source, real-time Security Information & Event Management tool based on big data technologies, providing a scalable, advanced security analytics framework.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/gleeda/memtriage">gleeda/memtriage</a></td>
         <td>Allows you to quickly query a Windows machine for RAM artifacts</td>
     </tr>
