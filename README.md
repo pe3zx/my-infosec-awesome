@@ -801,6 +801,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Sparrow.ps1 was created by CISA's Cloud Forensics team to help detect possible compromised accounts and applications in the Azure/m365 environment.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/cloud-sniper/cloud-sniper">cloud-sniper/cloud-sniper</a></td>
+        <td>Cloud Security Operations Orchestrator</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/cloudquery/cloudquery">cloudquery/cloudquery</a></td>
         <td>cloudquery transforms your cloud infrastructure into queryable SQL tables for easy monitoring, governance and security.</td>
     </tr>
