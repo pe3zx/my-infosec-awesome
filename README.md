@@ -656,6 +656,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Various capabilities for static malware analysis.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/mrphrazer/obfuscation_detection">mrphrazer/obfuscation_detection</a></td>
+        <td>Collection of scripts to pinpoint obfuscated code</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/mxmssh/drltrace">mxmssh/drltrace</a></td>
         <td>Drltrace is a library calls tracer for Windows and Linux applications</td>
     </tr>
