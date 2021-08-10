@@ -1765,6 +1765,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Repository containing IOCs, MISP and Expert rules from our blogs</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/akamai/luda">akamai/luda</a></td>
+        <td>Malicious actors often reuse code to deploy their malware, phishing website or CNC server. As a result, similiaries can be found on URLs path by inspecting internet traffic. Moreover, deep learning models or even regular ML model do not fit for inline deployment in terms of running performance. However, regexes ( or YARA rules ) can be deployed …</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/alexandreborges/malwoverview">alexandreborges/malwoverview</a></td>
         <td>Malwoverview.py is a simple tool to perform an initial and quick triage on either a directory containing malware samples or a specific malware sample</td>
     </tr>
