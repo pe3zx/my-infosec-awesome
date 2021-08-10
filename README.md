@@ -2786,6 +2786,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>GoCrack provides APIs to manage password cracking tasks across supported cracking engines.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/JoelGMSec/Cloudtopolis">JoelGMSec/Cloudtopolis</a></td>
+        <td>Zero Infrastructure Password Cracking</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/sc0tfree/mentalist">sc0tfree/mentalist</a></td>
         <td>Mentalist is a graphical tool for custom wordlist generation. It utilizes common human paradigms for constructing passwords and can output the full wordlist as well as rules compatible with Hashcat and John the Ripper.</td>
     </tr>
