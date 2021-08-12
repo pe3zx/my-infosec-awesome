@@ -375,6 +375,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>It's Web Interface to generate payload using various deserialization exploitation framework</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/ossf/allstar">ossf/allstar</a></td>
+        <td>GitHub App to set and enforce security policies</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/ossf/scorecard">ossf/scorecard</a></td>
         <td>Security Scorecards - Security health metrics for Open Source</td>
     </tr>
