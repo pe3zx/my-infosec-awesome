@@ -887,6 +887,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Bypass UAC by abusing the Windows Defender Firewall Control Panel, environment variables, and shell protocol handlers</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/AzAgarampur/byeintegrity8-uac">AzAgarampur/byeintegrity8-uac</a></td>
+        <td>Bypass UAC at any level by abusing the Program Compatibility Assistant with RPC, WDI, and more Windows components</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/Bashfuscator/Bashfuscator">Bashfuscator/Bashfuscator</a></td>
         <td>A fully configurable and extendable Bash obfuscation framework. This tool is intended to help both red team and blue team.</td>
     </tr>
