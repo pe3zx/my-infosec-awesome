@@ -564,6 +564,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>LittleCorporal: A C# Automated Maldoc Generator</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/cseroad/bypassAV">cseroad/bypassAV</a></td>
+        <td>借助Win-PS2EXE项目编写cna脚本方便快速生成免杀可执行文件</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/cytopia/kusanagi">cytopia/kusanagi</a></td>
         <td>Kusanagi is a bind and reverse shell payload generator with obfuscation and badchar support.</td>
     </tr>
