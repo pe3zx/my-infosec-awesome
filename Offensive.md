@@ -794,6 +794,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Local Service to SYSTEM privilege escalation from Windows 7 to Windows 10 / Server 2019</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/CMatri/Gotato">CMatri/Gotato</a></td>
+        <td>Generic impersonation and privilege escalation with Golang. Like GenericPotato both named pipes and HTTP are supported.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/eladshamir/Whisker">eladshamir/Whisker</a></td>
         <td>Whisker is a C# tool for taking over Active Directory user and computer accounts by manipulating their msDS-KeyCredentialLink attribute, effectively adding "Shadow Credentials" to the target account.</td>
     </tr>
