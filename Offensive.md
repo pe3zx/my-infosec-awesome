@@ -361,6 +361,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>CallBack-Techniques for Shellcode execution ported to Nim</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/secdev-01/AllTheThingsExec">secdev-01/AllTheThingsExec</a></td>
+        <td>Executes Blended Managed/Unmanged Exports</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/scythe-io/memory-module-loader">scythe-io/memory-module-loader</a></td>
         <td>An implementation of a Windows loader that can load dynamic-linked libraries (DLLs) directly from memory</td>
     </tr>
