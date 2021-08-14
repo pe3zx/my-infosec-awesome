@@ -1410,6 +1410,10 @@ Some tools can be categorized in more than one category. But because the current
             PNG files allows Red Team member to extract juicy information such as LAPS passwords or any sensitive
             information on the screen.</td>
     </tr>
+    <tr>
+        <td><a href="https://github.com/w1u0u1/minidump">w1u0u1/minidump</a></td>
+        <td>Custom implementation of DbgHelp's MiniDumpWriteDump function. Uses static syscalls to replace low-level functions like NtReadVirtualMemory.</td>
+    </tr>
 </table>
 
 ## Lateral Movement
