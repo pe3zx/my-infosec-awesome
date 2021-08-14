@@ -1090,6 +1090,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>JObfuscator is a source code obfuscator for the Java language. Protect Java source code & algorithms from hacking, cracking, reverse engineering, decompilation & technology theft.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/Pepitoh/VBad">Pepitoh/VBad</a></td>
+        <td>VBA Obfuscation Tools combined with an MS office document generator</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/phra/PEzor">phra/PEzor</a></td>
         <td>Open-Source PE Packer</td>
     </tr>
