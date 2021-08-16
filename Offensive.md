@@ -1217,6 +1217,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Scripts to make password spraying attacks against Lync/S4B, OWA & O365 a lot quicker, less painful and more efficient</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/cube0x0/MiniDump">cube0x0/MiniDump</a></td>
+        <td>C# Lsass parser</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/dafthack/MSOLSpray">dafthack/MSOLSpray</a></td>
         <td>A password spraying tool for Microsoft Online accounts (Azure/O365). The script logs if a user cred is valid, if MFA is enabled on the account, if a tenant doesn't exist, if a user doesn't exist, if the account is locked, or if the account is disabled.</td>
     </tr>
