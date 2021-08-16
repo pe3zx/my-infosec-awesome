@@ -1037,6 +1037,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Append a custom data payload to a digitally signed NSIS .exe installer</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/jfmaes/LazySign">jfmaes/LazySign</a></td>
+        <td>Create fake certs for binaries using windows binaries and the power of bat files</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/jfmaes/SharpNukeEventLog">jfmaes/SharpNukeEventLog</a></td>
         <td>nuke that event log using some epic dinvoke fu</td>
     </tr>
