@@ -2952,6 +2952,15 @@ This repository is created as an online bookmark for useful links, resources and
     </tr>
 </table>
 
+## Smart Contract
+
+<table>
+    <tr>
+        <td><b>Link</b></td>
+        <td><b>Description</b></td>
+    </tr>
+</table>
+
 ## Vulnerable
 
 <table>
