@@ -31,6 +31,7 @@ This repository is created as an online bookmark for useful links, resources and
 - [Open-source Intelligence (OSINT)](#open-source-intelligence-osint)
 - [Password Cracking and Wordlists](#password-cracking-and-wordlists)
 - [Social Engineering](#social-engineering)
+- [Smart Contract](#smart-contract)
 - [Vulnerable](#vulnerable)
 
 ## Adversary Simulation & Emulation
@@ -2958,6 +2959,10 @@ This repository is created as an online bookmark for useful links, resources and
     <tr>
         <td><b>Link</b></td>
         <td><b>Description</b></td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/enzymefinance/oyente">enzymefinance/oyente</a></td>
+        <td>An Analysis Tool for Smart Contracts</td>
     </tr>
 </table>
 
