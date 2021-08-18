@@ -1242,6 +1242,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Command line interface to dump LSASS memory to disk via SilentProcessExit</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/djhohnstein/1PasswordSuite">djhohnstein/1PasswordSuite</a></td>
+        <td>Utilities to extract secrets from 1Password</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/eladshamir/Internal-Monologue">eladshamir/Internal-Monologue</a></td>
         <td>Internal Monologue Attack: Retrieving NTLM Hashes without Touching LSASS</td>
     </tr>
