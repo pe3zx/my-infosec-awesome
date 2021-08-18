@@ -154,6 +154,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>A tool to help query AD via the LDAP protocol</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/vletoux/SpoolerScanner">vletoux/SpoolerScanner</a></td>
+        <td>Check if MS-RPRN is remotely available with powershell/c#</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/yogeshojha/rengine">yogeshojha/rengine</a></td>
         <td>reNgine is a reconnaissance engine(framework) that does end-to-end reconnaissance with the help of highly configurable scan engines and does information gathering about the target web application. reNgine makes use of various open-source tools and makes a configurable pipeline of reconnaissance.</td>
     </tr>
