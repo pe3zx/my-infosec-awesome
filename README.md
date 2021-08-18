@@ -251,6 +251,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>This repository contains various media files for known attacks on web applications processing media files. Useful for penetration tests and bug bounty.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/BishopFox/GitGot">BishopFox/GitGot</a></td>
+        <td>Semi-automated, feedback-driven tool to rapidly search through troves of public data on GitHub for sensitive secrets.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/BishopFox/h2csmuggler">BishopFox/h2csmuggler</a></td>
         <td>HTTP Request Smuggling over HTTP/2 Cleartext (h2c)</td>
     </tr>
