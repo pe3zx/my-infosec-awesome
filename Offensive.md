@@ -452,12 +452,16 @@ Some tools can be categorized in more than one category. But because the current
         <td>Windows dll injector</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/FalconForceTeam/SysWhispers2BOF">FalconForceTeam/SysWhispers2BOF</a></td>
+        <td>Script to use SysWhispers2 direct system calls from Cobalt Strike BOFs</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/Flangvik/SharpDllProxy">Flangvik/SharpDllProxy</a></td>
         <td>Retrieves exported functions from a legitimate DLL and generates a proxy DLL source code/template for DLL
             proxy loading or sideloading</td>
     </tr>
     <tr>
-        <td><a href="https://github.com/forrest-orr/phantom-dll-hollower-poc">/forrest-orr/phantom-dll-hollower-poc</a>
+        <td><a href="https://github.com/forrest-orr/phantom-dll-hollower-poc">forrest-orr/phantom-dll-hollower-poc</a>
         </td>
         <td>Phantom DLL hollowing PoC</td>
     </tr>
