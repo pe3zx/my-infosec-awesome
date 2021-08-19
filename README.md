@@ -2026,14 +2026,18 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Mac Malware by Objective-See</td>
     </tr>
     <tr>
-        <td><a href="https://github.com/marcosd4h/memhunter">marcosd4h/memhunter</a></td>
-        <td>Live hunting of code injection techniques</td>
-    </tr>
-    <tr>
         <td><a href="http://malc0de.com/database/">Malc0de database</a></td>
         <td>Malc0de database</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/mandiant/apooxml">mandiant/apooxml</a></td>
+        <td>Generate YARA rules for OOXML documents.</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/marcosd4h/memhunter">marcosd4h/memhunter</a></td>
+        <td>Live hunting of code injection techniques</td>
+    </tr>
+   <tr>
         <td><a href="https://github.com/maliceio/malice">maliceio/malice</a></td>
         <td>Malice's mission is to be a free open source version of VirusTotal that anyone can use at any scale from an independent researcher to a fortune 500 company.</td>
     </tr>
