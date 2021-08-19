@@ -2969,6 +2969,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td><b>Description</b></td>
     </tr>
     <tr>
+        <td><a href="https://github.com/cleanunicorn/karl">cleanunicorn/karl</a></td>
+        <td></td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/enzymefinance/oyente">enzymefinance/oyente</a></td>
         <td>An Analysis Tool for Smart Contracts</td>
     </tr>
