@@ -2601,10 +2601,6 @@ This repository is created as an online bookmark for useful links, resources and
         <td>The Cyberspace Search Engine, Security Situation Awareness</td>
     </tr>
     <tr>
-        <td><a href="https://ghostproject.fr/">GhostProject</a></td>
-        <td>Database Lookup of 1.4 Billion Password Breach Compilation</td>
-    </tr>
-    <tr>
         <td><a href="https://grep.app/">grep.app</a></td>
         <td>Search across a half million git repos</td>
     </tr>
