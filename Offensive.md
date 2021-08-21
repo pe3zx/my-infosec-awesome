@@ -390,6 +390,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Modified version of PEAS client for offensive operations</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/TheCruZ/kdmapper">TheCruZ/kdmapper</a></td>
+        <td>KDMapper is a simple tool that exploits iqvw64e.sys Intel driver to manually map non-signed drivers in memory</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/xforcered/InlineExecute-Assembly">xforcered/InlineExecute-Assembly</a></td>
         <td>InlineExecute-Assembly is a proof of concept Beacon Object File (BOF) that allows security professionals to perform in process .NET assembly execution as an alternative to Cobalt Strikes traditional fork and run execute-assembly module</td>
     </tr>
