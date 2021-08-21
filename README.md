@@ -459,6 +459,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td><a href="https://snyk.io/">Snyk</a></td>
         <td>Continuously find & fix vulnerabilities in your dependencies</td>
     </tr>
+    <tr>
+        <td><a href="https://github.com/sslab-gatech/Rudra">sslab-gatech/Rudra</a></td>
+        <td>Rust Memory Safety & Undefined Behavior Detection</td>
+    </tr>
    <tr>
         <td><a href="https://github.com/subfinder/subfinder">subfinder/subfinder</a></td>
         <td>SubFinder is a subdomain discovery tool that discovers valid subdomains for websites. Designed as a passive framework to be useful for bug bounties and safe for penetration testing.</td>
