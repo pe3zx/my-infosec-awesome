@@ -39,6 +39,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Project to check which Nt/Zw functions your local EDR is hooking</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/boku7/whereami">boku7/whereami</a></td>
+        <td>Cobalt Strike Beacon Object File (BOF) that uses handwritten shellcode to return the process Environment strings without touching any DLL's.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/chdav/SharpCGHunter">chdav/SharpCGHunter</a></td>
         <td>Receive the status of Windows Defender Credential Guard on network hosts.</td>
     </tr>
