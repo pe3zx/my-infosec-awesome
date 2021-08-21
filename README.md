@@ -737,6 +737,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Set of IDA Pro scripts for parsing GoLang types information stored in compiled binary</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/strazzere/golang_loader_assist">strazzere/golang_loader_assist</a></td>
+        <td>Making GO reversing easier in IDA Pro</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/taviso/loadlibrary">taviso/loadlibrary</a></td>
         <td>Porting Windows Dynamic Link Libraries to Linux</td>
     </tr>
