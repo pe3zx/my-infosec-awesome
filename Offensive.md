@@ -447,6 +447,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Cobalt Strike BOF that uses a custom ASM HalosGate & HellsGate syscaller to return a list of processes</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/boku7/HellsGatePPID">boku7/HellsGatePPID</a></td> 
+        <td>Assembly HellGate implementation that directly calls Windows System Calls and displays the PPID of the explorer.exe process</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/boku7/HOLLOW">boku7/HOLLOW</a></td>
         <td>EarlyBird process hollowing technique (BOF) - Spawns a process in a suspended state, inject shellcode, hijack main thread with APC, and execute shellcode</td>
     </tr>
