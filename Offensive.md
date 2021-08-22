@@ -60,6 +60,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>The Azure AD exploration framework.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/djhohnstein/SharpSearch">djhohnstein/SharpSearch</a></td>
+        <td>Search files for extensions as well as text within.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/djhohnstein/SharpShares">djhohnstein/SharpShares</a></td>
         <td>Enumerate all network shares in the current domain. Also, can resolve names to IP addresses.</td>
     </tr>
