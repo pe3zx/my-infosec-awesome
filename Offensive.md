@@ -1699,6 +1699,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>This tool can forward TCP traffic over DNS protocol. Non-compile clients + socks5 support.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/Flangvik/AzureC2Relay">Flangvik/AzureC2Relay</a></td>
+        <td>AzureC2Relay is an Azure Function that validates and relays Cobalt Strike beacon traffic by verifying the incoming requests based on a Cobalt Strike Malleable C2 profile.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/gl4ssesbo1/Nebula">gl4ssesbo1/Nebula</a></td>
         <td>Cloud C2 Framework, which at the moment offers reconnaissance, enumeration, exploitation, post exploitation on AWS, but still working to allow testing other Cloud Providers and DevOps Components.</td>
     </tr>
