@@ -293,10 +293,7 @@ Some tools can be categorized in more than one category. But because the current
     </tr>
     <tr>
         <td><a href="https://github.com/FuzzySecurity/PowerShell-Suite">FuzzySecurity/PowerShell-Suite</a></td>
-        <td>There are great tools and resources online to accomplish most any task in PowerShell, sometimes however,
-            there is a need to script together a util for a specific purpose or to bridge an ontological gap. This is a
-            collection of PowerShell utilities I put together either for fun or because I had a narrow application in
-            mind.</td>
+        <td>There are great tools and resources online to accomplish most any task in PowerShell, sometimes however, there is a need to script together a util for a specific purpose or to bridge an ontological gap. This is a collection of PowerShell utilities I put together either for fun or because I had a narrow application in mind.</td>
     </tr>
     <tr>
         <td><a href="https://github.com/GhostPack/SharpWMI">GhostPack/SharpWMI</a></td>
@@ -369,16 +366,20 @@ Some tools can be categorized in more than one category. But because the current
         <td>MSBuild without MSbuild.exe</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/S3cur3Th1sSh1t/Invoke-SharpLoader">S3cur3Th1sSh1t/Invoke-SharpLoader</a></td>
+        <td>Load encrypted and compressed C# Code from a remote Webserver or from a local file straight to memory and execute it there.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/S3cur3Th1sSh1t/Nim_CBT_Shellcode">S3cur3Th1sSh1t/Nim_CBT_Shellcode</a></td>
         <td>CallBack-Techniques for Shellcode execution ported to Nim</td>
     </tr>
     <tr>
-        <td><a href="https://github.com/secdev-01/AllTheThingsExec">secdev-01/AllTheThingsExec</a></td>
-        <td>Executes Blended Managed/Unmanged Exports</td>
-    </tr>
-    <tr>
         <td><a href="https://github.com/scythe-io/memory-module-loader">scythe-io/memory-module-loader</a></td>
         <td>An implementation of a Windows loader that can load dynamic-linked libraries (DLLs) directly from memory</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/secdev-01/AllTheThingsExec">secdev-01/AllTheThingsExec</a></td>
+        <td>Executes Blended Managed/Unmanged Exports</td>
     </tr>
     <tr>
         <td><a href="https://github.com/sh4hin/GoPurple">sh4hin/GoPurple</a></td>
