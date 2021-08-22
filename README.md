@@ -2989,6 +2989,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Monitor smart contracts deployed on blockchain and test against vulnerabilities with Mythril</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/ConsenSys/smart-contract-best-practices">ConsenSys/smart-contract-best-practices</a></td>
+        <td>A guide to smart contract security best practices</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/enzymefinance/oyente">enzymefinance/oyente</a></td>
         <td>An Analysis Tool for Smart Contracts</td>
     </tr>
