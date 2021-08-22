@@ -1368,6 +1368,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Dump stuff without touching disk</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/MadHatt3R-0x90/SharpPuppet">MadHatt3R-0x90/SharpPuppet</a></td>
+        <td>Tool Allowing Keystroke Injection Into Arbitrary Window.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/mdsecactivebreach/Farmer">mdsecactivebreach/Farmer</a></td>
         <td>Farmer is a project for collecting NetNTLM hashes in a Windows domain. Farmer achieves this by creating a local WebDAV server that causes the WebDAV Mini Redirector to authenticate from any connecting clients.</td>
     </tr>
