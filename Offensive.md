@@ -601,6 +601,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Python3 script to generate a macro to launch a Mythic payload. Author: Cedric Owens</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/Ch0pin/AVIator">Ch0pin/AVIator</a></td>
+        <td>AV|Ator is a backdoor generator utility, which uses cryptographic and injection techniques in order to bypass AV detection.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/connormcgarr/LittleCorporal">connormcgarr/LittleCorporal</a></td>
         <td>LittleCorporal: A C# Automated Maldoc Generator</td>
     </tr>
