@@ -1484,6 +1484,10 @@ Some tools can be categorized in more than one category. But because the current
             a bunch of horrible boring haystacks (a massive Windows/AD environment).</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/swisskyrepo/SharpLAPS">swisskyrepo/SharpLAPS</a></td>
+        <td>Retrieve LAPS password from LDAP</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/uknowsec/SharpDecryptPwd">uknowsec/SharpDecryptPwd</a></td>
         <td>对密码已保存在 Windwos 系统上的部分程序进行解析,包括：Navicat,TeamViewer,FileZilla,WinSCP,Xmangager系列产品（Xshell,Xftp)。</td>
     </tr>
