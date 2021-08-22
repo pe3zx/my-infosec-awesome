@@ -1160,6 +1160,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>HTA encryption tool for RedTeams</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/netbiosX/AMSI-Provider">netbiosX/AMSI-Provider</a></td>
+        <td>A fake AMSI Provider which can be used for persistence.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/NotPrab/.NET-Obfuscator">NotPrab/.NET-Obfuscator</a></td>
         <td>Lists of .NET Obfuscator (Free, Trial, Paid and Open Source )</td>
     </tr>
@@ -1189,10 +1193,7 @@ Some tools can be categorized in more than one category. But because the current
     </tr>
     <tr>
         <td><a href="https://github.com/PwnDexter/SharpEDRChecker">PwnDexter/SharpEDRChecker</a></td>
-        <td>Checks running processes, process metadata, Dlls loaded into your current process and the each DLLs
-            metadata, common install directories, installed services and each service binaries metadata, installed
-            drivers and each drivers metadata, all for the presence of known defensive products such as AV's, EDR's and
-            logging tools.</td>
+        <td>Checks running processes, process metadata, Dlls loaded into your current process and the each DLLs metadata, common install directories, installed services and each service binaries metadata, installed drivers and each drivers metadata, all for the presence of known defensive products such as AV's, EDR's and logging tools.</td>
     </tr>
     <tr>
         <td><a href="https://github.com/RedCursorSecurityConsulting/PPLKiller">RedCursorSecurityConsulting/PPLKiller</a></td>
