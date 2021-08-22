@@ -1714,6 +1714,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>A modular C2 framework</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/Porchetta-Industries/pyMalleableC2">Porchetta-Industries/pyMalleableC2</a></td>
+        <td>Python interpreter for Cobalt Strike Malleable C2 Profiles. Allows you to parse, build and modify them programmatically.</td>
+    </tr>
+    <tr>
         <td><a href="http://prismatica.io/">Project Prismatica</a></td>
         <td>Project Prismatica is a focused framework for Command and Control that is dedicated to extensibility.</td>
     </tr>
