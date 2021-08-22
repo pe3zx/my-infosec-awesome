@@ -1669,6 +1669,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Self-deployable file hosting service for red teamers, allowing to easily upload and share payloads over HTTP and WebDAV.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/leonjza/tc2">leonjza/tc2</a></td>
+        <td>Treafik fronted c2 examples</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/loseys/BlackMamba">loseys/BlackMamba</a></td>
         <td>BlackMamba is a multi client C2/post exploitation framework with some spyware features. Powered by Python 3.8.6 and QT Framework.</td>
     </tr>
