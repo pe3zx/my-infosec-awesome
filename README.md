@@ -3005,6 +3005,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>This is an intentionally vulnerable smart contract truffle deployment aimed at allowing those interested in smart contract security to exploit a wide variety of issues in a safe environment.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/Robsonsjre/FlashloanUsecases">Robsonsjre/FlashloanUsecases</a></td>
+        <td>DeFi 201 - Lets hack Flash Loans</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/smartbugs/smartbugs">smartbugs/smartbugs</a></td>
         <td>SmartBugs: A Framework to Analyze Solidity Smart Contracts</td>
     </tr>
