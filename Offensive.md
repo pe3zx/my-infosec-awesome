@@ -1152,8 +1152,7 @@ Some tools can be categorized in more than one category. But because the current
     </tr>
     <tr>
         <td><a href="https://github.com/mdsecactivebreach/firewalker">mdsecactivebreach/firewalker</a></td>
-        <td>This repo contains a simple library which can be used to add FireWalker hook bypass capabilities to existing
-            code</td>
+        <td>This repo contains a simple library which can be used to add FireWalker hook bypass capabilities to existing code</td>
     </tr>
  
     <tr>
@@ -1215,6 +1214,10 @@ Some tools can be categorized in more than one category. But because the current
     <tr>
         <td><a href="https://github.com/rmdavy/HeapsOfFun">rmdavy/HeapsOfFun</a></td>
         <td>AMSI Bypass Via the Heap</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/RythmStick/AMSITrigger">RythmStick/AMSITrigger</a></td>
+        <td>Hunting for Malicious Strings</td>
     </tr>
     <tr>
         <td><a href="https://github.com/secretsquirrel/SigThief">secretsquirrel/SigThief</a></td>
