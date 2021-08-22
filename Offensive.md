@@ -1147,6 +1147,16 @@ Some tools can be categorized in more than one category. But because the current
         <td>Companion PoC for the "Adventures in Dynamic Evasion" blog post</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/mdsecactivebreach/Chameleon">mdsecactivebreach/Chameleon</a></td>
+        <td>Chameleon: A tool for evading Proxy categorisation</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/mdsecactivebreach/firewalker">mdsecactivebreach/firewalker</a></td>
+        <td>This repo contains a simple library which can be used to add FireWalker hook bypass capabilities to existing
+            code</td>
+    </tr>
+ 
+    <tr>
         <td><a href="https://github.com/med0x2e/NoAmci">med0x2e/NoAmci</a></td>
         <td>Using DInvoke to patch AMSI.dll in order to bypass AMSI detections triggered when loading .NET tradecraft via Assembly.Load().</td>
     </tr>
@@ -1155,13 +1165,8 @@ Some tools can be categorized in more than one category. But because the current
         <td>SigFlip is a tool for patching authenticode signed PE files (exe, dll, sys ..etc) without invalidating or breaking the existing signature.</td>
     </tr>
     <tr>
-        <td><a href="https://github.com/mdsecactivebreach/Chameleon">mdsecactivebreach/Chameleon</a></td>
-        <td>Chameleon: A tool for evading Proxy categorisation</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/mdsecactivebreach/firewalker">mdsecactivebreach/firewalker</a></td>
-        <td>This repo contains a simple library which can be used to add FireWalker hook bypass capabilities to existing
-            code</td>
+        <td><a href="https://github.com/mgeeky/Stracciatella">mgeeky/Stracciatella</a></td>
+        <td>OpSec-safe Powershell runspace from within C# (aka SharpPick) with AMSI, Constrained Language Mode and Script Block Logging disabled at startup</td>
     </tr>
     <tr>
         <td><a href="https://github.com/nccgroup/demiguise">nccgroup/demiguise</a></td>
