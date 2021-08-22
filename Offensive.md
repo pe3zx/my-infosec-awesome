@@ -1486,6 +1486,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Windows (ShadowMove) Socket Duplication</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/0xthirteen/MoveKit">0xthirteen/MoveKit</a></td>
+        <td>Cobalt Strike kit for Lateral Movement</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/0xthirteen/SharpMove">0xthirteen/SharpMove</a></td>
         <td>.NET Project for performing Authenticated Remote Execution</td>
     </tr>
