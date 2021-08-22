@@ -1139,6 +1139,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Companion PoC for the "Adventures in Dynamic Evasion" blog post</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/med0x2e/NoAmci">med0x2e/NoAmci</a></td>
+        <td>Using DInvoke to patch AMSI.dll in order to bypass AMSI detections triggered when loading .NET tradecraft via Assembly.Load().</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/med0x2e/SigFlip">med0x2e/SigFlip</a></td>
         <td>SigFlip is a tool for patching authenticode signed PE files (exe, dll, sys ..etc) without invalidating or breaking the existing signature.</td>
     </tr>
