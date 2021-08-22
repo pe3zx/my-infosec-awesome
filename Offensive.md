@@ -1208,6 +1208,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Checks running processes, process metadata, Dlls loaded into your current process and the each DLLs metadata, common install directories, installed services and each service binaries metadata, installed drivers and each drivers metadata, all for the presence of known defensive products such as AV's, EDR's and logging tools.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/rasta-mouse/AmsiScanBufferBypass">rasta-mouse/AmsiScanBufferBypass</a></td>
+        <td>Bypass AMSI by patching AmsiScanBuffer</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/RedCursorSecurityConsulting/PPLKiller">RedCursorSecurityConsulting/PPLKiller</a></td>
         <td>Tool to bypass LSA Protection (aka Protected Process Light)</td>
     </tr>
