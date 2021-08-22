@@ -1083,6 +1083,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>VBA purge your Office documents with OfficePurge. VBA purging removes P-code from module streams within Office documents.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/Flangvik/AMSI.fail">Flangvik/AMSI.fail</a></td>
+        <td>C# Azure Function with an HTTP trigger that generates obfuscated PowerShell snippets that break or disable AMSI for the current process.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/GetRektBoy724/TripleS">GetRektBoy724/TripleS</a></td>
         <td>Syscall Stub Stealer - Freshly steal Syscall stub straight from the disk</td>
     </tr>
