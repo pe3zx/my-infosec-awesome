@@ -1237,10 +1237,12 @@ Some tools can be categorized in more than one category. But because the current
         <td>Credentials gathering tool automating remote procdump and parse of lsass process.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/anthemtotheego/CredBandit">anthemtotheego/CredBandit</a></td>
+        <td>Proof of concept Beacon Object File (BOF) that uses static x64 syscalls to perform a complete in memory dump of a process and send that back through your already existing Beacon communication channel</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/Arvanaghi/SessionGopher">Arvanaghi/SessionGopher</a></td>
-        <td>SessionGopher is a PowerShell tool that uses WMI to extract saved session information for remote access
-            tools such as WinSCP, PuTTY, SuperPuTTY, FileZilla, and Microsoft Remote Desktop. It can be run remotely or
-            locally.</td>
+        <td>SessionGopher is a PowerShell tool that uses WMI to extract saved session information for remote access tools such as WinSCP, PuTTY, SuperPuTTY, FileZilla, and Microsoft Remote Desktop. It can be run remotely or locally.</td>
     </tr>
     <tr>
         <td><a href="https://github.com/b4rtik/SharpKatz">b4rtik/SharpKatz</a></td>
