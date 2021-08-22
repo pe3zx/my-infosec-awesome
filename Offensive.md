@@ -645,6 +645,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>VBA InlineShapes Payload Generator</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/gloxec/CrossC2">gloxec/CrossC2</a></td>
+        <td>Generate CobaltStrike's cross-platform payload</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/Greenwolf/ntlm_theft">Greenwolf/ntlm_theft</a></td>
         <td>A tool for generating multiple types of NTLMv2 hash theft files by Jacob Wilkin (Greenwolf)</td>
     </tr>
