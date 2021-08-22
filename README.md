@@ -2996,6 +2996,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td><a href="https://github.com/mikedeshazer/bricks">mikedeshazer/bricks</a></td>
         <td>Bricks is a sandbox and instruction manual collection for building smart contract exploits for Ethereum blockchains, designed to help developers think like hackers in a safe, fun environment.</td>
     </tr>
+    <tr>
+        <td><a href="https://github.com/smartbugs/smartbugs">smartbugs/smartbugs</a></td>
+        <td>SmartBugs: A Framework to Analyze Solidity Smart Contracts</td>
+    </tr>
 </table>
 
 ## Vulnerable
