@@ -270,6 +270,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>A protective and Low Level Shellcode Loader the defeats modern EDR systems.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/cube0x0/SharpeningCobaltStrike">cube0x0/SharpeningCobaltStrike</a></td>
+        <td>I realtime v35/40 dotnet compiler for your linux Cobalt Strike C2. New fresh compiled and obfuscated binary for each use</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/DamonMohammadbagher/NativePayload_Tinjection">DamonMohammadbagher/NativePayload_Tinjection</a></td>
         <td>Remote Thread Injection by C#</td>
     </tr>
