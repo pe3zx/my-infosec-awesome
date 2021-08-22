@@ -1741,6 +1741,10 @@ Some tools can be categorized in more than one category. But because the current
         <td><a href="https://github.com/Tylous/SourcePoint">Tylous/SourcePoint</a></td>
         <td>SourcePoint is a C2 profile generator for Cobalt Strike command and control servers designed to ensure evasion.</td>
     </tr>
+    <tr>
+        <td><a href="https://github.com/vestjoe/cobaltstrike_services">vestjoe/cobaltstrike_services</a></td>
+        <td>Running Cobalstrike Teamserver as a Service</td>
+    </tr>
 </table>
 
 ## Exfiltration
