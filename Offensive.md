@@ -808,9 +808,7 @@ Some tools can be categorized in more than one category. But because the current
     </tr>
     <tr>
         <td><a href="https://github.com/411Hall/JAWS">411Hall/JAWS</a></td>
-        <td>JAWS is PowerShell script designed to help penetration testers (and CTFers) quickly identify potential
-            privilege escalation vectors on Windows systems. It is written using PowerShell 2.0 so 'should' run on every
-            Windows version since Windows 7.</td>
+        <td>JAWS is PowerShell script designed to help penetration testers (and CTFers) quickly identify potential privilege escalation vectors on Windows systems. It is written using PowerShell 2.0 so 'should' run on every Windows version since Windows 7.</td>
     </tr>
     <tr>
         <td><a href="https://github.com/antonioCoco/RemotePotato0">antonioCoco/RemotePotato0</a></td>
@@ -859,8 +857,7 @@ Some tools can be categorized in more than one category. But because the current
     </tr>
     <tr>
         <td><a href="https://github.com/hlldz/dazzleUP">hlldz/dazzleUP</a></td>
-        <td>A tool that detects the privilege escalation vulnerabilities caused by misconfigurations and missing updates
-            in the Windows operating systems.</td>
+        <td>A tool that detects the privilege escalation vulnerabilities caused by misconfigurations and missing updates in the Windows operating systems.</td>
     </tr>
     <tr>
         <td><a href="https://github.com/itm4n/PrivescCheck">itm4n/PrivescCheck</a></td>
@@ -869,6 +866,10 @@ Some tools can be categorized in more than one category. But because the current
     <tr>
         <td><a href="https://github.com/liamg/traitor">liamg/traitor</a></td>
         <td>Automatic Linux privesc via exploitation of low-hanging fruit e.g. gtfobins</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/rxwx/spoolsystem">rxwx/spoolsystem</a></td>
+        <td>Print Spooler Named Pipe Impersonation for Cobalt Strike</td>
     </tr>
     <tr>
         <td><a href="https://github.com/sailay1996/delete2SYSTEM">sailay1996/delete2SYSTEM</a></td>
