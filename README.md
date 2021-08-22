@@ -2997,6 +2997,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Bricks is a sandbox and instruction manual collection for building smart contract exploits for Ethereum blockchains, designed to help developers think like hackers in a safe, fun environment.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/nccgroup/GOATCasino">nccgroup/GOATCasino</a></td>
+        <td>This is an intentionally vulnerable smart contract truffle deployment aimed at allowing those interested in smart contract security to exploit a wide variety of issues in a safe environment.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/smartbugs/smartbugs">smartbugs/smartbugs</a></td>
         <td>SmartBugs: A Framework to Analyze Solidity Smart Contracts</td>
     </tr>
