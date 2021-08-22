@@ -2986,7 +2986,7 @@ This repository is created as an online bookmark for useful links, resources and
     </tr>
     <tr>
         <td><a href="https://github.com/cleanunicorn/karl">cleanunicorn/karl</a></td>
-        <td></td>
+        <td>Monitor smart contracts deployed on blockchain and test against vulnerabilities with Mythril</td>
     </tr>
     <tr>
         <td><a href="https://github.com/enzymefinance/oyente">enzymefinance/oyente</a></td>
