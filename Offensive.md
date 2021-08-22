@@ -1219,6 +1219,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>A .NET tool for exporting and importing certificates without touching disk.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/tomcarver16/AmsiHook">tomcarver16/AmsiHook</a></td>
+        <td>AmsiHook is a project I created to figure out a bypass to AMSI via function hooking.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/tokyoneon/chimera">tokyoneon/chimera</a></td>
         <td>Chimera is a (shiny and very hack-ish) PowerShell obfuscation script designed to bypass AMSI and commercial
             antivirus solutions.</td>
