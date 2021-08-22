@@ -889,6 +889,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Automatic Linux privesc via exploitation of low-hanging fruit e.g. gtfobins</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/nccgroup/nccfsas/tree/main/Tools/spoolsystem">nccgroup/ncssfas - SpoolSystem</a></td>
+        <td>SpoolSystem is a CNA script for Cobalt Strike which uses the Print Spooler named pipe impersonation trick to gain SYSTEM privileges.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/rxwx/spoolsystem">rxwx/spoolsystem</a></td>
         <td>Print Spooler Named Pipe Impersonation for Cobalt Strike</td>
     </tr>
