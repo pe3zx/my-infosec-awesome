@@ -791,6 +791,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Hijack Printconfig.dll to execute shellcode</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/S4R1N/ZoomPersistence">S4R1N/ZoomPersistence</a></td>
+        <td>Zoom Persistence Aggressor and Handler</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/slaeryan/MIDNIGHTTRAIN">slaeryan/MIDNIGHTTRAIN</a></td>
         <td>Covert Stage-3 Persistence Framework</td>
     </tr>
