@@ -1400,6 +1400,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>A post-exploitation powershell tool for extracting juicy info from memory.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/RedCursorSecurityConsulting/SharpHashSpray">RedCursorSecurityConsulting/SharpHashSpray</a></td>
+        <td>An execute-assembly compatible tool for spraying local admin hashes on an Active Directory domain.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/ricardojoserf/adfsbrute">ricardojoserf/adfsbrute</a></td>
         <td>A script to test credentials against Active Directory Federation Services (ADFS), allowing password spraying or bruteforce attacks.</td>
     </tr>
