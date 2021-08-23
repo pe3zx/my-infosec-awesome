@@ -3005,6 +3005,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>This is an intentionally vulnerable smart contract truffle deployment aimed at allowing those interested in smart contract security to exploit a wide variety of issues in a safe environment.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/OpenZeppelin/damn-vulnerable-defi">OpenZeppelin/damn-vulnerable-defi</a></td>
+        <td>A set of challenges to hack implementations of DeFi in Ethereum. Featuring flash loans, oracles, governance, NFTs, lending pools, and more!</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/Robsonsjre/FlashloanUsecases">Robsonsjre/FlashloanUsecases</a></td>
         <td>DeFi 201 - Lets hack Flash Loans</td>
     </tr>
