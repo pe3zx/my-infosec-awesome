@@ -2993,6 +2993,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>A guide to smart contract security best practices</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/crytic/slither">crytic/slither</a></td>
+        <td>Static Analyzer for Solidity</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/enzymefinance/oyente">enzymefinance/oyente</a></td>
         <td>An Analysis Tool for Smart Contracts</td>
     </tr>
