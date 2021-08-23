@@ -1630,6 +1630,10 @@ Some tools can be categorized in more than one category. But because the current
             termsrv.dll file.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/iomoath/SharpStrike">iomoath/SharpStrike</a></td>
+        <td>SharpStrike is a post-exploitation tool written in C# that uses either CIM or WMI to query remote systems. It can use provided credentials or the current user's session.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/juliourena/SharpNoPSExec">juliourena/SharpNoPSExec</a></td>
         <td>Get file less command execution for lateral movement.</td>
     </tr>
