@@ -1443,6 +1443,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Refactored & improved CredKing password spraying tool, uses FireProx APIs to rotate IP addresses, stay anonymous, and beat throttling</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/KoreLogicSecurity/wmkick">KoreLogicSecurity/wmkick</a></td>
+        <td>WMkick is a TCP protocol redirector/MITM tool that targets NTLM authentication message flows in WMI (135/tcp) and Powershell-Remoting/WSMan/WinRM (5985/tcp) to capture NetNTLMv2 hashes.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/m0rv4i/SafetyDump">m0rv4i/SafetyDump</a></td>
         <td>Dump stuff without touching disk</td>
     </tr>
