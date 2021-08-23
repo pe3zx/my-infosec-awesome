@@ -3016,6 +3016,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td><a href="https://github.com/smartbugs/smartbugs">smartbugs/smartbugs</a></td>
         <td>SmartBugs: A Framework to Analyze Solidity Smart Contracts</td>
     </tr>
+    <tr>
+        <td><a href="https://ethernaut.openzeppelin.com/">The Ethernaut</a></td>
+        <td>The Ethernaut is a Web3/Solidity based wargame inspired on overthewire.org, played in the Ethereum Virtual Machine. Each level is a smart contract that needs to be 'hacked'.</td>
+    </tr>
 </table>
 
 ## Vulnerable
