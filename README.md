@@ -990,6 +990,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Enumerate S3 buckets via certstream, domain, or keywords</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/RhinoSecurityLabs/cloudgoat">RhinoSecurityLabs/cloudgoat</a></td>
+        <td>CloudGoat is Rhino Security Labs' "Vulnerable by Design" AWS deployment tool</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/RhinoSecurityLabs/pacu">RhinoSecurityLabs/pacu</a></td>
         <td>Rhino Security Labs' AWS penetration testing toolkit</td>
     </tr>
