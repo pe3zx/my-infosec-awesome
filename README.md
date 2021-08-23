@@ -3009,6 +3009,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>An Analysis Tool for Smart Contracts</td>
     </tr>
     <tr>
+        <td><a href="https://eth.build/">ETH.Build</a></td>
+        <td>An Educational Sandbox For Web3... And Much More.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/fravoll/solidity-patterns">fravoll/solidity-patterns</a></td>
         <td>A compilation of patterns and best practices for the smart contract programming language Solidity</td>
     </tr>
