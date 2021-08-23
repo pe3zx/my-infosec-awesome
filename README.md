@@ -3009,6 +3009,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>An Analysis Tool for Smart Contracts</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/fravoll/solidity-patterns">fravoll/solidity-patterns</a></td>
+        <td>A compilation of patterns and best practices for the smart contract programming language Solidity</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/mikedeshazer/bricks">mikedeshazer/bricks</a></td>
         <td>Bricks is a sandbox and instruction manual collection for building smart contract exploits for Ethereum blockchains, designed to help developers think like hackers in a safe, fun environment.</td>
     </tr>
