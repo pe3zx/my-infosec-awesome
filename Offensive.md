@@ -756,6 +756,10 @@ Some tools can be categorized in more than one category. But because the current
             other Windows payloads from memory and runs them with parameters</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/threatexpress/cobaltstrike_payload_generator">threatexpress/cobaltstrike_payload_generator</a></td>
+        <td>Quickly generate every payload type for each listener and optionally host via HTTP.</td>
+    </tr>
+    <tr>
         <td><a href="https//github.com/trustedsec/unicorn">trustedsec/unicorn</a></td>
         <td>Unicorn is a simple tool for using a PowerShell downgrade attack and inject shellcode straight into memory.
             Based on Matthew Graeber's powershell attacks and the powershell bypass technique presented by David Kennedy
