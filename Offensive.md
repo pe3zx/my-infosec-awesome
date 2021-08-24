@@ -1419,6 +1419,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Basic password spraying tool for internal tests and red teaming</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/IlanKalendarov/PyHook">IlanKalendarov/PyHook</a></td>
+        <td>PyHook is an offensive API hooking tool written in python designed to catch various credentials within the API call.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/IlanKalendarov/SharpHook">IlanKalendarov/SharpHook</a></td>
         <td>SharpHook is inspired by the SharpRDPThief project, It uses various API hooks in order to give us the desired credentials.</td>
     </tr>
