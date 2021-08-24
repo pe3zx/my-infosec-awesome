@@ -737,6 +737,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>A polyglot payload generator</td>
     </tr>
     <tr>
+        <td><a href="https://www.revshells.com/">Reverse Shell Generator</a></td>
+        <td>Reverse Shell Generator</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/s0lst1c3/dropengine">s0lst1c3/dropengine</a></td>
         <td>DropEngine provides a malleable framework for creating shellcode runners, allowing operators to choose from a selection of components and combine them to create highly sophisticated payloads within seconds.DropEngine provides a malleable framework for creating shellcode runners, allowing operators to choose from a selection of components and combine them to create highly sophisticated payloads within seconds.DropEngine provides a malleable framework for creating shellcode runners, allowing operators to choose from a selection of components and combine them to create highly sophisticated payloads within seconds.</td>
     </tr>
