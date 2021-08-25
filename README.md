@@ -585,6 +585,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>flare-emu marries a supported binary analysis framework, such as IDA Pro or Radare2, with Unicorns emulation framework to provide the user with an easy to use and flexible interface for scripting emulation tasks.</td>
     </tr>
     <tr>
+        <td><a href="https://www.fibratus.io/">fibratus</a></td>
+        <td>A modern tool for the Windows kernel exploration and observability</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/fireeye/capa">fireeye/capa</a></td>
         <td>capa detects capabilities in executable files. You run it against a PE file or shellcode and it tells you what it thinks the program can do. For example, it might suggest that the file is a backdoor, is capable of installing services, or relies on HTTP to communicate.</td>
     </tr>
