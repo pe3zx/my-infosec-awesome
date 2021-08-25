@@ -332,6 +332,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Simple PoC demonstrating syscall execution in C#</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/jfmaes/Invoke-DLLClone">jfmaes/Invoke-DLLClone</a></td>
+        <td>Koppeling x Metatwin x LazySign</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/jfmaes/SharpZipRunner">jfmaes/SharpZipRunner</a></td>
         <td>Executes position independent shellcode from an encrypted zip</td>
     </tr>
