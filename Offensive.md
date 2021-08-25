@@ -1178,7 +1178,6 @@ Some tools can be categorized in more than one category. But because the current
         <td><a href="https://github.com/mdsecactivebreach/firewalker">mdsecactivebreach/firewalker</a></td>
         <td>This repo contains a simple library which can be used to add FireWalker hook bypass capabilities to existing code</td>
     </tr>
- 
     <tr>
         <td><a href="https://github.com/med0x2e/NoAmci">med0x2e/NoAmci</a></td>
         <td>Using DInvoke to patch AMSI.dll in order to bypass AMSI detections triggered when loading .NET tradecraft via Assembly.Load().</td>
@@ -1190,6 +1189,10 @@ Some tools can be categorized in more than one category. But because the current
     <tr>
         <td><a href="https://github.com/mgeeky/Stracciatella">mgeeky/Stracciatella</a></td>
         <td>OpSec-safe Powershell runspace from within C# (aka SharpPick) with AMSI, Constrained Language Mode and Script Block Logging disabled at startup</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/MinervaLabsResearch/CoffeeShot">MinervaLabsResearch/CoffeeShot</a></td>
+        <td>CoffeeShot: Avoid Detection with Memory Injection</td>
     </tr>
     <tr>
         <td><a href="https://github.com/nccgroup/demiguise">nccgroup/demiguise</a></td>
