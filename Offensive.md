@@ -109,6 +109,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>goddi (go dump domain info) dumps Active Directory domain information</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/optiv/Registry-Recon">optiv/Registry-Recon</a></td>
+        <td>Cobalt Strike Aggressor Script that Performs System/AV/EDR Recon</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/outflanknl/Recon-AD">outflanknl/Recon-AD</a></td>
         <td>Recon-AD, an AD recon tool based on ADSI and reflective DLL’s</td>
     </tr>
