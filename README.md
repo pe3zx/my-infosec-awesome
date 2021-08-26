@@ -3057,6 +3057,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>A set of challenges to hack implementations of DeFi in Ethereum. Featuring flash loans, oracles, governance, NFTs, lending pools, and more!</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/raineorshine/solgraph">raineorshine/solgraph</a></td>
+        <td>Visualize Solidity control flow for smart contract security analysis. 💵 ⇆ 💵</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/Robsonsjre/FlashloanUsecases">Robsonsjre/FlashloanUsecases</a></td>
         <td>DeFi 201 - Lets hack Flash Loans</td>
     </tr>
