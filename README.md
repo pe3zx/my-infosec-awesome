@@ -3041,6 +3041,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>A compilation of patterns and best practices for the smart contract programming language Solidity</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/IC3Hydra/Hydra">IC3Hydra/Hydra</a></td>
+        <td>Framework for cryptoeconomic contract security, decentralized security bounties. Live on Ethereum.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/mikedeshazer/bricks">mikedeshazer/bricks</a></td>
         <td>Bricks is a sandbox and instruction manual collection for building smart contract exploits for Ethereum blockchains, designed to help developers think like hackers in a safe, fun environment.</td>
     </tr>
