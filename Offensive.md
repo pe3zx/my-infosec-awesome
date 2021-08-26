@@ -1025,6 +1025,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Enumerating and removing kernel callbacks using signed vulnerable drivers</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/burrowers/garble">burrowers/garble</a></td>
+        <td>Obfuscate Go builds</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/c0de90e7/GhostWriting">c0de90e7/GhostWriting</a></td>
         <td>GhostWriting Injection Technique.</td>
     </tr>
