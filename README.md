@@ -1785,6 +1785,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td><b>Description</b></td>
     </tr>
     <tr>
+        <td><a href="https://github.com/tothi/usbgadget-tool">tothi/usbgadget-tool</a></td>
+        <td>Dumb USB HID gadget creator for Android (for triggering device driver install on Windows for LPE)</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/ufrisk/pcileech">ufrisk/pcileech</a></td>
         <td>Direct Memory Access (DMA) Attack Software</td>
     </tr>
