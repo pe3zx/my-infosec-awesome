@@ -538,8 +538,11 @@ Some tools can be categorized in more than one category. But because the current
     </tr>
     <tr>
         <td><a href="https://github.com/mobdk/Sigma">mobdk/Sigma</a></td>
-        <td>Execute shellcode with ZwCreateSection, ZwMapViewOfSection, ZwOpenProcess, ZwMapViewOfSection and
-            ZwCreateThreadEx</td>
+        <td>Execute shellcode with ZwCreateSection, ZwMapViewOfSection, ZwOpenProcess, ZwMapViewOfSection and ZwCreateThreadEx</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/mobdk/Upsilon">mobdk/Upsilon</a></td>
+        <td>Upsilon execute shellcode with syscalls - no API like NtProtectVirtualMemory is used</td>
     </tr>
     <tr>
         <td><a href="https://github.com/monoxgas/sRDI">monoxgas/sRDI</a></td>
