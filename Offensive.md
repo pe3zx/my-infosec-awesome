@@ -411,6 +411,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Modified version of PEAS client for offensive operations</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/timwhitez/Doge-Loader">timwhitez/Doge-Loader</a></td>
+        <td>🐶Cobalt Strike Shellcode Loader by Golang</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/TheCruZ/kdmapper">TheCruZ/kdmapper</a></td>
         <td>KDMapper is a simple tool that exploits iqvw64e.sys Intel driver to manually map non-signed drivers in memory</td>
     </tr>
