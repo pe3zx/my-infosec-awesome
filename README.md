@@ -203,7 +203,7 @@ This repository is created as an online bookmark for useful links, resources and
     </tr>
     <tr>
         <td><a href="https://github.com/securityriskadvisors/vectr">securityriskadvisors/vectr</a></td>
-        <td></td>
+        <td>VECTR is a tool that facilitates tracking of your red and blue team testing activities to measure detection and prevention capabilities across different attack scenarios</td>
     </tr>
 </table>
 
