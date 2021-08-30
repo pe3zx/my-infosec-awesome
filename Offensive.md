@@ -778,6 +778,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>BoobSnail allows generating Excel 4.0 XLM macro. Its purpose is to support the RedTeam and BlueTeam in XLM macro generation.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/t3hbb/NSGenCS">t3hbb/NSGenCS</a></td>
+        <td>Extendable payload obfuscation and delivery framework</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/TheWover/donut">TheWover/donut</a></td>
         <td>Generates x86, x64, or AMD64+x86 position-independent shellcode that loads .NET Assemblies, PE files, and
             other Windows payloads from memory and runs them with parameters</td>
