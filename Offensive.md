@@ -541,6 +541,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Collection of DLL function export forwards for DLL export function proxying</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/mgeeky/ElusiveMice">mgeeky/ElusiveMice</a></td>
+        <td>Cobalt Strike User-Defined Reflective Loader with AV/EDR Evasion in mind</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/mobdk/Sigma">mobdk/Sigma</a></td>
         <td>Execute shellcode with ZwCreateSection, ZwMapViewOfSection, ZwOpenProcess, ZwMapViewOfSection and ZwCreateThreadEx</td>
     </tr>
