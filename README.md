@@ -3089,6 +3089,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td><a href="https://github.com/appsecco/VyAPI">appsecco/VyAPI</a></td>
         <td>VyAPI - A cloud based vulnerable hybrid Android App</a></td>
     </tr>
+    <tr>
+        <td><a href="https://github.com/atxsinn3r/VulnCases">atxsinn3r/VulnCases</a></td>
+        <td>Vulnerability examples.</td>
+    </tr>
 	<tr>
 		<td><a href="https://github.com/AutomatedLab/AutomatedLab">AutomatedLab/AutomatedLab</a></td>
 		<td>AutomatedLab is a provisioning solution and framework that lets you deploy complex labs on HyperV and Azure with simple PowerShell scripts. It supports all Windows operating systems from 2008 R2 to 2016 including Nano Server and various products like AD, Exchange, PKI, IIS, etc.</td>
