@@ -1170,6 +1170,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Free Forensics Tool – \$I File Parser</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/3CORESec/Automata">3CORESec/Automata</a></td>
+        <td>Automatic detection engineering technical state compliance</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/activecm/BeaKer">activecm/BeaKer</a></td>
         <td>Beacon Kibana Executable Report. Aggregates Sysmon Network Events With Elasticsearch and Kibana</td>
     </tr>
