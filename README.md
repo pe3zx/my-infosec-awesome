@@ -1982,6 +1982,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>RunPE (aka Process Hollowing) is a well known technique allowing to injecting a new PE into a remote processes, imprersonating this process. The given implementation works for PE 32bit as well as 64bit.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/hasherezade/mal_unpack">hasherezade/mal_unpack</a></td>
+        <td>Dynamic unpacker based on PE-sieve</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/hasherezade/pe-sieve">hasherezade/pe-sieve</a></td>
         <td>Scans a given process, searching for the modules containing in-memory code modifications. When found, it dumps the modified PE.</td>
     </tr>
