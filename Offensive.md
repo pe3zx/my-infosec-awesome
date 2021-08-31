@@ -1776,6 +1776,10 @@ Some tools can be categorized in more than one category. But because the current
             O365 services.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/bashexplode/cs2webconfig">bashexplode/cs2webconfig</a></td>
+        <td>Convert Cobalt Strike profiles to IIS web.config files</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/bats3c/shad0w">bats3c/shad0w</a></td>
         <td>SHAD0W is a modular C2 framework designed to successfully operate on mature environments.</td>
     </tr>
