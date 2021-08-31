@@ -282,13 +282,16 @@ Some tools can be categorized in more than one category. But because the current
         <td>I realtime v35/40 dotnet compiler for your linux Cobalt Strike C2. New fresh compiled and obfuscated binary for each use</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/D00MFist/Go4aRun">D00MFist/Go4aRun</a></td>
+        <td>Shellcode runner in GO that incorporates shellcode encryption, remote process injection, block dlls, and spoofed parent process</td>
+    </tr> 
+    <tr>
         <td><a href="https://github.com/DamonMohammadbagher/NativePayload_Tinjection">DamonMohammadbagher/NativePayload_Tinjection</a></td>
         <td>Remote Thread Injection by C#</td>
     </tr>
     <tr>
-        <td><a href="https://github.com/D00MFist/Go4aRun">D00MFist/Go4aRun</a></td>
-        <td>Shellcode runner in GO that incorporates shellcode encryption, remote process injection, block dlls, and
-            spoofed parent process</td>
+        <td><a href="https://github.com/darkr4y/geacon">darkr4y/geacon</a></td>
+        <td>Practice Go programming and implement CobaltStrike's Beacon in Go</td>
     </tr>
     <tr>
         <td><a href="https://github.com/dtrizna/easy-hollow">dtrizna/easy-hollow</a></td>
