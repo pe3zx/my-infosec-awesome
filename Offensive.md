@@ -72,6 +72,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Iterative AD discovery toolkit for offensive operations</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/EspressoCake/Process_Protection_Level_BOF">EspressoCake/Process_Protection_Level_BOF</a></td>
+        <td>A Syscall-only BOF file intended to grab process protection attributes, limited to a handful that Red Team operators and pentesters would commonly be interested in.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/fashionproof/CheckSafeBoot">fashionproof/CheckSafeBoot</a></td>
         <td>I used this to see if an EDR is running in Safe Mode</td>
     </tr>
