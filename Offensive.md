@@ -1922,6 +1922,10 @@ Some tools can be categorized in more than one category. But because the current
         <td><a href="https://github.com/vestjoe/cobaltstrike_services">vestjoe/cobaltstrike_services</a></td>
         <td>Running Cobalstrike Teamserver as a Service</td>
     </tr>
+    <tr>
+        <td><a href="https://github.com/X-C3LL/wfp-reader">X-C3LL/wfp-reader</a></td>
+        <td>Proof of concept - Covert Channel using Windows Filtering Platform (C#)</td>
+    </tr>
 </table>
 
 ## Exfiltration
