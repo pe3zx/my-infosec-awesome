@@ -807,6 +807,10 @@ Some tools can be categorized in more than one category. But because the current
             Based on Matthew Graeber's powershell attacks and the powershell bypass technique presented by David Kennedy
             (TrustedSec) and Josh Kelly at Defcon 18.</td>
     </tr>
+    <tr>
+        <td><a href="https://github.com/Wra7h/Single-Dose">Wra7h/Single-Dose</a></td>
+        <td>Generate process injection binaries</td>
+    </tr>
 </table>
 
 ## Persistence
