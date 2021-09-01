@@ -939,6 +939,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Privilege Escalation Enumeration Script for Windows</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/jacob-baines/concealed_position">jacob-baines/concealed_position</a></td>
+        <td>Bring your own print driver privilege escalation tool</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/liamg/traitor">liamg/traitor</a></td>
         <td>Automatic Linux privesc via exploitation of low-hanging fruit e.g. gtfobins</td>
     </tr>
