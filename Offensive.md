@@ -1488,6 +1488,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>SharpHook is inspired by the SharpRDPThief project, It uses various API hooks in order to give us the desired credentials.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/iomoath/SharpSpray">iomoath/SharpSpray</a></td>
+        <td>Active Directory password spraying tool. Auto fetches user list and avoids potential lockouts.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/itm4n/PPLdump">itm4n/PPLdump</a></td>
         <td>Dump the memory of a PPL with a userland exploit</td>
     </tr>
