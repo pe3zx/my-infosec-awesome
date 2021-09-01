@@ -1257,6 +1257,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Injects HTML/PHP/ASP to the PE</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/outflanknl/TamperETW">outflanknl/TamperETW</a></td>
+        <td>PoC to demonstrate how CLR ETW events can be tampered.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/peewpw/Invoke-PSImage">peewpw/Invoke-PSImage</a></td>
         <td>Embeds a PowerShell script in the pixels of a PNG file and generates a oneliner to execute</td>
     </tr>
