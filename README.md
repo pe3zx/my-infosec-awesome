@@ -1262,6 +1262,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Open EDR public repository</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/countercept/chainsaw">countercept/chainsaw</a></td>
+        <td>Rapidly Search and Hunt through Windows Event Logs</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/CrowdStrike/automactc">CrowdStrike/automactc</a></td>
         <td>AutoMacTC: Automated Mac Forensic Triage Collector</td>
     </tr>
