@@ -990,6 +990,10 @@ Some tools can be categorized in more than one category. But because the current
             intrusion.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/airzero24/WMIReg">airzero24/WMIReg</a></td>
+        <td>PoC to interact with local/remote registry hives through WMI</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/AnErrupTion/LoGiC.NET">AnErrupTion/LoGiC.NET</a></td>
         <td>A more advanced free and open .NET obfuscator using dnlib.</td>
     </tr>
