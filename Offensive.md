@@ -1957,6 +1957,10 @@ Some tools can be categorized in more than one category. But because the current
         <td><a href="https://github.com/X-C3LL/wfp-reader">X-C3LL/wfp-reader</a></td>
         <td>Proof of concept - Covert Channel using Windows Filtering Platform (C#)</td>
     </tr>
+    <tr>
+        <td><a href="https://github.com/zerosum0x0/koadic">zerosum0x0/koadic</a></td>
+        <td>Koadic C3 COM Command & Control - JScript RAT</td>
+    </tr>
 </table>
 
 ## Exfiltration
