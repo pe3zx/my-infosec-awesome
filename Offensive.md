@@ -1308,6 +1308,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Hunting for Malicious Strings</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/S1ckB0y1337/TokenPlayer">S1ckB0y1337/TokenPlayer</a></td>
+        <td>Manipulating and Abusing Windows Access Tokens.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/secretsquirrel/SigThief">secretsquirrel/SigThief</a></td>
         <td>Stealing Signatures and Making One Invalid Signature at a Time</td>
     </tr>
