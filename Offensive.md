@@ -270,8 +270,11 @@ Some tools can be categorized in more than one category. But because the current
     </tr>
    <tr>
         <td><a href="https://github.com/Cn33liz/p0wnedShell">Cn33liz/p0wnedShell</a></td>
-        <td>p0wnedShell is an offensive PowerShell host application written in C# that does not rely on powershell.exe
-            but runs powershell commands and functions within a powershell runspace environment (.NET)</td>
+        <td>p0wnedShell is an offensive PowerShell host application written in C# that does not rely on powershell.exe but runs powershell commands and functions within a powershell runspace environment (.NET)</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/Cn33liz/StarFighters">Cn33liz/StarFighters</a></td>
+        <td>A JavaScript and VBScript Based Empire Launcher, which runs within their own embedded PowerShell Host.</td>
     </tr>
     <tr>
         <td><a href="https://github.com/cribdragg3r/Alaris">cribdragg3r/Alaris</a></td>
