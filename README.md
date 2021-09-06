@@ -1666,6 +1666,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>process-forest is a tool that processes Microsoft Windows EVTX event logs that contain process accounting events and reconstructs the historical process heirarchies.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/XForceIR/SideLoadHunter">XForceIR/SideLoadHunter</a></td>
+        <td>SideLoadHunter is a PowerShell script and Sysmon configuration designed to aide defenders and incident responders identify evidence of DLL sideloading on Windows systems.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/yampelo/beagle">yampelo/beagle</a></td>
         <td>Beagle is an incident response and digital forensics tool which transforms security logs and data into graphs.</td>
     </tr>
