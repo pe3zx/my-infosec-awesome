@@ -3173,7 +3173,11 @@ This repository is created as an online bookmark for useful links, resources and
         <td><a href="https://github.com/dolevf/Damn-Vulnerable-GraphQL-Application">dolevf/Damn-Vulnerable-GraphQL-Application</a></td>
         <td>Damn Vulnerable GraphQL Application is an intentionally vulnerable implementation of Facebook's GraphQL technology, to learn and practice GraphQL Security.</td>
     </tr>
-   <tr>
+    <tr>
+        <td><a href="https://github.com/Flangvik/DeployPrinterNightmare">Flangvik/DeployPrinterNightmare</a></td>
+        <td>C# tool for installing a shared network printer abusing the PrinterNightmare bug to allow other network machines easy privesc!</td>
+    </tr>
+    <tr>
         <td><a href="https//github.com/globocom/secDevLabs">globocom/secDevLabs</a></td>
         <td>A laboratory for learning secure web and mobile development in a practical manner.</td>
     </tr>
