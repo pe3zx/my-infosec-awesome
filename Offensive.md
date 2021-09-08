@@ -380,6 +380,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>C# Reflective loader for unmanaged binaries.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/NtRaiseHardError/NINA">NtRaiseHardError/NINA</a></td>
+        <td>NINA: No Injection, No Allocation x64 Process Injection Technique</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/NVISOsecurity/blogposts/tree/master/MaraudersMap">NVISOsecurity Marauders Map</a></td>
         <td>The Marauders Map is meant to be used on assessments where you have gained GUI access to an enviornment. The Marauders Map is a DLL written in C#, enriched by the DllExport project to export functions that can serve as an entrypoint of invocation for unmanaged code such as rundll32.</td>
     </tr>
