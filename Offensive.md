@@ -416,6 +416,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Executes Blended Managed/Unmanged Exports</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/SecIdiot/TitanLdr">SecIdiot/TitanLdr</a></td>
+        <td>Titan: A crappy Reflective Loader written in C and assembly for Cobalt Strike. Redirects DNS Beacon over DoH</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/sh4hin/GoPurple">sh4hin/GoPurple</a></td>
         <td>Yet another shellcode runner consists of different techniques for evaluating detection capabilities of
             endpoint security solutions</td>
