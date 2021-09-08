@@ -1208,6 +1208,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Enumerate and disable common sources of telemetry used by AV/EDR.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/Kara-4search/FullDLLUnhooking_CSharp">Kara-4search/FullDLLUnhooking_CSharp</a></td>
+        <td>Unhook DLL via cleaning the DLL 's .text section</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/karttoon/trigen">karttoon/trigen</a></td>
         <td>Trigen is a Python script which uses different combinations of Win32 function calls in generated VBA to execute shellcode.</td>
     </tr>
