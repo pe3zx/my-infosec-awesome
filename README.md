@@ -1626,6 +1626,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Query and report user logons relations from MS Windows Security Events</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/threathunters-io/laurel">threathunters-io/laurel</a></td>
+        <td>Transform Linux Audit logs for SIEM usage</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/TobySalusky/cont3xt">TobySalusky/cont3xt</a></td>
         <td>Cont3xt intends to centralize and simplify a structured approach to gathering contextual intelligence in support of technical investigations.</td>
     </tr>
