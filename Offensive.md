@@ -830,6 +830,10 @@ Some tools can be categorized in more than one category. But because the current
         <td><a href="https://github.com/Wra7h/Single-Dose">Wra7h/Single-Dose</a></td>
         <td>Generate process injection binaries</td>
     </tr>
+    <tr>
+        <td><a href="https://github.com/X-C3LL/xlsxPoison">X-C3LL/xlsxPoisoN</a></td>
+        <td>Just a PoC to turn xlsx (regular Excel files) into xlsm (Excel file with macro) and slipping inside a macro (vbaProject.bin)</td>
+    </tr>
 </table>
 
 ## Persistence
