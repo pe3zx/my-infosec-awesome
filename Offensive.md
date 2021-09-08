@@ -244,6 +244,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Cobalt Strike User-Defined Reflective Loader written in Assembly & C for advanced evasion capabilities.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/boku7/winx64-InjectAllProcessesMeterpreter-Shellcode">boku7/winx64-InjectAllProcessesMeterpreter-Shellcode</a></td>
+        <td>64bit Windows 10 shellcode that injects all processes with Meterpreter reverse shells.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/bytecode77/self-morphing-csharp-binary">bytecode77/self-morphing-csharp-binary</a></td>
         <td>Executable that mutates its own code</td>
     </tr>
