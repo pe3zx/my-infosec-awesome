@@ -433,6 +433,10 @@ Some tools can be categorized in more than one category. But because the current
             endpoint security solutions</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/snovvcrash/NimHollow">snovvcrash/NimHollow</a></td>
+        <td>Nim implementation of Process Hollowing using syscalls (for educational purposes)</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/snovvcrash/peas">snovvcrash/peas</a></td>
         <td>Modified version of PEAS client for offensive operations</td>
     </tr>
