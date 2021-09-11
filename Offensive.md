@@ -748,6 +748,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Infection vector that bypasses AV, IDS, and IPS. (For now...)</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/lockedbyte/CVE-2021-40444">lockedbyte/CVE-2021-40444</a></td>
+        <td>Malicious docx generator to exploit CVE-2021-40444 (Microsoft Office Word Remote Code Execution)</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/mdsecactivebreach/SharpShooter">mdsecactivebreach/SharpShooter</a></td>
         <td>SharpShooter is a payload creation framework for the retrieval and execution of arbitrary CSharp source
             code.</td>
