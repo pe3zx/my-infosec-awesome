@@ -603,6 +603,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Elf binary infector written in Golang</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/SheLLVM/SheLLVM">SheLLVM/SheLLVM</a></td>
+        <td>A collection of LLVM transform and analysis passes to write shellcode in regular C</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/stephenfewer/ReflectiveDLLInjection">stephenfewer/ReflectiveDLLInjection</a>
         </td>
         <td>Reflective DLL injection is a library injection technique in which the concept of reflective programming is
