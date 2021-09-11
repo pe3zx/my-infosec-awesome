@@ -629,6 +629,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>A Trace Explorer for Reverse Engineers</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/GaloisInc/reopt">GaloisInc/reopt</a></td>
+        <td>A tool for analyzing x86-64 binaries.</td>
+    </tr>
+    <tr>
         <td><a href="https://ghidra-sre.org/">GHIDRA</a></td>
         <td>A software reverse engineering (SRE) suite of tools developed by NSA's Research Directorate in support of the Cybersecurity mission</td>
     </tr>
