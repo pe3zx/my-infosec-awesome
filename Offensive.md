@@ -1870,6 +1870,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>ARTi-C2 is a post-exploitation framework used to execute Atomic Red Team test cases with rapid payload deployment and execution capabilities via .NET's DLR.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/boku7/azureOutlookC2">boku7/azureOutlookC2</a></td>
+        <td>Azure Outlook Command & Control (C2) - Remotely control a compromised Windows Device from your Outlook mailbox. Threat Emulation Tool for North Korean APT InkySquid / ScarCruft / APT37. TTP: Use Microsoft Graph API for C2 Operations.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/byt3bl33d3r/SILENTTRINITY">byt3bl33d3r/SILENTTRINITY</a></td>
         <td>An asynchronous, collaborative post-exploitation agent powered by Python and .NET's DLR</td>
     </tr>
