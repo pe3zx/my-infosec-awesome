@@ -1280,6 +1280,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>CoffeeShot: Avoid Detection with Memory Injection</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/m0rv4i/Ridgway">m0rv4i/Ridgway</a></td>
+        <td>A quick tool for hiding a new process running shellcode.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/nccgroup/demiguise">nccgroup/demiguise</a></td>
         <td>HTA encryption tool for RedTeams</td>
     </tr>
