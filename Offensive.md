@@ -1794,6 +1794,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Maximizing BloodHound. Max is a good boy.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/mez-0/winrmdll">mez-0/winrmdll</a></td>
+        <td>C++ WinRM API via Reflective DLL</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/Mr-Un1k0d3r/SCShell">Mr-Un1k0d3r/SCShell</a></td>
         <td>Fileless lateral movement tool that relies on ChangeServiceConfigA to run command</td>
     </tr>
