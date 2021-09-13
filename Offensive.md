@@ -1368,6 +1368,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>C# port of LogServiceCrash</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/SolomonSklash/SleepyCrypt">SolomonSklash/SleepyCrypt</a></td>
+        <td>A shellcode function to encrypt a running process image when sleeping.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/the-xentropy/xencrypt">the-xentropy/xencrypt</a></td>
         <td>A PowerShell script anti-virus evasion tool</td>
     </tr>
