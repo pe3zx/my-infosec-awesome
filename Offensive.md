@@ -2039,6 +2039,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>A wanna be swiss army knife for data encryption, exfiltration and covert communication.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/Flangvik/SharpExfiltrate">Flangvik/SharpExfiltrate</a></td>
+        <td>Modular C# framework to exfiltrate loot over secure and trusted channels.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/hackerschoice/gsocket">hackerschoice/gsocket</a></td>
         <td>Global Socket. Moving data from here to there. Securely, Fast and trough NAT/Firewalls</td>
     </tr>
