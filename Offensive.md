@@ -599,6 +599,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>This repository is an implementation of process hollowing shellcode injection using DInvoke from SharpSploit. DInvoke allows operators to use unmanaged code while avoiding suspicious imports or API hooking.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/richkmeli/Richkware">richkmeli/Richkware</a></td>
+        <td>Framework for building Windows malware, written in C++</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/sad0p/d0zer">sad0p/d0zer</a></td>
         <td>Elf binary infector written in Golang</td>
     </tr>
