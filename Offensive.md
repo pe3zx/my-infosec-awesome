@@ -1603,6 +1603,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Farmer is a project for collecting NetNTLM hashes in a Windows domain. Farmer achieves this by creating a local WebDAV server that causes the WebDAV Mini Redirector to authenticate from any connecting clients.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/mobdk/CopyCat">mobdk/CopyCat</a></<td>
+        <td>Simple rapper for Mimikatz, bypass Defender</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/nidem/kerberoast">nidem/kerberoast</a></td>
         <td>Kerberoast is a series of tools for attacking MS Kerberos implementations. Below is a brief overview of what
             each tool does.</td>
