@@ -830,6 +830,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Azure Red Team tool for graphing Azure and Azure Active Directory objects</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/BishopFox/iam-vulnerable">BishopFox/iam-vulnerable</a></td>
+        <td>Use Terraform to create your own vulnerable by design AWS IAM privilege escalation playground.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/BishopFox/smogcloud">BishopFox/smogcloud</a></td>
         <td>Find cloud assets that no one wants exposed</td>
     </tr>
