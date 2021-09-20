@@ -894,6 +894,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Multi-threaded AWS inventory collection tool with a focus on security-relevant resources and metadata.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/darkquasar/AzureHunter">darkquasar/AzureHunter</a></td>
+        <td>A Cloud Forensics Powershell module to run threat hunting playbooks on data from Azure and O365</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/disruptops/cred_scanner">disruptops/cred_scanner</a></td>
         <td>A simple file-based scaner to look for potential AWS accesses and secret keys in files</td>
     </tr>
