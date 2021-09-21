@@ -1474,6 +1474,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>A set of Zeek scripts to detect ATT&CK techniques.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/monnappa22/HollowFind">monnappa22/HollowFind</a></td>
+        <td>Hollowfind is a Volatility plugin to detect different types of process hollowing techniques used in the wild to bypass, confuse, deflect and divert the forensic analysis techniques. The plugin detects such attacks by finding discrepancy in the VAD and PEB, it also disassembles the address of entry point to detect any redirection attempts and als…</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/mozilla/audit-go">mozilla/audit-go</a></td>
         <td>Linux Audit Plugin for heka written using netlink Protocol in golang and Lua</td>
     </tr>
