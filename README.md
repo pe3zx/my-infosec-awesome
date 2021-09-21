@@ -3044,6 +3044,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>CredSniper is a phishing framework written with the Python micro-framework Flask and Jinja2 templating which supports capturing 2FA tokens.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/xiecat/goblin">xiecat/goblin</a></td>
+        <td>Goblin for Phishing Exercise Tools</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/Yaxser/SharpPhish">Yaxser/SharpPhish</a></td>
         <td>Using outlook COM objects to create convincing phishing emails without the user noticing. This project is meant for internal phishing.</td>
     </tr>
