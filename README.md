@@ -344,6 +344,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Reverse-engineer a Dockerfile from a Docker image.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/lelinhtinh/de4js">lelinhtinh/de4js</a></td>
+        <td>JavaScript Deobfuscator and Unpacker</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/mazen160/bfac">mazen160/bfac</a></td>
         <td>BFAC (Backup File Artifacts Checker): An automated tool that checks for backup artifacts that may disclose the web-application's source code.</td>
     </tr>
