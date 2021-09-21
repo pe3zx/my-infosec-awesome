@@ -2301,6 +2301,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td><a href="https://threatshare.io/">ThreatShare</a></td>
         <td>ThreatShare is an advanced threat tracker that publicly tracks command & control servers for malware.</td>
     </tr>
+    <tr>
+        <td><a href="https://github.com/tklengyel/drakvuf">tklengyel/drakvuf</a></td>
+        <td>DRAKVUF Black-box Binary Analysis</td>
+    </tr>
 	<tr>
 		<td><a href="https://github.com/tomchop/malcom">tomchop/malcom</a></td>
 		<td>Malcom - Malware Communications Analyzer</td>
