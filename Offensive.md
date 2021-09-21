@@ -1220,6 +1220,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Slides and reference material from Evading Autoruns presentation at DerbyCon 7 (September 2017)</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/iomoath/PowerShx">iomoath/PowerShx</a></td>
+        <td>Run Powershell without software restrictions.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/jason-klein/signed-nsis-exe-append-payload">jason-klein/signed-nsis-exe-append-payload</a></td>
         <td>Append a custom data payload to a digitally signed NSIS .exe installer</td>
     </tr>
