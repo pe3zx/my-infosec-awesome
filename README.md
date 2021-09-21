@@ -109,10 +109,6 @@ This repository is created as an online bookmark for useful links, resources and
         <td><a href="https://github.com/lawrenceamer/0xsp-Mongoose">lawrenceamer/0xsp-Mongoose</a></td>
         <td>a unique framework for cybersecurity simulation and red teaming operations, windows auditing for newer vulnerabilities, misconfigurations and privilege escalations attacks, replicate the tactics and techniques of an advanced adversary in a network.</td>
     </tr>
-     <tr>
-        <td><a href="https://github.com/mdsecactivebreach/CACTUSTORCH">mdsecactivebreach/CACTUSTORCH</a></td>
-        <td>CACTUSTORCH: Payload Generation for Adversary Simulations</td>
-    </tr>
     <tr>
         <td><a href="https://github.com/microsoft/restler-fuzzer">microsoft/restler-fuzzer</a></td>
         <td>RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services.</td>
@@ -2445,6 +2441,10 @@ This repository is created as an online bookmark for useful links, resources and
     <tr>
         <td><a href="https://github.com/RealityNet/kobackupdechttps://github.com/RealityNet/kobackupdec">RealityNet/kobackupdec</a></td>
         <td>Huawei backup decryptor</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/securing/IOSSecuritySuite">securing/IOSSecuritySuite</a></td>
+        <td>iOS platform security & anti-tampering Swift library</td>
     </tr>
     <tr>
         <td><a href="https://github.com/sensepost/objection">sensepost/objection</a></td>
