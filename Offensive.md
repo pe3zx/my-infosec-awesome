@@ -1731,6 +1731,10 @@ Some tools can be categorized in more than one category. But because the current
         <td><a href="https://github.com/w1u0u1/minidump">w1u0u1/minidump</a></td>
         <td>Custom implementation of DbgHelp's MiniDumpWriteDump function. Uses static syscalls to replace low-level functions like NtReadVirtualMemory.</td>
     </tr>
+    <tr>
+        <td><a href="https://github.com/zcgonvh/SSMSPwd">zcgonvh/SSMSPwd</a></td>
+        <td>SQL Server Management Studio(SSMS) saved password dumper</td>
+    </tr>
 </table>
 
 ## Lateral Movement
