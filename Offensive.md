@@ -1894,6 +1894,10 @@ Some tools can be categorized in more than one category. But because the current
             O365 services.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/ahmedkhlief/Ninja">ahmedkhlief/Ninja</a></td>
+        <td>Open source C2 server created for stealth red team operations</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/bashexplode/cs2webconfig">bashexplode/cs2webconfig</a></td>
         <td>Convert Cobalt Strike profiles to IIS web.config files</td>
     </tr>
