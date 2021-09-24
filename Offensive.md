@@ -194,6 +194,10 @@ Some tools can be categorized in more than one category. But because the current
         <td><a href="https://github.com/BeetleChunks/SpoolSploit">BeetleChunks/SpoolSploit</a></td>
         <td>A collection of Windows print spooler exploits containerized with other utilities for practical exploitation.</td>
     </tr>
+    <tr>
+        <td><a href="https://github.com/shelld3v/PwnVPN">shelld3v/PwnVPN</a></td>
+        <td>The best exploitation tool for SSL VPN 0day vulnerabilities</td>
+    </tr>
 </table>
 
 ## Execution
