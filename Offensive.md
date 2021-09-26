@@ -1252,6 +1252,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Create fake certs for binaries using windows binaries and the power of bat files</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/jfmaes/sharpbysentinel">jfmaes/sharpbysentinel</a></td>
+        <td>Kill telemetry to sentinel</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/jfmaes/SharpNukeEventLog">jfmaes/SharpNukeEventLog</a></td>
         <td>nuke that event log using some epic dinvoke fu</td>
     </tr>
