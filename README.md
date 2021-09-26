@@ -1290,6 +1290,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Scripts and code referenced in CrowdStrike blog posts</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/CrowdStrike/SuperMem">CrowdStrike/SuperMem</a></td>
+        <td>A python script developed to process Windows memory images based on triage type.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/cryps1s/DARKSURGEON">cryps1s/DARKSURGEON</a></td>
         <td>DARKSURGEON is a Windows packer project to empower incident response, digital forensics, malware analysis, and network defense.</td>
     </tr>
