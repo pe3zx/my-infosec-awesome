@@ -1183,6 +1183,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>PE permutation library</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/dndx/phantun">dndx/phantun</a></td>
+        <td>Transforms UDP stream into (fake) TCP streams that can go through Layer 3 & Layer 4 (NAPT) firewalls/NATs.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/dsnezhkov/zombieant">dsnezhkov/zombieant</a></td>
         <td>Zombie Ant Farm: Primitives and Offensive Tooling for Linux EDR evasion.</td>
     </tr>
