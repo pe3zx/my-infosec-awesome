@@ -1130,6 +1130,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Cobalt Strike BOF - Bypass AMSI in a remote process with code injection.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/boku7/injectEtwBypass?s=09">boku7/injectEtwBypass</a></td>
+        <td>CobaltStrike BOF - Inject ETW Bypass into Remote Process via Syscalls (HellsGate|HalosGate)</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/br-sn/CheekyBlinder">br-sn/CheekyBlinder</a></td>
         <td>Enumerating and removing kernel callbacks using signed vulnerable drivers</td>
     </tr>
