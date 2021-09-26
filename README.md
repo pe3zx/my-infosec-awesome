@@ -3016,6 +3016,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>A proof-of-concept script to conduct a phishing attack abusing Microsoft 365 OAuth Authorization Flow</td>
     </tr>
     <tr>
+        <td><a href="https://wanetty.github.io/tools/pofish">PoFish</a></td>
+        <td>A new docker for phishing (PoFish)</td>
+    </tr>
+    <tr>
         <td><a href="https://pretext-project.github.io/">Pretext Project</a></td>
         <td>Open-Source Collection of Social Engineering Pretexts</td>
     </tr>
