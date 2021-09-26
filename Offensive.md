@@ -1292,6 +1292,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Chameleon is yet another PowerShell obfuscation tool designed to bypass AMSI and commercial antivirus solutions.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/klezVirus/inceptor">klezVirus/inceptor</a></td>
+        <td>Template-Driven AV/EDR Evasion Framework</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/last-byte/unDefender">last-byte/unDefender</a></td>
         <td>Killing your preferred antimalware by abusing native symbolic links and NT paths.</td>
     </tr>
