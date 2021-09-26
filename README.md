@@ -1546,6 +1546,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Open Source HIDS SECurity</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/ovotech/gitoops/">ovotech/gitoops</a></td>
+        <td>GitOops is a tool to help attackers and defenders identify lateral movement and privilege escalation paths in GitHub organizations by abusing CI/CD pipelines and GitHub access controls.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/philhagen/sof-elk">philhagen/sof-elk</a></td>
         <td>Configuration files for the SOF-ELK VM, used in SANS FOR572</td>
     </tr>
