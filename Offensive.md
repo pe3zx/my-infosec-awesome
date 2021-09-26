@@ -358,6 +358,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>C# based tool which automates the process of discovering and exploiting DLL Hijacks in target binaries. The Hijacked paths discovered can later be weaponized during Red Team Operations to evade EDR's.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/knownsec/shellcodeloader">knownsec/shellcodeloader</a></td>
+        <td>ShellcodeLoader of windows can bypass AV.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/mai1zhi2/SharpBeacon">mai1zhi2/SharpBeacon</a></td>
         <td>CobaltStrike Beacon written in .Net 4 用.net重写了stager及Beacon，其中包括正常上线、文件管理、进程管理、令牌管理、结合SysCall进行注入、原生端口转发、关ETW等一系列功能</td>
     </tr>
