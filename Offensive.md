@@ -603,6 +603,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>RDI implementation in Nim</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/ORCA666/EVA3">ORCA666/EVA3</a></td>
+        <td>using hellsgate in EVA to get the syscalls</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/passthehashbrowns/DInvokeProcessHollowing">passthehashbrowns/DInvokeProcessHollowing</a></td>
         <td>This repository is an implementation of process hollowing shellcode injection using DInvoke from SharpSploit. DInvoke allows operators to use unmanaged code while avoiding suspicious imports or API hooking.</td>
     </tr>
