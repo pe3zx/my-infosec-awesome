@@ -1198,6 +1198,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Automatic detection engineering technical state compliance</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/Accenture/docker-plaso">Accenture/docker-plaso</a></td>
+        <td>Docker container for plaso supertimlining tool</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/activecm/BeaKer">activecm/BeaKer</a></td>
         <td>Beacon Kibana Executable Report. Aggregates Sysmon Network Events With Elasticsearch and Kibana</td>
     </tr>
