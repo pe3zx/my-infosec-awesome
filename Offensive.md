@@ -1021,6 +1021,10 @@ Some tools can be categorized in more than one category. But because the current
         <td><a href="https://github.com/TsukiCTF/Lovely-Potato">TsukiCTF/Lovely-Potato</a></td>
         <td>Automating juicy potato local privilege escalation exploit for penetration testers.</td>
     </tr>
+    <tr>
+        <td><a href="https://github.com/thehappydinoa/rootOS">thehappydinoa/rootOS</a></td>
+        <td>macOS Privilege Escalation Helper</td>
+    </tr>
 </table>
 
 ## Defense Evasion
