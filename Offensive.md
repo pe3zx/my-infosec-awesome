@@ -362,6 +362,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>C# based tool which automates the process of discovering and exploiting DLL Hijacks in target binaries. The Hijacked paths discovered can later be weaponized during Red Team Operations to evade EDR's.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/knownsec/shellcodeloader">knownsec/shellcodeloader</a></td>
+        <td>ShellcodeLoader of windows can bypass AV.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/mai1zhi2/SharpBeacon">mai1zhi2/SharpBeacon</a></td>
         <td>CobaltStrike Beacon written in .Net 4 用.net重写了stager及Beacon，其中包括正常上线、文件管理、进程管理、令牌管理、结合SysCall进行注入、原生端口转发、关ETW等一系列功能</td>
     </tr>
@@ -553,6 +557,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>JALSI - Just Another Lame Shellcode Injector</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/GetRektBoy724/TripleS">GetRektBoy724/TripleS</a></td>
+        <td>Syscall Stub Stealer - Freshly steal Syscall stub straight from the disk</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/GoodstudyChina/APC-injection-x86-x64">GoodstudyChina/APC-injection-x86-x64</a>
         </td>
         <td>injdrv is a proof-of-concept Windows Driver for injecting DLL into user-mode processes using APC.</td>
@@ -605,6 +613,10 @@ Some tools can be categorized in more than one category. But because the current
     <tr>
         <td><a href="https://github.com/Moriarty2016/NimRDI">Moriarty2016/NimRDI</a></td>
         <td>RDI implementation in Nim</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/ORCA666/EVA3">ORCA666/EVA3</a></td>
+        <td>using hellsgate in EVA to get the syscalls</td>
     </tr>
     <tr>
         <td><a href="https://github.com/passthehashbrowns/DInvokeProcessHollowing">passthehashbrowns/DInvokeProcessHollowing</a></td>
@@ -1025,6 +1037,10 @@ Some tools can be categorized in more than one category. But because the current
         <td><a href="https://github.com/TsukiCTF/Lovely-Potato">TsukiCTF/Lovely-Potato</a></td>
         <td>Automating juicy potato local privilege escalation exploit for penetration testers.</td>
     </tr>
+    <tr>
+        <td><a href="https://github.com/thehappydinoa/rootOS">thehappydinoa/rootOS</a></td>
+        <td>macOS Privilege Escalation Helper</td>
+    </tr>
 </table>
 
 ## Defense Evasion
@@ -1118,6 +1134,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Cobalt Strike BOF - Bypass AMSI in a remote process with code injection.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/boku7/injectEtwBypass?s=09">boku7/injectEtwBypass</a></td>
+        <td>CobaltStrike BOF - Inject ETW Bypass into Remote Process via Syscalls (HellsGate|HalosGate)</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/br-sn/CheekyBlinder">br-sn/CheekyBlinder</a></td>
         <td>Enumerating and removing kernel callbacks using signed vulnerable drivers</td>
     </tr>
@@ -1177,6 +1197,10 @@ Some tools can be categorized in more than one category. But because the current
     <tr>
         <td><a href="https://github.com/DarthTon/Polychaos">DarthTon/Polychaos</a></td>
         <td>PE permutation library</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/dndx/phantun">dndx/phantun</a></td>
+        <td>Transforms UDP stream into (fake) TCP streams that can go through Layer 3 & Layer 4 (NAPT) firewalls/NATs.</td>
     </tr>
     <tr>
         <td><a href="https://github.com/dsnezhkov/zombieant">dsnezhkov/zombieant</a></td>
@@ -1240,6 +1264,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Create fake certs for binaries using windows binaries and the power of bat files</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/jfmaes/sharpbysentinel">jfmaes/sharpbysentinel</a></td>
+        <td>Kill telemetry to sentinel</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/jfmaes/SharpNukeEventLog">jfmaes/SharpNukeEventLog</a></td>
         <td>nuke that event log using some epic dinvoke fu</td>
     </tr>
@@ -1266,6 +1294,10 @@ Some tools can be categorized in more than one category. But because the current
     <tr>
         <td><a href="https://github.com/klezVirus/chameleon">klezVirus/chameleon</a></td>
         <td>Chameleon is yet another PowerShell obfuscation tool designed to bypass AMSI and commercial antivirus solutions.</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/klezVirus/inceptor">klezVirus/inceptor</a></td>
+        <td>Template-Driven AV/EDR Evasion Framework</td>
     </tr>
     <tr>
         <td><a href="https://github.com/last-byte/unDefender">last-byte/unDefender</a></td>
@@ -1521,6 +1553,10 @@ Some tools can be categorized in more than one category. But because the current
     <tr>
         <td><a href="https://github.com/eladshamir/Internal-Monologue">eladshamir/Internal-Monologue</a></td>
         <td>Internal Monologue Attack: Retrieving NTLM Hashes without Touching LSASS</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/EspressoCake/PPLDump_BOF">EspressoCake/PPLDump_BOF</a></td>
+        <td>A faithful transposition of the key features/functionality of @itm4n's PPLDump project as a BOF.</td>
     </tr>
     <tr>
         <td><a href="https://github.com/fireeye/ADFSpoof">fireeye/ADFSpoof</a></td>

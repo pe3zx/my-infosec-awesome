@@ -1198,6 +1198,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Automatic detection engineering technical state compliance</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/Accenture/docker-plaso">Accenture/docker-plaso</a></td>
+        <td>Docker container for plaso supertimlining tool</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/activecm/BeaKer">activecm/BeaKer</a></td>
         <td>Beacon Kibana Executable Report. Aggregates Sysmon Network Events With Elasticsearch and Kibana</td>
     </tr>
@@ -1288,6 +1292,10 @@ This repository is created as an online bookmark for useful links, resources and
     <tr>
         <td><a href="https://github.com/CrowdStrike/Forensics">CrowdStrike/Forensics</a></td>
         <td>Scripts and code referenced in CrowdStrike blog posts</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/CrowdStrike/SuperMem">CrowdStrike/SuperMem</a></td>
+        <td>A python script developed to process Windows memory images based on triage type.</td>
     </tr>
     <tr>
         <td><a href="https://github.com/cryps1s/DARKSURGEON">cryps1s/DARKSURGEON</a></td>
@@ -1536,6 +1544,10 @@ This repository is created as an online bookmark for useful links, resources and
     <tr>
         <td><a href="https://ossec.github.io/">OSSEC</a></td>
         <td>Open Source HIDS SECurity</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/ovotech/gitoops/">ovotech/gitoops</a></td>
+        <td>GitOops is a tool to help attackers and defenders identify lateral movement and privilege escalation paths in GitHub organizations by abusing CI/CD pipelines and GitHub access controls.</td>
     </tr>
     <tr>
         <td><a href="https://github.com/philhagen/sof-elk">philhagen/sof-elk</a></td>
@@ -3002,6 +3014,10 @@ This repository is created as an online bookmark for useful links, resources and
     <tr>
         <td><a href="https://github.com/optiv/Microsoft365_devicePhish">optiv/Microsoft365_devicePhish</a></td>
         <td>A proof-of-concept script to conduct a phishing attack abusing Microsoft 365 OAuth Authorization Flow</td>
+    </tr>
+    <tr>
+        <td><a href="https://wanetty.github.io/tools/pofish">PoFish</a></td>
+        <td>A new docker for phishing (PoFish)</td>
     </tr>
     <tr>
         <td><a href="https://pretext-project.github.io/">Pretext Project</a></td>
