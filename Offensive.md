@@ -1332,6 +1332,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>SigFlip is a tool for patching authenticode signed PE files (exe, dll, sys ..etc) without invalidating or breaking the existing signature.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/mgeeky/ShellcodeFluctuation">mgeeky/ShellcodeFluctuation</a></td>
+        <td>An in-memory evasion technique fluctuating shellcode memory protection between RW & RX and encrypting/decrypting contents</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/mgeeky/Stracciatella">mgeeky/Stracciatella</a></td>
         <td>OpSec-safe Powershell runspace from within C# (aka SharpPick) with AMSI, Constrained Language Mode and Script Block Logging disabled at startup</td>
     </tr>
@@ -1423,7 +1427,6 @@ Some tools can be categorized in more than one category. But because the current
         <td><a href="https://github.com/secretsquirrel/SigThief">secretsquirrel/SigThief</a></td>
         <td>Stealing Signatures and Making One Invalid Signature at a Time</td>
     </tr>
-    <tr>
         <td><a href="https://github.com/sinfulz/JustEvadeBro">sinfulz/JustEvadeBro</a></td>
         <td>JustEvadeBro, a cheat sheet which will aid you through AMSI/AV evasion & bypasses.</td>
     </tr>
