@@ -1336,6 +1336,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>OpSec-safe Powershell runspace from within C# (aka SharpPick) with AMSI, Constrained Language Mode and Script Block Logging disabled at startup</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/mgeeky/ThreadStackSpoofer">mgeeky/ThreadStackSpoofer</a></td>
+        <td>Thread Stack Spoofing - PoC for an advanced In-Memory evasion technique allowing to better hide injected shellcode's memory allocation from scanners and analysts.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/MinervaLabsResearch/CoffeeShot">MinervaLabsResearch/CoffeeShot</a></td>
         <td>CoffeeShot: Avoid Detection with Memory Injection</td>
     </tr>
