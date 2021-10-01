@@ -2415,6 +2415,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Scanning APK file for URIs, endpoints & secrets.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/facebook/mariana-trench/">facebook/mariana-trench</a></td>
+        <td>Our security focused static analysis tool for Android and Java applications.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/frida/frida">frida/frida</a></td>
         <td>Dynamic instrumentation toolkit for developers, reverse-engineers, and security researchers.</td>
     </tr>
