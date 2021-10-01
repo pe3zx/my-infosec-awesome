@@ -1745,12 +1745,15 @@ Some tools can be categorized in more than one category. But because the current
     </tr>
     <tr>
         <td><a href="https://github.com/SnaffCon/Snaffler">SnaffCon/Snaffler</a></td>
-        <td>Snaffler is a tool for pentesters to help find delicious candy needles (creds mostly, but it's flexible) in
-            a bunch of horrible boring haystacks (a massive Windows/AD environment).</td>
+        <td>Snaffler is a tool for pentesters to help find delicious candy needles (creds mostly, but it's flexible) in a bunch of horrible boring haystacks (a massive Windows/AD environment).</td>
     </tr>
     <tr>
         <td><a href="https://github.com/swisskyrepo/SharpLAPS">swisskyrepo/SharpLAPS</a></td>
         <td>Retrieve LAPS password from LDAP</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/treebuilder/aad-sso-enum-brute-spray">treebuilder/aad-sso-enum-brute-spray</a></td>
+        <td>POC of SecureWorks' recent Azure Active Directory password brute-forcing vuln</td>
     </tr>
     <tr>
         <td><a href="https://github.com/uknowsec/SharpDecryptPwd">uknowsec/SharpDecryptPwd</a></td>
