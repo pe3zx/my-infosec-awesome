@@ -1388,6 +1388,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>PoC to demonstrate how CLR ETW events can be tampered.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/pathtofile/SealighterTI">pathtofile/SealighterTI</a></td>
+        <td>Combining Sealighter with unpatched exploits to run the Threat-Intelligence ETW Provider</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/peewpw/Invoke-PSImage">peewpw/Invoke-PSImage</a></td>
         <td>Embeds a PowerShell script in the pixels of a PNG file and generates a oneliner to execute</td>
     </tr>
