@@ -654,6 +654,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Shellcode implementation of Reflective DLL Injection by Golang. Convert DLLs to position independent shellcode</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/trickster0/OffensiveRust">trickster0/OffensiveRust</a></td>
+        <td>Rust Weaponization for Red Team Engagements.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/r3nhat/XORedReflectiveDLL">r3nhat/XORedReflectiveDLL</a></td>
         <td>Reflective DLL Injection with obfuscated (XOR) shellcode</td>
     </tr>
