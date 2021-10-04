@@ -1220,6 +1220,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Shikata ga nai (仕方がない) encoder ported into go with several improvements</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/EspressoCake/Self_Deletion_BOF">EspressoCake/Self_Deletion_BOF</a></td>
+        <td>BOF implementation of the research by @jonaslyk and the drafted PoC from @LloydLabs</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/FatRodzianko/SharpBypassUAC">FatRodzianko/SharpBypassUAC</a></td>
         <td>C# tool for UAC bypasses</td>
     </tr>
