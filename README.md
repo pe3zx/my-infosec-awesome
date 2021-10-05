@@ -3137,6 +3137,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Framework for cryptoeconomic contract security, decentralized security bounties. Live on Ethereum.</td>
     </tr>
     <tr>
+        <td><a href="https://lossless.cash/">Lossless</a></td>
+        <td>The first DeFi hack mitigation tool for token creators.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/mikedeshazer/bricks">mikedeshazer/bricks</a></td>
         <td>Bricks is a sandbox and instruction manual collection for building smart contract exploits for Ethereum blockchains, designed to help developers think like hackers in a safe, fun environment.</td>
     </tr>
