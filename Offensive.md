@@ -1927,6 +1927,10 @@ Some tools can be categorized in more than one category. But because the current
         <td><a href="https://github.com/tothi/rbcd-attack">tothi/rbcd-attack</a></td>
         <td>Kerberos Resource-Based Constrained Delegation Attack from Outside using Impacket</td>
     </tr>
+    <tr>
+        <td><a href="https://gitlab.com/theepicpowner/dcom_av_exec">theepicpowner/dcom_av_exec</a></td>
+        <td>DCOM_AV_EXEC allows for "diskless" lateral movement to a target on the same network via DCOM. The AV_Bypass_Framework_V3 creates a .NET shellcode runner (output as DLL) which can be used with the DCOM_AV_EXEC tool to bypass antivirus solutions like Microsoft Defender as all shellcode is AES encrypted and executed in memory.</td>
+    </tr>
 </table>
 
 ## Collection
