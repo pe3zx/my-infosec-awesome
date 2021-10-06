@@ -400,6 +400,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Directory/File, DNS and VHost busting tool written in Go</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/OWASP/Nettacker">OWASP/Nettacker</a></td>
+        <td>Automated Penetration Testing Framework - Open-Source Vulnerability Scanner - Vulnerability Management</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/OWASP/wstg">OWASP/wstg</a></td>
         <td>The Web Security Testing Guide is a comprehensive Open Source guide to testing the security of web applications and web services.</td>
     </tr>
