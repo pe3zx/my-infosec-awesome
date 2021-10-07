@@ -2399,6 +2399,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>A tool for reverse engineering Android apk files</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/as0ler/r2flutch">as0ler/r2flutch</a></td>
+        <td>Tool to decrypt iOS apps using r2frida</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/chaitin/passionfruit">chaitin/passionfruit</a></td>
         <td>Simple iOS app blackbox assessment tool. Powered by frida.re and vuejs.</td>
     </tr>
