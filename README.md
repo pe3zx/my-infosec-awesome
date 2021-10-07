@@ -1002,6 +1002,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>A utility to convert your AWS CLI credentials into AWS console access.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/NetSPI/MicroBurst">NetSPI/MicroBurst</a></td>
+        <td>A collection of scripts for assessing Microsoft Azure security</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/NotSoSecure/cloud-service-enum/">NotSoSecure/cloud-service-enum</a></td>
         <td>This script allows pentesters to validate which cloud tokens (API keys, OAuth tokens and more) can access which cloud service.</td>
     </tr>
