@@ -243,6 +243,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>A Simple and Comprehensive Vulnerability Scanner for Container Images, Git Repositories and Filesystems. Suitable for CI</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/ARPSyndicate/kenzer">ARPSyndicate/kenzer</a></td>
+        <td>automated web assets enumeration & scanning</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/barrracud4/image-upload-exploits">barrracud4/image-upload-exploits</a></td>
         <td>This repository contains various media files for known attacks on web applications processing media files. Useful for penetration tests and bug bounty.</td>
     </tr>
