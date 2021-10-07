@@ -3177,6 +3177,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>DeFi 201 - Lets hack Flash Loans</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/sigp/beacon-fuzz">sigp/beacon-fuzz</a></td>
+        <td>Differential Fuzzer for Ethereum 2.0</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/smartbugs/smartbugs">smartbugs/smartbugs</a></td>
         <td>SmartBugs: A Framework to Analyze Solidity Smart Contracts</td>
     </tr>
