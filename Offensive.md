@@ -1646,6 +1646,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Extract credentials from lsass remotely</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/horizon3ai/vcenter_saml_login">horizon3ai/vcenter_saml_login</a></td>
+        <td>A tool to extract the IdP cert from vCenter backups and log in as Administrator</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/HunnicCyber/SharpDomainSpray">HunnicCyber/SharpDomainSpray</a></td>
         <td>Basic password spraying tool for internal tests and red teaming</td>
     </tr>
