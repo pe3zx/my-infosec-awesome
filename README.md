@@ -436,6 +436,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Deserialization payload generator for a variety of .NET formatters</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/quarkslab/kdigger">quarkslab/kdigger</a></td>
+        <td>kdigger is a context discovery tool for Kubernetes penetration testing.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/redphx/localify">redphx/localify</a></td>
         <td>Effectively debug minified JS files</td>
     </tr>
