@@ -677,6 +677,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Converts PE into a shellcode</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/herosi/CTO">herosi/CTO</a></td>
+        <td>Call Tree Overviewer</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/HyperDbg/HyperDbg">HyperDbg/HyperDbg</a></td>
         <td>The Source Code of HyperDbg Debugger 🐞</td>
     </tr>
