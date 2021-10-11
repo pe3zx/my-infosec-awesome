@@ -595,6 +595,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>MappingInjection via csharp</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/Kudaes/DInvoke_rs">Kudaes/DInvoke_rs</a></td>
+        <td>Dynamically invoke arbitrary unmanaged code.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/kyleavery/ThirdEye">kyleavery/ThirdEye</a></td>
         <td>Weaponizing CLRvoyance for Post-Ex .NET Execution</td>
     </tr>
