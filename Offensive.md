@@ -1232,6 +1232,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Shikata ga nai (仕方がない) encoder ported into go with several improvements</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/EspressoCake/Firewall_Walker_BOF">EspressoCake/Firewall_Walker_BOF</a></td>
+        <td>A BOF to interact with COM objects associated with the Windows software firewall.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/EspressoCake/Self_Deletion_BOF">EspressoCake/Self_Deletion_BOF</a></td>
         <td>BOF implementation of the research by @jonaslyk and the drafted PoC from @LloydLabs</td>
     </tr>
