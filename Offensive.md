@@ -408,6 +408,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Download a .NET payload and run it on memory</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/plackyhacker/SuspendedThreadInjection">plackyhacker/SuspendedThreadInjection</a></td>
+        <td>Another meterpreter injection technique using C# that attempts to bypass Defender</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/rasta-mouse/MiscTools">rasta-mouse/MiscTools</a></td>
         <td>Miscellaneous Tools</td>
     </tr>
