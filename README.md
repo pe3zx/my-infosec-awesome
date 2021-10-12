@@ -2487,6 +2487,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Generate Objective-C headers from Mach-O files</td>
     </tr>
     <tr>
+        <td><a href="https://beta.pithus.org/about/">Pithus</a></td>
+        <td>Pithus is a free and open-source mobile threat intelligence platform for activists, journalists, NGOs, researchers...</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/pxb1988/dex2jar">pxb1988/dex2jar</a></td>
         <td>Tools to work with android .dex and java .class files</td>
     </tr>
