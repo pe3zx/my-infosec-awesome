@@ -1606,6 +1606,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Internal Monologue Attack: Retrieving NTLM Hashes without Touching LSASS</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/EspressoCake/HandleKatz_BOF">EspressoCake/HandleKatz_BOF</a></td>
+        <td>A BOF port of the research of @thefLinkk and @codewhitesec</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/EspressoCake/PPLDump_BOF">EspressoCake/PPLDump_BOF</a></td>
         <td>A faithful transposition of the key features/functionality of @itm4n's PPLDump project as a BOF.</td>
     </tr>
