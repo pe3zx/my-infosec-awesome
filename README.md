@@ -1662,6 +1662,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Invoke-Forensics provides PowerShell commands to simplify working with the forensic tools KAPE and RegRipper.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/Sysinternals/SysmonForLinux">Sysinternals/SysmonForLinux</a></td>
+        <td>Sysmon For Linux install and build instructions</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/tclahr/uac">tclahr/uac</a></td>
         <td>UAC (Unix-like Artifacts Collector) is a Live Response collection tool for Incident Reponse that makes use of built-in tools to automate the collection of Unix-like systems artifacts. Supported systems: AIX, FreeBSD, Linux, macOS, NetBSD, Netscaler, OpenBSD and Solaris.</td>
     </tr>
