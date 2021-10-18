@@ -2390,6 +2390,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Malware similarity platform with modularity in mind.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/xorhex/mlget">xorhex/mlget</a></td>
+        <td>A golang CLI tool to download malware from a variety of sources.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/zerofox-oss/phishpond">zerofox-oss/phishpond</a></td>
         <td>Because phishtank was taken.. explore phishing kits in a contained environment!</td>
     </tr>
