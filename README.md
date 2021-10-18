@@ -3242,6 +3242,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Cloud Open-source Network Vulnerability Exploitation eXperience (CONVEX) spins up Capture The Flag environments in your Azure tenant for participants to play through.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/Azure/SimuLand">Azure/SimuLand</a></td>
+        <td>Understand adversary tradecraft and improve detection strategies</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/Billy-Ellis/Exploit-Challenges">Billy-Ellis/Exploit-Challenges</a></td>
         <td>A collection of vulnerable ARM binaries for practicing exploit development</td>
     </tr>
@@ -3314,6 +3318,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>OWASP iGoat (Swift) - A Damn Vulnerable Swift Application for iOS</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/quarkslab/minik8s-ctf">quarkslab/minik8s-ctf</a></td>
+        <td>A beginner-friendly CTF about Kubernetes security.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/rapid7/hackazon">rapid7/hackazon</a></td>
         <td>A modern vulnerable web app</td>
     </tr>
@@ -3336,10 +3344,6 @@ This repository is created as an online bookmark for useful links, resources and
     <tr>
         <td><a href="https://github.com/shellphish/how2heap">shellphish/how2heap</a></td>
         <td>A repository for learning various heap exploitation techniques.</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/Azure/SimuLand">Azure/SimuLand</a></td>
-        <td>Understand adversary tradecraft and improve detection strategies</td>
     </tr>
     <tr>
         <td><a href="https://www.notsosecure.com/vulnerable-docker-vm/">Vulnerable Docker VM</a></td>
