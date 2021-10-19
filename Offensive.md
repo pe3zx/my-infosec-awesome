@@ -1714,6 +1714,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>WMkick is a TCP protocol redirector/MITM tool that targets NTLM authentication message flows in WMI (135/tcp) and Powershell-Remoting/WSMan/WinRM (5985/tcp) to capture NetNTLMv2 hashes.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/LuemmelSec/SAML2Spray">LuemmelSec/SAML2Spray</a></td>
+        <td>Python Script for SAML2 Authentication Passwordspray</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/m0rv4i/SafetyDump">m0rv4i/SafetyDump</a></td>
         <td>Dump stuff without touching disk</td>
     </tr>
