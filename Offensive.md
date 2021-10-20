@@ -1706,6 +1706,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Windows PowerShell ADIDNS/LLMNR/mDNS/NBNS spoofer/man-in-the-middle tool</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/kindtime/nosferatu">kindtime/nosferatu</a></td>
+        <td>Lsass NTLM Authentication Backdoor</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/knavesec/CredMaster">knavesec/CredMaster</a></td>
         <td>Refactored & improved CredKing password spraying tool, uses FireProx APIs to rotate IP addresses, stay anonymous, and beat throttling</td>
     </tr>
