@@ -420,6 +420,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>A static analysis tool for securing Go code</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/praetorian-inc/snowcat">praetorian-inc/snowcat</a></td>
+        <td>a tool to audit the istio service mesh</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/presidentbeef/brakeman">presidentbeef/brakeman</a></td>
         <td>A static analysis security vulnerability scanner for Ruby on Rails applications</td>
     </tr>
