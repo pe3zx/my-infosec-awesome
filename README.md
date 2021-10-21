@@ -661,6 +661,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>A Reverse Engineering Tool Kit for Go, Written in Go.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/goretk/redress">goretk/redress</a></td>
+        <td>Redress - A tool for analyzing stripped Go binaries</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/grimm-co/GEARSHIFT">grimm-co/GEARSHIFT</a></td>
         <td>GEARSHIFT is a tool that performs structure recovery for a specified function within a stripped binary. It also generates a fuzz harness that can be used to call functions in a shared object (.so) or dynamically linked library (.dll) file.</td>
     </tr>
