@@ -440,6 +440,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>CallBack-Techniques for Shellcode execution ported to Nim</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/S3cur3Th1sSh1t/OffensiveVBA">S3cur3Th1sSh1t/OffensiveVBA</a></td>
+        <td>This repo covers some code execution and AV Evasion methods for Macros in Office documents</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/scythe-io/memory-module-loader">scythe-io/memory-module-loader</a></td>
         <td>An implementation of a Windows loader that can load dynamic-linked libraries (DLLs) directly from memory</td>
     </tr>
