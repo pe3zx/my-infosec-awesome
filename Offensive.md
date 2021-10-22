@@ -2110,6 +2110,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Treafik fronted c2 examples</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/looCiprian/GC2-sheet">looCiprian/GC2-sheet</a></td>
+        <td>GC2 is a Command and Control application that allows an attacker to execute commands on the target machine using Google Sheet and exfiltrate data using Google Drive.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/loseys/BlackMamba">loseys/BlackMamba</a></td>
         <td>BlackMamba is a multi client C2/post exploitation framework with some spyware features. Powered by Python 3.8.6 and QT Framework.</td>
     </tr>
