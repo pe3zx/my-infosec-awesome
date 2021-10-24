@@ -1678,6 +1678,10 @@ This repository is created as an online bookmark for useful links, resources and
 		<td>Blockchain Transactions Investigation Tool</td>
 	</tr>
     <tr>
+        <td><a href="https://github.com/splunk/melting-cobalt">splunk/melting-cobalt</a></td>
+        <td>A Cobalt Strike Scanner that retrieves detected Team Server beacons into a JSON object</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/sumeshi/evtx2es">sumeshi/evtx2es</a></td>
         <td>A library for fast import of Windows Eventlogs into Elasticsearch.</td>
     </tr>
