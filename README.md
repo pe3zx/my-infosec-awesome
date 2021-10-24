@@ -1132,6 +1132,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td><b>Description</b></td>
     </tr>
     <tr>
+        <td><a href="https://github.com/Balasys/dheater">Balasys/dheater</a></td>
+        <td>D(HE)ater is a security tool can perform DoS attack by enforcing the DHE key exchange.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/CERTCC/keyfinder">CERTCC/keyfinder</a></td>
         <td>A tool for analyzing private (and public) key files, including support for Android APK files.</td>
     </tr>
