@@ -1494,6 +1494,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Sysmon EDR Active Response</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/kacos2000/MFT_Browser">kacos2000/MFT_Browser</a></td>
+        <td>$MFT directory tree reconstruction & record info</td>
+    </tr>
+    <tr>
         <td><a href="https://securelist.com/happy-ir-in-the-new-year/83557/">Kaspersky IR's Artifacts Collector</a></td>
         <td>Kaspersky IR's Artifacts Collector</td>
     </tr>
