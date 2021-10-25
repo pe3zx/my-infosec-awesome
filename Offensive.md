@@ -1923,6 +1923,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>A sharpen version of CrackMapExec. This tool is made to simplify penetration testing of networks and to create a swiss army knife that is made for running on Windows which is often a requirement during insider threat simulation engagements.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/cube0x0/SharpSystemTriggers">cube0x0/SharpSystemTriggers</a></td>
+        <td>Collection of remote authentication triggers in C#</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/cobbr/SharpSploit">cobbr/SharpSploit</a></td>
         <td>SharpSploit is a .NET post-exploitation library written in C#</td>
     </tr>
