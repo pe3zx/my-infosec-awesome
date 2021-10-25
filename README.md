@@ -3342,6 +3342,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>This repository lists most of the challenges used in the Google CTF 2017. The missing challenges are not ready to be open-sourced, or contain third-party code.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/kmcquade/owasp-youtube-2021">kmcquade/owasp-youtube-2021</a></td>
+        <td>Deliberately vulnerable AWS resources for security assessment demos</td>
+    </tr>
+    <tr>
         <td><a href="https://tuts4you.com/download.php?list.17">Lenas Reversing for Newbies</a></td>
         <td>Nice collection of tutorials aimed particularly for newbie reverse enginners...</td>
     </tr>
