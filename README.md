@@ -3217,6 +3217,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>An Educational Sandbox For Web3... And Much More.</td>
     </tr>
     <tr>
+        <td><a href="https://monitor.blocksecteam.com/flashloan/">flashloan-monitor</a></td>
+        <td>BlockSec Flashloan Monitor</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/fravoll/solidity-patterns">fravoll/solidity-patterns</a></td>
         <td>A compilation of patterns and best practices for the smart contract programming language Solidity</td>
     </tr>
