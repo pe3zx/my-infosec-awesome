@@ -3124,6 +3124,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Ansible playbook to deploy a phishing engagement in the cloud.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/Rices/Phishious">Rices/Phishious</a></td>
+        <td>An open-source Secure Email Gateway (SEG) evaluation toolkit designed for red-teamers.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/ring0lab/catphish">ring0lab/catphish</a></td>
         <td>Generate similar-looking domains for phishing attacks. Check expired domains and their categorized domain status to evade proxy categorization. Whitelisted domains are perfect for your C2 servers.</td>
     </tr>
