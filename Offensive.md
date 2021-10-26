@@ -1356,6 +1356,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Template-Driven AV/EDR Evasion Framework</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/klezVirus/SharpSelfDelete">klezVirus/SharpSelfDelete</a></td>
+        <td>C# implementation of the research by @jonaslyk and the drafted PoC from @LloydLabs</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/last-byte/unDefender">last-byte/unDefender</a></td>
         <td>Killing your preferred antimalware by abusing native symbolic links and NT paths.</td>
     </tr>
