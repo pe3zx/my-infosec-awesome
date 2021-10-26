@@ -2849,6 +2849,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>A python based LinkedIn enumeration tool</td>
     </tr>
     <tr>
+        <td><a href="https://lookyloo.circl.lu/">Lookyloo</a></td>
+        <td>Web forensics tool</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/loseys/Oblivion">loseys/Oblivion</a></td>
         <td>Data leak checker & OSINT Tool</td>
     </tr>
