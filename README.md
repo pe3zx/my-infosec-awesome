@@ -1606,6 +1606,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Open Source HIDS SECurity</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/OTRF/Azure-Sentinel2Go">OTRF/Azure-Sentinel2Go</a></td>
+        <td>Azure Sentinel2Go is an open source project developed to expedite the deployment of an Azure Sentinel lab.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/ovotech/gitoops/">ovotech/gitoops</a></td>
         <td>GitOops is a tool to help attackers and defenders identify lateral movement and privilege escalation paths in GitHub organizations by abusing CI/CD pipelines and GitHub access controls.</td>
     </tr>
@@ -1662,7 +1666,7 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Peel back the layers of your enterprise</td>
     </tr>
     <tr>
-        <td><a href="https://github.com/SecurityRiskAdvisors/dredd">SecurityRiskAdvisors/dredd</a></td>
+        <td><a href="https://github.com/SeAdvisors/dredd">SecurityRiskAdvisors/dredd</a></td>
         <td>Automated detection rule analysis utility</td>
     </tr>
     <tr>
