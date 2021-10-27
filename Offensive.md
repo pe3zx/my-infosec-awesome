@@ -1339,6 +1339,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>A bunch of Windows anti-debugging tricks for x86 and x64.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/hasherezade/transacted_hollowing">hasherezade/transacted_hollowing</a></td>
+        <td>Transacted Hollowing - a PE injection technique, hybrid between ProcessHollowing and ProcessDoppelgänging</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/hlldz/Invoke-Phant0m">hlldz/Invoke-Phant0m</a></td>
         <td>Windows Event Log Killer</td>
     </tr>
