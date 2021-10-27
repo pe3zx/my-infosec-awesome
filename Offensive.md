@@ -292,6 +292,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>A JavaScript and VBScript Based Empire Launcher, which runs within their own embedded PowerShell Host.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/Cr4sh/KernelForge">Cr4sh/KernelForge</a></td>
+        <td>A library to develop kernel level Windows payloads for post HVCI era</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/cribdragg3r/Alaris">cribdragg3r/Alaris</a></td>
         <td>A protective and Low Level Shellcode Loader the defeats modern EDR systems.</td>
     </tr>
