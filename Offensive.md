@@ -431,6 +431,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Download a .NET payload and run it on memory</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/p3nt4/RunDLL.Net">p3nt4/RunDLL.Net</a></td>
+        <td>Execute .Net assemblies using Rundll32.exe</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/plackyhacker/SuspendedThreadInjection">plackyhacker/SuspendedThreadInjection</a></td>
         <td>Another meterpreter injection technique using C# that attempts to bypass Defender</td>
     </tr>
