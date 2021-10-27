@@ -403,6 +403,10 @@ Some tools can be categorized in more than one category. But because the current
             executable.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/mrexodia/AppInitHook">mrexodia/AppInitHook</a></td>
+        <td>Global user-mode hooking framework, based on AppInit_DLLs. The goal is to allow you to rapidly develop hooks to inject in an arbitrary process.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/nccgroup/GTFOBLookup">nccgroup/GTFOBLookup</a></td>
         <td>Offline command line lookup utility for GTFOBins</td>
     </tr>
