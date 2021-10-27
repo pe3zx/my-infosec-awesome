@@ -987,6 +987,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>A C# tool with more flexibility to customize scheduled task for both persistence and lateral movement in red team operation</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/o1mate/DLLProx">o1mate/DLLProx</a></td>
+        <td>Automatic DLL comment link generation and explaination of the DLL Proxying techniques</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/panagioto/SyscallHide">panagioto/SyscallHide</a></td>
         <td>Create a Run registry key with direct system calls. Inspired by @Cneelis's Dumpert and SharpHide.</td>
     </tr>
