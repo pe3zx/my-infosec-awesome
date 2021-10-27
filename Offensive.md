@@ -1217,6 +1217,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>A method of bypassing EDR's active projection DLL's by preventing entry point execution.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/Charterino/AsStrongAsFuck">Charterino/AsStrongAsFuck</a></td>
+        <td>A console obfuscator for .NET assemblies.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/cobbr/PSAmsi">cobbr/PSAmsi</a></td>
         <td>PSAmsi is a tool for auditing and defeating AMSI signatures.</td>
     </tr>
