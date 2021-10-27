@@ -1146,6 +1146,10 @@ Some tools can be categorized in more than one category. But because the current
         <td><b>Description</b></td>
     </tr>
     <tr>
+        <td><a href="https://github.com/0xN3utr0n/Noteme">0xN3utr0n/Noteme</a></td>
+        <td>ELF packer/crypter that aims to create hardened and stealthy troyans</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/0xZDH/redirect.rules">0xZDH/redirect.rules</a></td>
         <td>Quick and dirty dynamic redirect.rules generator</td>
     </tr>
