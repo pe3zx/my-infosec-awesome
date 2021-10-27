@@ -1355,6 +1355,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>A more stealthy variant of "DLL hollowing"</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/hasherezade/process_chameleon">hasherezade/process_chameleon</a></td>
+        <td>A process overwriting its own PEB to make an illusion that it has been loaded from a different path.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/hasherezade/transacted_hollowing">hasherezade/transacted_hollowing</a></td>
         <td>Transacted Hollowing - a PE injection technique, hybrid between ProcessHollowing and ProcessDoppelgänging</td>
     </tr>
