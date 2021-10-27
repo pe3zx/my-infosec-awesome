@@ -527,6 +527,10 @@ This repository is created as an online bookmark for useful links, resources and
 		<td><a href="https://github.com/Yelp/detect-secrets">Yelp/detect-secrets</a></td>
 		<td>An enterprise friendly way of detecting and preventing secrets in code.</td>
 	</tr>
+    <tr>
+        <td><a href="https://github.com/ZupIT/horusec">ZupIT/horusec</a></td>
+        <td>Horusec is an open source tool that improves identification of vulnerabilities in your project with just one command.</td>
+    </tr>
 </table>
 
 ## Binary Analysis
