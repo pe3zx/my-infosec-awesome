@@ -435,6 +435,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Miscellaneous Tools</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/reevesrs24/EvasiveProcessHollowing">reevesrs24/EvasiveProcessHollowing</a></td>
+        <td>Evasive Process Hollowing Techniques</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/rek7/fireELF">rek7/fireELF</a></td>
         <td>fireELF - Fileless Linux Malware Framework</td>
     </tr>
