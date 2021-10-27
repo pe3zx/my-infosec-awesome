@@ -1277,6 +1277,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>A tool to be used in post exploitation phase for blue and red teams to bypass APPLICATIONCONTROL policies</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/czs108/PE-Packer">czs108/PE-Packer</a></td>
+        <td>📦 A Windows x86 PE file packer written in C & Microsoft Assembly. The file after packing can obstruct the process of reverse engineering.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/d00rt/ebfuscator">d00rt/ebfuscator</a></td>
         <td>Ebfuscator: Abusing system errors for binary obfuscation</td>
     </tr>
