@@ -1587,6 +1587,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>UAC bypass abusing WinSxS in "wusa.exe".</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/xforcered/InvisibilityCloak">xforcered/InvisibilityCloak</a></td>
+        <td>Proof-of-concept obfuscation toolkit for C# post-exploitation tools</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/zeroperil/HookDump">zeroperil/HookDump</a></td>
         <td>Security product hook detection</td>
     </tr>
