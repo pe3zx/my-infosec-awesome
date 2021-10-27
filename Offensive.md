@@ -2153,6 +2153,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>DeimosC2 is a Golang command and control framework for post-exploitation.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/Dliv3/DomainBorrowing">Dliv3/DomainBorrowing</a></td>
+        <td>Domain Borrowing is a new method to hide your C2 traffic with CDN</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/EspressoCake/Cobalt_Strike_Ansible">EspressoCake/Cobalt_Strike_Ansible</a></td>
         <td>A project to replicate the functionality of Noah Powers' ServerSetup script, but with error handling and fixed Namecheap API support.</td>
     </tr>
