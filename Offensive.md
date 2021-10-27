@@ -1395,6 +1395,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>nuke that event log using some epic dinvoke fu</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/JKornev/hidden">JKornev/hidden</a></td>
+        <td>Windows driver with usermode interface which can hide processes, file-system and registry objects, protect processes and etc</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/JoelGMSec/Invoke-Stealth">JoelGMSec/Invoke-Stealth</a></td>
         <td>Simple & Powerful PowerShell Script Obfuscator</td>
     </tr>
