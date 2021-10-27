@@ -1419,6 +1419,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Enumerate and disable common sources of telemetry used by AV/EDR.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/JustasMasiulis/lazy_importer">JustasMasiulis/lazy_importer</a></td>
+        <td>library for importing functions from dlls in a hidden, reverse engineer unfriendly way</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/Kara-4search/FullDLLUnhooking_CSharp">Kara-4search/FullDLLUnhooking_CSharp</a></td>
         <td>Unhook DLL via cleaning the DLL 's .text section</td>
     </tr>
