@@ -1382,6 +1382,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>CDIR (Cyber Defense Institute Incident Response) Collector - live collection tool based on oss tool/library</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/D4stiny/PeaceMaker">D4stiny/PeaceMaker</a></td>
+        <td>PeaceMaker Threat Detection is a Windows kernel-based application that detects advanced techniques used by malware.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/DamonMohammadbagher/ETWProcessMon2">DamonMohammadbagher/ETWProcessMon2</a></td>
         <td>ETWProcessMon2 is for Monitoring Process/Thread/Memory/Imageloads/TCPIP via ETW + Detection for Remote-Thread-Injection etc.</td>
     </tr>
