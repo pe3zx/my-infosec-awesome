@@ -1527,6 +1527,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Lists of .NET Obfuscator (Free, Trial, Paid and Open Source )</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/NtRaiseHardError/Anti-Delete">NtRaiseHardError/Anti-Delete</a></td>
+        <td>Protects deletion of files with a specified extension using a kernel-mode driver.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/OmerYa/Invisi-Shell">OmerYa/Invisi-Shell</a></td>
         <td>Hide your Powershell script in plain sight. Bypass all Powershell security features</td>
     </tr>
