@@ -1185,6 +1185,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Utility for hunting UAC bypasses or COM/DLL hijacks that alerts on the exported function that was consumed.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/aus/gopherheaven">aus/gopherheaven</a></td>
+        <td>Go implementation of the Heaven's Gate technique</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/AzAgarampur/byeintegrity4-uac">AzAgarampur/byeintegrity4-uac</a></td>
         <td>Bypass UAC by abusing the Windows Defender Firewall Control Panel, environment variables, and shell protocol handlers</td>
     </tr>
