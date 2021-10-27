@@ -2010,6 +2010,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>StandIn is a small .NET35/45 AD post-exploitation toolkit</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/GhostPack/Certify">GhostPack/Certify</a></td>
+        <td>Active Directory certificate abuse.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/improsec/ImproHound">improsec/ImproHound</a></td>
         <td>Identify the attack paths in BloodHound breaking your AD tiering</td>
     </tr>
