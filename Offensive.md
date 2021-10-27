@@ -1315,6 +1315,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Loads any C# binary in mem, patching AMSI + ETW.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/Flangvik/RosFuscator">Flangvik/RosFuscator</a></td>
+        <td>YouTube/Livestream project for obfuscating C# source code using Roslyn</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/GetRektBoy724/TripleS">GetRektBoy724/TripleS</a></td>
         <td>Syscall Stub Stealer - Freshly steal Syscall stub straight from the disk</td>
     </tr>
