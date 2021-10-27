@@ -801,6 +801,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Porting Windows Dynamic Link Libraries to Linux</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/unipacker/unipacker">unipacker/unipacker</a></td>
+        <td>Automatic and platform-independent unpacker for Windows binaries based on emulation</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/utkonos/lst2x64dbg">utkonos/lst2x64dbg</a></td>
         <td>Extract labels from IDA, Ghidra, Binary Ninja, and Relyze files and export x64dbg database. Including radare2 main address.</td>
     </tr>
