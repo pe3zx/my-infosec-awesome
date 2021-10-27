@@ -1367,6 +1367,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Simple & Powerful PowerShell Script Obfuscator</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/jnastarot/furikuri">jnastarot/furikuri</a></td>
+        <td>(In dev)furikuri is framework for code protection</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/jthuraisamy/TelemetrySourcerer">jthuraisamy/TelemetrySourcerer</a></td>
         <td>Enumerate and disable common sources of telemetry used by AV/EDR.</td>
     </tr>
