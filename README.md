@@ -1626,6 +1626,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>The Office 365 Extractor is a tool that allows for complete and reliable extraction of the Unified Audit Log (UAL)</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/rajiv2790/FalconEye">rajiv2790/FalconEye</a></td>
+        <td>FalconEye: Real-time detection software for Windows process injections</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/refractionPOINT/limacharlie">refractionPOINT/limacharlie</a></td>
         <td>LC is an Open Source, cross-platform (Windows, MacOS, Linux ++), realtime Endpoint Detection and Response sensor. The extra-light sensor, once installed on a system provides Flight Data Recorder type information (telemetry on all aspects of the system like processes, DNS, network IO, file IO etc).</td>
     </tr>
