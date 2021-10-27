@@ -1662,6 +1662,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Peel back the layers of your enterprise</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/SecurityRiskAdvisors/dredd">SecurityRiskAdvisors/dredd</a></td>
+        <td>Automated detection rule analysis utility</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/SecurityRiskAdvisors/TALR">SecurityRiskAdvisors/TALR</a></td>
         <td>Threat Alert Logic Repository (TALR) - A public repository for the collection and sharing of detection rules in platform agnostic formats. Collected rules are appended with STIX required fields for simplified sharing over TAXII servers.</td>
     </tr>
