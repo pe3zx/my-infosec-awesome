@@ -97,6 +97,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td><a href="https://github.com/endgameinc/RTA">endgameinc/RTA</a></td>
         <td>RTA provides a framework of scripts designed to allow blue teams to test their detection capabilities against malicious tradecraft, modeled after MITRE ATT&CK</td>
     </tr>
+    <tr>
+        <td><a href="https://github.com/fozavci/tehsat">fozavci/tehsat</a></td>
+        <td>Tehsat Malware Traffic Generator</td>
+    </tr>
    <tr>
         <td><a href="https://github.com/FSecureLABS/leonidas">FSecureLABS/leonidas</a></td>
         <td>Automated Attack Simulation in the Cloud, complete with detection use cases.</td>
