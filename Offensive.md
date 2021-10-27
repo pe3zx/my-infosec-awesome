@@ -1579,6 +1579,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Manipulating and Abusing Windows Access Tokens.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/scrt/avcleaner">scrt/avcleaner</a></td>
+        <td>C/C++ source obfuscator for antivirus bypass</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/secretsquirrel/SigThief">secretsquirrel/SigThief</a></td>
         <td>Stealing Signatures and Making One Invalid Signature at a Time</td>
     </tr>
