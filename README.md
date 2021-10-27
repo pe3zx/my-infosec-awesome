@@ -1168,6 +1168,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Poodle (Padding Oracle On Downgraded Legacy Encryption) attack</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/mxrch/evilize">mxrch/evilize</a></td>
+        <td>Use md5-collisions to make evil executables looking like a good one.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/salesforce/ja3">salesforce/ja3</td>
         <td>JA3 is a standard for creating SSL client fingerprints in an easy to produce and shareable way.</td>
     </tr>
