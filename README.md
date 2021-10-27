@@ -2402,6 +2402,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>An automated malware unpacking service from OpenAnalysis</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/uqcyber/ColdPress">uqcyber/ColdPress</a></td>
+        <td>Extensible Platform for Malware Analysis</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/ytisf/theZoo">ytisf/theZoo</a></td>
         <td>A repository of LIVE malwares for your own joy and pleasure</td>
     </tr>
