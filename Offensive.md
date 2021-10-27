@@ -1097,6 +1097,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Privilege Escalation Enumeration Script for Windows</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/itm4n/UsoDllLoader">itm4n/UsoDllLoader</a></td>
+        <td>Windows - Weaponizing privileged file writes with the Update Session Orchestrator service</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/jacob-baines/concealed_position">jacob-baines/concealed_position</a></td>
         <td>Bring your own print driver privilege escalation tool</td>
     </tr>
