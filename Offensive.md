@@ -463,6 +463,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Alternative Shellcode Execution Via Callbacks</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/S4R1N/MMFCodeInjection">S4R1N/MMFCodeInjection</a></td>
+        <td>Code Injection via Memory Mapped Files</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/scythe-io/memory-module-loader">scythe-io/memory-module-loader</a></td>
         <td>An implementation of a Windows loader that can load dynamic-linked libraries (DLLs) directly from memory</td>
     </tr>
