@@ -212,6 +212,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Complete Arsenal of Memory injection and other techniques for red-teaming in Windows</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/0xpat/COFFInjector">0xpat/COFFInjector</a></td>
+        <td>PoC MSVC COFF Object file loader/injector.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/Aetsu/OffensivePipeline">Aetsu/OffensivePipeline</a></td>
         <td>OffensivePipeline allows to download, compile (without Visual Studio) and obfuscate C# tools for Red Team exercises.</td>
     </tr>
