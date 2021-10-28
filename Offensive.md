@@ -208,20 +208,20 @@ Some tools can be categorized in more than one category. But because the current
         <td><b>Description</b></td>
     </tr>
     <tr>
-        <td><a href="https://github.com/0xDivyanshu/Injector">0xDivyanshu/Injector</a></td>
-        <td>Complete Arsenal of Memory injection and other techniques for red-teaming in Windows</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/0xpat/COFFInjector">0xpat/COFFInjector</a></td>
-        <td>PoC MSVC COFF Object file loader/injector.</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/Aetsu/OffensivePipeline">Aetsu/OffensivePipeline</a></td>
-        <td>OffensivePipeline allows to download, compile (without Visual Studio) and obfuscate C# tools for Red Team exercises.</td>
+        <td><a href="https://github.com/Accenture/CLRvoyance">Accenture/CLRvoyance</a></td>
+        <td>Managed assembly shellcode generation</td>
     </tr>
     <tr>
         <td><a href="https://github.com/aeverj/NimShellCodeLoader">aeverj/NimShellCodeLoader</a></td>
         <td>Nim编写Windows平台shellcode免杀加载器</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/ajpc500/NimlineWhispers">ajpc500/NimlineWhispers</a></td>
+        <td>A very proof-of-concept port of InlineWhispers for using syscalls in Nim projects.</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/Akaion/Bleak">Akaion/Bleak</a></td>
+        <td>A Windows native DLL injection library that supports several methods of injection.</td>
     </tr>
     <tr>
         <td><a href="https://github.com/antonioCoco/SharPyShell">antonioCoco/SharPyShell</a></td>
@@ -240,52 +240,57 @@ Some tools can be categorized in more than one category. But because the current
         <td>LoadLibrary for offensive operations</td>
     </tr>
     <tr>
-        <td><a href="https://github.com/bohops/GhostBuild">bohops/GhostBuild</a></td>
-        <td>GhostBuild is a collection of simple MSBuild launchers for various GhostPack/.NET projects</td>
+        <td><a href="https://github.com/BC-SECURITY/Empire/">BC-SECURITY/Empire</a></td>
+        <td>Empire is a PowerShell and Python post-exploitation agent.</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/BC-SECURITY/Offensive-VBA-and-XLS-Entanglement">BC-SECURITY/Offensive-VBA-and-XLS-Entanglement</a></td>
+        <td>Offensive VBA and XLS Entanglement</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/Binject/backdoorfactory">Binject/backdoorfactory</a></td>
+        <td>A from-scratch rewrite of The Backdoor Factory - a MitM tool for inserting shellcode into all types of
+            binaries on the wire.</td>
     </tr>
     <tr>
         <td><a href="https://github.com/boku7/bof-spawnSuspendedProcess">boku7/bof-spawnSuspendedProcess</a></td>
         <td>Cobalt Strike Beacon Object File (BOF) that takes the name of of a PE file as an argument and spawns the process in a suspended state</td>
     </tr>
     <tr>
-        <td><a href="https://github.com/boku7/CobaltStrikeReflectiveLoader">boku7/CobaltStrikeReflectiveLoader</a></td>
-        <td>Cobalt Strike User-Defined Reflective Loader written in Assembly & C for advanced evasion capabilities.</td>
+        <td><a href="https://github.com/bohops/GhostBuild">bohops/GhostBuild</a></td>
+        <td>GhostBuild is a collection of simple MSBuild launchers for various GhostPack/.NET projects</td>
     </tr>
     <tr>
-        <td><a href="https://github.com/boku7/winx64-InjectAllProcessesMeterpreter-Shellcode">boku7/winx64-InjectAllProcessesMeterpreter-Shellcode</a></td>
-        <td>64bit Windows 10 shellcode that injects all processes with Meterpreter reverse shells.</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/bytecode77/self-morphing-csharp-binary">bytecode77/self-morphing-csharp-binary</a></td>
-        <td>Executable that mutates its own code</td>
+        <td><a href="https://github.com/capt-meelo/Beaconator">capt-meelo/Beaconator</a></td>
+        <td>A beacon generator using Cobalt Strike and PEzor.</td>
     </tr>
     <tr>
         <td><a href="https://github.com/cdong1012/Crab-Runner">cdong1012/Crab-Runner</a></td>
         <td>Shellcode runner in Rust</td>
     </tr>
     <tr>
-        <td><a href="https://ChadSki/SharpNeedle">ChadSki/SharpNeedle</a></td>
-        <td>Inject C# code into a running process</td>
+        <td><a href="https://github.com/cedowens/Mythic-Macro-Generator">cedowens/Mythic-Macro-Generator</a></td>
+        <td>Python3 script to generate a macro to launch a Mythic payload. Author: Cedric Owens</td>
     </tr>
     <tr>
         <td><a href="https://github.com/ChaitanyaHaritash/Callback_Shellcode_Injection">ChaitanyaHaritash/Callback_Shellcode_Injection</a></td>
         <td>POCs for Shellcode Injection via Callbacks</td>
     </tr>
     <tr>
-        <td><a href="https://github.com/checkymander/Sharp-SMBExec">checkymander/Sharp-SMBExec</a></td>
-        <td>SMBExec C# module</td>
+        <td><a href="https://github.com/Ch0pin/AVIator">Ch0pin/AVIator</a></td>
+        <td>AV|Ator is a backdoor generator utility, which uses cryptographic and injection techniques in order to bypass AV detection.</td>
     </tr>
     <tr>
-        <td><a href="https://github.com/checkymander/Zolom">checkymander/Zolom</a></td>
-        <td>C# Executable with embedded Python that can be used reflectively to run python code on systems without Python installed</td>
+        <td><a href="https://github.com/checkymander/Sharp-SMBExec">checkymander/Sharp-SMBExec</a></td>
+        <td>SMBExec C# module</td>
     </tr>
     <tr>
         <td><a href="https://github.com/cobbr/SharpSploit">cobbr/SharpSploit</a></td>
         <td>SharpSploit is a .NET post-exploitation library written in C#</td>
     </tr>
-   <tr>
-        <td><a href="https://github.com/Cn33liz/p0wnedShell">Cn33liz/p0wnedShell</a></td>
-        <td>p0wnedShell is an offensive PowerShell host application written in C# that does not rely on powershell.exe but runs powershell commands and functions within a powershell runspace environment (.NET)</td>
+    <tr>
+        <td><a href="https://github.com/connormcgarr/LittleCorporal">connormcgarr/LittleCorporal</a></td>
+        <td>LittleCorporal: A C# Automated Maldoc Generator</td>
     </tr>
     <tr>
         <td><a href="https://github.com/Cn33liz/StarFighters">Cn33liz/StarFighters</a></td>
@@ -304,16 +309,28 @@ Some tools can be categorized in more than one category. But because the current
         <td>I realtime v35/40 dotnet compiler for your linux Cobalt Strike C2. New fresh compiled and obfuscated binary for each use</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/Cybellum/DoubleAgent">Cybellum/DoubleAgent</a></td>
+        <td>DoubleAgent is a new Zero-Day technique for injecting code and maintaining persistence on a machine (i.e. auto-run).</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/cytopia/kusanagi">cytopia/kusanagi</a></td>
+        <td>Kusanagi is a bind and reverse shell payload generator with obfuscation and badchar support.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/D00MFist/Go4aRun">D00MFist/Go4aRun</a></td>
         <td>Shellcode runner in GO that incorporates shellcode encryption, remote process injection, block dlls, and spoofed parent process</td>
-    </tr> 
+    </tr>
     <tr>
-        <td><a href="https://github.com/DamonMohammadbagher/NativePayload_Tinjection">DamonMohammadbagher/NativePayload_Tinjection</a></td>
-        <td>Remote Thread Injection by C#</td>
+        <td><a href="https://github.com/damienvanrobaeys/PS1-To-EXE-Generator">damienvanrobaeys/PS1-To-EXE-Generator</a></td>
+        <td>PS1 to EXE Generator: Create an EXE for your PS1 scripts</td>
     </tr>
     <tr>
         <td><a href="https://github.com/darkr4y/geacon">darkr4y/geacon</a></td>
         <td>Practice Go programming and implement CobaltStrike's Beacon in Go</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/D00MFist/Mystikal">D00MFist/Mystikal</a></td>
+        <td>macOS Initial Access Payload Generator</td>
     </tr>
     <tr>
         <td><a href="https://github.com/dtrizna/easy-hollow">dtrizna/easy-hollow</a></td>
@@ -324,9 +341,16 @@ Some tools can be categorized in more than one category. But because the current
         <td>A library for loading and executing PE (Portable Executable) from memory without ever touching the disk</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/erikgeiser/govenom">erikgeiser/govenom</a></td>
+        <td>govenom is a msfvenom-inspired cross-platform payload generator toolkit written in Go</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/Flangvik/SharpCollection">Flangvik/SharpCollection</a></td>
-        <td>Nightly builds of common C# offensive tools, fresh from their respective master branches built and released
-            in a CDI fashion using Azure DevOps release pipelines.</td>
+        <td>Nightly builds of common C# offensive tools, fresh from their respective master branches built and released in a CDI fashion using Azure DevOps release pipelines.</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/forrest-orr/artifacts-kit">forrest-orr/artifacts-kit</a></td>
+        <td>Pseudo-malicious usermode memory artifact generator kit designed to easily mimic the footprints left by real malware on an infected Windows OS.</td>
     </tr>
     <tr>
         <td><a href="https://github.com/FortyNorthSecurity/CIMplant">FortyNorthSecurity/CIMplant</a></td>
@@ -337,8 +361,28 @@ Some tools can be categorized in more than one category. But because the current
         <td>Enumerate Domain Data is designed to be similar to PowerView but in .NET. PowerView is essentially the ultimate domain enumeration tool, and we wanted a .NET implementation that we worked on ourselves. This tool was largely put together by viewing implementations of different functionality across a wide range of existing projects and combining them into EDD.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/FortyNorthSecurity/EXCELntDonut">FortyNorthSecurity/EXCELntDonut</a></td>
+        <td>Excel 4.0 (XLM) Macro Generator for injecting DLLs and EXEs into memory.</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/FortyNorthSecurity/hot-manchego">FortyNorthSecurity/hot-manchego</a></td>
+        <td>Macro-Enabled Excel File Generator (.xlsm) using the EPPlus Library.</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/frkngksl/Huan">frkngksl/Huan</a></td>
+        <td>Encrypted PE Loader Generator</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/FuzzySecurity/PowerShell-Suite">FuzzySecurity/PowerShell-Suite</a></td>
         <td>There are great tools and resources online to accomplish most any task in PowerShell, sometimes however, there is a need to script together a util for a specific purpose or to bridge an ontological gap. This is a collection of PowerShell utilities I put together either for fun or because I had a narrow application in mind.</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/gen0cide/gscript">gen0cide/gscript</a></td>
+        <td>framework to rapidly implement custom droppers for all three major operating systems</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/GetRektBoy724/MeterPwrShell">GetRektBoy724/MeterPwrShell</a></td>
+        <td>Automated Tool That Generate The Perfect Powershell Payload</td>
     </tr>
     <tr>
         <td><a href="https://github.com/GhostPack/SharpWMI">GhostPack/SharpWMI</a></td>
@@ -349,8 +393,20 @@ Some tools can be categorized in more than one category. But because the current
         <td>Two C# RunPE's capable of x86 and x64 injections</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/glinares/InlineShapesPayload">glinares/InlineShapesPayload</a></td>
+        <td>VBA InlineShapes Payload Generator</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/gloxec/CrossC2">gloxec/CrossC2</a></td>
+        <td>Generate CobaltStrike's cross-platform payload</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/hausec/MaliciousClickOnceMSBuild">hausec/MaliciousClickOnceMSBuild</a></td>
         <td>Basic C# Project that will take an MSBuild payload and run it with MSBuild via ClickOnce.</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/hasherezade/masm_shc">hasherezade/masm_shc</a></td>
+        <td>A helper utility for creating shellcodes. Cleans MASM file generated by MSVC, gives refactoring hints.</td>
     </tr>
     <tr>
         <td><a href="https://github.com/JamesCooteUK/SharpSphere">JamesCooteUK/SharpSphere</a></td>
@@ -365,6 +421,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Koppeling x Metatwin x LazySign</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/jfmaes/SharpLNKGen-UI">jfmaes/SharpLNKGen-UI</a></td>
+        <td>UI for creating LNKs</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/jfmaes/SharpZipRunner">jfmaes/SharpZipRunner</a></td>
         <td>Executes position independent shellcode from an encrypted zip</td>
     </tr>
@@ -373,16 +433,28 @@ Some tools can be categorized in more than one category. But because the current
         <td>This repository is a collection of my malicious VBA projects.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/jonaslejon/malicious-pdf">jonaslejon/malicious-pdf</a></td>
+        <td>Generate a bunch of malicious pdf files with phone-home functionality. Can be used with Burp Collaborator</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/kkent030315/anycall">kkent030315/anycall</a></td>
         <td>x64 Windows kernel code execution via user-mode, arbitrary syscall, vulnerable IOCTLs demonstration</td>
     </tr>
     <tr>
-        <td><a href="https://github.com/knight0x07/ImpulsiveDLLHijack">knight0x07/ImpulsiveDLLHijack</a></td>
-        <td>C# based tool which automates the process of discovering and exploiting DLL Hijacks in target binaries. The Hijacked paths discovered can later be weaponized during Red Team Operations to evade EDR's.</td>
-    </tr>
-    <tr>
         <td><a href="https://github.com/knownsec/shellcodeloader">knownsec/shellcodeloader</a></td>
         <td>ShellcodeLoader of windows can bypass AV.</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/Kudaes/DInvoke_rs">Kudaes/DInvoke_rs</a></td>
+        <td>Dynamically invoke arbitrary unmanaged code.</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/kyleavery/ThirdEye">kyleavery/ThirdEye</a></td>
+        <td>Weaponizing CLRvoyance for Post-Ex .NET Execution</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/lockedbyte/CVE-2021-40444">lockedbyte/CVE-2021-40444</a></td>
+        <td>Malicious docx generator to exploit CVE-2021-40444 (Microsoft Office Word Remote Code Execution)</td>
     </tr>
     <tr>
         <td><a href="https://github.com/mai1zhi2/SharpBeacon">mai1zhi2/SharpBeacon</a></td>
@@ -393,6 +465,14 @@ Some tools can be categorized in more than one category. But because the current
         <td>Golang Implant & Post-Exploitation Framework</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/mdsecactivebreach/SharpShooter">mdsecactivebreach/SharpShooter</a></td>
+        <td>SharpShooter is a payload creation framework for the retrieval and execution of arbitrary CSharp source code.</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/med0x2e/GadgetToJScript">med0x2e/GadgetToJScript</a></td>
+        <td>A tool for generating .NET serialized gadgets that can trigger .NET assembly load/execution when deserialized using BinaryFormatter from JS/VBS/VBA based scripts.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/memN0ps/RustSCRunner">memN0ps/RustSCRunner</a></td>
         <td>Shellcode Runner/Injector in Rust using NTDLL functions directly with the ntapi Library.</td>
     </tr>
@@ -400,6 +480,14 @@ Some tools can be categorized in more than one category. But because the current
         <td><a href="https://github.com/mgeeky/Stracciatella">mgeeky/Stracciatella</a></td>
         <td>OpSec-safe Powershell runspace from within C# (aka SharpPick) with AMSI, Constrained Language Mode and
             Script Block Logging disabled at startup</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/michaelweber/Macrome">michaelweber/Macrome</a></td>
+        <td>Excel Macro Document Reader/Writer for Red Teamers & Analysts</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/mobdk/Sigma">mobdk/Sigma</a></td>
+        <td>Execute shellcode with ZwCreateSection, ZwMapViewOfSection, ZwOpenProcess, ZwMapViewOfSection and ZwCreateThreadEx</td>
     </tr>
     <tr>
         <td><a href="https://github.com/Mr-Un1k0d3r/RedTeamCSharpScripts">Mr-Un1k0d3r/RedTeamCSharpScripts</a></td>
@@ -415,14 +503,6 @@ Some tools can be categorized in more than one category. But because the current
         <td>Offline command line lookup utility for GTFOBins</td>
     </tr>
     <tr>
-        <td><a href="https://github.com/nettitude/RunPE">nettitude/RunPE</a></td>
-        <td>C# Reflective loader for unmanaged binaries.</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/NtRaiseHardError/NINA">NtRaiseHardError/NINA</a></td>
-        <td>NINA: No Injection, No Allocation x64 Process Injection Technique</td>
-    </tr>
-    <tr>
         <td><a href="https://github.com/NVISOsecurity/blogposts/tree/master/MaraudersMap">NVISOsecurity Marauders Map</a></td>
         <td>The Marauders Map is meant to be used on assessments where you have gained GUI access to an enviornment. The Marauders Map is a DLL written in C#, enriched by the DllExport project to export functions that can serve as an entrypoint of invocation for unmanaged code such as rundll32.</td>
     </tr>
@@ -435,8 +515,12 @@ Some tools can be categorized in more than one category. But because the current
         <td>Execute .Net assemblies using Rundll32.exe</td>
     </tr>
     <tr>
-        <td><a href="https://github.com/plackyhacker/SuspendedThreadInjection">plackyhacker/SuspendedThreadInjection</a></td>
-        <td>Another meterpreter injection technique using C# that attempts to bypass Defender</td>
+        <td><a href="https://github.com/postrequest/xeca">postrequest/xeca</a></td>
+        <td>PowerShell payload generator</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/praetorian-inc/Matryoshka">praetorian-inc/Matryoshka</a></td>
+        <td>Matryoshka loader is a tool that red team operators can leverage to generate shellcode for Microsoft Office document phishing payloads.</td>
     </tr>
     <tr>
         <td><a href="https://github.com/Professor-plum/Reflective-Driver-Loader">Professor-plum/Reflective-Driver-Loader</a></td>
@@ -447,20 +531,37 @@ Some tools can be categorized in more than one category. But because the current
         <td>Miscellaneous Tools</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/redcanaryco/chain-reactor">redcanaryco/chain-reactor</a></td>
+        <td>Chain Reactor is an open source framework for composing executables that simulate adversary behaviors and
+            techniques on Linux endpoints.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/redcode-labs/Coldfire">redcode-labs/Coldfire</a></td>
         <td>Golang malware development library</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/redcode-labs/GoSH">redcode-labs/GoSH</a></td>
+        <td>Golang reverse/bind shell generator</td>
     </tr>
     <tr>
         <td><a href="https://github.com/redcode-labs/Neurax">redcode-labs/Neurax</a></td>
         <td>A framework for constructing self-spreading binaries</td>
     </tr>
     <tr>
-        <td><a href="https://github.com/reevesrs24/EvasiveProcessHollowing">reevesrs24/EvasiveProcessHollowing</a></td>
-        <td>Evasive Process Hollowing Techniques</td>
+        <td><a href="https://github.com/redcode-labs/SNOWCRASH">redcode-labs/SNOWCRASH</a></td>
+        <td>A polyglot payload generator</td>
     </tr>
     <tr>
         <td><a href="https://github.com/rek7/fireELF">rek7/fireELF</a></td>
         <td>fireELF - Fileless Linux Malware Framework</td>
+    </tr>
+    <tr>
+        <td><a href="https://www.revshells.com/">Reverse Shell Generator</a></td>
+        <td>Reverse Shell Generator</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/richkmeli/Richkware">richkmeli/Richkware</a></td>
+        <td>Framework for building Windows malware, written in C++</td>
     </tr>
     <tr>
         <td><a href="https://gist.github.com/ropnop/fdd4e4ab537821eee5a1a751c044924f">ropnop/go-sharp-loader.go</a></td>
@@ -469,6 +570,16 @@ Some tools can be categorized in more than one category. But because the current
     <tr>
         <td><a href="https://github.com/rvrsh3ll/NoMSBuild">rvrsh3ll/NoMSBuild</a></td>
         <td>MSBuild without MSbuild.exe</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/s0lst1c3/dropengine">s0lst1c3/dropengine</a></td>
+        <td>DropEngine provides a malleable framework for creating shellcode runners, allowing operators to choose from a selection of components and combine them to create highly sophisticated payloads within seconds.DropEngine provides a malleable framework for creating shellcode runners, allowing operators to choose from a selection of components and combine them to create highly sophisticated payloads within seconds.DropEngine provides a malleable framework for creating shellcode runners, allowing operators to choose from a selection of components and combine them to create highly sophisticated payloads within seconds.</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/sevagas/macro_pack">sevagas/macro_pack</a></td>
+        <td>macro_pack is a tool used to automatize obfuscation and generation of MS Office documents for pentest, demo,
+            and social engineering assessments. The goal of macro_pack is to simplify antimalware bypass and automatize
+            the process from vba generation to final Office document generation.</td>
     </tr>
     <tr>
         <td><a href="https://github.com/S3cur3Th1sSh1t/Invoke-SharpLoader">S3cur3Th1sSh1t/Invoke-SharpLoader</a></td>
@@ -487,10 +598,6 @@ Some tools can be categorized in more than one category. But because the current
         <td>Alternative Shellcode Execution Via Callbacks</td>
     </tr>
     <tr>
-        <td><a href="https://github.com/S4R1N/MMFCodeInjection">S4R1N/MMFCodeInjection</a></td>
-        <td>Code Injection via Memory Mapped Files</td>
-    </tr>
-    <tr>
         <td><a href="https://github.com/scythe-io/memory-module-loader">scythe-io/memory-module-loader</a></td>
         <td>An implementation of a Windows loader that can load dynamic-linked libraries (DLLs) directly from memory</td>
     </tr>
@@ -499,13 +606,13 @@ Some tools can be categorized in more than one category. But because the current
         <td>Executes Blended Managed/Unmanged Exports</td>
     </tr>
     <tr>
-        <td><a href="https://github.com/SecIdiot/TitanLdr">SecIdiot/TitanLdr</a></td>
-        <td>Titan: A crappy Reflective Loader written in C and assembly for Cobalt Strike. Redirects DNS Beacon over DoH</td>
-    </tr>
-    <tr>
         <td><a href="https://github.com/sh4hin/GoPurple">sh4hin/GoPurple</a></td>
         <td>Yet another shellcode runner consists of different techniques for evaluating detection capabilities of
             endpoint security solutions</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/SheLLVM/SheLLVM">SheLLVM/SheLLVM</a></td>
+        <td>A collection of LLVM transform and analysis passes to write shellcode in regular C</td>
     </tr>
     <tr>
         <td><a href="https://github.com/snovvcrash/NimHollow">snovvcrash/NimHollow</a></td>
@@ -516,6 +623,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Modified version of PEAS client for offensive operations</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/STMSolutions/boobsnail">STMSolutions/boobsnail</a></td>
+        <td>BoobSnail allows generating Excel 4.0 XLM macro. Its purpose is to support the RedTeam and BlueTeam in XLM macro generation.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/timwhitez/Doge-Loader">timwhitez/Doge-Loader</a></td>
         <td>🐶Cobalt Strike Shellcode Loader by Golang</td>
     </tr>
@@ -524,13 +635,36 @@ Some tools can be categorized in more than one category. But because the current
         <td>KDMapper is a simple tool that exploits iqvw64e.sys Intel driver to manually map non-signed drivers in memory</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/TheWover/donut">TheWover/donut</a></td>
+        <td>Generates x86, x64, or AMD64+x86 position-independent shellcode that loads .NET Assemblies, PE files, and
+            other Windows payloads from memory and runs them with parameters</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/threatexpress/cobaltstrike_payload_generator">threatexpress/cobaltstrike_payload_generator</a></td>
+        <td>Quickly generate every payload type for each listener and optionally host via HTTP.</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/trickster0/OffensiveRust">trickster0/OffensiveRust</a></td>
+        <td>Rust Weaponization for Red Team Engagements.</td>
+    </tr>
+    <tr>
+        <td><a href="https//github.com/trustedsec/unicorn">trustedsec/unicorn</a></td>
+        <td>Unicorn is a simple tool for using a PowerShell downgrade attack and inject shellcode straight into memory.
+            Based on Matthew Graeber's powershell attacks and the powershell bypass technique presented by David Kennedy
+            (TrustedSec) and Josh Kelly at Defcon 18.</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/X-C3LL/xlsxPoison">X-C3LL/xlsxPoisoN</a></td>
+        <td>Just a PoC to turn xlsx (regular Excel files) into xlsm (Excel file with macro) and slipping inside a macro (vbaProject.bin)</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/xforcered/InlineExecute-Assembly">xforcered/InlineExecute-Assembly</a></td>
         <td>InlineExecute-Assembly is a proof of concept Beacon Object File (BOF) that allows security professionals to perform in process .NET assembly execution as an alternative to Cobalt Strikes traditional fork and run execute-assembly module</td>
     </tr>
     <tr>
        <td><a href="https://github.com/xinbailu/DripLoader">xinbailu/DripLoader</a></td>
        <td>Evasive shellcode loader for bypassing event-based injection detection (PoC)</td>
-   </tr>
+    </tr>
     <tr>
         <td><a href="https://github.com/xinbailu/DripLoader-Ops">xinbailu/DripLoader-Ops</a></td>
         <td>a usable, cleaned-up version for script kiddies</td>
@@ -546,412 +680,6 @@ Some tools can be categorized in more than one category. But because the current
     <tr>
         <td><a href="https://github.com/zerosum0x0/rcmd">zerosum0x0/rcmd</a></td>
         <td>Runs a command in another process</td>
-    </tr>
-</table>
-
-### Manipulating Binary's Internal
-
-<table>
-    <tr>
-        <td><b>Link</b></td>
-        <td><b>Description</b></td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/aaaddress1/wowGrail">aaaddress1/wowGrail</a></td>
-        <td>PoC: Rebuild A New Path Back to the Heaven's Gate (HITB 2021)</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/Accenture/CLRvoyance">Accenture/CLRvoyance</a></td>
-        <td>Managed assembly shellcode generation</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/ajpc500/NimlineWhispers">ajpc500/NimlineWhispers</a></td>
-        <td>A very proof-of-concept port of InlineWhispers for using syscalls in Nim projects.</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/Akaion/Bleak">Akaion/Bleak</a></td>
-        <td>A Windows native DLL injection library that supports several methods of injection.</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/boku7/AsmHalosGate">boku7/AsmHalosGate</a></td>
-        <td>x64 Assembly HalosGate direct System Caller to evade EDR UserLand hooks</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/boku7/halosgate-ps">boku7/halosgate-ps</a></td>
-        <td>Cobalt Strike BOF that uses a custom ASM HalosGate & HellsGate syscaller to return a list of processes</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/boku7/HellsGatePPID">boku7/HellsGatePPID</a></td> 
-        <td>Assembly HellGate implementation that directly calls Windows System Calls and displays the PPID of the explorer.exe process</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/boku7/HOLLOW">boku7/HOLLOW</a></td>
-        <td>EarlyBird process hollowing technique (BOF) - Spawns a process in a suspended state, inject shellcode, hijack main thread with APC, and execute shellcode</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/boku7/Ninja_UUID_Dropper">boku7/Ninja_UUID_Dropper</a></td>
-        <td>Module Stomping, No New Thread, HellsGate syscaller, UUID Dropper for x64 Windows 10!</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/boku7/spawn">boku7/spawn</a></td>
-        <td>Cobalt Strike BOF that spawns a sacrificial process, injects it with shellcode, and executes payload. Built to evade EDR/UserLand hooks by spawning sacrificial process with Arbitrary Code Guard (ACG), BlockDll, and PPID spoofing.</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/Cybellum/DoubleAgent">Cybellum/DoubleAgent</a></td>
-        <td>DoubleAgent is a new Zero-Day technique for injecting code and maintaining persistence on a machine (i.e.
-            auto-run).</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/DarthTon/Xenos">DarthTon/Xenos</a></td>
-        <td>Windows dll injector</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/FalconForceTeam/SysWhispers2BOF">FalconForceTeam/SysWhispers2BOF</a></td>
-        <td>Script to use SysWhispers2 direct system calls from Cobalt Strike BOFs</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/Flangvik/SharpDllProxy">Flangvik/SharpDllProxy</a></td>
-        <td>Retrieves exported functions from a legitimate DLL and generates a proxy DLL source code/template for DLL
-            proxy loading or sideloading</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/forrest-orr/phantom-dll-hollower-poc">forrest-orr/phantom-dll-hollower-poc</a>
-        </td>
-        <td>Phantom DLL hollowing PoC</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/GetRektBoy724/JALSI">GetRektBoy724/JALSI</a></td>
-        <td>JALSI - Just Another Lame Shellcode Injector</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/GetRektBoy724/TripleS">GetRektBoy724/TripleS</a></td>
-        <td>Syscall Stub Stealer - Freshly steal Syscall stub straight from the disk</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/GoodstudyChina/APC-injection-x86-x64">GoodstudyChina/APC-injection-x86-x64</a>
-        </td>
-        <td>injdrv is a proof-of-concept Windows Driver for injecting DLL into user-mode processes using APC.</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/jonatan1024/clrinject">jonatan1024/clrinject</a></td>
-        <td>Injects C# EXE or DLL Assembly into every CLR runtime and AppDomain of another process.</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/jthuraisamy/SysWhispers">jthuraisamy/SysWhispers</a></td>
-        <td>SysWhispers helps with evasion by generating header/ASM files implants can use to make direct system calls.
-        </td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/jthuraisamy/SysWhispers2">jthuraisamy/SysWhispers2</a></td>
-        <td>AV/EDR evasion via direct system calls.</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/Kara-4search/HellgateLoader_CSharp">Kara-4search/HellgateLoader_CSharp</a></td>
-        <td>Load shelcode via HELLGATE, rewrite hellgate for learning purpose.</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/Kara-4search/MappingInjection_CSharp">Kara-4search/MappingInjection_CSharp</a></td>
-        <td>MappingInjection via csharp</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/Kudaes/DInvoke_rs">Kudaes/DInvoke_rs</a></td>
-        <td>Dynamically invoke arbitrary unmanaged code.</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/kyleavery/ThirdEye">kyleavery/ThirdEye</a></td>
-        <td>Weaponizing CLRvoyance for Post-Ex .NET Execution</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/magnusstubman/dll-exports">magnusstubman/dll-exports</a></td>
-        <td>Collection of DLL function export forwards for DLL export function proxying</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/mgeeky/ElusiveMice">mgeeky/ElusiveMice</a></td>
-        <td>Cobalt Strike User-Defined Reflective Loader with AV/EDR Evasion in mind</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/mobdk/Sigma">mobdk/Sigma</a></td>
-        <td>Execute shellcode with ZwCreateSection, ZwMapViewOfSection, ZwOpenProcess, ZwMapViewOfSection and ZwCreateThreadEx</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/mobdk/Upsilon">mobdk/Upsilon</a></td>
-        <td>Upsilon execute shellcode with syscalls - no API like NtProtectVirtualMemory is used</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/monoxgas/sRDI">monoxgas/sRDI</a></td>
-        <td>Shellcode implementation of Reflective DLL Injection. Convert DLLs to position independent shellcode</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/Moriarty2016/NimRDI">Moriarty2016/NimRDI</a></td>
-        <td>RDI implementation in Nim</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/ORCA666/EVA3">ORCA666/EVA3</a></td>
-        <td>using hellsgate in EVA to get the syscalls</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/passthehashbrowns/DInvokeProcessHollowing">passthehashbrowns/DInvokeProcessHollowing</a></td>
-        <td>This repository is an implementation of process hollowing shellcode injection using DInvoke from SharpSploit. DInvoke allows operators to use unmanaged code while avoiding suspicious imports or API hooking.</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/richkmeli/Richkware">richkmeli/Richkware</a></td>
-        <td>Framework for building Windows malware, written in C++</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/sad0p/d0zer">sad0p/d0zer</a></td>
-        <td>Elf binary infector written in Golang</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/SheLLVM/SheLLVM">SheLLVM/SheLLVM</a></td>
-        <td>A collection of LLVM transform and analysis passes to write shellcode in regular C</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/snovvcrash/DInjector">snovvcrash/DInjector</a></td>
-        <td>Collection of shellcode injection techniques packed in a D/Invoke weaponized DLL</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/stephenfewer/ReflectiveDLLInjection">stephenfewer/ReflectiveDLLInjection</a>
-        </td>
-        <td>Reflective DLL injection is a library injection technique in which the concept of reflective programming is
-            employed to perform the loading of a library from memory into a host process</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/slyd0g/UrbanBishopLocal">slyd0g/UrbanBishopLocal</a></td>
-        <td>A port of FuzzySecurity's UrbanBishop project for inline shellcode execution. The execution vector uses a
-            delegate vs an APC on a suspended threat at ntdll!RtlExitUserThread in UrbanBishop</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/TheWover/GhostLoader">TheWover/GhostLoader</a></td>
-        <td>GhostLoader - AppDomainManager - Injection - 攻壳机动队</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/timwhitez/Doge-sRDI">timwhitez/Doge-sRDI</a></td>
-        <td>Shellcode implementation of Reflective DLL Injection by Golang. Convert DLLs to position independent shellcode</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/trickster0/OffensiveRust">trickster0/OffensiveRust</a></td>
-        <td>Rust Weaponization for Red Team Engagements.</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/r3nhat/XORedReflectiveDLL">r3nhat/XORedReflectiveDLL</a></td>
-        <td>Reflective DLL Injection with obfuscated (XOR) shellcode</td>
-    </tr>
-</table>
-
-### Payload Generation
-
-<table>
-    <tr>
-        <td><b>Link</b></td>
-        <td><b>Description</b></td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/BC-SECURITY/Empire/">BC-SECURITY/Empire</a></td>
-        <td>Empire is a PowerShell and Python post-exploitation agent.</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/BC-SECURITY/Offensive-VBA-and-XLS-Entanglement">BC-SECURITY/Offensive-VBA-and-XLS-Entanglement</a></td>
-        <td>Offensive VBA and XLS Entanglement</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/Binject/backdoorfactory">Binject/backdoorfactory</a></td>
-        <td>A from-scratch rewrite of The Backdoor Factory - a MitM tool for inserting shellcode into all types of
-            binaries on the wire.</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/BishopFox/sliver">BishopFox/sliver</a></td>
-        <td>Sliver is a general purpose cross-platform implant framework that supports C2 over Mutual-TLS, HTTP(S), and
-            DNS. Implants are dynamically compiled with unique X.509 certificates signed by a per-instance certificate
-            authority generated when you first run the binary.</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/capt-meelo/Beaconator">capt-meelo/Beaconator</a></td>
-        <td>A beacon generator using Cobalt Strike and PEzor.</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/cedowens/Mythic-Macro-Generator">cedowens/Mythic-Macro-Generator</a></td>
-        <td>Python3 script to generate a macro to launch a Mythic payload. Author: Cedric Owens</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/Ch0pin/AVIator">Ch0pin/AVIator</a></td>
-        <td>AV|Ator is a backdoor generator utility, which uses cryptographic and injection techniques in order to bypass AV detection.</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/connormcgarr/LittleCorporal">connormcgarr/LittleCorporal</a></td>
-        <td>LittleCorporal: A C# Automated Maldoc Generator</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/cseroad/bypassAV">cseroad/bypassAV</a></td>
-        <td>借助Win-PS2EXE项目编写cna脚本方便快速生成免杀可执行文件</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/cytopia/kusanagi">cytopia/kusanagi</a></td>
-        <td>Kusanagi is a bind and reverse shell payload generator with obfuscation and badchar support.</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/D00MFist/Mystikal">D00MFist/Mystikal</a></td>
-        <td>macOS Initial Access Payload Generator</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/damienvanrobaeys/PS1-To-EXE-Generator">damienvanrobaeys/PS1-To-EXE-Generator</a>
-        </td>
-        <td>PS1 to EXE Generator: Create an EXE for your PS1 scripts</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/erikgeiser/govenom">erikgeiser/govenom</a></td>
-        <td>govenom is a msfvenom-inspired cross-platform payload generator toolkit written in Go</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/forrest-orr/artifacts-kit">forrest-orr/artifacts-kit</a></td>
-        <td>Pseudo-malicious usermode memory artifact generator kit designed to easily mimic the footprints left by real malware on an infected Windows OS.</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/FortyNorthSecurity/EXCELntDonut">FortyNorthSecurity/EXCELntDonut</a></td>
-        <td>Excel 4.0 (XLM) Macro Generator for injecting DLLs and EXEs into memory.</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/FortyNorthSecurity/hot-manchego">FortyNorthSecurity/hot-manchego</a></td>
-        <td>Macro-Enabled Excel File Generator (.xlsm) using the EPPlus Library.</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/frkngksl/Huan">frkngksl/Huan</a></td>
-        <td>Encrypted PE Loader Generator</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/GetRektBoy724/MeterPwrShell">GetRektBoy724/MeterPwrShell</a></td>
-        <td>Automated Tool That Generate The Perfect Powershell Payload</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/gen0cide/gscript">gen0cide/gscript</a></td>
-        <td>framework to rapidly implement custom droppers for all three major operating systems</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/glinares/InlineShapesPayload">glinares/InlineShapesPayload</a></td>
-        <td>VBA InlineShapes Payload Generator</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/gloxec/CrossC2">gloxec/CrossC2</a></td>
-        <td>Generate CobaltStrike's cross-platform payload</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/Greenwolf/ntlm_theft">Greenwolf/ntlm_theft</a></td>
-        <td>A tool for generating multiple types of NTLMv2 hash theft files by Jacob Wilkin (Greenwolf)</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/hasherezade/masm_shc">hasherezade/masm_shc</a></td>
-        <td>A helper utility for creating shellcodes. Cleans MASM file generated by MSVC, gives refactoring hints.</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/infosecn1nja/MaliciousMacroMSBuild">infosecn1nja/MaliciousMacroMSBuild</a></td>
-        <td>Generates Malicious Macro and Execute Powershell or Shellcode via MSBuild Application Whitelisting Bypass.
-        </td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/jfmaes/SharpLNKGen-UI">jfmaes/SharpLNKGen-UI</a></td>
-        <td>UI for creating LNKs</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/jonaslejon/malicious-pdf">jonaslejon/malicious-pdf</a></td>
-        <td>Generate a bunch of malicious pdf files with phone-home functionality. Can be used with Burp Collaborator</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/l373/GIVINGSTORM">l373/GIVINGSTORM</a></td>
-        <td>Infection vector that bypasses AV, IDS, and IPS. (For now...)</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/lockedbyte/CVE-2021-40444">lockedbyte/CVE-2021-40444</a></td>
-        <td>Malicious docx generator to exploit CVE-2021-40444 (Microsoft Office Word Remote Code Execution)</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/mdsecactivebreach/SharpShooter">mdsecactivebreach/SharpShooter</a></td>
-        <td>SharpShooter is a payload creation framework for the retrieval and execution of arbitrary CSharp source
-            code.</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/med0x2e/GadgetToJScript">med0x2e/GadgetToJScript</a></td>
-        <td>A tool for generating .NET serialized gadgets that can trigger .NET assembly load/execution when deserialized using BinaryFormatter from JS/VBS/VBA based scripts.</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/michaelweber/Macrome">michaelweber/Macrome</a></td>
-        <td>Excel Macro Document Reader/Writer for Red Teamers & Analysts</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/Mr-Un1k0d3r/MaliciousDLLGenerator">Mr-Un1k0d3r/MaliciousDLLGenerator</a></td>
-        <td>DLL Generator for side loading attack</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/optiv/ScareCrow">optiv/ScareCrow</a></td>
-        <td>ScareCrow - Payload creation framework designed around EDR bypass.</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/Plazmaz/LNKUp">Plazmaz/LNKUp</a></td>
-        <td>Generates malicious LNK file payloads for data exfiltration</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/postrequest/xeca">postrequest/xeca</a></td>
-        <td>PowerShell payload generator</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/praetorian-inc/Matryoshka">praetorian-inc/Matryoshka</a></td>
-        <td>Matryoshka loader is a tool that red team operators can leverage to generate shellcode for Microsoft Office document phishing payloads.</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/redcanaryco/chain-reactor">redcanaryco/chain-reactor</a></td>
-        <td>Chain Reactor is an open source framework for composing executables that simulate adversary behaviors and
-            techniques on Linux endpoints.</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/redcode-labs/GoSH">redcode-labs/GoSH</a></td>
-        <td>Golang reverse/bind shell generator</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/redcode-labs/SNOWCRASH">redcode-labs/SNOWCRASH</a></td>
-        <td>A polyglot payload generator</td>
-    </tr>
-    <tr>
-        <td><a href="https://www.revshells.com/">Reverse Shell Generator</a></td>
-        <td>Reverse Shell Generator</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/s0lst1c3/dropengine">s0lst1c3/dropengine</a></td>
-        <td>DropEngine provides a malleable framework for creating shellcode runners, allowing operators to choose from a selection of components and combine them to create highly sophisticated payloads within seconds.DropEngine provides a malleable framework for creating shellcode runners, allowing operators to choose from a selection of components and combine them to create highly sophisticated payloads within seconds.DropEngine provides a malleable framework for creating shellcode runners, allowing operators to choose from a selection of components and combine them to create highly sophisticated payloads within seconds.</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/sevagas/macro_pack">sevagas/macro_pack</a></td>
-        <td>macro_pack is a tool used to automatize obfuscation and generation of MS Office documents for pentest, demo,
-            and social engineering assessments. The goal of macro_pack is to simplify antimalware bypass and automatize
-            the process from vba generation to final Office document generation.</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/STMSolutions/boobsnail">STMSolutions/boobsnail</a></td>
-        <td>BoobSnail allows generating Excel 4.0 XLM macro. Its purpose is to support the RedTeam and BlueTeam in XLM macro generation.</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/t3hbb/NSGenCS">t3hbb/NSGenCS</a></td>
-        <td>Extendable payload obfuscation and delivery framework</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/TheWover/donut">TheWover/donut</a></td>
-        <td>Generates x86, x64, or AMD64+x86 position-independent shellcode that loads .NET Assemblies, PE files, and
-            other Windows payloads from memory and runs them with parameters</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/threatexpress/cobaltstrike_payload_generator">threatexpress/cobaltstrike_payload_generator</a></td>
-        <td>Quickly generate every payload type for each listener and optionally host via HTTP.</td>
-    </tr>
-    <tr>
-        <td><a href="https//github.com/trustedsec/unicorn">trustedsec/unicorn</a></td>
-        <td>Unicorn is a simple tool for using a PowerShell downgrade attack and inject shellcode straight into memory.
-            Based on Matthew Graeber's powershell attacks and the powershell bypass technique presented by David Kennedy
-            (TrustedSec) and Josh Kelly at Defcon 18.</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/Wra7h/Single-Dose">Wra7h/Single-Dose</a></td>
-        <td>Generate process injection binaries</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/X-C3LL/xlsxPoison">X-C3LL/xlsxPoisoN</a></td>
-        <td>Just a PoC to turn xlsx (regular Excel files) into xlsm (Excel file with macro) and slipping inside a macro (vbaProject.bin)</td>
     </tr>
 </table>
 
@@ -1150,6 +878,14 @@ Some tools can be categorized in more than one category. But because the current
         <td><b>Description</b></td>
     </tr>
     <tr>
+        <td><a href="https://github.com/0xDivyanshu/Injector">0xDivyanshu/Injector</a></td>
+        <td>Complete Arsenal of Memory injection and other techniques for red-teaming in Windows</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/0xpat/COFFInjector">0xpat/COFFInjector</a></td>
+        <td>PoC MSVC COFF Object file loader/injector.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/0xN3utr0n/Noteme">0xN3utr0n/Noteme</a></td>
         <td>ELF packer/crypter that aims to create hardened and stealthy troyans</td>
     </tr>
@@ -1166,6 +902,14 @@ Some tools can be categorized in more than one category. But because the current
         <td>Pakkero is a binary packer written in Go made for fun and educational purpose. Its main goal is to take in
             input a program file (elf binary, script, even appimage) and compress it, protect it from tampering and
             intrusion.</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/aaaddress1/wowGrail">aaaddress1/wowGrail</a></td>
+        <td>PoC: Rebuild A New Path Back to the Heaven's Gate (HITB 2021)</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/Aetsu/OffensivePipeline">Aetsu/OffensivePipeline</a></td>
+        <td>OffensivePipeline allows to download, compile (without Visual Studio) and obfuscate C# tools for Red Team exercises.</td>
     </tr>
     <tr>
         <td><a href="https://github.com/airzero24/WMIReg">airzero24/WMIReg</a></td>
@@ -1233,8 +977,24 @@ Some tools can be categorized in more than one category. But because the current
         <td>The goal of this project is to create a permutation engine for PE files. The engine should randomize the executable parts of the file.</td>
     </tr>
     <tr>
-        <td><a href="https://github.com/bohops/UltimateWDACBypassList">bohops/UltimateWDACBypassList</a></td>
-        <td>A centralized resource for previously documented WDAC bypass techniques</td>
+        <td><a href="https://github.com/boku7/AsmHalosGate">boku7/AsmHalosGate</a></td>
+        <td>x64 Assembly HalosGate direct System Caller to evade EDR UserLand hooks</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/boku7/CobaltStrikeReflectiveLoader">boku7/CobaltStrikeReflectiveLoader</a></td>
+        <td>Cobalt Strike User-Defined Reflective Loader written in Assembly & C for advanced evasion capabilities.</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/boku7/halosgate-ps">boku7/halosgate-ps</a></td>
+        <td>Cobalt Strike BOF that uses a custom ASM HalosGate & HellsGate syscaller to return a list of processes</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/boku7/HellsGatePPID">boku7/HellsGatePPID</a></td> 
+        <td>Assembly HellGate implementation that directly calls Windows System Calls and displays the PPID of the explorer.exe process</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/boku7/HOLLOW">boku7/HOLLOW</a></td>
+        <td>EarlyBird process hollowing technique (BOF) - Spawns a process in a suspended state, inject shellcode, hijack main thread with APC, and execute shellcode</td>
     </tr>
     <tr>
         <td><a href="https://github.com/boku7/injectAmsiBypass">boku7/injectAmsiBypass</a></td>
@@ -1245,12 +1005,32 @@ Some tools can be categorized in more than one category. But because the current
         <td>CobaltStrike BOF - Inject ETW Bypass into Remote Process via Syscalls (HellsGate|HalosGate)</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/boku7/Ninja_UUID_Dropper">boku7/Ninja_UUID_Dropper</a></td>
+        <td>Module Stomping, No New Thread, HellsGate syscaller, UUID Dropper for x64 Windows 10!</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/boku7/spawn">boku7/spawn</a></td>
+        <td>Cobalt Strike BOF that spawns a sacrificial process, injects it with shellcode, and executes payload. Built to evade EDR/UserLand hooks by spawning sacrificial process with Arbitrary Code Guard (ACG), BlockDll, and PPID spoofing.</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/bohops/UltimateWDACBypassList">bohops/UltimateWDACBypassList</a></td>
+        <td>A centralized resource for previously documented WDAC bypass techniques</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/boku7/winx64-InjectAllProcessesMeterpreter-Shellcode">boku7/winx64-InjectAllProcessesMeterpreter-Shellcode</a></td>
+        <td>64bit Windows 10 shellcode that injects all processes with Meterpreter reverse shells.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/br-sn/CheekyBlinder">br-sn/CheekyBlinder</a></td>
         <td>Enumerating and removing kernel callbacks using signed vulnerable drivers</td>
     </tr>
     <tr>
         <td><a href="https://github.com/burrowers/garble">burrowers/garble</a></td>
         <td>Obfuscate Go builds</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/bytecode77/self-morphing-csharp-binary">bytecode77/self-morphing-csharp-binary</a></td>
+        <td>Executable that mutates its own code</td>
     </tr>
     <tr>
         <td><a href="https://github.com/c0de90e7/GhostWriting">c0de90e7/GhostWriting</a></td>
@@ -1265,8 +1045,20 @@ Some tools can be categorized in more than one category. But because the current
         <td>A method of bypassing EDR's active projection DLL's by preventing entry point execution.</td>
     </tr>
     <tr>
+        <td><a href="https://ChadSki/SharpNeedle">ChadSki/SharpNeedle</a></td>
+        <td>Inject C# code into a running process</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/Charterino/AsStrongAsFuck">Charterino/AsStrongAsFuck</a></td>
         <td>A console obfuscator for .NET assemblies.</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/checkymander/Zolom">checkymander/Zolom</a></td>
+        <td>C# Executable with embedded Python that can be used reflectively to run python code on systems without Python installed</td>
+    </tr>
+   <tr>
+        <td><a href="https://github.com/Cn33liz/p0wnedShell">Cn33liz/p0wnedShell</a></td>
+        <td>p0wnedShell is an offensive PowerShell host application written in C# that does not rely on powershell.exe but runs powershell commands and functions within a powershell runspace environment (.NET)</td>
     </tr>
     <tr>
         <td><a href="https://github.com/cobbr/PSAmsi">cobbr/PSAmsi</a></td>
@@ -1301,6 +1093,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Obfuscate specific windows apis with different apis</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/DamonMohammadbagher/NativePayload_Tinjection">DamonMohammadbagher/NativePayload_Tinjection</a></td>
+        <td>Remote Thread Injection by C#</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/danielbohannon/Invoke-CradleCrafter">danielbohannon/Invoke-CradleCrafter</a>
         </td>
         <td>PowerShell Remote Download Cradle Generator & Obfuscator</td>
@@ -1312,6 +1108,10 @@ Some tools can be categorized in more than one category. But because the current
     <tr>
         <td><a href="https://github.com/DarthTon/Polychaos">DarthTon/Polychaos</a></td>
         <td>PE permutation library</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/DarthTon/Xenos">DarthTon/Xenos</a></td>
+        <td>Windows dll injector</td>
     </tr>
     <tr>
         <td><a href="https://github.com/dndx/phantun">dndx/phantun</a></td>
@@ -1339,6 +1139,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>BOF implementation of the research by @jonaslyk and the drafted PoC from @LloydLabs</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/FalconForceTeam/SysWhispers2BOF">FalconForceTeam/SysWhispers2BOF</a></td>
+        <td>Script to use SysWhispers2 direct system calls from Cobalt Strike BOFs</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/FatRodzianko/SharpBypassUAC">FatRodzianko/SharpBypassUAC</a></td>
         <td>C# tool for UAC bypasses</td>
     </tr>
@@ -1363,12 +1167,32 @@ Some tools can be categorized in more than one category. But because the current
         <td>YouTube/Livestream project for obfuscating C# source code using Roslyn</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/Flangvik/SharpDllProxy">Flangvik/SharpDllProxy</a></td>
+        <td>Retrieves exported functions from a legitimate DLL and generates a proxy DLL source code/template for DLL proxy loading or sideloading</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/forrest-orr/phantom-dll-hollower-poc">forrest-orr/phantom-dll-hollower-poc</a></td>
+        <td>Phantom DLL hollowing PoC</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/GetRektBoy724/JALSI">GetRektBoy724/JALSI</a></td>
+        <td>JALSI - Just Another Lame Shellcode Injector</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/GetRektBoy724/SharpUnhooker">GetRektBoy724/SharpUnhooker</a></td>
         <td>C# Based Universal API Unhooker</td>
     </tr>
     <tr>
         <td><a href="https://github.com/GetRektBoy724/TripleS">GetRektBoy724/TripleS</a></td>
         <td>Syscall Stub Stealer - Freshly steal Syscall stub straight from the disk</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/GetRektBoy724/TripleS">GetRektBoy724/TripleS</a></td>
+        <td>Syscall Stub Stealer - Freshly steal Syscall stub straight from the disk</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/GoodstudyChina/APC-injection-x86-x64">GoodstudyChina/APC-injection-x86-x64</a></td>
+        <td>injdrv is a proof-of-concept Windows Driver for injecting DLL into user-mode processes using APC.</td>
     </tr>
     <tr>
         <td><a href="https://github.com/HackOvert/AntiDBG">HackOvert/AntiDBG</a></td>
@@ -1393,6 +1217,10 @@ Some tools can be categorized in more than one category. But because the current
     <tr>
         <td><a href="https://github.com/huntresslabs/evading-autoruns">huntresslabs/evading-autoruns</a></td>
         <td>Slides and reference material from Evading Autoruns presentation at DerbyCon 7 (September 2017)</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/infosecn1nja/MaliciousMacroMSBuild">infosecn1nja/MaliciousMacroMSBuild</a></td>
+        <td>Generates Malicious Macro and Execute Powershell or Shellcode via MSBuild Application Whitelisting Bypass.</td>
     </tr>
     <tr>
         <td><a href="https://github.com/iomoath/PowerShx">iomoath/PowerShx</a></td>
@@ -1423,8 +1251,20 @@ Some tools can be categorized in more than one category. But because the current
         <td>Simple & Powerful PowerShell Script Obfuscator</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/jonatan1024/clrinject">jonatan1024/clrinject</a></td>
+        <td>Injects C# EXE or DLL Assembly into every CLR runtime and AppDomain of another process.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/jnastarot/furikuri">jnastarot/furikuri</a></td>
         <td>(In dev)furikuri is framework for code protection</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/jthuraisamy/SysWhispers">jthuraisamy/SysWhispers</a></td>
+        <td>SysWhispers helps with evasion by generating header/ASM files implants can use to make direct system calls.</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/jthuraisamy/SysWhispers2">jthuraisamy/SysWhispers2</a></td>
+        <td>AV/EDR evasion via direct system calls.</td>
     </tr>
     <tr>
         <td><a href="https://github.com/jthuraisamy/TelemetrySourcerer">jthuraisamy/TelemetrySourcerer</a></td>
@@ -1437,6 +1277,14 @@ Some tools can be categorized in more than one category. But because the current
     <tr>
         <td><a href="https://github.com/Kara-4search/FullDLLUnhooking_CSharp">Kara-4search/FullDLLUnhooking_CSharp</a></td>
         <td>Unhook DLL via cleaning the DLL 's .text section</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/Kara-4search/HellgateLoader_CSharp">Kara-4search/HellgateLoader_CSharp</a></td>
+        <td>Load shelcode via HELLGATE, rewrite hellgate for learning purpose.</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/Kara-4search/MappingInjection_CSharp">Kara-4search/MappingInjection_CSharp</a></td>
+        <td>MappingInjection via csharp</td>
     </tr>
     <tr>
         <td><a href="https://github.com/karttoon/trigen">karttoon/trigen</a></td>
@@ -1459,12 +1307,28 @@ Some tools can be categorized in more than one category. But because the current
         <td>C# implementation of the research by @jonaslyk and the drafted PoC from @LloydLabs</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/knight0x07/ImpulsiveDLLHijack">knight0x07/ImpulsiveDLLHijack</a></td>
+        <td>C# based tool which automates the process of discovering and exploiting DLL Hijacks in target binaries. The Hijacked paths discovered can later be weaponized during Red Team Operations to evade EDR's.</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/l373/GIVINGSTORM">l373/GIVINGSTORM</a></td>
+        <td>Infection vector that bypasses AV, IDS, and IPS. (For now...)</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/last-byte/unDefender">last-byte/unDefender</a></td>
         <td>Killing your preferred antimalware by abusing native symbolic links and NT paths.</td>
     </tr>
     <tr>
         <td><a href="https://github.com/lawiet47/STFUEDR">lawiet47/STFUEDR</a></td>
         <td>Silence EDRs by removing kernel callbacks</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/m0rv4i/Ridgway">m0rv4i/Ridgway</a></td>
+        <td>A quick tool for hiding a new process running shellcode.</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/magnusstubman/dll-exports">magnusstubman/dll-exports</a></td>
+        <td>Collection of DLL function export forwards for DLL export function proxying</td>
     </tr>
     <tr>
         <td><a href="https://github.com/matterpreter/DefenderCheck">matterpreter/DefenderCheck</a></td>
@@ -1491,6 +1355,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>SigFlip is a tool for patching authenticode signed PE files (exe, dll, sys ..etc) without invalidating or breaking the existing signature.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/mgeeky/ElusiveMice">mgeeky/ElusiveMice</a></td>
+        <td>Cobalt Strike User-Defined Reflective Loader with AV/EDR Evasion in mind</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/mgeeky/ShellcodeFluctuation">mgeeky/ShellcodeFluctuation</a></td>
         <td>An in-memory evasion technique fluctuating shellcode memory protection between RW & RX and encrypting/decrypting contents</td>
     </tr>
@@ -1507,8 +1375,16 @@ Some tools can be categorized in more than one category. But because the current
         <td>CoffeeShot: Avoid Detection with Memory Injection</td>
     </tr>
     <tr>
-        <td><a href="https://github.com/m0rv4i/Ridgway">m0rv4i/Ridgway</a></td>
-        <td>A quick tool for hiding a new process running shellcode.</td>
+        <td><a href="https://github.com/mobdk/Upsilon">mobdk/Upsilon</a></td>
+        <td>Upsilon execute shellcode with syscalls - no API like NtProtectVirtualMemory is used</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/monoxgas/sRDI">monoxgas/sRDI</a></td>
+        <td>Shellcode implementation of Reflective DLL Injection. Convert DLLs to position independent shellcode</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/Moriarty2016/NimRDI">Moriarty2016/NimRDI</a></td>
+        <td>RDI implementation in Nim</td>
     </tr>
     <tr>
         <td><a href="https://github.com/nccgroup/demiguise">nccgroup/demiguise</a></td>
@@ -1527,6 +1403,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Implementation of Self Deleting Executables</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/nettitude/RunPE">nettitude/RunPE</a></td>
+        <td>C# Reflective loader for unmanaged binaries.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/NotPrab/.NET-Obfuscator">NotPrab/.NET-Obfuscator</a></td>
         <td>Lists of .NET Obfuscator (Free, Trial, Paid and Open Source )</td>
     </tr>
@@ -1535,8 +1415,20 @@ Some tools can be categorized in more than one category. But because the current
         <td>Protects deletion of files with a specified extension using a kernel-mode driver.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/NtRaiseHardError/NINA">NtRaiseHardError/NINA</a></td>
+        <td>NINA: No Injection, No Allocation x64 Process Injection Technique</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/OmerYa/Invisi-Shell">OmerYa/Invisi-Shell</a></td>
         <td>Hide your Powershell script in plain sight. Bypass all Powershell security features</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/optiv/ScareCrow">optiv/ScareCrow</a></td>
+        <td>ScareCrow - Payload creation framework designed around EDR bypass.</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/ORCA666/EVA3">ORCA666/EVA3</a></td>
+        <td>using hellsgate in EVA to get the syscalls</td>
     </tr>
     <tr>
         <td><a href="https://github.com/OsandaMalith/PE2HTML">OsandaMalith/PE2HTML</a></td>
@@ -1545,6 +1437,10 @@ Some tools can be categorized in more than one category. But because the current
     <tr>
         <td><a href="https://github.com/outflanknl/TamperETW">outflanknl/TamperETW</a></td>
         <td>PoC to demonstrate how CLR ETW events can be tampered.</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/passthehashbrowns/DInvokeProcessHollowing">passthehashbrowns/DInvokeProcessHollowing</a></td>
+        <td>This repository is an implementation of process hollowing shellcode injection using DInvoke from SharpSploit. DInvoke allows operators to use unmanaged code while avoiding suspicious imports or API hooking.</td>
     </tr>
     <tr>
         <td><a href="https://github.com/pathtofile/SealighterTI">pathtofile/SealighterTI</a></td>
@@ -1567,8 +1463,16 @@ Some tools can be categorized in more than one category. But because the current
         <td>Open-Source PE Packer</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/plackyhacker/SuspendedThreadInjection">plackyhacker/SuspendedThreadInjection</a></td>
+        <td>Another meterpreter injection technique using C# that attempts to bypass Defender</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/PwnDexter/SharpEDRChecker">PwnDexter/SharpEDRChecker</a></td>
         <td>Checks running processes, process metadata, Dlls loaded into your current process and the each DLLs metadata, common install directories, installed services and each service binaries metadata, installed drivers and each drivers metadata, all for the presence of known defensive products such as AV's, EDR's and logging tools.</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/r3nhat/XORedReflectiveDLL">r3nhat/XORedReflectiveDLL</a></td>
+        <td>Reflective DLL Injection with obfuscated (XOR) shellcode</td>
     </tr>
     <tr>
         <td><a href="https://github.com/rasta-mouse/AmsiScanBufferBypass">rasta-mouse/AmsiScanBufferBypass</a></td>
@@ -1577,6 +1481,10 @@ Some tools can be categorized in more than one category. But because the current
     <tr>
         <td><a href="https://github.com/RedCursorSecurityConsulting/PPLKiller">RedCursorSecurityConsulting/PPLKiller</a></td>
         <td>Tool to bypass LSA Protection (aka Protected Process Light)</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/reevesrs24/EvasiveProcessHollowing">reevesrs24/EvasiveProcessHollowing</a></td>
+        <td>Evasive Process Hollowing Techniques</td>
     </tr>
     <tr>
         <td><a href="https://github.com/rmdavy/HeapsOfFun">rmdavy/HeapsOfFun</a></td>
@@ -1591,6 +1499,14 @@ Some tools can be categorized in more than one category. But because the current
         <td>Manipulating and Abusing Windows Access Tokens.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/S4R1N/MMFCodeInjection">S4R1N/MMFCodeInjection</a></td>
+        <td>Code Injection via Memory Mapped Files</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/sad0p/d0zer">sad0p/d0zer</a></td>
+        <td>Elf binary infector written in Golang</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/scrt/avcleaner">scrt/avcleaner</a></td>
         <td>C/C++ source obfuscator for antivirus bypass</td>
     </tr>
@@ -1598,6 +1514,11 @@ Some tools can be categorized in more than one category. But because the current
         <td><a href="https://github.com/secretsquirrel/SigThief">secretsquirrel/SigThief</a></td>
         <td>Stealing Signatures and Making One Invalid Signature at a Time</td>
     </tr>
+    <tr>
+        <td><a href="https://github.com/SecIdiot/TitanLdr">SecIdiot/TitanLdr</a></td>
+        <td>Titan: A crappy Reflective Loader written in C and assembly for Cobalt Strike. Redirects DNS Beacon over DoH</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/sinfulz/JustEvadeBro">sinfulz/JustEvadeBro</a></td>
         <td>JustEvadeBro, a cheat sheet which will aid you through AMSI/AV evasion & bypasses.</td>
     </tr>
@@ -1606,8 +1527,28 @@ Some tools can be categorized in more than one category. But because the current
         <td>C# port of LogServiceCrash</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/slyd0g/UrbanBishopLocal">slyd0g/UrbanBishopLocal</a></td>
+        <td>A port of FuzzySecurity's UrbanBishop project for inline shellcode execution. The execution vector uses a delegate vs an APC on a suspended threat at ntdll!RtlExitUserThread in UrbanBishop</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/SolomonSklash/SleepyCrypt">SolomonSklash/SleepyCrypt</a></td>
         <td>A shellcode function to encrypt a running process image when sleeping.</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/snovvcrash/DInjector">snovvcrash/DInjector</a></td>
+        <td>Collection of shellcode injection techniques packed in a D/Invoke weaponized DLL</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/stephenfewer/ReflectiveDLLInjection">stephenfewer/ReflectiveDLLInjection</a></td>
+        <td>Reflective DLL injection is a library injection technique in which the concept of reflective programming is employed to perform the loading of a library from memory into a host process</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/t3hbb/NSGenCS">t3hbb/NSGenCS</a></td>
+        <td>Extendable payload obfuscation and delivery framework</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/timwhitez/Doge-sRDI">timwhitez/Doge-sRDI</a></td>
+        <td>Shellcode implementation of Reflective DLL Injection by Golang. Convert DLLs to position independent shellcode</td>
     </tr>
     <tr>
         <td><a href="https://github.com/the-xentropy/xencrypt">the-xentropy/xencrypt</a></td>
@@ -1616,6 +1557,10 @@ Some tools can be categorized in more than one category. But because the current
     <tr>
         <td><a href="https://github.com/TheWover/CertStealer">TheWover/CertStealer</a></td>
         <td>A .NET tool for exporting and importing certificates without touching disk.</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/TheWover/GhostLoader">TheWover/GhostLoader</a></td>
+        <td>GhostLoader - AppDomainManager - Injection - 攻壳机动队</td>
     </tr>
     <tr>
         <td><a href="https://github.com/ThomasThelen/Anti-Debugging">ThomasThelen/Anti-Debugging</a></td>
@@ -1641,6 +1586,10 @@ Some tools can be categorized in more than one category. But because the current
     <tr>
         <td><a href="https://github.com/Unknow101/FuckThatPacker">Unknow101/FuckThatPacker</a></td>
         <td>A simple python packer to easily bypass Windows Defender</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/Wra7h/Single-Dose">Wra7h/Single-Dose</a></td>
+        <td>Generate process injection binaries</td>
     </tr>
     <tr>
         <td><a href="https://github.com/xct/morbol">xct/morbol</a></td>
@@ -1801,12 +1750,12 @@ Some tools can be categorized in more than one category. But because the current
         <td>Yet another LSASS dumper</td>
     </tr>
     <tr>
-        <td><a href="https://github.com/G0ldenGunSec/SharpSecDump">G0ldenGunSec/SharpSecDump</a></td>
-        <td>.Net port of the remote SAM + LSA Secrets dumping functionality of impacket's secretsdump.py</td>
-    </tr>
-    <tr>
         <td><a href="https://github.com/GossiTheDog/HiveNightmare">GossiTheDog/HiveNightmare</a></td>
         <td>Exploit allowing you to read registry hives as non-admin</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/Greenwolf/ntlm_theft">Greenwolf/ntlm_theft</a></td>
+        <td>A tool for generating multiple types of NTLMv2 hash theft files by Jacob Wilkin (Greenwolf)</td>
     </tr>
     <tr>
         <td><a href="https://github.com/Hackndo/lsassy">Hackndo/lsassy</a></td>
@@ -2183,6 +2132,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>SHAD0W is a modular C2 framework designed to successfully operate on mature environments.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/BishopFox/sliver">BishopFox/sliver</a></td>
+        <td>Sliver is a general purpose cross-platform implant framework that supports C2 over Mutual-TLS, HTTP(S), and DNS. Implants are dynamically compiled with unique X.509 certificates signed by a per-instance certificate authority generated when you first run the binary.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/blackbotinc/Atomic-Red-Team-Intelligence-C2">blackbotinc/Atomic-Red-Team-Intelligence-C2</a></td>
         <td>ARTi-C2 is a post-exploitation framework used to execute Atomic Red Team test cases with rapid payload deployment and execution capabilities via .NET's DLR.</td>
     </tr>
@@ -2399,6 +2352,10 @@ Some tools can be categorized in more than one category. But because the current
         <td><a href="https://github.com/pentestpartners/PTP-RAT">pentestpartners/PTP-RAT</a></td>
         <td>Exfiltrate data over screen interfaces. <a href="https://www.pentestpartners.com/security-blog/exfiltration-by-encoding-data-in-pixel-colour-values/">For
                 more information.</a></td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/Plazmaz/LNKUp">Plazmaz/LNKUp</a></td>
+        <td>Generates malicious LNK file payloads for data exfiltration</td>
     </tr>
     <tr>
         <td><a href="https://github.com/sensepost/DET">sensepost/DET</a></td>
