@@ -2044,6 +2044,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Maximizing BloodHound. Max is a good boy.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/mez-0/CSharpWinRM">mez-0/CSharpWinRM</a></td>
+        <td>.NET 4.0 WinRM API Command Execution</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/mez-0/winrmdll">mez-0/winrmdll</a></td>
         <td>C++ WinRM API via Reflective DLL</td>
     </tr>
