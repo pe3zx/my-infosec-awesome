@@ -1924,6 +1924,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>The Security Technical Implementation Guides (STIGs) are the configuration standards for DOD IA and IA-enabled devices/systems.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/securitywithoutborders/hardentools"></a>securitywithoutborders/hardentools</td>
+        <td>Hardentools simply reduces the attack surface on Microsoft Windows computers by disabling low-hanging fruit risky features.</td>
+    </tr>
+    <tr>
         <td><a href="https://www.asd.gov.au/infosec/mitigationstrategies.htm">Strategies to Mitigate Cyber Security Incidents</a></td>
         <td>The Australian Signals Directorate (ASD) has developed prioritised mitigation strategies to help technical cyber security professionals in all organisations mitigate cyber security incidents. This guidance addresses targeted cyber intrusions, ransomware and external adversaries with destructive intent, malicious insiders, 'business email compromise' and industrial control systems.</td>
     </tr>
