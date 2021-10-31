@@ -1974,6 +1974,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Rapid deployment of Windows environment (files, registry keys, mutex etc) to facilitate malware analysis</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/advanced-threat-research/DarkSide-Config-Extract">advanced-threat-research/DarkSide-Config-Extract</a></td>
+        <td>DarkSide & BlackMatter Config Extractor by ValthekOn & S2 (@sisoma2)</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/advanced-threat-research/IOCs">advanced-threat-research/IOCs</a></td>
         <td>Repository containing IOCs, MISP and Expert rules from our blogs</td>
     </tr>
