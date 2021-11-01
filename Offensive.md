@@ -261,6 +261,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>GhostBuild is a collection of simple MSBuild launchers for various GhostPack/.NET projects</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/ByteJunkies-co-uk/Metsubushi">ByteJunkies-co-uk/Metsubushi</a></td>
+        <td>Generate droppers with encrypted payloads automatically.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/capt-meelo/Beaconator">capt-meelo/Beaconator</a></td>
         <td>A beacon generator using Cobalt Strike and PEzor.</td>
     </tr>
