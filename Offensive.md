@@ -349,6 +349,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>govenom is a msfvenom-inspired cross-platform payload generator toolkit written in Go</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/FalconForceTeam/BOF2shellcode">FalconForceTeam/BOF2shellcode</a></td>
+        <td>POC tool to convert CobaltStrike BOF files to raw shellcode</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/Flangvik/SharpCollection">Flangvik/SharpCollection</a></td>
         <td>Nightly builds of common C# offensive tools, fresh from their respective master branches built and released in a CDI fashion using Azure DevOps release pipelines.</td>
     </tr>
