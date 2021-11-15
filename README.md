@@ -1810,6 +1810,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Beagle is an incident response and digital forensics tool which transforms security logs and data into graphs.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/zeronetworks/RPCFirewall">zeronetworks/RPCFirewall</a></td>
+        <td>RPC is the underlying mechanism which is used for numerous lateral movement techniques, reconnaisense, relay attacks, or simply to exploit vulnerable RPC services.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/zodiacon/ProcMonXv2">zodiacon/ProcMonXv2</a></td>
         <td>Procmon-like tool that uses Event Tracing for Windows (ETW) instead of a kernel driver to provide event information.</td>
     </tr>
