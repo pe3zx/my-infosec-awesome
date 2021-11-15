@@ -2895,6 +2895,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Email OSINT & Password breach hunting tool, locally or using premium services. Supports chasing down related email</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/knownsec/Kunyu">knownsec/Kunyu</a></td>
+        <td>Kunyu, more efficient corporate asset collection</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/lanrat/certgraph">lanrat/certgraph</a></td>
         <td>An open source intelligence tool to crawl the graph of certificate Alternate Names</td>
     </tr>
