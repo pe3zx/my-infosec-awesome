@@ -1691,6 +1691,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Scripts to make password spraying attacks against Lync/S4B, OWA & O365 a lot quicker, less painful and more efficient</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/CCob/lsarelayx">CCob/lsarelayx</a></td>
+        <td>NTLM relaying for Windows made easy</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/CCob/MirrorDump">CCob/MirrorDump</a></td>
         <td>Another LSASS dumping tool that uses a dynamically compiled LSA plugin to grab an lsass handle and API hooking for capturing the dump in memory</td>
     </tr>
