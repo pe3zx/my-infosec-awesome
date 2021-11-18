@@ -1750,6 +1750,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>UAC (Unix-like Artifacts Collector) is a Live Response collection tool for Incident Reponse that makes use of built-in tools to automate the collection of Unix-like systems artifacts. Supported systems: AIX, FreeBSD, Linux, macOS, NetBSD, Netscaler, OpenBSD and Solaris.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/telekom-security/acquire-aws-ec2">telekom-security/acquire-aws-ec2</a></td>
+        <td>A python script to acquire multiple aws ec2 instances in a forensically sound-ish way</td>
+    </tr>
+    <tr>
         <td><a href="https://www.cgsecurity.org/wiki/TestDisk">TestDisk</a></td>
         <td>TestDisk is powerful free data recovery software! It was primarily designed to help recover lost partitions and/or make non-booting disks bootable again when these symptoms are caused by faulty software: certain types of viruses or human error (such as accidentally deleting a Partition Table). Partition table recovery using TestDisk is really easy.</td>
     </tr>
