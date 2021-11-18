@@ -16,8 +16,6 @@ Some tools can be categorized in more than one category. But because the current
 - [Reconnaissance/Discovery](#reconnaissancediscovery)
 - [Initial Access](#initial-access)
 - [Execution](#execution)
-    - [Manipulating Binary's Internal](#manipulating-binarys-internal)
-    - [Payload Generation](#payload-generation)
 - [Persistence](#persistence)
 - [Privilege Escalation](#privilege-escalation)
 - [Defense Evasion](#defense-evasion)
@@ -513,6 +511,10 @@ Some tools can be categorized in more than one category. But because the current
     <tr>
         <td><a href="https://github.com/nccgroup/GTFOBLookup">nccgroup/GTFOBLookup</a></td>
         <td>Offline command line lookup utility for GTFOBins</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/nnsee/fileless-elf-exec">nnsee/fileless-elf-exec</a></td>
+        <td>Execute ELF files without dropping them on disk</td>
     </tr>
     <tr>
         <td><a href="https://github.com/NVISOsecurity/blogposts/tree/master/MaraudersMap">NVISOsecurity Marauders Map</a></td>
