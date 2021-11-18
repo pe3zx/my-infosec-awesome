@@ -1399,6 +1399,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>RDI implementation in Nim</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/MRGEffitas/Ironsquirrel">MRGEffitas/Ironsquirrel</a></td>
+        <td>Encrypted exploit delivery for the masses</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/nccgroup/demiguise">nccgroup/demiguise</a></td>
         <td>HTA encryption tool for RedTeams</td>
     </tr>
