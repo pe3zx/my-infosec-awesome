@@ -359,6 +359,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>POC tool to convert CobaltStrike BOF files to raw shellcode</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/FatCyclone/D-Pwn">FatCyclone/D-Pwn</a></td>
+        <td>D/Invoke standalone shellcode runners</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/Flangvik/SharpCollection">Flangvik/SharpCollection</a></td>
         <td>Nightly builds of common C# offensive tools, fresh from their respective master branches built and released in a CDI fashion using Azure DevOps release pipelines.</td>
     </tr>
