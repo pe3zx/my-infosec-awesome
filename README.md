@@ -2419,6 +2419,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>SEKOIA Dropper Analysis</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/slaughterjames/excelpeek">slaughterjames/excelpeek</a></td>
+        <td>ExcelPeek is a tool designed to help investigate potentially malicious Microsoft Excel files.</td>
+    </tr>
+    <tr>
 		<td><a href="https://github.com/sophos-ai/yaraml_rules">sophos-ai/yaraml_rules</a></td>
 		<td>Security ML models encoded as Yara rules</td>
 	</tr>
