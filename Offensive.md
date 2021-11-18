@@ -1800,6 +1800,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Extract credentials from lsass remotely</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/helpsystems/nanodump">helpsystems/nanodump</a></td>
+        <td>Dumping LSASS has never been so stealthy</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/horizon3ai/vcenter_saml_login">horizon3ai/vcenter_saml_login</a></td>
         <td>A tool to extract the IdP cert from vCenter backups and log in as Administrator</td>
     </tr>
