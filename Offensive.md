@@ -811,6 +811,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Generic impersonation and privilege escalation with Golang. Like GenericPotato both named pipes and HTTP are supported.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/Cravaterouge/bloodyAD">CravateRouge/bloodyAD</a></td>
+        <td>BloodyAD is an Active Directory Privilege Escalation Framework</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/eladshamir/Whisker">eladshamir/Whisker</a></td>
         <td>Whisker is a C# tool for taking over Active Directory user and computer accounts by manipulating their msDS-KeyCredentialLink attribute, effectively adding "Shadow Credentials" to the target account.</td>
     </tr>
