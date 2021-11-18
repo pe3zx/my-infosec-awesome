@@ -3287,6 +3287,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Security analysis tool for EVM bytecode. Supports smart contracts built for Ethereum, Hedera, Quorum, Vechain, Roostock, Tron and other EVM-compatible blockchains.</td>
     </tr>
     <tr>
+        <td><a href="https://contract-library.com/">Contract list</a></td>
+        <td>Ethereum Contract Library by Dedaub</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/ConsenSys/smart-contract-best-practices">ConsenSys/smart-contract-best-practices</a></td>
         <td>A guide to smart contract security best practices</td>
     </tr>
