@@ -137,6 +137,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td><a href="https://github.com/n0dec/MalwLess">n0dec/MalwLess</a></td>
         <td>Test blue team detections without running any attack</td>
     </tr>
+    <tr>
+        <td><a href="https://github.com/OTRF/Microsoft-Sentinel2Go">OTRF/Microsoft-Sentinel2Go</a></td>
+        <td>Microsoft Sentinel2Go is an open source project developed to expedite the deployment of a Microsoft Sentinel research lab.</td>
+    </tr>
 	<tr>
 		<td><a href="https://github.com/OTRF/SimuLand">OTRF/SimuLand</a></td>
 		<td>Cloud Templates and scripts to deploy mordor environments</a></td>
