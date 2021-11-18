@@ -3299,6 +3299,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Static Analyzer for Solidity</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/ethereum-lists/contracts">ethereum-lists/contracts</a></td>
+        <td>List of contracts from known projects (work in progress)</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/enzymefinance/oyente">enzymefinance/oyente</a></td>
         <td>An Analysis Tool for Smart Contracts</td>
     </tr>
