@@ -349,6 +349,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>govenom is a msfvenom-inspired cross-platform payload generator toolkit written in Go</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/EspressoCake/DLL-Hijack-Search-Order-BOF">EspressoCake/DLL-Hijack-Search-Order-BOF</a></td>
+        <td>DLL Hijack Search Order Enumeration BOF</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/FalconForceTeam/BOF2shellcode">FalconForceTeam/BOF2shellcode</a></td>
         <td>POC tool to convert CobaltStrike BOF files to raw shellcode</td>
     </tr>
