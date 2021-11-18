@@ -1864,6 +1864,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Mimikatz embedded as classes</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/mobdk/WinBoost">mobdk/WinBoost</a></td>
+        <td>Execute Mimikatz with different technique</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/nidem/kerberoast">nidem/kerberoast</a></td>
         <td>Kerberoast is a series of tools for attacking MS Kerberos implementations. Below is a brief overview of what
             each tool does.</td>
