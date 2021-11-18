@@ -259,6 +259,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>GhostBuild is a collection of simple MSBuild launchers for various GhostPack/.NET projects</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/bytecode77/living-off-the-land">bytecode77/living-off-the-land</a></td>
+        <td>Fileless attack with persistence</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/ByteJunkies-co-uk/Metsubushi">ByteJunkies-co-uk/Metsubushi</a></td>
         <td>Generate droppers with encrypted payloads automatically.</td>
     </tr>
