@@ -3275,6 +3275,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td><b>Description</b></td>
     </tr>
     <tr>
+        <td><a href="https://www.breadcrumbs.app/">breadcrumbs</a></td>
+        <td>Breadcrumbs is a blockchain analytics platform accessible to everyone. It offers a range of tools for investigating, monitoring, tracking and sharing relevant information on blockchain transactions.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/cleanunicorn/karl">cleanunicorn/karl</a></td>
         <td>Monitor smart contracts deployed on blockchain and test against vulnerabilities with Mythril</td>
     </tr>
