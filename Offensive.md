@@ -700,6 +700,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>A collection of weird ways to execute unmanaged code in .NET</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/V1V1/OffensiveAutoIt">V1V1/OffensiveAutoIt</a></td>
+        <td>Offensive tooling notes and experiments in AutoIt v3</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/yqcs/ZheTian">yqcs/ZheTian</a></td>
         <td>ZheTian Powerful remote load and execute ShellCode tool</td>
     </tr>
