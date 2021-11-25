@@ -1992,6 +1992,10 @@ Some tools can be categorized in more than one category. But because the current
             information on the screen.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/vyrus001/go-mimikatz">vyrus001/go-mimikatz</a></td>
+        <td>A wrapper around a pre-compiled version of the Mimikatz executable for the purpose of anti-virus evasion.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/w1u0u1/minidump">w1u0u1/minidump</a></td>
         <td>Custom implementation of DbgHelp's MiniDumpWriteDump function. Uses static syscalls to replace low-level functions like NtReadVirtualMemory.</td>
     </tr>
