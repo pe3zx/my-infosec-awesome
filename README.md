@@ -2967,6 +2967,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>A helper to run OSINT queries & manage results continuously</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/ninoseki/mitaka">ninoseki/mikata</a></td>
+        <td>A browser extension for OSINT search</td>
+    </tr>
+    <tr>
         <td><a href="https://data.occrp.org/">OCCRP Data</a></td>
         <td>Search 102m public records and leaks from 179 sources</td>
     </tr>
