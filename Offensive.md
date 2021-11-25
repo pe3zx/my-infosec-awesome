@@ -891,6 +891,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Weaponizing for Arbitrary Files/Directories Delete bugs to Get NT AUTHORITY\SYSTEM</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/S3cur3Th1sSh1t/MultiPotato">S3cur3Th1sSh1t/MultiPotato</a></td>
+        <td>MultiPotato</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/S3cur3Th1sSh1t/SharpImpersonation">S3cur3Th1sSh1t/SharpImpersonation</a></td>
         <td>A User Impersonation tool - via Token or Shellcode injection</td>
     </tr>
