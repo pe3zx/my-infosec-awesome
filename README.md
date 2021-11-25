@@ -3303,6 +3303,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Ethereum smart contract fuzzer</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/csienslab/ProMutator">csienslab/ProMutator</a></td>
+        <td>ProMutator: Detecting Vulnerable Price Oracles in DeFi by Mutated Transactions</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/crytic/slither">crytic/slither</a></td>
         <td>Static Analyzer for Solidity</td>
     </tr>
