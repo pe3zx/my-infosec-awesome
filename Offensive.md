@@ -1816,6 +1816,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Basic password spraying tool for internal tests and red teaming</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/icyguider/DumpNParse">icyguider/DumpNParse</a></td>
+        <td>A Combination LSASS Dumper and LSASS Parser. All Credit goes to @slyd0g and @cube0x0.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/IlanKalendarov/PyHook">IlanKalendarov/PyHook</a></td>
         <td>PyHook is an offensive API hooking tool written in python designed to catch various credentials within the API call.</td>
     </tr>
