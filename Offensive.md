@@ -479,6 +479,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>CobaltStrike Beacon written in .Net 4 用.net重写了stager及Beacon，其中包括正常上线、文件管理、进程管理、令牌管理、结合SysCall进行注入、原生端口转发、关ETW等一系列功能</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/MarkoH17/Spray365">MarkoH17/Spray365</a></td>
+        <td>Spray365 makes spraying Microsoft accounts (Office 365 / Azure AD) easy through its customizable two-step password spraying approach. The built-in execution plan features options that attempt to bypass Azure Smart Lockout and insecure conditional access policies.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/maxlandon/wiregost">maxlandon/wiregost</a></td>
         <td>Golang Implant & Post-Exploitation Framework</td>
     </tr>
