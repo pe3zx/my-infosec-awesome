@@ -1723,6 +1723,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>PIC lsass dumper using cloned handles</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/connormcgarr/tgtdelegation">connormcgarr/tgtdelegation</a></td>
+        <td>tgtdelegation is a Beacon Object File (BOF) to obtain a usable TGT via the "TGT delegation trick"</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/cube0x0/MiniDump">cube0x0/MiniDump</a></td>
         <td>C# Lsass parser</td>
     </tr>
