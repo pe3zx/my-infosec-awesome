@@ -1485,6 +1485,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>PoC to demonstrate how CLR ETW events can be tampered.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/oXis/GPUSleep">oXis/GPUSleep</a></td>
+        <td>Move CS beacon to GPU memory when sleeping</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/passthehashbrowns/DInvokeProcessHollowing">passthehashbrowns/DInvokeProcessHollowing</a></td>
         <td>This repository is an implementation of process hollowing shellcode injection using DInvoke from SharpSploit. DInvoke allows operators to use unmanaged code while avoiding suspicious imports or API hooking.</td>
     </tr>
