@@ -1030,6 +1030,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Discover resources created in an AWS account</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/rootsecdev/Azure-Red-Team">nccgroup/azucar</a></td>
+        <td>Security auditing tool for Azure environments</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/nccgroup/PMapper">nccgroup/PMapper</a></td>
         <td>A tool for quickly evaluating IAM permissions in AWS.</td>
     </tr>
