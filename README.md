@@ -986,6 +986,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Amazon bucket brute force tool</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/FSecureLABS/Azurite">FSecureLABS/Azurite</a></td>
+        <td>Enumeration and reconnaissance activities in the Microsoft Azure Cloud.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/glen-mac/goGetBucket">glen-mac/goGetBucket</a></td>
         <td>A penetration testing tool to enumerate and analyse Amazon S3 Buckets owned by a domain.</td>
     </tr>
