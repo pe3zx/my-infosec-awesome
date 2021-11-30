@@ -479,6 +479,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>CobaltStrike Beacon written in .Net 4 用.net重写了stager及Beacon，其中包括正常上线、文件管理、进程管理、令牌管理、结合SysCall进行注入、原生端口转发、关ETW等一系列功能</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/MarkoH17/Spray365">MarkoH17/Spray365</a></td>
+        <td>Spray365 makes spraying Microsoft accounts (Office 365 / Azure AD) easy through its customizable two-step password spraying approach. The built-in execution plan features options that attempt to bypass Azure Smart Lockout and insecure conditional access policies.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/maxlandon/wiregost">maxlandon/wiregost</a></td>
         <td>Golang Implant & Post-Exploitation Framework</td>
     </tr>
@@ -700,6 +704,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>A collection of weird ways to execute unmanaged code in .NET</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/V1V1/OffensiveAutoIt">V1V1/OffensiveAutoIt</a></td>
+        <td>Offensive tooling notes and experiments in AutoIt v3</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/yqcs/ZheTian">yqcs/ZheTian</a></td>
         <td>ZheTian Powerful remote load and execute ShellCode tool</td>
     </tr>
@@ -881,6 +889,10 @@ Some tools can be categorized in more than one category. But because the current
     <tr>
         <td><a href="https://github.com/sailay1996/delete2SYSTEM">sailay1996/delete2SYSTEM</a></td>
         <td>Weaponizing for Arbitrary Files/Directories Delete bugs to Get NT AUTHORITY\SYSTEM</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/S3cur3Th1sSh1t/MultiPotato">S3cur3Th1sSh1t/MultiPotato</a></td>
+        <td>MultiPotato</td>
     </tr>
     <tr>
         <td><a href="https://github.com/S3cur3Th1sSh1t/SharpImpersonation">S3cur3Th1sSh1t/SharpImpersonation</a></td>
@@ -1473,6 +1485,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>PoC to demonstrate how CLR ETW events can be tampered.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/oXis/GPUSleep">oXis/GPUSleep</a></td>
+        <td>Move CS beacon to GPU memory when sleeping</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/passthehashbrowns/DInvokeProcessHollowing">passthehashbrowns/DInvokeProcessHollowing</a></td>
         <td>This repository is an implementation of process hollowing shellcode injection using DInvoke from SharpSploit. DInvoke allows operators to use unmanaged code while avoiding suspicious imports or API hooking.</td>
     </tr>
@@ -1707,6 +1723,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>PIC lsass dumper using cloned handles</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/connormcgarr/tgtdelegation">connormcgarr/tgtdelegation</a></td>
+        <td>tgtdelegation is a Beacon Object File (BOF) to obtain a usable TGT via the "TGT delegation trick"</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/cube0x0/MiniDump">cube0x0/MiniDump</a></td>
         <td>C# Lsass parser</td>
     </tr>
@@ -1810,6 +1830,10 @@ Some tools can be categorized in more than one category. But because the current
     <tr>
         <td><a href="https://github.com/HunnicCyber/SharpDomainSpray">HunnicCyber/SharpDomainSpray</a></td>
         <td>Basic password spraying tool for internal tests and red teaming</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/icyguider/DumpNParse">icyguider/DumpNParse</a></td>
+        <td>A Combination LSASS Dumper and LSASS Parser. All Credit goes to @slyd0g and @cube0x0.</td>
     </tr>
     <tr>
         <td><a href="https://github.com/IlanKalendarov/PyHook">IlanKalendarov/PyHook</a></td>
@@ -1982,6 +2006,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>This tool allows one to recover old RDP (mstsc) session information in the form of broken PNG files. These
             PNG files allows Red Team member to extract juicy information such as LAPS passwords or any sensitive
             information on the screen.</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/vyrus001/go-mimikatz">vyrus001/go-mimikatz</a></td>
+        <td>A wrapper around a pre-compiled version of the Mimikatz executable for the purpose of anti-virus evasion.</td>
     </tr>
     <tr>
         <td><a href="https://github.com/w1u0u1/minidump">w1u0u1/minidump</a></td>

@@ -2895,6 +2895,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>An advanced Twitter scraping & OSINT tool written in Python that doesn't use Twitter's API, allowing you to scrape a user's followers, following, Tweets and more while evading most API limitations.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/hessman/gcert">hessman/gcert</a></td>
+        <td>Retrieves information about a given domain from the Google Transparency Report</td>
+    </tr>
+    <tr>
         <td><a href="https://iknowwhatyoudownload.com/en/peer/">I Know What You Download</a></td>
         <td>Torrent downloads and distributions for IP</td>
     </tr>
@@ -2977,6 +2981,10 @@ This repository is created as an online bookmark for useful links, resources and
     <tr>
         <td><a href="https://github.com/ninoseki/mihari">ninoseki/mihari</a></td>
         <td>A helper to run OSINT queries & manage results continuously</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/ninoseki/mitaka">ninoseki/mikata</a></td>
+        <td>A browser extension for OSINT search</td>
     </tr>
     <tr>
         <td><a href="https://data.occrp.org/">OCCRP Data</a></td>
@@ -3309,6 +3317,10 @@ This repository is created as an online bookmark for useful links, resources and
     <tr>
         <td><a href="https://github.com/crytic/echidna">crytic/echidna</a></td>
         <td>Ethereum smart contract fuzzer</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/csienslab/ProMutator">csienslab/ProMutator</a></td>
+        <td>ProMutator: Detecting Vulnerable Price Oracles in DeFi by Mutated Transactions</td>
     </tr>
     <tr>
         <td><a href="https://github.com/crytic/slither">crytic/slither</a></td>
