@@ -3331,6 +3331,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>List of contracts from known projects (work in progress)</td>
     </tr>
     <tr>
+        <td><a href="https://ethtx.info/">EthTx Transaction Decoder</a></td>
+        <td>EthTx is an open source decoder of blockchain transactions that is made freely available to the Ethereum Community as a Python library in public PyPi index</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/enzymefinance/oyente">enzymefinance/oyente</a></td>
         <td>An Analysis Tool for Smart Contracts</td>
     </tr>
