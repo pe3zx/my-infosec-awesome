@@ -1642,6 +1642,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Generate process injection binaries</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/wavestone-cdt/EdrSandblast">wavestone-cdt/EdrSandblast</a></td>
+        <td>EDRSandBlast is a tool written in C that weaponize a vulnerable signed driver to bypass EDR detections (Kernel callbacks and ETW TI provider) and LSASS protections</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/xct/morbol">xct/morbol</a></td>
         <td>Simple AV Evasion for PE Files</td>
     </tr>
