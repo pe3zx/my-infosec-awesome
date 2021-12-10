@@ -557,6 +557,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Reflective Kernel Driver injection is a injection technique base off Reflective DLL injection by Stephen Fewer.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/pwn1sher/uuid-loader">pwn1sher/uuid-loader</a></td>
+        <td>UUID based shellcode loader for your favorite C2</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/rasta-mouse/MiscTools">rasta-mouse/MiscTools</a></td>
         <td>Miscellaneous Tools</td>
     </tr>
