@@ -1707,6 +1707,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Proof of concept Beacon Object File (BOF) that uses static x64 syscalls to perform a complete in memory dump of a process and send that back through your already existing Beacon communication channel</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/antonioCoco/MalSeclogon">antonioCoco/MalSeclogon</a></td>
+        <td>A little tool to play with the Seclogon service</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/Arvanaghi/SessionGopher">Arvanaghi/SessionGopher</a></td>
         <td>SessionGopher is a PowerShell tool that uses WMI to extract saved session information for remote access tools such as WinSCP, PuTTY, SuperPuTTY, FileZilla, and Microsoft Remote Desktop. It can be run remotely or locally.</td>
     </tr>
