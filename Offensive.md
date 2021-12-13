@@ -230,6 +230,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Living Off The Land Binaries and Scripts (and now also Libraries)</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/ariary/fileless-xec">ariary/fileless-xec</a></td>
+        <td>Stealth dropper executing remote binaries without dropping them on disk .(HTTP3 support, ICMP support, invisible tracks, cross-platform,...)</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/b1tg/rust-windows-shellcode">b1tg/rust-windows-shellcode</a></td>
         <td>Windows shellcode development in Rust</td>
     </tr>
