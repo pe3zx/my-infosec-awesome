@@ -922,6 +922,10 @@ Some tools can be categorized in more than one category. But because the current
         <td><a href="https://github.com/thehappydinoa/rootOS">thehappydinoa/rootOS</a></td>
         <td>macOS Privilege Escalation Helper</td>
     </tr>
+    <tr>
+        <td><a href="https://github.com/WazeHell/sam-the-admin">WazeHell/sam-the-admin</a></td>
+        <td>Exploiting CVE-2021-42278 and CVE-2021-42287 to impersonate DA from standard domain user</td>
+    </tr>
 </table>
 
 ## Defense Evasion
