@@ -214,6 +214,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Nim编写Windows平台shellcode免杀加载器</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/airbus-cert/Invoke-BOF">airbus-cert/Invoke-BOF</a></td>
+        <td>Load any Beacon Object File using Powershell!</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/ajpc500/NimlineWhispers">ajpc500/NimlineWhispers</a></td>
         <td>A very proof-of-concept port of InlineWhispers for using syscalls in Nim projects.</td>
     </tr>
