@@ -432,6 +432,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>a tool to audit the istio service mesh</td>
     </tr>
     <tr>
+        <td><a href="https://github/pimps/JNDI-Exploit-kit">pimps/JNDI-Exploit-kit</a></td>
+        <td>JNDI-Exploitation-Kit（A modified version of the great JNDI-Injection-Exploit created by @welk1n. This tool can be used to start an HTTP Server, RMI Server and LDAP Server to exploit java web apps vulnerable to JNDI Injection</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/presidentbeef/brakeman">presidentbeef/brakeman</a></td>
         <td>A static analysis security vulnerability scanner for Ruby on Rails applications</td>
     </tr>
