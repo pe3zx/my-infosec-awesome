@@ -1334,6 +1334,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Arsenal Recon Free Tools</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/asimihsan/cwl-mount">asimihsan/cwl-mount</a></td>
+        <td>Mount AWS CloudWatch logs as a file system</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/bfuzzy/auditd-attack">bfuzzy/auditd-attack</a></td>
         <td>A Linux Auditd rule set mapped to MITRE's Attack Framework</td>
     </tr>
