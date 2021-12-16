@@ -1593,6 +1593,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Titan: A crappy Reflective Loader written in C and assembly for Cobalt Strike. Redirects DNS Beacon over DoH</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/Sh0ckFR/InlineWhispers2">Sh0ckFR/InlineWhispers2</a></td>
+        <td>Tool for working with Direct System Calls in Cobalt Strike's Beacon Object Files (BOF) via Syswhispers2</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/sinfulz/JustEvadeBro">sinfulz/JustEvadeBro</a></td>
         <td>JustEvadeBro, a cheat sheet which will aid you through AMSI/AV evasion & bypasses.</td>
     </tr>
