@@ -2203,6 +2203,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>利用NTLM Hash读取Exchange邮件</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/DallasFR/Cobalt-Clip">DallasFR/Cobalt-Clip</a></td>
+        <td>Cobaltstrike addons to interact with clipboard</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/djhohnstein/SharpChromium">djhohnstein/SharpChromium</a></td>
         <td>.NET 4.0 CLR Project to retrieve Chromium data, such as cookies, history and saved logins.</td>
     </tr>
