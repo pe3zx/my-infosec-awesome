@@ -590,6 +590,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>A framework for constructing self-spreading binaries</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/redcode-labs/REVENANT">redcode-labs/REVENANT</a></td>
+        <td>Volatile ELF payloads generator with Metasploit integrations for testing GNU/Linux ecosystems against low-level threats</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/redcode-labs/SNOWCRASH">redcode-labs/SNOWCRASH</a></td>
         <td>A polyglot payload generator</td>
     </tr>
