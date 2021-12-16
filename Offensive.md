@@ -724,6 +724,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Offensive tooling notes and experiments in AutoIt v3</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/Yaxser/COFFLoader2">Yaxser/COFFLoader2</a></td>
+        <td>Load and execute COFF files and Cobalt Strike BOFs in-memory</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/yqcs/ZheTian">yqcs/ZheTian</a></td>
         <td>ZheTian Powerful remote load and execute ShellCode tool</td>
     </tr>
