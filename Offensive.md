@@ -2048,6 +2048,10 @@ Some tools can be categorized in more than one category. But because the current
             information on the screen.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/VollRagm/KernelBypassSharp">VollRagm/KernelBypassSharp</a></td>
+        <td>C# Kernel Mode Driver to read and write memory in protected processes</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/vyrus001/go-mimikatz">vyrus001/go-mimikatz</a></td>
         <td>A wrapper around a pre-compiled version of the Mimikatz executable for the purpose of anti-virus evasion.</td>
     </tr>
