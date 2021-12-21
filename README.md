@@ -581,6 +581,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>BLint is a Binary Linter to check the security properties, and capabilities in your executables. It is powered by lief</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/bohops/RogueAssemblyHunter">bohops/RogueAssemblyHunter</a></td>
+        <td>Rogue Assembly Hunter is a utility for discovering 'interesting' .NET CLR modules in running processes.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/bootleg/ret-sync">bootleg/ret-sync</a></td>
         <td>ret-sync is a set of plugins that helps to synchronize a debugging session (WinDbg/GDB/LLDB/OllyDbg2/x64dbg) with IDA/Ghidra disassemblers.</td>
     </tr>
