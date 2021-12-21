@@ -1722,6 +1722,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Peel back the layers of your enterprise</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/SecurityBrewery/catalyst">SecurityBrewery/catalyst</a></td>
+        <td>Catalyst is a SOAR system that helps to automate alert handling and incident response processes</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/SeAdvisors/dredd">SecurityRiskAdvisors/dredd</a></td>
         <td>Automated detection rule analysis utility</td>
     </tr>
