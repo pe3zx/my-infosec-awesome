@@ -903,6 +903,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Python implementation for Active Directory certificate abuse</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/ricardojba/Invoke-noPac">ricardojba/Invoke-noPac</a></td>
+        <td>PowerSharpPack style .Net Assembly loader for the [CVE-2021-42287 - CVE-2021-42278] Scanner & Exploiter noPac.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/rxwx/spoolsystem">rxwx/spoolsystem</a></td>
         <td>Print Spooler Named Pipe Impersonation for Cobalt Strike</td>
     </tr>
