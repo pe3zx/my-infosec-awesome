@@ -986,6 +986,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>PoC to interact with local/remote registry hives through WMI</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/ajpc500/NimlineWhispers2">ajpc500/NimlineWhispers2</a></td>
+        <td>A tool for converting SysWhispers2 syscalls for use with Nim projects</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/AnErrupTion/LoGiC.NET">AnErrupTion/LoGiC.NET</a></td>
         <td>A more advanced free and open .NET obfuscator using dnlib.</td>
     </tr>
