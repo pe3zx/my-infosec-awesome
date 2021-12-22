@@ -190,6 +190,10 @@ This repository is created as an online bookmark for useful links, resources and
 		<td>A tool that allows you to create vulnerable instrumented local or cloud environments to simulate attacks against and collect the data into Splunk</td>
 	</tr>
     <tr>
+        <td><a href="https://github.com/swimlane/atomic-operator">swimlane/atomic-operator</a></td>
+        <td>A Python package is used to execute Atomic Red Team tests (Atomics) across multiple operating system environments.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/swimlane/soc-faker">swimlane/soc-faker</a></td>
         <td>A python package for use in generating fake data for SOC and security automation.</td>
     </tr>
@@ -204,10 +208,6 @@ This repository is created as an online bookmark for useful links, resources and
     <tr>
         <td><a href="https://mitre.github.io/unfetter/">Unfetter</a></td>
         <td>Unfetter is a project designed to help network defenders, cyber security professionals, and decision makers identify and analyze defensive gaps in a more scalable and repeatable way</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/securityriskadvisors/vectr">securityriskadvisors/vectr</a></td>
-        <td>VECTR is a tool that facilitates tracking of your red and blue team testing activities to measure detection and prevention capabilities across different attack scenarios</td>
     </tr>
 </table>
 
