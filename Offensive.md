@@ -1549,6 +1549,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Open-Source PE Packer</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/plackyhacker/Peruns-Fart">plackyhacker/Peruns-Fart</a></td>
+        <td>Perun's Fart (Slavic God's Luck). Another method for unhooking AV and EDR, this is my C# version.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/plackyhacker/SuspendedThreadInjection">plackyhacker/SuspendedThreadInjection</a></td>
         <td>Another meterpreter injection technique using C# that attempts to bypass Defender</td>
     </tr>
