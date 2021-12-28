@@ -1522,6 +1522,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Built to open standards, Graylog’s connectivity and interoperability seamlessly collects, enhances, stores, and analyzes log data.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/hashlookup/hashlookup-forensic-analyser">hashlookup/hashlookup-forensic-analyser</a></td>
+        <td>Analyse a forensic target (such as a directory) to find and report files found and not found from CIRCL hashlookup public service</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/hunters-forge/api-to-event">hunters-forge/API-To-Event</a></td>
         <td>A repo to document API functions mapped to security events across diverse platforms</td>
     </tr>
