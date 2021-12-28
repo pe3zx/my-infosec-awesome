@@ -2911,6 +2911,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>An #OSINT Framework to perform various recon techniques on Companies, People, Phone Number, Bitcoin Addresses, etc., aggregate all the raw data, and give data in multiple formats.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/dgtlmoon/changedetection.io">dgtlmoon/changedetection.io</a></td>
+        <td>changedetection.io - The best and simplest self-hosted open source website change detection monitoring and notification service. An alternative to Visualping, Watchtower etc. Designed for simplicity - the main goal is to simply monitor which websites had a text change. Open source web page change detection - Now also includes JSON API change det…</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/felix83000/Watcher">felix83000/Watcher</a></td>
         <td>Watcher - Open Source Cybersecurity Threat Hunting Platform. Developed with Django & React JS.</td>
     </tr>
