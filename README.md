@@ -1972,6 +1972,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td><b>Description</b></td>
     </tr>
     <tr>
+        <td><a href="https://github.com/0x6d69636b/windows_hardening">0x6d69636b/windows_hardening</a></td>
+        <td>Windows Hardening settings and configurations</td>
+    </tr>
+    <tr>
         <td><a href="https://hub.steampipe.io/mods/turbot/azure_compliance/controls/benchmark.nist_sp_800_53_rev_5">Benchmark: NIST SP 800-53 Revision 5</a></td>
         <td>NIST SP 800-53 Revision 5 represents a multi-year effort to develop the next generation of security and privacy controls needed to strengthen and support the U.S. federal government. These next generation controls offer a proactive and systematic approach to ensure that critical systems, components, and services are sufficiently trustworthy and have the necessary resilience to defend the economic and national security interests of the United States.</td>
     </tr>
