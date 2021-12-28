@@ -3198,9 +3198,13 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Comprehensive Web Based Phishing Suite of Tools for Rapid Deployment and Real-Time Alerting!</td>
     </tr>
 	<tr>
-		<td><a href="https://emailrep.io/">Simple Email Reputation</a></td>
+		<td><a href="https://emailrep.io/">Emailrep.io</a></td>
 		<td>Illuminate the "reputation" behind an email address</td>
 	</tr>
+    <tr>
+        <td><a href="https://fakeyou.com">FakeYou Text to Speech</a></td>
+        <td>Use deep fake tech to say stuff with your favorite characters.</td>
+    </tr>
     <tr>
         <td><a href="https://github.com/fireeye/ReelPhish">fireeye/ReelPhish</a></td>
         <td>ReelPhish: A Real-Time Two-Factor Phishing Tool</td>
