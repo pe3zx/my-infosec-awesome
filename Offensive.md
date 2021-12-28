@@ -1151,6 +1151,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Use ICMLuaUtil to Bypass UAC!</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/Cracked5pider/KaynLdr">Cracked5pider/KaynLdr</a></td>
+        <td>KaynLdr is a Reflective Loader written in C/ASM</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/cwolff411/powerob">cwolff411/powerob</a></td>
         <td>An on-the-fly Powershell script obfuscator meant for red team engagements. Built out of necessity.</td>
     </tr>
