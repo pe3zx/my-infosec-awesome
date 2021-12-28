@@ -1858,6 +1858,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Hayabusa is a threat hunting and fast forensics timeline generator for Windows event logs.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/Yamato-Security/WELA">Yamato-Security/WELA</a></td>
+        <td>WELA (Windows Event Log Analyzer): The Swiss Army knife for Windows Event Logs! ゑ羅（ウェラ)</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/yampelo/beagle">yampelo/beagle</a></td>
         <td>Beagle is an incident response and digital forensics tool which transforms security logs and data into graphs.</td>
     </tr>
