@@ -3115,6 +3115,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td><a href="https://github.com/thewhiteh4t/nexfil">thewhiteh4t/nexfil</a></td>
         <td>OSINT tool for finding profiles by username</td>
     </tr>
+    <tr>
+        <td><a href="https://tor.taxi/">tor.taxi</a></td>
+        <td>tor.taxi - your ride to the darknet</td>
+    </tr>
 	<tr>
         <td><a href="https://github.com/vysecurity/LinkedInt">vysecurity/LinkedInt</a></td>
         <td>LinkedIn Recon Tool</td>
