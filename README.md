@@ -1988,6 +1988,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Knowledge base of exploit mitigations available across numerous operating systems, architectures and applications and versions.</td>
     </tr>
     <tr>
+        <td><a href="https://privacy.sexy/">Privacy.sexy</a></td>
+        <td>Enforce privacy & security on Windows and macOS</td>
+    </tr>
+    <tr>
         <td><a href="https://public.cyber.mil/stigs/">Security Technical Implementation Guides (STIGs)</a></td>
         <td>The Security Technical Implementation Guides (STIGs) are the configuration standards for DOD IA and IA-enabled devices/systems.</td>
     </tr>
