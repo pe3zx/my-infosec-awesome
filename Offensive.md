@@ -355,6 +355,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>A library for loading and executing PE (Portable Executable) from memory without ever touching the disk</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/EntySec/HatVenom">EntySec/HatVenom</a></td>
+        <td>HatVenom is a HatSploit native powerful payload generation and shellcode injection tool that provides support for common platforms and architectures.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/erikgeiser/govenom">erikgeiser/govenom</a></td>
         <td>govenom is a msfvenom-inspired cross-platform payload generator toolkit written in Go</td>
     </tr>
