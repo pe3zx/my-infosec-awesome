@@ -119,6 +119,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Recon-AD, an AD recon tool based on ADSI and reflective DLL’s</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/p0dalirius/LDAPmonitor">p0dalirius/LDAPmonitor</a></td>
+        <td>Monitor creation, deletion and changes to LDAP objects live during your pentest or system administration!</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/rasta-mouse/Watson">rasta-mouse/Watson</a></td>
         <td>Enumerate missing KBs and suggest exploits for useful Privilege Escalation vulnerabilitiesEnumerate missing KBs and suggest exploits for useful Privilege Escalation vulnerabilities</td>
     </tr>
