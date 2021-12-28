@@ -849,6 +849,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>VMProtect 2 Virtual Machine Handler Emulation</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/wader/fq">wader/fq</a></td>
+        <td>Tool, language and decoders for inspecting binary data.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/Wenzel/checksec.py">Wenzel/checksec.py</a></td>
         <td>Checksec tool in Python, Rich output. Based on LIEF</td>
     </tr>
