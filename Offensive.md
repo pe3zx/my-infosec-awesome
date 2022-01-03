@@ -1063,6 +1063,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>x64 Assembly HalosGate direct System Caller to evade EDR UserLand hooks</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/boku7/BokuLoader">boku7/BokuLoader</a></td>
+        <td>Cobalt Strike User-Defined Reflective Loader written in Assembly & C for advanced evasion capabilities.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/boku7/CobaltStrikeReflectiveLoader">boku7/CobaltStrikeReflectiveLoader</a></td>
         <td>Cobalt Strike User-Defined Reflective Loader written in Assembly & C for advanced evasion capabilities.</td>
     </tr>
