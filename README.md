@@ -2098,6 +2098,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Ransomware leak site monitoring</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/cert-ee/cuckoo3">cert-ee/cuckoo3</a></td>
+        <td>Cuckoo 3 is a Python 3 open source automated malware analysis system.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/CERT-Polska/drakvuf-sandbox">CERT-Polska/drakvuf-sandbox</a></td>
         <td>DRAKVUF Sandbox - automated hypervisor-level malware analysis system</td>
     </tr>
