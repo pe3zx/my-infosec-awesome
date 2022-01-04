@@ -1401,6 +1401,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>C# based tool which automates the process of discovering and exploiting DLL Hijacks in target binaries. The Hijacked paths discovered can later be weaponized during Red Team Operations to evade EDR's.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/kyleavery/inject-assembly">kyleavery/inject-assembly</a></td>
+        <td>Inject .NET assemblies into an existing process</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/l373/GIVINGSTORM">l373/GIVINGSTORM</a></td>
         <td>Infection vector that bypasses AV, IDS, and IPS. (For now...)</td>
     </tr>
