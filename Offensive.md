@@ -1425,6 +1425,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Collection of DLL function export forwards for DLL export function proxying</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/maltek-labs/Malcode-Obfuscator">maltek-labs/Malcode-Obfuscator</a></td>
+        <td>Polymorphic code obfuscator for use in Red Team operations</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/matterpreter/DefenderCheck">matterpreter/DefenderCheck</a></td>
         <td>Identifies the bytes that Microsoft Defender flags on.</td>
     </tr>
