@@ -1546,6 +1546,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Powershell 7 (Powershell Core)/ C# cross platform forensic framework. Built by incident responders for incident responders.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/jklepsercyber/defender-detectionhistory-parser">jklepsercyber/defender-detectionhistory-parser</a></td>
+        <td>A parser of Windows Defender's DetectionHistory forensic artifact, containing substantial info about quarantined files and executables.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/JPCERTCC/LogonTracer">JPCERTCC/LogonTracer</a></td>
         <td>Investigate malicious Windows logon by visualizing and analyzing Windows event log</td>
     </tr>
