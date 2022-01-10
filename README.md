@@ -2923,10 +2923,6 @@ This repository is created as an online bookmark for useful links, resources and
         <td>The 1st Real Dark Web Search Engine</td>
     </tr>
     <tr>
-        <td><a href="https://domainbigdata.com/">DomainBigData</a></td>
-        <td>DomainBigData is a big database of domains and whois records</td>
-    </tr>
-    <tr>
         <td><a href="https://github.com/danieliu/play-scraper">danieliu/play-scraper</a></td>
         <td>A web scraper to retrieve application data from the Google Play Store.</td>
     </tr>
@@ -2965,10 +2961,6 @@ This repository is created as an online bookmark for useful links, resources and
     <tr>
         <td><a href="https://github.com/hessman/gcert">hessman/gcert</a></td>
         <td>Retrieves information about a given domain from the Google Transparency Report</td>
-    </tr>
-    <tr>
-        <td><a href="https://iknowwhatyoudownload.com/en/peer/">I Know What You Download</a></td>
-        <td>Torrent downloads and distributions for IP</td>
     </tr>
     <tr>
         <td><a href="https://www.immuniweb.com/radar/">ImmuniWeb</a></td>
