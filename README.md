@@ -3103,6 +3103,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>View Shade on Map</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/sherlock-project/sherlock">sherlock-project/sherlock</a></td>
+        <td>🔎 Hunt down social media accounts by username across social networks</td>
+    </tr>
+    <tr>
         <td><a href="https://snusbase.com/">SnusBase</a></td>
         <td>The longest standing data breach search engine.</td>
     </tr>
