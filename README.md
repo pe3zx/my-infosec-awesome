@@ -1462,6 +1462,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Digital Forensics Investigation Platform</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/dfirtrack/dfirtrack">dfirtrack/dfirtrack</a></td>
+        <td>DFIRTrack - The Incident Response Tracking Application</td>
+    </tr>
+    <tr>
         <td><a href="https://info.digitalguardian.com/wingman.html">DG Wingman</a></td>
         <td>DG Wingman is a free community Windows tool designed to aid in the collection of forensic evidence in order to properly investigate and scope an intrusion.</td>
     </tr>
