@@ -553,6 +553,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Download a .NET payload and run it on memory</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/optiv/Ivy">optiv/Ivy</a></td>
+        <td>Ivy is a payload creation framework for the execution of arbitrary VBA (macro) source code directly in memory. Ivy’s loader does this by utilizing programmatical access in the VBA object environment to load, decrypt and execute shellcode.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/p3nt4/RunDLL.Net">p3nt4/RunDLL.Net</a></td>
         <td>Execute .Net assemblies using Rundll32.exe</td>
     </tr>
