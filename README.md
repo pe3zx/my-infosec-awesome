@@ -1478,6 +1478,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Extracting IoC data from eMail</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/emalderson/ThePhish">emalderson/ThePhish</a></td>
+        <td>ThePhish: an automated phishing email analysis tool</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/fireeye/ARDvark">fireeye/ARDvark</a></td>
         <td>ARDvark parses the Apple Remote Desktop (ARD) files to pull out application usage, user activity, and filesystem listings.</td>
     </tr>
