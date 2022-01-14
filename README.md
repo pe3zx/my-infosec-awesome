@@ -729,6 +729,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Call Tree Overviewer</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/horsicq/XELFViewer">horsicq/XELFViewer</a></td>
+        <td>ELF file viewer/editor for Windows, Linux and MacOS.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/HyperDbg/HyperDbg">HyperDbg/HyperDbg</a></td>
         <td>The Source Code of HyperDbg Debugger 🐞</td>
     </tr>
