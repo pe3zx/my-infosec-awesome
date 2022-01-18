@@ -271,6 +271,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>GhostBuild is a collection of simple MSBuild launchers for various GhostPack/.NET projects</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/byt3bl33d3r/BOF-Nim">byt3bl33d3r/BOF-Nim</a></td>
+        <td>Cobalt Strike BOF Files with Nim!</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/bytecode77/living-off-the-land">bytecode77/living-off-the-land</a></td>
         <td>Fileless attack with persistence</td>
     </tr>
