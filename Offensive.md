@@ -2112,6 +2112,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Custom implementation of DbgHelp's MiniDumpWriteDump function. Uses static syscalls to replace low-level functions like NtReadVirtualMemory.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/Wra7h/SharpGhosting">Wra7h/SharpGhosting</a></td>
+        <td>Process Ghosting in C#</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/zcgonvh/SSMSPwd">zcgonvh/SSMSPwd</a></td>
         <td>SQL Server Management Studio(SSMS) saved password dumper</td>
     </tr>
