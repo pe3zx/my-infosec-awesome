@@ -1067,6 +1067,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Obfuscate ECMA CIL (.NET IL) assemblies to evade Windows Defender AMSI</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/blacklanternsecurity/TREVORproxy">blacklanternsecurity/TREVORproxy</a></td>
+        <td>A SOCKS proxy written in Python that randomizes your source IP address. Round-robin your evil packets through SSH tunnels or give them billions of unique source addresses!</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/bhumic/PErmutator">bhumic/PErmutator</a></td>
         <td>The goal of this project is to create a permutation engine for PE files. The engine should randomize the executable parts of the file.</td>
     </tr>
