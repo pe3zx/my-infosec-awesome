@@ -1321,6 +1321,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Windows Event Log Killer</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/hlldz/RefleXXion">hlldz/RefleXXion</a></td>
+        <td>RefleXXion is a utility designed to aid in bypassing user-mode hooks utilised by AV/EPP/EDR etc. In order to bypass the user-mode hooks, it first collects the syscall numbers of the NtOpenFile, NtCreateSection, NtOpenSection and NtMapViewOfSection found in the LdrpThunkSignature array.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/huntresslabs/evading-autoruns">huntresslabs/evading-autoruns</a></td>
         <td>Slides and reference material from Evading Autoruns presentation at DerbyCon 7 (September 2017)</td>
     </tr>
