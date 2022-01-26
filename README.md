@@ -58,6 +58,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Unlocking Serverless Computing to Assess Security Controls</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/BinaryDefense/beacon-fronting">BinaryDefense/beacon-fronting</a></td>
+        <td>A simple command line program to help defender test their detections for network beacon patterns and domain fronting</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/blackbotinc/Atomic-Red-Team-Intelligence-C2">blackbotinc/Atomic-Red-Team-Intelligence-C2</a></td>
         <td>ARTi-C2 is a post-exploitation framework used to execute Atomic Red Team test cases with rapid payload deployment and execution capabilities via .NET's DLR.</td>
     </tr>
