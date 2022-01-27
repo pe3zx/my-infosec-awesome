@@ -1158,6 +1158,10 @@ Some tools can be categorized in more than one category. But because the current
         <td><a href="https://github.com/checkymander/Zolom">checkymander/Zolom</a></td>
         <td>C# Executable with embedded Python that can be used reflectively to run python code on systems without Python installed</td>
     </tr>
+    <tr>
+        <td><a href="https://github.com/chvancooten/NimPackt-v1">chvancooten/NimPackt-v1</a></td>
+        <td>Nim-based assembly packer and shellcode loader for opsec & profit</td>
+    </tr>
    <tr>
         <td><a href="https://github.com/Cn33liz/p0wnedShell">Cn33liz/p0wnedShell</a></td>
         <td>p0wnedShell is an offensive PowerShell host application written in C# that does not rely on powershell.exe but runs powershell commands and functions within a powershell runspace environment (.NET)</td>
