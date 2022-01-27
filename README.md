@@ -2959,10 +2959,6 @@ This repository is created as an online bookmark for useful links, resources and
         <td>An online tool to retrieve sensitive information like google maps reviews, public photos, displayed name, usage of google services such as YouTube, Hangouts</td>
     </tr>
     <tr>
-        <td><a href="https://fofa.so/">FOFA Pro</a></td>
-        <td>The Cyberspace Search Engine, Security Situation Awareness</td>
-    </tr>
-    <tr>
         <td><a href="https://grep.app/">grep.app</a></td>
         <td>Search across a half million git repos</td>
     </tr>
