@@ -94,6 +94,10 @@ This repository is created as an online bookmark for useful links, resources and
 		<td>Repo containing docker-compose files and setup scripts without having to clone the individual reternal components</td>
 	</tr>
     <tr>
+        <td><a href="https://github.com/Datadog/stratus-red-team/">Datadog/stratus-red-team</a></td>
+        <td>☁️ ⚡ Granular, Actionable Adversary Emulation for the Cloud.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/ElevenPaths/ATTPwn">ElevenPaths/ATTPwn</a></td>
         <td>ATTPwn is a computer security tool designed to emulate adversaries.</td>
     </tr>
