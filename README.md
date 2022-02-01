@@ -202,6 +202,10 @@ This repository is created as an online bookmark for useful links, resources and
 		<td>A tool that allows you to create vulnerable instrumented local or cloud environments to simulate attacks against and collect the data into Splunk</td>
 	</tr>
     <tr>
+        <td><a href="https://github.com/splunk/salo">splunk/salo</a></td>
+        <td>Synthetic Adversarial Log Objects: A Framework for synthentic log generation</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/swimlane/atomic-operator">swimlane/atomic-operator</a></td>
         <td>A Python package is used to execute Atomic Red Team tests (Atomics) across multiple operating system environments.</td>
     </tr>
