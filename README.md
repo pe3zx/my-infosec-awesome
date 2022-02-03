@@ -950,6 +950,10 @@ This repository is created as an online bookmark for useful links, resources and
 		<td>Cfngoat is Bridgecrew's "Vulnerable by Design" Cloudformation repository. Cfngoat is a learning and training project that demonstrates how common configuration errors can find their way into production cloud environments.</td>
 	</tr>
     <tr>
+        <td><a href="https://github.com/carlospolop/PurplePanda">carlospolop/PurplePanda</a></td>
+        <td>Identify privilege escalation paths within and across different clouds</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/carnal0wnage/weirdAAL/wiki">carnal0wnage/weirdAAL</a></td>
         <td>WeirdAAL [AWS Attack Library] wiki!</td>
     </tr>
