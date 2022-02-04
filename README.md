@@ -524,6 +524,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>SubFinder is a subdomain discovery tool that discovers valid subdomains for websites. Designed as a passive framework to be useful for bug bounties and safe for penetration testing.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/target/mmk-ui-api">target/mmk-ui-api</a></td>
+        <td>UI, API, and Scanner (Rules Engine) services for Merry Maker</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/trailofbits/it-depends">trailofbits/it-depends</a></td>
         <td>A tool to automatically build a dependency graph and Software Bill of Materials (SBOM) for packages and arbitrary source code repositories.</td>
     </tr>
