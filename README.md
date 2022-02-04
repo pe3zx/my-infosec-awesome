@@ -106,6 +106,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>RTA provides a framework of scripts designed to allow blue teams to test their detection capabilities against malicious tradecraft, modeled after MITRE ATT&CK</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/FourCoreLabs/firedrill">FourCoreLabs/firedrill</a></td>
+        <td>firedrill is a malware simulation harness for evaluating your security controls</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/fozavci/tehsat">fozavci/tehsat</a></td>
         <td>Tehsat Malware Traffic Generator</td>
     </tr>
