@@ -652,6 +652,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>CallBack-Techniques for Shellcode execution ported to Nim</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/S3cur3Th1sSh1t/Nim-RunPE">S3cur3Th1sSh1t/Nim-RunPE</a></td>
+        <td>A Nim implementation of reflective PE-Loading from memory</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/S3cur3Th1sSh1t/OffensiveVBA">S3cur3Th1sSh1t/OffensiveVBA</a></td>
         <td>This repo covers some code execution and AV Evasion methods for Macros in Office documents</td>
     </tr>
