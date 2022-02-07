@@ -1151,6 +1151,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>A method of bypassing EDR's active projection DLL's by preventing entry point execution.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/Cerbersec/KillDefenderBOF">Cerbersec/KillDefenderBOF</a></td>
+        <td>Beacon Object File PoC implementation of KillDefender</td>
+    </tr>
+    <tr>
         <td><a href="https://ChadSki/SharpNeedle">ChadSki/SharpNeedle</a></td>
         <td>Inject C# code into a running process</td>
     </tr>
