@@ -359,6 +359,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>weggli is a fast and robust semantic search tool for C and C++ codebases. It is designed to help security researchers identify interesting functionality in large codebases.</td>
     </tr>
     <tr>
+        <td><a href="https://www2.guardara.com/">Guardara</a></td>
+        <td>Find Bugs and Zero-day Vulnerabilities Quickly</td>
+    </tr>
+    <tr>
         <td><a href="https://huntersuite.io/">HunterSuite</a></td>
         <td>HunterSuite is the next generation offensive security suite. It will automate all the tedious tasks during a test just with few clicks. If you are a penetration tester, red teamer, bug bounty hunter, or you work as an offensive security engineer, you will love what HunterSuite has to offer.</td>
     </tr>
