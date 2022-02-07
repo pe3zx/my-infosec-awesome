@@ -2461,6 +2461,10 @@ Some tools can be categorized in more than one category. But because the current
         </td>
     </tr>
     <tr>
+        <td><a href="https://github.com/p3nt4/Invoke-SocksProxy">p3nt4/Invoke-SocksProxy</a></td>
+        <td>Socks proxy, and reverse socks server using powershell.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/p3nt4/Nuages">p3nt4/Nuages</a></td>
         <td>A modular C2 framework</td>
     </tr>
