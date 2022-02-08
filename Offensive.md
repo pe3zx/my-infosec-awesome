@@ -1613,6 +1613,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Perun's Fart (Slavic God's Luck). Another method for unhooking AV and EDR, this is my C# version.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/plackyhacker/SandboxDefender">playhacker/SandboxDefender</a></td>
+        <td>C# code to Sandbox Defender (and most probably other AV/EDRs).</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/plackyhacker/SuspendedThreadInjection">plackyhacker/SuspendedThreadInjection</a></td>
         <td>Another meterpreter injection technique using C# that attempts to bypass Defender</td>
     </tr>
