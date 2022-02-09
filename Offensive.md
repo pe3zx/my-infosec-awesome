@@ -528,6 +528,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Excel Macro Document Reader/Writer for Red Teamers & Analysts</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/mlcsec/SharpSQL">mlcsec/SharpSQL</a></td>
+        <td>Simple C# implementation of PowerUpSQL</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/mobdk/Sigma">mobdk/Sigma</a></td>
         <td>Execute shellcode with ZwCreateSection, ZwMapViewOfSection, ZwOpenProcess, ZwMapViewOfSection and ZwCreateThreadEx</td>
     </tr>
