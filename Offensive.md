@@ -1577,6 +1577,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>using hellsgate in EVA to get the syscalls</td>
     </tr>
     <tr>
+        <td><a href="https://gitlab.com/ORCA666/snaploader">ORCA666/snaploader</a></td>
+        <td>Injecting shellcode into 'ntdll.dll' address space in target process, and hijacking its thread without calling GetThreadContext, evading memory scanners, and more ...</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/ORCA666/T.D.P">ORCA666/T.D.P</a></td>
         <td>Using Thread Description To Hide Shellcode</td>
     </tr>
