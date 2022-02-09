@@ -197,6 +197,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>A collection of Windows print spooler exploits containerized with other utilities for practical exploitation.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/mgeeky/PackMyPayload">mgeeky/PackMyPayload</a></td>
+        <td>https://github.com/mgeeky/PackMyPayload</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/shelld3v/PwnVPN">shelld3v/PwnVPN</a></td>
         <td>The best exploitation tool for SSL VPN 0day vulnerabilities</td>
     </tr>
