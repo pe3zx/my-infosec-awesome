@@ -1859,6 +1859,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>tgtdelegation is a Beacon Object File (BOF) to obtain a usable TGT via the "TGT delegation trick"</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/cube0x0/KrbRelay">cube0x0/KrbRelay</a></td>
+        <td>Framework for Kerberos relaying</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/cube0x0/MiniDump">cube0x0/MiniDump</a></td>
         <td>C# Lsass parser</td>
     </tr>
