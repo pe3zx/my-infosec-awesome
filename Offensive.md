@@ -923,6 +923,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Automatic Linux privesc via exploitation of low-hanging fruit e.g. gtfobins</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/mpgn/BackupOperatorToDA">mpgn/BackupOperatorToDA</a></td>
+        <td>From an account member of the group Backup Operators to Domain Admin without RDP or WinRM on the Domain Controller</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/nccgroup/nccfsas/tree/main/Tools/spoolsystem">nccgroup/ncssfas - SpoolSystem</a></td>
         <td>SpoolSystem is a CNA script for Cobalt Strike which uses the Print Spooler named pipe impersonation trick to gain SYSTEM privileges.</td>
     </tr>
