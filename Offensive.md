@@ -2468,6 +2468,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Open source pre-operation C2 server based on python and powershell</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/MythicAgents/Athena">MythicAgents/Athena</a></td>
+        <td>Athena is a fully-featured cross-platform agent designed using the .NET 6. Athena is designed for Mythic 2.2 and newer.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/MythicAgents/hermes">MythicAgents/hermes</a></td>
         <td>Swift 5 macOS implant</td>
     </tr>
