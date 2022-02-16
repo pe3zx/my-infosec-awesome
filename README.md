@@ -2214,6 +2214,11 @@ This repository is created as an online bookmark for useful links, resources and
         <td>DAS MALWERK - your one stop shop for fresh malware samples</td>
     </tr>
     <tr>
+        <td><a href="https://gist.github.com/devnullz/55badd7f77b7a40db28b19d29bf79db6">devnullz/app_any_run_conf_audit.ps1</a></td>
+        <td>Quick and Dirty script for defenders to prepare @anyrun_app sandbox (cmdline and powerhell logging, #windows extended audit, #sysmon) and grab that logs after #malware execution for additional analysis. @rimpq
+</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/DoctorWebLtd/malware-iocs">DoctorWebLtd/malware-iocs</a></td>
         <td>This repository contains Indicators of Compromise (IOCs) related to our investigations.</td>
     </tr>
