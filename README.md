@@ -1338,6 +1338,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Automatic detection engineering technical state compliance</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/AbdulRhmanAlfaifi/Fennec">AbdulRhmanAlfaifi/Fennec</a></td>
+        <td>Artifact collection tool for *nix systems</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/Accenture/docker-plaso">Accenture/docker-plaso</a></td>
         <td>Docker container for plaso supertimlining tool</td>
     </tr>
