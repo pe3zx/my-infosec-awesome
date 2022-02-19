@@ -428,6 +428,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>It's Web Interface to generate payload using various deserialization exploitation framework</td>
     </tr>
     <tr>
+        <td><a href="https://deps.dev/">Open Source Insights</a></td>
+        <td>Open Source Insights is an experimental service developed and hosted by Google to help developers better understand the structure, construction, and security of open source software packages.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/ossf/allstar">ossf/allstar</a></td>
         <td>GitHub App to set and enforce security policies</td>
     </tr>
