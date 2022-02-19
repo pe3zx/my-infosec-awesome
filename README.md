@@ -339,6 +339,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>DefectDojo is an open-source application vulnerability correlation and security orchestration tool.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/delvelabs/tachyon">delvelabs/tachyon</a></td>
+        <td>Tachyon is a fast web application security reconnaissance tool.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/doyensec/inql">doyensec/inql</a></td>
         <td>InQL - A Burp Extension for GraphQL Security Testing</td>
     </tr>
