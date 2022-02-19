@@ -3383,6 +3383,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Open-Source Collection of Social Engineering Pretexts</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/secureworks/PhishInSuits">secureworks/PhishInSuits</a></td>
+        <td>PhishInSuits: OAuth Device Code Phishing with Verified Apps</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/Raikia/UhOh365">Raikia/UhOh365</a></td>
         <td> A script that can see if an email address is valid in Office365 (user/email enumeration). This does not perform any login attempts, is unthrottled, and is incredibly useful for social engineering assessments to find which emails exist and which don't. </td>
     </tr>
