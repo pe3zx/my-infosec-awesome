@@ -2575,6 +2575,10 @@ Some tools can be categorized in more than one category. But because the current
         <td><b>Description</b></td>
     </tr>
     <tr>
+        <td><a href="https://github.com/0xC01DF00D/Collabfiltrator">0xC01DF00D/Collabfiltrator</a></td>
+        <td>Exfiltrate blind remote code execution output over DNS via Burp Collaborator.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/ariary/QueenSono">ariary/QueenSono</a></td>
         <td>Golang binary for data exfiltration with ICMP protocol (+ ICMP bindshell, http over ICMP tunneling, ...)</td>
     </tr>
