@@ -2109,6 +2109,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Aggrokatz is an aggressor plugin extension for Cobalt Strike which enables pypykatz to interface with the beacons remotely and allows it to parse LSASS dump files and registry hive files to extract credentials and other secrets stored without downloading the file and without uploading any suspicious code to the beacon.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/secureworks/whiskeysamlandfriends">secureworks/whiskeysamlandfriends</a></td>
+        <td>GoldenSAML Attack Libraries and Framework</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/secdev-01/Mimikore">secdev-01/Mimikore</a></td>
         <td>.NET 5 Single file Application . Mimikatz or any Base64 PE Loader.</td>
     </tr>
