@@ -1686,6 +1686,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Python wrapper for the Mitre ATT&CK framework API</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/mandiant/Mandiant-Azure-AD-Investigator">mandiant/Mandiant-Azure-AD-Investigator</a></td>
+        <td>This repository contains a PowerShell module for detecting artifacts that may be indicators of UNC2452 and other threat actor activity</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/markbaggett/srum-dump">markbaggett/srum-dump</a></td>
         <td>A forensics tool to convert the data in the Windows srum (System Resource Usage Monitor) database to an xlsx spreadsheet.</td>
     </tr>
