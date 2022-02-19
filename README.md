@@ -1674,6 +1674,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Live Response Collection - Cedarpelta </td>
     </tr>
     <tr>
+        <td><a href="https://github.com/log2timeline/dftimewolf">log2timeline/dftimewolf</a></td>
+        <td>A framework for orchestrating forensic collection, processing and data export</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/log2timeline/plaso">log2timeline/plaso</a></td>
         <td>log2timeline is a tool designed to extract timestamps from various files found on a typical computer system(s) and aggregate them.</td>
     </tr>
