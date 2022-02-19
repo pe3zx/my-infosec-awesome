@@ -1811,6 +1811,10 @@ Some tools can be categorized in more than one category. But because the current
         <td><b>Description</b></td>
     </tr>
     <tr>
+        <td><a href="https://github.com/0xZDH/o365spray">0xZDH/o365spray</a></td>
+        <td>Username enumeration and password spraying tool aimed at Microsoft O365.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/aas-n/spraykatz">aas-n/spraykatz</a></td>
         <td>Credentials gathering tool automating remote procdump and parse of lsass process.</td>
     </tr>
