@@ -210,6 +210,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Synthetic Adversarial Log Objects: A Framework for synthentic log generation</td>
     </tr>
     <tr>
+        <td><a href="https://bots.splunk.com/login?redirect=/">Splunk Boss of SOC</a></td>
+        <td>Splunk Boss of SOC</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/swimlane/atomic-operator">swimlane/atomic-operator</a></td>
         <td>A Python package is used to execute Atomic Red Team tests (Atomics) across multiple operating system environments.</td>
     </tr>
