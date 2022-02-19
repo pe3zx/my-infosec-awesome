@@ -343,6 +343,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Tachyon is a fast web application security reconnaissance tool.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/delvelabs/vane2">delvelabs/vane2</a></td>
+        <td>WordPress version identification and vulnerability finder.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/doyensec/inql">doyensec/inql</a></td>
         <td>InQL - A Burp Extension for GraphQL Security Testing</td>
     </tr>
