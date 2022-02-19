@@ -2064,6 +2064,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Enforce privacy & security on Windows and macOS</td>
     </tr>
     <tr>
+        <td><a href="https://santa.dev/">Santa</a></td>
+        <td>Santa is a binary authorization system for macOS</td>
+    </tr>
+    <tr>
         <td><a href="https://public.cyber.mil/stigs/">Security Technical Implementation Guides (STIGs)</a></td>
         <td>The Security Technical Implementation Guides (STIGs) are the configuration standards for DOD IA and IA-enabled devices/systems.</td>
     </tr>
