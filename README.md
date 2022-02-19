@@ -359,6 +359,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Atheris is a coverage-guided Python fuzzing engine. It supports fuzzing of Python code, but also native extensions written for CPython. Atheris is based off of libFuzzer. When fuzzing native code, Atheris can be used in combination with Address Sanitizer or Undefined Behavior Sanitizer to catch extra bugs.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/google/tsunami-security-scanner">google/tsunami-security-scanner</a></td>
+        <td>Tsunami is a general purpose network security scanner with an extensible plugin system for detecting high severity vulnerabilities with high confidence.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/googleprojectzero/weggli">googleprojectzero/weggli</a></td>
         <td>weggli is a fast and robust semantic search tool for C and C++ codebases. It is designed to help security researchers identify interesting functionality in large codebases.</td>
     </tr>
