@@ -524,6 +524,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Golang security checker</td>
     </tr>
     <tr>
+        <td><a href="https://slsa.dev/">SLSA</a></td>
+        <td>Safeguarding artifact integrity across any software supply chain</td>
+    </tr>
+    <tr>
         <td><a href="https://snyk.io/">Snyk</a></td>
         <td>Continuously find & fix vulnerabilities in your dependencies</td>
     </tr>
