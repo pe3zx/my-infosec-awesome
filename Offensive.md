@@ -427,6 +427,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Automated Tool That Generate The Perfect Powershell Payload</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/GetRektBoy724/SharpHalos">GetRektBoy724/SharpHalos</a></td>
+        <td>My implementation of Halo's Gate technique in C#</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/GhostPack/SharpWMI">GhostPack/SharpWMI</a></td>
         <td>SharpWMI is a C# implementation of various WMI functionality.</td>
     </tr>
