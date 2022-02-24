@@ -805,6 +805,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Library to Instrument Executable Formats</td>
     </tr>
     <tr>
+        <td><a href="https://maat.re/index.html">Maat</a></td>
+        <td>Maat is an open-source symbolic execution framework that can be used for binary analysis, reverse-engineering, and vulnerability research.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/Martyx00/CollaRE">Martyx00/CollaRE</a></td>
         <td>CollareRE is a tool for collaborative reverse engineering that aims to allow teams that do need to use more then one tool during a project to collaborate without the need to share the files on a separate locations.</td>
     </tr>
