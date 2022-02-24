@@ -1365,6 +1365,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Slides and reference material from Evading Autoruns presentation at DerbyCon 7 (September 2017)</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/icyguider/Nimcrypt2">icyguider/Nimcrypt2</a></td>
+        <td>.NET, PE, & Raw Shellcode Packer/Loader Written in Nim</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/Idov31/FunctionStomping">Idov32/FunctionStomping</a></td>
         <td>A new shellcode injection technique. Given as C++ header or standalone Rust program.</td>
     </tr>
