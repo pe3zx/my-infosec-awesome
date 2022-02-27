@@ -1928,6 +1928,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Utilities to extract secrets from 1Password</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/Dramelac/GoldenCopy">Dramelac/GoldenCopy</a></td>
+        <td>Copy the properties and groups of a user from neo4j (bloodhound) to create an identical golden ticket.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/eladshamir/Internal-Monologue">eladshamir/Internal-Monologue</a></td>
         <td>Internal Monologue Attack: Retrieving NTLM Hashes without Touching LSASS</td>
     </tr>
