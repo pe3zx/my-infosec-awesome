@@ -187,6 +187,10 @@ Some tools can be categorized in more than one category. But because the current
         <td><a href="https://github.com/ZeroPointSecurity/Domain-Enumeration-Tool">ZeroPointSecurity/Domain-Enumeration-Tool</a></td>
         <td>Perform Windows domain enumeration via LDAP</td>
     </tr>
+    <tr>
+        <td><a href="https://github.com/zyn3rgy/LdapRelayScan">zyn3rgy/LdapRelayScan</a></td>
+        <td>Check for LDAP protections regarding the relay of NTLM authentication</td>
+    </tr>
 </table>
 
 ## Initial Access
