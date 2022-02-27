@@ -246,6 +246,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>A Windows native DLL injection library that supports several methods of injection.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/Allevon412/TeamsImplant">Allevon412/TeamsImplant</a></td>
+        <td>This project is a stealthy teams implant that proxies the urlmon.dll that teams uses compile and throw this bad boy in the teams directory as urlmon.dll and you got yourself a persistence backdoor whenever teams runs by a user or at startup.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/antonioCoco/SharPyShell">antonioCoco/SharPyShell</a></td>
         <td>SharPyShell - tiny and obfuscated ASP.NET webshell for C# web applications</td>
     </tr>
