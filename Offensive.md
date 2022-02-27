@@ -852,6 +852,10 @@ Some tools can be categorized in more than one category. But because the current
         <td><a href="https://github.com/vivami/OutlookParasite">vivami/OutlookParasite</a></td>
         <td>Outlook persistence using VSTO add-ins</td>
     </tr>
+    <tr>
+        <td><a href="https://github.com/wgpsec/CreateHiddenAccount">wgpsec/CreateHiddenAccount</a></td>
+        <td>A tool for creating hidden accounts using the registry.</td>
+    </tr>
 </table>
 
 ## Privilege Escalation
