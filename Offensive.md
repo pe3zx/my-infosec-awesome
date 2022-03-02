@@ -752,6 +752,10 @@ Some tools can be categorized in more than one category. But because the current
             (TrustedSec) and Josh Kelly at Defcon 18.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/wumb0/rust_bof">wumb0/rust_bof</a></td>
+        <td>Cobalt Strike Beacon Object Files (BOFs) written in rust with rust core and alloc.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/X-C3LL/xlsxPoison">X-C3LL/xlsxPoisoN</a></td>
         <td>Just a PoC to turn xlsx (regular Excel files) into xlsm (Excel file with macro) and slipping inside a macro (vbaProject.bin)</td>
     </tr>
