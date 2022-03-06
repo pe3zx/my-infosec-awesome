@@ -2520,6 +2520,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>BlackMamba is a multi client C2/post exploitation framework with some spyware features. Powered by Python 3.8.6 and QT Framework.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/mttaggart/OffensiveNotion">mttaggart/OffensiveNotion</a></td>
+        <td>Notion as a platform for offensive operations</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/mgeeky/RedWarden">mgeeky/RedWarden</a></td>
         <td>Cobalt Strike C2 Reverse proxy that fends off Blue Teams, AVs, EDRs, scanners through packet inspection and malleable profile correlation</td>
     </tr>
