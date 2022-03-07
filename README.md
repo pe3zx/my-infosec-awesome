@@ -2572,6 +2572,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Indicators from Unit 42 Public Reports</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/pandora-analysis/pandora">pandora-analysis/pandora</a></td>
+        <td>Pandora is an analysis framework to discover if a file is suspicious and conveniently show the results</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/phage-nz/ph0neutria">phage-nz/ph0neutria</a></td>
         <td>ph0neutria is a malware zoo builder that sources samples straight from the wild. Everything is stored in Viper for ease of access and manageability.</td>
     </tr>
