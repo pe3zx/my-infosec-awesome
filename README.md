@@ -190,6 +190,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Virtual Machine for Adversary Emulation and Threat Hunting</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/nickzer0/RedLab">nickzer0/RedLab</a></td>
+        <td>Files for red team lab infrastructure.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/ScarredMonk/SysmonSimulator">ScarredMonk/SysmonSimulator</a></td>
         <td>Sysmon event simulation utility which can be used to simulate the attacks to generate the Sysmon Event logs for testing the EDR detections and correlation rules by Blue teams.</td>
     </tr>
