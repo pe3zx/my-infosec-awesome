@@ -629,6 +629,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>RetDec is a retargetable machine-code decompiler based on LLVM</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/binref/refinery">binref/refinery</a></td>
+        <td>High Octane Triage Analysis</td>
+    </tr>
+    <tr>
         <td><a href="https://binvis.io/#/">binvis.io</a></td>
         <td>visual analysis of binary files</td>
     </tr>
