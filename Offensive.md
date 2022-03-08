@@ -1393,6 +1393,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Slides and reference material from Evading Autoruns presentation at DerbyCon 7 (September 2017)</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/HuskyHacks/RustyProcessInjectors">HuskyHacks/RustyProcessInjectors</a></td>
+        <td>Just some Rust process injector POCs, nothing weird.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/icyguider/Nimcrypt2">icyguider/Nimcrypt2</a></td>
         <td>.NET, PE, & Raw Shellcode Packer/Loader Written in Nim</td>
     </tr>
