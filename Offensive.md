@@ -1239,6 +1239,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>KaynLdr is a Reflective Loader written in C/ASM</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/cube0x0/SyscallPack">cube0x0/SyscallPack</a></td>
+        <td>BOF and Shellcode for full DLL unhooking using dynamic syscalls</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/cwolff411/powerob">cwolff411/powerob</a></td>
         <td>An on-the-fly Powershell script obfuscator meant for red team engagements. Built out of necessity.</td>
     </tr>
@@ -2143,6 +2147,10 @@ Some tools can be categorized in more than one category. But because the current
     <tr>
         <td><a href="https://github.com/ropnop/kerbrute">ropnop/kerbrute</a></td>
         <td>A tool to perform Kerberos pre-auth bruteforcing</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/r3ggi/NoMADCredentialsStealer/">r3ggi/NoMADCredentialsStealer/</a></td>
+        <td>NoMAD Credentials Stealer</td>
     </tr>
     <tr>
         <td><a href="https://github.com/rvrsh3ll/SharpEdge">rvrsh3ll/SharpEdge</a></td>
