@@ -577,6 +577,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Offline command line lookup utility for GTFOBins</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/nettitude/RunOF">netititude/RunOF</a></td>
+        <td>A tool to run object files, mainly beacon object files (BOF), in .Net.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/nnsee/fileless-elf-exec">nnsee/fileless-elf-exec</a></td>
         <td>Execute ELF files without dropping them on disk</td>
     </tr>
