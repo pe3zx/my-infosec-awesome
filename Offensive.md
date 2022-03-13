@@ -1497,6 +1497,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>C# implementation of the research by @jonaslyk and the drafted PoC from @LloydLabs</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/klezVirus/SysWhispers3">klezVirus/SysWhispers3</a></td>
+        <td>SysWhispers on Steroids - AV/EDR evasion via direct system calls.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/knight0x07/ImpulsiveDLLHijack">knight0x07/ImpulsiveDLLHijack</a></td>
         <td>C# based tool which automates the process of discovering and exploiting DLL Hijacks in target binaries. The Hijacked paths discovered can later be weaponized during Red Team Operations to evade EDR's.</td>
     </tr>
