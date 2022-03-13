@@ -2622,6 +2622,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Cobalt Strike random C2 Profile generator</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/tnpitsecurity/ligolo-ng">tnpitsecurity/ligolo-ngv</a></td>
+        <td>An advanced, yet simple, tunneling/pivoting tool that uses a TUN interface.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/Tylous/SourcePoint">Tylous/SourcePoint</a></td>
         <td>SourcePoint is a C2 profile generator for Cobalt Strike command and control servers designed to ensure evasion.</td>
     </tr>
