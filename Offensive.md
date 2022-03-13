@@ -2610,6 +2610,10 @@ Some tools can be categorized in more than one category. But because the current
             leveraged for command and control (C2) via DNS over HTTPS (DoH).</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/sysdream/ligolo">sysdream/ligolo</a></td>
+        <td>Reverse Tunneling made easy for pentesters, by pentesters https://sysdream.com/</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/thiagomayllart/Harvis">thiagomayllart/Harvis</a></td>
         <td>Harvis is designed to automate your C2 Infrastructure.</td>
     </tr>
