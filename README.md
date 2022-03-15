@@ -3705,6 +3705,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>A tool for standing up (and tearing down!) purposefully insecure cloud infrastructure</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/Orange-Cyberdefense/GOAD">Orange-Cyberdefense/GOAD</a></td>
+        <td>GOAD is a pentest active directory LAB project. The purpose of this lab is to give pentesters a vulnerable Active directory environement ready to use to practice usual attack techniques.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/OWASP/iGoat-Swift">OWASP/iGoat-Swift</a></td>
         <td>OWASP iGoat (Swift) - A Damn Vulnerable Swift Application for iOS</td>
     </tr>
