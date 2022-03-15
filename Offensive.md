@@ -82,6 +82,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>I used this to see if an EDR is running in Safe Mode</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/FourCoreLabs/EDRHunt">FourCoreLabs/EDRHunt</a></td>
+        <td>Scan installed EDRs and AVs on Windows</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/GhostPack/Seatbelt">GhostPack/Seatbelt</a></td>
         <td>Seatbelt is a C# project that performs a number of security oriented host-survey "safety checks" relevant
             from both offensive and defensive security perspectives.</td>
