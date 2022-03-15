@@ -841,6 +841,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>A C# tool with more flexibility to customize scheduled task for both persistence and lateral movement in red team operation</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/NtQuerySystemInformation/CustomKeyboardLayoutPersistence">NtQuerySystemInformation/CustomKeyboardLayoutPersistence</a></td>
+        <td>Achieve execution using a custom keyboard layout</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/o1mate/DLLProx">o1mate/DLLProx</a></td>
         <td>Automatic DLL comment link generation and explaination of the DLL Proxying techniques</td>
     </tr>
