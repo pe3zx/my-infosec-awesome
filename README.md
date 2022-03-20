@@ -3410,6 +3410,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td><a href="https://github.com/Mr-Un1k0d3r/CatMyPhish">Mr-Un1k0d3r/CatMyPhish</a></td>
         <td>Search for categorized domain</td>
     </tr>
+    <tr>
+        <td><a href="https://github.com/mrd0x/BITB">mrd0x/BITB</a></td>
+        <td>Browser In The Browser (BITB) Templates</td>
+    </tr>
 	<tr>
 		<td><a href="https://github.com/muraenateam/muraena">muraenateam/muraena</a></td>
 		<td>Muraena is an almost-transparent reverse proxy aimed at automating phishing and post-phishing activities.</td>
