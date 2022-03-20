@@ -2129,6 +2129,10 @@ Some tools can be categorized in more than one category. But because the current
             each tool does.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/optiv/Talon">optiv/Talon</a></td>
+        <td>A password guessing tool that targets the Kerberos and LDAP services within the Windows Active Directory environment.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/oxfemale/LogonCredentialsSteal">oxfemale/LogonCredentialsSteal</a></td>
         <td>LOCAL AND REMOTE HOOK msv1_0!SpAcceptCredentials from LSASS.exe and DUMP DOMAIN/LOGIN/PASSWORD IN CLEARTEXT to text file.</td>
     </tr>
