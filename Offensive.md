@@ -2544,6 +2544,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Cloud C2 Framework, which at the moment offers reconnaissance, enumeration, exploitation, post exploitation on AWS, but still working to allow testing other Cloud Providers and DevOps Components.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/Gr1mmie/AtlasC2">Gr1mmie/AtlasC2</a></td>
+        <td>C# C2 Framework centered around Stage 1 operations</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/its-a-feature/Mythic">its-a-feature/Mythic</a></td>
         <td>A collaborative, multi-platform, red teaming framework</td>
     </tr>
