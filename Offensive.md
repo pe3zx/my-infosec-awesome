@@ -625,6 +625,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>UUID based shellcode loader for your favorite C2</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/shogunlab/Mochi">shogunlab/Mochi</a></td>
+        <td>Mochi is a proof-of-concept C++ loader that leverages the ChaiScript embedded scripting language to execute code.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/rasta-mouse/MiscTools">rasta-mouse/MiscTools</a></td>
         <td>Miscellaneous Tools</td>
     </tr>
