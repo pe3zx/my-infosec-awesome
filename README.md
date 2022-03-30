@@ -1333,6 +1333,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>DataPlane.org is a community-powered Internet data, feeds, and measurement resource for operators, by operators. We provide reliable and trustworthy service at no cost.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/fox-it/cobaltstrike-beacon-data">cobaltstrike-beacon-data</a></td>
+        <td>Open Dataset of Cobalt Strike Beacon metadata (2018-2022)</td>
+    </tr>
+    <tr>
         <td><a href="https://toolbox.google.com/datasetsearch">Google Dataset Search</a></td>
         <td>Google Dataset Search</td>
     </tr>
