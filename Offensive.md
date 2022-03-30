@@ -1834,6 +1834,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>A simple python packer to easily bypass Windows Defender</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/VirtualAlllocEx/Shellcode-Downloader-CreateThread-Execution">VirtualAlllocEx/Shellcode-Downloader-CreateThread-Execution</a></td>
+        <td>This POC gives you the possibility to compile a .exe to completely avoid statically detection by AV/EPP/EDR of your C2-shellcode and download and execute your C2-shellcode which is hosted on your (C2)-webserver.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/Wra7h/Single-Dose">Wra7h/Single-Dose</a></td>
         <td>Generate process injection binaries</td>
     </tr>
