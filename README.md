@@ -1806,6 +1806,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>PolyLogyx Monitoring Agent (PolyMon) is a Windows software that leverages the osquery tool and the PolyLogyx Extension to osquery, to provide a view into detailed information about process creations, network connections, file system changes and many other activities on the system.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/PSGumshoe/PSGumshoe">PSGumshoe/PSGumshoe</a></td>
+        <td>PSGumshoe is a Windows PowerShell module for the collection of OS and domain artifacts for the purposes of performing live response, hunt, and forensics.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/ptresearch/AttackDetection">ptresearch/AttackDetection</a></td>
         <td>The Attack Detection Team searches for new vulnerabilities and 0-days, reproduces it and creates PoC exploits to understand how these security flaws work and how related attacks can be detected on the network layer. Additionally, we are interested in malware and hackers’ TTPs, so we develop Suricata rules for detecting all sorts of such activities.</td>
     </tr>
