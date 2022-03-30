@@ -1846,6 +1846,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>This POC gives you the possibility to compile a .exe to completely avoid statically detection by AV/EPP/EDR of your C2-shellcode and download and execute your C2-shellcode which is hosted on your (C2)-webserver.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/waldo-irc/YouMayPasser">waldo-irc/YouMayPasser</a></td>
+        <td>YouMayPasser is an x64 implementation of Gargoyle</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/Wra7h/Single-Dose">Wra7h/Single-Dose</a></td>
         <td>Generate process injection binaries</td>
     </tr>
