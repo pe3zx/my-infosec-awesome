@@ -3600,6 +3600,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Visualize Solidity control flow for smart contract security analysis. 💵 ⇆ 💵</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/Raz0r/semgrep-smart-contracts">Raz0r/semgrep-smart-contracts</a></td>
+        <td>Semgrep rules for smart contracts based on DeFi exploits</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/Robsonsjre/FlashloanUsecases">Robsonsjre/FlashloanUsecases</a></td>
         <td>DeFi 201 - Lets hack Flash Loans</td>
     </tr>
