@@ -1946,6 +1946,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Cont3xt intends to centralize and simplify a structured approach to gathering contextual intelligence in support of technical investigations.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/travisfoley/dfirtriage">travisfoley/dfirtriage</a></td>
+        <td>Digital forensic acquisition tool for Windows based incident response.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/trustedsec/SysmonCommunityGuide">trustedsec/SysmonCommunityGuide</a></td>
         <td>TrustedSec Sysinternals Sysmon Community Guide</td>
     </tr>
