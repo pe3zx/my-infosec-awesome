@@ -1757,6 +1757,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Elf binary infector written in Golang</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/scrt/avdebugger">scrt/avdebugger</a></td>
+        <td>Most antivirus engines rely on strings or other bytes sequences, function exports and big integers to recognize malware. This project helps to automatically recover these signatures.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/scrt/avcleaner">scrt/avcleaner</a></td>
         <td>C/C++ source obfuscator for antivirus bypass</td>
     </tr>
