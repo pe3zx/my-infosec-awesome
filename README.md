@@ -3314,6 +3314,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>A mostly-serverless distributed hash cracking platform</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/Coalfire-Research/npk">Coalfire-Research/npk</a></td>
+        <td>A mostly-serverless distributed hash cracking platform</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/f0cker/crackq">f0cker/crackq</a></td>
         <td>CrackQ: A Python Hashcat cracking queue system</td>
     </tr>
