@@ -1385,6 +1385,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Syscall Stub Stealer - Freshly steal Syscall stub straight from the disk</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/GhostPack/Invoke-Evasion">GhostPack/Invoke-Evasion</a></td>
+        <td>PowerShell Obfuscation and Data Science</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/GoodstudyChina/APC-injection-x86-x64">GoodstudyChina/APC-injection-x86-x64</a></td>
         <td>injdrv is a proof-of-concept Windows Driver for injecting DLL into user-mode processes using APC.</td>
     </tr>
