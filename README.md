@@ -1130,6 +1130,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>A proxy for AWS's metadata service that gives out scoped IAM credentials from STS</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/mgeeky/AzureRT">mgeeky/AzureRT</a></td>
+        <td>AzureRT - A Powershell module implementing various Azure Red Team tactics</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/MindPointGroup/cloudfrunt">MindPointGroup/cloudfrunt</a></td>
         <td>A tool for identifying misconfigured CloudFront domains</td>
     </tr>
