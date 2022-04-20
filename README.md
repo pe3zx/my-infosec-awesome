@@ -150,6 +150,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>A toolset to make a system look as if it was the victim of an APT attack</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/NextronSystems/ransomware-simulator">NextronSystems/ransomware-simulator</a></td>
+        <td>Ransomware simulator written in Golang</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/n0dec/MalwLess">n0dec/MalwLess</a></td>
         <td>Test blue team detections without running any attack</td>
     </tr>
