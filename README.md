@@ -817,6 +817,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Maat is an open-source symbolic execution framework that can be used for binary analysis, reverse-engineering, and vulnerability research.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/mandiant/dncil">mandiant/dncli</a></td>
+        <td>The FLARE team's open-source library to disassemble Common Intermediate Language (CIL) instructions.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/mandiant/GoReSym">mandiant/GoReSym</a></td>
         <td>Go symbol recovery tool</td>
     </tr>
