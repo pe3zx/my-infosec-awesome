@@ -813,6 +813,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Kaitai Struct is a declarative language used to describe various binary data structures, laid out in files or in memory: i.e. binary file formats, network stream packet formats, etc.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/KeenSecurityLab/BinAbsInspector">KenSecurityLab/BinAbsInspector</a></td>
+        <td>BinAbsInspector: Vulnerability Scanner for Binaries</td>
+    </tr>
+    <tr>
         <td><a href="https://lief.quarkslab.com/">LIEF</a></td>
         <td>Library to Instrument Executable Formats</td>
     </tr>
