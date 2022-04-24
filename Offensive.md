@@ -1373,6 +1373,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Phantom DLL hollowing PoC</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/GetRektBoy724/HalosUnhooker">GetRektBoy724/HalosUnhooker</a></td>
+        <td>Halos Gate-based NTAPI Unhooker</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/GetRektBoy724/JALSI">GetRektBoy724/JALSI</a></td>
         <td>JALSI - Just Another Lame Shellcode Injector</td>
     </tr>
