@@ -939,6 +939,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Run application as system with interactive system process support (active Windows session)</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/Dec0ne/KrbRelayUp">Dec0ne/KrbRelayUp</a></td>
+        <td>KrbRelayUp - a universal no-fix local privilege escalation in windows domain environments where LDAP signing is not enforced (the default settings).</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/eladshamir/Whisker">eladshamir/Whisker</a></td>
         <td>Whisker is a C# tool for taking over Active Directory user and computer accounts by manipulating their msDS-KeyCredentialLink attribute, effectively adding "Shadow Credentials" to the target account.</td>
     </tr>
