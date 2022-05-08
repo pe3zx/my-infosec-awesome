@@ -766,6 +766,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Rust Weaponization for Red Team Engagements.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/trustedsec/ELFLoader">trustedsec/ELFLoader</a></td>
+        <td>This is a ELF object in memory loader/runner. The goal is to create a single elf loader that can be used to run follow on capabilities across all x86_64 and x86 nix operating systems.</td>
+    </tr>
+    <tr>
         <td><a href="https//github.com/trustedsec/unicorn">trustedsec/unicorn</a></td>
         <td>Unicorn is a simple tool for using a PowerShell downgrade attack and inject shellcode straight into memory.
             Based on Matthew Graeber's powershell attacks and the powershell bypass technique presented by David Kennedy
