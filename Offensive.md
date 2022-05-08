@@ -2548,6 +2548,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Kubesploit is a cross-platform post-exploitation HTTP/2 Command & Control server and agent written in Golang, focused on containerized environments.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/d4rckh/nimc2">d4rckh/nimc2</a></td>
+        <td>nimc2 is a very lightweight C2 written fully in nim (implant & server).</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/DeimosC2/DeimosC2">DeimosC2/DeimosC2</a></td>
         <td>DeimosC2 is a Golang command and control framework for post-exploitation.</td>
     </tr>
