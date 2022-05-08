@@ -1107,6 +1107,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>The goal of this repository is to document the most common techniques to bypass AppLocker.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/arget13/DDexec">arget13/DDexec</a></td>
+        <td>A technique to run binaries filelessly and stealthily on Linux using dd to replace the shell with another process.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/Arvanaghi/CheckPlease">Arvanaghi/CheckPlease</a></td>
         <td>Sandbox evasion modules written in PowerShell, Python, Go, Ruby, C, C#, Perl, and Rust.</td>
     </tr>
