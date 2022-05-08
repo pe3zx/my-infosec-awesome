@@ -3310,6 +3310,10 @@ This repository is created as an online bookmark for useful links, resources and
 
 <table>
     <tr>
+        <td><a href="https://wordlists.assetnote.io/">Assetnote Wordlists</a></td>
+        <td>Automated & Manual Wordlists provided by Assetnote</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/berzerk0/Probable-Wordlists">berzerk0/Probable-Wordlists</a></td>
         <td>Wordlists sorted by probability originally created for password generation and testing - make sure your passwords aren't popular!</td>
     </tr>
