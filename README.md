@@ -3338,6 +3338,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>GoCrack provides APIs to manage password cracking tasks across supported cracking engines.</td>
     </tr>
     <tr>
+        <td><a href="https://hashmob.net/">Hashmob</a></td>
+        <td>Password Recovery Community</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/JoelGMSec/Cloudtopolis">JoelGMSec/Cloudtopolis</a></td>
         <td>Zero Infrastructure Password Cracking</td>
     </tr>
