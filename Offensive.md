@@ -1541,6 +1541,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Template-Driven AV/EDR Evasion Framework</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/klezVirus/NimlineWhispers3">klezVirus/NimlineWhispers3</a></td>
+        <td>A tool for converting SysWhispers3 syscalls for use with Nim projects</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/klezVirus/SharpSelfDelete">klezVirus/SharpSelfDelete</a></td>
         <td>C# implementation of the research by @jonaslyk and the drafted PoC from @LloydLabs</td>
     </tr>
