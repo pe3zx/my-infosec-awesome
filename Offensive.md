@@ -609,6 +609,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Execute .Net assemblies using Rundll32.exe</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/parsiya/evil-electron">parsiya/evil-electron</a></td>
+        <td>Backdoored Electron app.asar</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/plackyhacker/Sys-Calls">plackyhacker/Sys-Calls</a></td>
         <td>An example of using Syscalls in C# to get a meterpreter shell.</td>
     </tr>
