@@ -2434,6 +2434,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>New lateral movement technique by abusing Windows Perception Simulation Service to achieve DLL hijacking code execution.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/NVISOsecurity/pyCobaltHound">NVISOsecurity/pyCobaltHound</a></td>
+        <td>pyCobaltHound is an Aggressor script extension for Cobalt Strike which aims to provide a deep integration between Cobalt Strike and Bloodhound.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/RiccardoAncarani/LiquidSnake">RiccardoAncarani/LiquidSnake</a></td>
         <td>LiquidSnake is a tool that allows operators to perform fileless lateral movement using WMI Event Subscriptions and GadgetToJScript</td>
     </tr>
