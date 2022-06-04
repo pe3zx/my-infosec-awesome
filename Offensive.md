@@ -1677,6 +1677,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>NINA: No Injection, No Allocation x64 Process Injection Technique</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/Octoberfest7/EventViewerUAC_BOF">Octoberfest7/EventViewerUAC_BOF</a></td>
+        <td>Beacon Object File implementation of Event Viewer deserialization UAC bypass</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/OmerYa/Invisi-Shell">OmerYa/Invisi-Shell</a></td>
         <td>Hide your Powershell script in plain sight. Bypass all Powershell security features</td>
     </tr>
