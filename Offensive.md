@@ -258,6 +258,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>This project is a stealthy teams implant that proxies the urlmon.dll that teams uses compile and throw this bad boy in the teams directory as urlmon.dll and you got yourself a persistence backdoor whenever teams runs by a user or at startup.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/AlsidOfficial/WSUSpendu">AlsidOfficial/WSUSpendu</a></td>
+        <td>Implement WSUSpendu attack</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/antonioCoco/SharPyShell">antonioCoco/SharPyShell</a></td>
         <td>SharPyShell - tiny and obfuscated ASP.NET webshell for C# web applications</td>
     </tr>
