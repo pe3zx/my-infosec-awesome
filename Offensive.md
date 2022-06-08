@@ -645,6 +645,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Mochi is a proof-of-concept C++ loader that leverages the ChaiScript embedded scripting language to execute code.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/ThunderGunExpress/Thunder_Woosus">ThunderGunExpress/Thunder_Woosus</a></td>
+        <td>Port of WSUSPendu in .NET</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/rasta-mouse/MiscTools">rasta-mouse/MiscTools</a></td>
         <td>Miscellaneous Tools</td>
     </tr>
