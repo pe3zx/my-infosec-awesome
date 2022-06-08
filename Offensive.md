@@ -2446,6 +2446,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>New lateral movement technique by abusing Windows Perception Simulation Service to achieve DLL hijacking code execution.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/nettitude/MalSCCM">nettitude/MalSCCM</a></td>
+        <td>This tool allows you to abuse local or remote SCCM servers to deploy malicious applications to hosts they manage. To use this tool your current process must have admin rights over the SCCM server.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/NVISOsecurity/pyCobaltHound">NVISOsecurity/pyCobaltHound</a></td>
         <td>pyCobaltHound is an Aggressor script extension for Cobalt Strike which aims to provide a deep integration between Cobalt Strike and Bloodhound.</td>
     </tr>
