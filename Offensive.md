@@ -2112,6 +2112,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Extract credentials from lsass remotely</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/Hagrid29/DuplicateDump">Hagrid29/DuplicateDump</a></td>
+        <td>Dumping LSASS with a duplicated handle from custom LSA plugin</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/helpsystems/nanodump">helpsystems/nanodump</a></td>
         <td>Dumping LSASS has never been so stealthy</td>
     </tr>
