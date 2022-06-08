@@ -2454,6 +2454,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>pyCobaltHound is an Aggressor script extension for Cobalt Strike which aims to provide a deep integration between Cobalt Strike and Bloodhound.</td>
     </tr>
     <tr>
+        <td><a href="https://github.conm/PowerShellMafia/PowerSCCM">PowerShellMafia/PowerSCCM</a></td>
+        <td>PowerSCCM - PowerShell module to interact with SCCM deployments</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/RiccardoAncarani/LiquidSnake">RiccardoAncarani/LiquidSnake</a></td>
         <td>LiquidSnake is a tool that allows operators to perform fileless lateral movement using WMI Event Subscriptions and GadgetToJScript</td>
     </tr>
