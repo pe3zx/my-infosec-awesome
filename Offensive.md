@@ -217,6 +217,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>https://github.com/mgeeky/PackMyPayload</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/Octoberfest7/XLL_Phishing">Octoberfest7/XLL_Phishing</a></td>
+        <td>XLL Phishing Tradecraft</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/shelld3v/PwnVPN">shelld3v/PwnVPN</a></td>
         <td>The best exploitation tool for SSL VPN 0day vulnerabilities</td>
     </tr>
