@@ -1039,6 +1039,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>A User Impersonation tool - via Token or Shellcode injection</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/sailay1996/SpoolTrigger">sailay1996/SpoolTrigger</a></td>
+        <td>Weaponizing for privileged file writes bugs with PrintNotify Service</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/ShutdownRepo/ShadowCoerce">ShutdownRepo/ShadowCoerce</a></td>
         <td>MS-FSRVP coercion abuse PoC</td>
     </tr>
