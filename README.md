@@ -1246,6 +1246,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>A honey token manager and alert system for AWS.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/sbasu7241/AWS-Threat-Simulation-and-Detection">sbasu7241/AWS-Threat-Simulation-and-Detection</a></td>
+        <td>Playing around with Stratus Red Team (Cloud Attack simulation tool) and SumoLogic</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/swimlane/CLAW">swimlane/CLAW</a></td>
         <td>A packer utility to create and capture DFIR Image for use AWS & Azure</td>
     </tr>
