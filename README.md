@@ -1697,6 +1697,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td><a href="https://github.com/intezer/linux-explorer">intezer/linux-explorer</a></td>
         <td>Easy-to-use live forensics toolbox for Linux endpoints</td>
     </tr>
+    <tr>
+        <td><a href="https://github.com/invictus-ir/Microsoft-365-Extractor-Suite">invictus-ir/Microsoft-365-Extractor-Suite</a></td>
+        <td>A set of PowerShell scripts that allow for complete and reliable acquisition of the Microsoft 365 Unified Audit Log</td>
+    </tr>
    <tr>
         <td><a href="https://github.com/Invoke-IR/ACE">Invoke-IR/ACE</a></td>
         <td>The Automated Collection and Enrichment (ACE) platform is a suite of tools for threat hunters to collect data from many endpoints in a network and automatically enrich the data. The data is collected by running scripts on each computer without installing any software on the target. ACE supports collecting from Windows, macOS, and Linux hosts.</td>
