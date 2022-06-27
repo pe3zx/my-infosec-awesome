@@ -1023,6 +1023,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>SpoolSystem is a CNA script for Cobalt Strike which uses the Print Spooler named pipe impersonation trick to gain SYSTEM privileges.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/NorthwaveSecurity/kernel-mii">NorthwaveSecurity/kernel-mii</a></td>
+        <td>Cobalt Strike (CS) Beacon Object File (BOF) foundation for kernel exploitation using CVE-2021-21551.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/ollypwn/Certipy">ollypwn/Certipy</a></td>
         <td>Python implementation for Active Directory certificate abuse</td>
     </tr>
