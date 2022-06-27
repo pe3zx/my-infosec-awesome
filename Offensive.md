@@ -2325,6 +2325,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Retrieve LAPS password from LDAP</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/topotam/PetitPotam">topotam/PetitPotam</a></td>
+        <td>PoC tool to coerce Windows hosts to authenticate to other machines via MS-EFSRPC EfsRpcOpenFileRaw or other functions.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/treebuilder/aad-sso-enum-brute-spray">treebuilder/aad-sso-enum-brute-spray</a></td>
         <td>POC of SecureWorks' recent Azure Active Directory password brute-forcing vuln</td>
     </tr>
