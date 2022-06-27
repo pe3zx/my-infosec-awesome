@@ -2196,6 +2196,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>WMkick is a TCP protocol redirector/MITM tool that targets NTLM authentication message flows in WMI (135/tcp) and Powershell-Remoting/WSMan/WinRM (5985/tcp) to capture NetNTLMv2 hashes.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/leechristensen/SpoolSample">leechristensen/SpoolSample</a></td>
+        <td>PoC tool to coerce Windows hosts authenticate to other machines via the MS-RPRN RPC interface. This is possible via other protocols as well.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/Luct0r/KerberOPSEC">Luct0r/KerberOPSEC</a></td>
         <td>OPSEC safe Kerberoasting in C#</td>
     </tr>
@@ -2307,6 +2311,10 @@ Some tools can be categorized in more than one category. But because the current
     <tr>
         <td><a href="https://github.com/shantanu561993/SharpLoginPrompt">shantanu561993/SharpLoginPrompt</a></td>
         <td>This Program creates a login prompt to gather username and password of the current user. This project allows red team to phish username and password of the current user without touching lsass and having adminitrator credentials on the system.</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/ShutdownRepo/ShadowCoerce">ShutdownRepo/ShadowCoerce</a></td>
+        <td></td>
     </tr>
     <tr>
         <td><a href="https://github.com/ShutdownRepo/smartbrute">ShutdownRepo/smartbrute</a></td>
