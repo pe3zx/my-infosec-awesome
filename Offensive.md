@@ -2356,6 +2356,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Custom implementation of DbgHelp's MiniDumpWriteDump function. Uses static syscalls to replace low-level functions like NtReadVirtualMemory.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/Wh04m1001/DFSCoerce">Wh04m1001/DFSCoerce</a></td>
+        <td>PoC for MS-DFSNM coerce authentication using NetrDfsRemoveStdRoot and NetrDfsAddStdRoot (found by @xct_de) methods.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/Wra7h/SharpGhosting">Wra7h/SharpGhosting</a></td>
         <td>Process Ghosting in C#</td>
     </tr>
