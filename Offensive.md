@@ -315,6 +315,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Fileless attack with persistence</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/ByPassAVTeam/ShellcodeLoader">ByPassAVTeam/ShellcodeLoader</a></td>
+        <td>该项目为Shellocde加载器，详细介绍了我们如何绕过防病毒软件，以及该工具如何使用</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/ByteJunkies-co-uk/Metsubushi">ByteJunkies-co-uk/Metsubushi</a></td>
         <td>Generate droppers with encrypted payloads automatically.</td>
     </tr>
