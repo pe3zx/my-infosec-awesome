@@ -1092,6 +1092,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>ELF packer/crypter that aims to create hardened and stealthy troyans</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/0xsp-SRD/callback_injection-Csharp">0xsp-SRD/callback_injection-Csharp</a></td>
+        <td>this repo is to cover the other undocumented or published / in different langaue to achieve shellcode injection via windows callback functions</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/0xZDH/redirect.rules">0xZDH/redirect.rules</a></td>
         <td>Quick and dirty dynamic redirect.rules generator</td>
     </tr>
