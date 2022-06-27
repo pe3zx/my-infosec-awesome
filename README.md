@@ -3015,6 +3015,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>An extensible network forensic analysis framework. Enables rapid development of plugins to support the dissection of network packet captures.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/ValtteriL/UPnProxyChain">ValtteriL/UPnProxyChain</a></td>
+        <td>A tool to create a SOCKS proxy server out of UPnProxy vulnerable device(s).</td>
+    </tr>
+    <tr>
         <td><a href="https://wigle.net/">WiGLE</a></td>
         <td>Maps and database of 802.11 wireless networks, with statistics, submitted by wardrivers, netstumblers, and net huggers.</td>
     </tr>
