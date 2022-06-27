@@ -1450,6 +1450,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>RDP Bitmap Cache Parser</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/ANSSI-FR/DFIR4vSphere">ANSSI-FR/DFIR4vSphere</a></td>
+        <td>Powershell module for VMWare vSphere forensics</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/ANSSI-FR/DFIR-O365RC">ANSSI-FR/DFIR-O365RC</a></td>
         <td>PowerShell module for Office 365 and Azure AD log collection</td>
     </tr>
