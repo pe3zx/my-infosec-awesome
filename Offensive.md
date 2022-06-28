@@ -885,6 +885,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>A tool to help automate common persistence mechanisms. Currently supports Print Monitor (SYSTEM), Time Provider (Network Service), Start folder shortcut hijacking (User), and Junction Folder (User)</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/improsec/SharpEventPersist">improsec/SharpEventPersist</a></td>
+        <td>Persistence by writing/reading shellcode from Event Log</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/netero1010/ScheduleRunner">netero1010/ScheduleRunner</a></td>
         <td>A C# tool with more flexibility to customize scheduled task for both persistence and lateral movement in red team operation</td>
     </tr>
