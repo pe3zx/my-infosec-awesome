@@ -2238,6 +2238,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Malwoverview.py is a simple tool to perform an initial and quick triage on either a directory containing malware samples or a specific malware sample</td>
     </tr>
     <tr>
+        <td><a href="https://androscope.fortinet-cse.com/">Androscope</a></td>
+        <td>the Android Malware Microscope</td>
+    </tr>
+    <tr>
         <td><a href="https://cse.google.com/cse/publicurl?cx=003248445720253387346:turlh5vi4xc">APT Groups, Operations and Malware Search Engine</td>
         <td>APT Groups, Operations and Malware Search Engine</td>
     </tr>
