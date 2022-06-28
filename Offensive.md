@@ -1729,6 +1729,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Hide your Powershell script in plain sight. Bypass all Powershell security features</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/optiv/Mangle">optiv/Mangle</a></td>
+        <td>Mangle is a tool that manipulates aspects of compiled executables (.exe or DLL) to avoid detection from EDRs</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/optiv/ScareCrow">optiv/ScareCrow</a></td>
         <td>ScareCrow - Payload creation framework designed around EDR bypass.</td>
     </tr>
