@@ -2748,6 +2748,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>YaraDbg is a free web-based Yara debugger to help security analysts to write hunting or detection rules with less effort and more confidence.</td>
     </tr>
     <tr>
+        <td><a href="https://yaraify.abuse.ch/">YARAify</a></td>
+        <td>YARAify is a project from abuse.ch that allows anyone to scan suspicious files such as malware samples or process dumps against a large repository of YARA rules. With YARAhub, the platform also provides a structured way for sharing YARA rules with the community.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/zerofox-oss/phishpond">zerofox-oss/phishpond</a></td>
         <td>Because phishtank was taken.. explore phishing kits in a contained environment!</td>
     </tr>
