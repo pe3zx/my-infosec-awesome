@@ -1319,6 +1319,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Use ICMLuaUtil to Bypass UAC!</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/countercept/CallStackSpoofer">countercept/CallStackSpoofer</a></td>
+        <td>A PoC implementation for spoofing arbitrary call stacks when making sys calls (e.g. grabbing a handle via NtOpenProcess)</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/Cracked5pider/KaynLdr">Cracked5pider/KaynLdr</a></td>
         <td>KaynLdr is a Reflective Loader written in C/ASM</td>
     </tr>
