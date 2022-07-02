@@ -3676,6 +3676,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>SmartBugs: A Framework to Analyze Solidity Smart Contracts</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/SunWeb3Sec/DeFiHackLabs">SunWeb3Sec/DeFiHackLabs</a></td>
+        <td>Reproduce DeFi hack incidents using Foundry.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/SunWeb3Sec/DeFiVulnLabs">SunWeb3Sec/DeFiVulnLabs</a></td>
         <td>To learn common smart contract vulnerabilities using Foundry!</td>
     </tr>
