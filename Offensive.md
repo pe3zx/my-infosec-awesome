@@ -487,6 +487,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Generate CobaltStrike's cross-platform payload</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/h3xduck/TripleCross">h3xduck/TripleCross</a></td>
+        <td>A Linux eBPF rootkit with a backdoor, C2, library injection, execution hijacking, persistence and stealth capabilities.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/hausec/MaliciousClickOnceMSBuild">hausec/MaliciousClickOnceMSBuild</a></td>
         <td>Basic C# Project that will take an MSBuild payload and run it with MSBuild via ClickOnce.</td>
     </tr>
