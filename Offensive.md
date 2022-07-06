@@ -2043,6 +2043,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Another LSASS dumping tool that uses a dynamically compiled LSA plugin to grab an lsass handle and API hooking for capturing the dump in memory</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/citronneur/pamspy">citronneur/pamspy</a></td>
+        <td>Credentials Dumper for Linux using eBPF</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/codewhitesec/HandleKatz">codewhitesec/HandleKatz</a></td>
         <td>PIC lsass dumper using cloned handles</td>
     </tr>
