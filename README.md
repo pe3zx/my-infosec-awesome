@@ -1950,6 +1950,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Sysmon For Linux install and build instructions</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/tap-ir/tapir">tap-ir/tapir</a></td>
+        <td>TAPIR is a multi-user, client/server, incident response framework</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/tclahr/uac">tclahr/uac</a></td>
         <td>UAC (Unix-like Artifacts Collector) is a Live Response collection tool for Incident Reponse that makes use of built-in tools to automate the collection of Unix-like systems artifacts. Supported systems: AIX, FreeBSD, Linux, macOS, NetBSD, Netscaler, OpenBSD and Solaris.</td>
     </tr>
