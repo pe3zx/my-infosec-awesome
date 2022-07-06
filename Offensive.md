@@ -1090,6 +1090,10 @@ Some tools can be categorized in more than one category. But because the current
         <td><a href="https://github.com/WazeHell/sam-the-admin">WazeHell/sam-the-admin</a></td>
         <td>Exploiting CVE-2021-42278 and CVE-2021-42287 to impersonate DA from standard domain user</td>
     </tr>
+    <tr>
+        <td><a href="https://github.com/winterknife/PINKPANTHER">winterknife/PINKPANTHER</a></td>
+        <td>Windows x64 handcrafted token stealing kernel-mode shellcode</td>
+    </tr>
 </table>
 
 ## Defense Evasion
