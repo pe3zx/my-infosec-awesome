@@ -2522,6 +2522,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Fileless lateral movement tool that relies on ChangeServiceConfigA to run command</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/netero1010/RDPHijack-BOF">netero1010/RDPHijack-BOF</a></td>
+        <td>Cobalt Strike Beacon Object File (BOF) that uses WinStationConnect API to perform local/remote RDP session hijacking.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/netero1010/ServiceMove-BOF">netero1010/ServiceMove-BOF</a></td>
         <td>New lateral movement technique by abusing Windows Perception Simulation Service to achieve DLL hijacking code execution.</td>
     </tr>
