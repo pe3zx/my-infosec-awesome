@@ -3051,6 +3051,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>A tool to create a SOCKS proxy server out of UPnProxy vulnerable device(s).</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/vincentbernat/akvorado">vincentbernat/akvorado</a></td>
+        <td>Flow collector, hydrater and visualizer</td>
+    </tr>
+    <tr>
         <td><a href="https://wigle.net/">WiGLE</a></td>
         <td>Maps and database of 802.11 wireless networks, with statistics, submitted by wardrivers, netstumblers, and net huggers.</td>
     </tr>
@@ -3618,6 +3622,10 @@ This repository is created as an online bookmark for useful links, resources and
     <tr>
         <td><a href="https://github.com/crytic/slither">crytic/slither</a></td>
         <td>Static Analyzer for Solidity</td>
+    </tr>
+    <tr>
+        <td><a href="https://www.damnvulnerabledefi.xyz/">Damn Vulnerable DeFi</a></td>
+        <td>Damn Vulnerable DeFi is the wargame to learn offensive security of DeFi smart contracts.</td>
     </tr>
     <tr>
         <td><a href="https://github.com/ethereum-lists/contracts">ethereum-lists/contracts</a></td>
