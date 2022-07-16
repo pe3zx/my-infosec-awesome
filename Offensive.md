@@ -91,6 +91,10 @@ Some tools can be categorized in more than one category. But because the current
             from both offensive and defensive security perspectives.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/Group3r/Group3r">Group3r/Group3r</a></td>
+        <td>Find vulnerabilities in AD Group Policy, but do it better than Grouper2 did.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/jaredhaight/scout">jaredhaight/scout</a></td>
         <td>A .NET assembly for performing recon against hosts on a network</td>
     </tr>
