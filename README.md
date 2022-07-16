@@ -825,6 +825,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Library to Instrument Executable Formats</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/loov/lensm">loov/lensm</a></td>
+        <td>Go assembly and source viewer</td>
+    </tr>
+    <tr>
         <td><a href="https://maat.re/index.html">Maat</a></td>
         <td>Maat is an open-source symbolic execution framework that can be used for binary analysis, reverse-engineering, and vulnerability research.</td>
     </tr>
