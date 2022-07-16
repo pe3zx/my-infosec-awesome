@@ -2317,6 +2317,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>NoMAD Credentials Stealer</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/RedTeamPentesting/pretender">RedTeamPentesting/pretender</a></td>
+        <td>Your MitM sidekick for relaying attacks featuring DHCPv6 DNS takeover as well as mDNS, LLMNR and NetBIOS-NS spoofing.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/rvrsh3ll/SharpEdge">rvrsh3ll/SharpEdge</a></td>
         <td>C# Implementation of Get-VaultCredential</td>
     </tr>
