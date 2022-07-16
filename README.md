@@ -697,6 +697,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Windows memory hacking library</td>
     </tr>
     <tr>
+        <td><a href="https://dogbolt.org/">Decompiler Explorer</a></td>
+        <td>This is the Decompiler Explorer! It is an interactive online decompiler which shows equivalent C-like output of decompiled programs from many popular decompilers. It's meant to be the reverse of the amazing Compiler Explorer.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/dr4k0nia/Unscrambler">dr4k0nia/Unscrambler</a></td>
         <td>Universal unpacker and fixer for a number of modded ConfuserEx protections</td>
     </tr>
