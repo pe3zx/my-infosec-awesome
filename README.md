@@ -363,10 +363,6 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Hetty is an HTTP toolkit for security research. It aims to become an open source alternative to commercial software like Burp Suite Pro, with powerful features tailored to the needs of the infosec and bug bounty community.</td>
     </tr>
     <tr>
-        <td><a href="https://github.com/EmYiQing/Gososerial">EmYiQing/Gososerial</a></td>
-        <td>Dynamically Generates Ysoserial's Payload by Golang</td>
-    </tr>
-    <tr>
         <td><a href="https://github.com/facebook/pyre-check/">facebook/pyre-check/</a></td>
         <td>Performant type-checking for python.</td>
     </tr>
