@@ -2846,6 +2846,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Running Cobalstrike Teamserver as a Service</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/wikiZ/RedGuard">wikiZ/RedGuard</a></td>
+        <td>RedGuard is a C2 front flow control tool,Can avoid Blue Teams,AVs,EDRs check.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/X-C3LL/wfp-reader">X-C3LL/wfp-reader</a></td>
         <td>Proof of concept - Covert Channel using Windows Filtering Platform (C#)</td>
     </tr>
