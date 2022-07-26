@@ -1625,6 +1625,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Infection vector that bypasses AV, IDS, and IPS. (For now...)</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/last-byte/RIPPL">last-byte/RIPPL</a></td>
+        <td>RIPPL is a tool that abuses a usermode only exploit to manipulate PPL processes on Windows</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/last-byte/unDefender">last-byte/unDefender</a></td>
         <td>Killing your preferred antimalware by abusing native symbolic links and NT paths.</td>
     </tr>
