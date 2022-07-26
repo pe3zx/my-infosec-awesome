@@ -1866,6 +1866,10 @@ This repository is created as an online bookmark for useful links, resources and
 		<td>An open source framework for enterprise level automated analysis.</td>
 	</tr>
     <tr>
+        <td><a href="https://pulsar.sh/">PULSAR</a></td>
+        <td>Pulsar is a powerful, blazing fast runtime security observability framework designed for the IoT.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/PwC-IR/Office-365-Extractor">PwC-IR/Office-365-Extractor</a></td>
         <td>The Office 365 Extractor is a tool that allows for complete and reliable extraction of the Unified Audit Log (UAL)</td>
     </tr>
