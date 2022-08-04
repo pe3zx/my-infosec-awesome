@@ -1618,6 +1618,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Extracting IoC data from eMail</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/elastic/protections-artifacts">elastic/protections-artifacts</a></td>
+        <td>Elastic Security detection content for Endpoint</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/emalderson/ThePhish">emalderson/ThePhish</a></td>
         <td>ThePhish: an automated phishing email analysis tool</td>
     </tr>
