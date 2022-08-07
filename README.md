@@ -3825,6 +3825,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Kubernetes Goat is "Vulnerable by Design" Kubernetes Cluster. Designed to be an intentionally vulnerable cluster environment to learn and practice Kubernetes security.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/mandiant/Azure_Workshop">mandiant/Azure_Workshop</a></td>
+        <td>Azure Red Team Attack and Detect Workshop</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/nccgroup/sadcloud">nccgroup/sadcloud</a></td>
         <td>A tool for standing up (and tearing down!) purposefully insecure cloud infrastructure</td>
     </tr>
