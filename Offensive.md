@@ -1449,6 +1449,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Phantom DLL hollowing PoC</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/frkngksl/NimicStack">frkngksl/NimicStack</a></td>
+        <td>NimicStack is the pure Nim implementation of Call Stack Spoofing technique to mimic legitimate programs</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/GetRektBoy724/HalosUnhooker">GetRektBoy724/HalosUnhooker</a></td>
         <td>Halos Gate-based NTAPI Unhooker</td>
     </tr>
