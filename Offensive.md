@@ -1529,6 +1529,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Run Powershell without software restrictions.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/janoglezcampos/DeathSleep">janoglezcampos/DeathSleep</a></td>
+        <td>A PoC implementation for an evasion technique to terminate the current thread and restore it before resuming execution, while implementing page protection changes during no execution.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/jason-klein/signed-nsis-exe-append-payload">jason-klein/signed-nsis-exe-append-payload</a></td>
         <td>Append a custom data payload to a digitally signed NSIS .exe installer</td>
     </tr>
