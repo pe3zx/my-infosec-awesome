@@ -1574,6 +1574,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>ETWProcessMon2 is for Monitoring Process/Thread/Memory/Imageloads/TCPIP via ETW + Detection for Remote-Thread-Injection etc.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/DataDog/threatest">DataDog/threatest</a></td>
+        <td>Threatest is a Go framework for end-to-end testing threat detection rules.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/davehull/Kansa">davehull/Kansa</a></td>
         <td>A Powershell incident response framework</td>
     </tr>
