@@ -2145,6 +2145,10 @@ Some tools can be categorized in more than one category. But because the current
             gentilkiwi GitHub repo, runtime patches signatures and uses SharpSploit DInvoke to PE-Load into memory.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/Flangvik/TeamFiltration">Flangvik/TeamFiltration</a></td>
+        <td>TeamFiltration is a cross-platform framework for enumerating, spraying, exfiltrating, and backdooring O365 AAD accounts</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/FSecureLABS/physmem2profit">FSecureLABS/physmem2profit </a></td>
         <td>Physmem2profit can be used to create a minidump of a target hosts' LSASS process by analysing physical
             memory remotely</td>
