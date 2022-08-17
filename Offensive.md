@@ -893,6 +893,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Windows persistence toolkit written in C#.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/FortyNorthSecurity/PersistAssist">FortyNorthSecurity/PersistAssist</a></td>
+        <td>Fully modular persistence framework</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/IcebreakerSecurity/PersistBOF">IcebreakerSecurity/PersisBOF</a></td>
         <td>A tool to help automate common persistence mechanisms. Currently supports Print Monitor (SYSTEM), Time Provider (Network Service), Start folder shortcut hijacking (User), and Junction Folder (User)</td>
     </tr>
