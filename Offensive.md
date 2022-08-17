@@ -1150,6 +1150,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>PoC: Rebuild A New Path Back to the Heaven's Gate (HITB 2021)</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/AdrianVollmer/PowerHub">AdrianVollmer/PowerHub</a></td>
+        <td>A post exploitation tool based on a web application, focusing on bypassing endpoint protection and application whitelisting</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/Aetsu/OffensivePipeline">Aetsu/OffensivePipeline</a></td>
         <td>OffensivePipeline allows to download, compile (without Visual Studio) and obfuscate C# tools for Red Team exercises.</td>
     </tr>
