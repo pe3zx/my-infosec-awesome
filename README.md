@@ -625,6 +625,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>API tracing and argument dumping to ease reverse engineering .NET malware.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/advanced-threat-research/DotDumper">advanced-threat-research/DotDumper</a></td>
+        <td>An automatic unpacker and logger for DotNet Framework targeting files</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/Air14/HyperHide">Air14/HyperHide</a></td>
         <td>Hypervisor based anti anti debug plugin for x64dbg</td>
     </tr>
