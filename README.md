@@ -452,7 +452,11 @@ This repository is created as an online bookmark for useful links, resources and
         <td>It's Web Interface to generate payload using various deserialization exploitation framework</td>
     </tr>
     <tr>
-        <td><a href="https://deps.dev/">Open Source Insights</a></td>
+        <td><a href="https://github.com/noqcks/xeol">noqcks/xeol</a></td>
+        <td>Xeol is a scanner for End Of Life (EOL) packages in container images, systems, and SBOMs</td>
+    </tr>
+    <tr>
+        <td><a href="https://deps.dev/">  Insights</a></td>
         <td>Open Source Insights is an experimental service developed and hosted by Google to help developers better understand the structure, construction, and security of open source software packages.</td>
     </tr>
     <tr>
