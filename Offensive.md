@@ -2686,6 +2686,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Tool to download, install, and run macOS capable command & control servers (i.e., C2s with macOS payloads/clients) as docker containers from a list of options. This is helpful for automating C2 server setup.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/chvancooten/NimPlant">chvancooten/NimPlant</a></td>
+        <td>A light-weight first-stage C2 implant written in Nim.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/cobbr/C2Bridge">cobbr/C2Bridge</a></td>
         <td>C2Bridges allow developers to create new custom communication protocols and quickly utilize them within Covenant.</td>
     </tr>
