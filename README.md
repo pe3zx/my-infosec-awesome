@@ -391,10 +391,6 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Find Bugs and Zero-day Vulnerabilities Quickly</td>
     </tr>
     <tr>
-        <td><a href="https://huntersuite.io/">HunterSuite</a></td>
-        <td>HunterSuite is the next generation offensive security suite. It will automate all the tedious tasks during a test just with few clicks. If you are a penetration tester, red teamer, bug bounty hunter, or you work as an offensive security engineer, you will love what HunterSuite has to offer.</td>
-    </tr>
-    <tr>
         <td><a href="https://illuminatejs.geeksonsecurity.com/">IlluminateJs</a></td>
         <td>IlluminateJs is a static javascript analysis engine (a deobfuscator so to say) aimed to help analyst understand obfuscated and potentially malicious JavaScript Code.</td>
     </tr>
@@ -598,10 +594,6 @@ This repository is created as an online bookmark for useful links, resources and
     <tr>
         <td><a href="https://github.com/wagoodman/dive">wagoodman/dive</a></td>
         <td>A tool for exploring each layer in a docker image</td>
-    </tr>
-    <tr>
-        <td><a href="https://docs.wpdc.org/">wpdc</a></td>
-        <td>Detect malicious dependencies, magecart, malvertising, and more on your web properties!</td>
     </tr>
     <tr>
         <td><a href="https://github.com/xmendez/wfuzz">xmendez/wfuzz</a></td>
@@ -1930,10 +1922,6 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Catalyst is a SOAR system that helps to automate alert handling and incident response processes</td>
     </tr>
     <tr>
-        <td><a href="https://github.com/SeAdvisors/dredd">SecurityRiskAdvisors/dredd</a></td>
-        <td>Automated detection rule analysis utility</td>
-    </tr>
-    <tr>
         <td><a href="https://github.com/SecurityRiskAdvisors/TALR">SecurityRiskAdvisors/TALR</a></td>
         <td>Threat Alert Logic Repository (TALR) - A public repository for the collection and sharing of detection rules in platform agnostic formats. Collected rules are appended with STIX required fields for simplified sharing over TAXII servers.</td>
     </tr>
@@ -2358,11 +2346,6 @@ This repository is created as an online bookmark for useful links, resources and
         <td>DAS MALWERK - your one stop shop for fresh malware samples</td>
     </tr>
     <tr>
-        <td><a href="https://gist.github.com/devnullz/55badd7f77b7a40db28b19d29bf79db6">devnullz/app_any_run_conf_audit.ps1</a></td>
-        <td>Quick and Dirty script for defenders to prepare @anyrun_app sandbox (cmdline and powerhell logging, #windows extended audit, #sysmon) and grab that logs after #malware execution for additional analysis. @rimpq
-</td>
-    </tr>
-    <tr>
         <td><a href="https://github.com/DoctorWebLtd/malware-iocs">DoctorWebLtd/malware-iocs</a></td>
         <td>This repository contains Indicators of Compromise (IOCs) related to our investigations.</td>
     </tr>
@@ -2542,10 +2525,6 @@ This repository is created as an online bookmark for useful links, resources and
    <tr>
         <td><a href="https://github.com/maliceio/malice">maliceio/malice</a></td>
         <td>Malice's mission is to be a free open source version of VirusTotal that anyone can use at any scale from an independent researcher to a fortune 500 company.</td>
-    </tr>
-    <tr>
-        <td><a href="https://malpedia.caad.fkie.fraunhofer.de/">Malpedia</a></td>
-        <td>The primary goal of Malpedia is to provide a resource for rapid identification and actionable context when investigating malware. Openness to curated contributions shall ensure an accountable level of quality in order to foster meaningful and reproducible research.</td>
     </tr>
     <tr>
         <td><a href="https://malshare.com/">MalShare</a></td>
@@ -2791,10 +2770,6 @@ This repository is created as an online bookmark for useful links, resources and
         <td><a href="https://github.com/zerofox-oss/phishpond">zerofox-oss/phishpond</a></td>
         <td>Because phishtank was taken.. explore phishing kits in a contained environment!</td>
     </tr>
-	<tr>
-		<td><a href="https://github.com/zerosum0x0/smbdoor">zerosum0x0/smbdoor</a></td>
-		<td>kernel backdoor via registering a malicious SMB handler</td>
-	</tr>
 </table>
 
 ## Mobile Security
@@ -2807,10 +2782,6 @@ This repository is created as an online bookmark for useful links, resources and
     <tr>
         <td><a href="https://github.com/ac-pm/Inspeckage">ac-pm/Inspeckage</a></td>
         <td>Android Package Inspector - dynamic analysis with api hooks, start unexported activities and more. (Xposed Module)</td>
-    </tr>
-    <tr>
-        <td><a href="https://air.line.me/air/product#tab_airgo">AIR GO</a></td>
-        <td>AIR GO detects obfuscation, vulnerabilities, open-source license issues, and malware by analyzing mobile apps and websites. It uses industry-leading technology to detect security threats and provide an improvement plan.</td>
     </tr>
     <tr>
         <td><a href="https://www.apkdetect.com/">apkdetect</a></td>
@@ -3510,10 +3481,6 @@ This repository is created as an online bookmark for useful links, resources and
         <td><a href="https://github.com/kgretzky/evilginx2">kgretzky/evilginx2</a></td>
         <td>Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication</td>
     </tr>
-    <tr>
-        <td><a href="https://mailsploit.pwnsdx.com/index">Mailsploit</a></td>
-        <td>TL;DR: Mailsploit is a collection of bugs in email clients that allow effective sender spoofing and code injection attacks. The spoofing is not detected by Mail Transfer Agents (MTA) aka email servers, therefore circumventing spoofing protection mechanisms such as DMARC (DKIM/SPF) or spam filters.</td>
-    </tr>
 	<tr>
 		<td><a href="https://github.com/mdsecactivebreach/o365-attack-toolkit">mdsecactivebreach/o365-attack-toolkit</a></td>
 		<td>o365-attack-toolkit allows operators to perform an OAuth phishing attack and later on use the Microsoft Graph API to extract interesting information.</td>
@@ -3666,10 +3633,6 @@ This repository is created as an online bookmark for useful links, resources and
     <tr>
         <td><a href="https://eth.build/">ETH.Build</a></td>
         <td>An Educational Sandbox For Web3... And Much More.</td>
-    </tr>
-    <tr>
-        <td><a href="https://monitor.blocksecteam.com/flashloan/">flashloan-monitor</a></td>
-        <td>BlockSec Flashloan Monitor</td>
     </tr>
     <tr>
         <td><a href="https://github.com/fravoll/solidity-patterns">fravoll/solidity-patterns</a></td>
