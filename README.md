@@ -1154,6 +1154,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>A proxy for AWS's metadata service that gives out scoped IAM credentials from STS</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/Macmod/STARS">Macmod/STARS</a></td>
+        <td>A multi-cloud DNS record scanner that aims to help cybersecurity/IT analysts identify dangling CNAME records in their cloud DNS services that could possibly lead to subdomain takeover scenarios.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/mgeeky/AzureRT">mgeeky/AzureRT</a></td>
         <td>AzureRT - A Powershell module implementing various Azure Red Team tactics</td>
     </tr>
