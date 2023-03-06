@@ -2546,6 +2546,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Maximizing BloodHound. Max is a good boy.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/mdsecactivebreach/DragonCastle">mdsecactivebreach/DragonCastle</a></td>
+        <td>A PoC that combines AutodialDLL lateral movement technique and SSP to scrape NTLM hashes from LSASS process.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/mez-0/CSharpWinRM">mez-0/CSharpWinRM</a></td>
         <td>.NET 4.0 WinRM API Command Execution</td>
     </tr>
