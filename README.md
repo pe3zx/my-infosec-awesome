@@ -701,6 +701,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Universal unpacker and fixer for a number of modded ConfuserEx protections</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/e-m-b-a/emba">e-m-b-a/emba</a></td>
+        <td>EMBA - The firmware security analyzer</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/endgameinc/xori">endgameinc/xori</a></td>
         <td>Xori is an automation-ready disassembly and static analysis library for PE32, 32+ and shellcode</td>
     </tr>
