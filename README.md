@@ -387,10 +387,6 @@ This repository is created as an online bookmark for useful links, resources and
         <td>weggli is a fast and robust semantic search tool for C and C++ codebases. It is designed to help security researchers identify interesting functionality in large codebases.</td>
     </tr>
     <tr>
-        <td><a href="https://www2.guardara.com/">Guardara</a></td>
-        <td>Find Bugs and Zero-day Vulnerabilities Quickly</td>
-    </tr>
-    <tr>
         <td><a href="https://illuminatejs.geeksonsecurity.com/">IlluminateJs</a></td>
         <td>IlluminateJs is a static javascript analysis engine (a deobfuscator so to say) aimed to help analyst understand obfuscated and potentially malicious JavaScript Code.</td>
     </tr>
