@@ -2884,7 +2884,7 @@ This repository is created as an online bookmark for useful links, resources and
         <td>An Obfuscation-Neglect Android Malware Scoring System</td>
     </tr>
     <tr>
-        <td><a href="https://github.com/RealityNet/kobackupdechttps://github.com/RealityNet/kobackupdec">RealityNet/kobackupdec</a></td>
+        <td><a href="https://github.com/RealityNet/kobackupdec">RealityNet/kobackupdec</a></td>
         <td>Huawei backup decryptor</td>
     </tr>
     <tr>
@@ -3393,10 +3393,6 @@ This repository is created as an online bookmark for useful links, resources and
         <td>GoCrack provides APIs to manage password cracking tasks across supported cracking engines.</td>
     </tr>
     <tr>
-        <td><a href="https://hashmob.net/">Hashmob</a></td>
-        <td>Password Recovery Community</td>
-    </tr>
-    <tr>
         <td><a href="https://github.com/JoelGMSec/Cloudtopolis">JoelGMSec/Cloudtopolis</a></td>
         <td>Zero Infrastructure Password Cracking</td>
     </tr>
@@ -3544,14 +3540,6 @@ This repository is created as an online bookmark for useful links, resources and
     <tr>
         <td><a href="https://github.com/secureworks/PhishInSuits">secureworks/PhishInSuits</a></td>
         <td>PhishInSuits: OAuth Device Code Phishing with Verified Apps</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/thelinuxchoice/blackeye">thelinuxchoice/blackeye</a></td>
-        <td>The most complete Phishing Tool, with 32 templates +1 customizable</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/thelinuxchoice/shellphish">thelinuxchoice/shellphish</a></td>
-        <td>Phishing Tool for 18 social media: Instagram, Facebook, Snapchat, Github, Twitter, Yahoo, Protonmail, Spotify, Netflix, Linkedin, Wordpress, Origin, Steam, Microsoft, InstaFollowers, Gitlab, Pinterest</td>
     </tr>
     <tr>
         <td><a href="https://github.com/threatexpress/domainhunter">threatexpress/domainhunter</a></td>
