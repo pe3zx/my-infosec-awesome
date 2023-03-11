@@ -741,6 +741,10 @@ This repository is created as an online bookmark for useful links, resources and
 	    <td>A machine learning tool that ranks strings based on their relevance for malware analysis.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/fkie-cad/FACT_core">fkie-cad/FACT_core</a></td>
+        <td>Firmware Analysis and Comparison Tool</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/forrest-orr/moneta">forrest-orr/moneta</a></td>
         <td>Moneta is a live usermode memory analysis tool for Windows with the capability to detect malware IOCs</td>
     </tr>
