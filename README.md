@@ -3667,6 +3667,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Smart contract security service for Ethereum</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/nascentxyz/pyrometer">nascentxyz/pyrometer</a></td>
+        <td>A tool for analyzing the security and parameters of a solidity smart contract</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/nccgroup/GOATCasino">nccgroup/GOATCasino</a></td>
         <td>This is an intentionally vulnerable smart contract truffle deployment aimed at allowing those interested in smart contract security to exploit a wide variety of issues in a safe environment.</td>
     </tr>
