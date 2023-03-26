@@ -1054,6 +1054,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Sparrow.ps1 was created by CISA's Cloud Forensics team to help detect possible compromised accounts and applications in the Azure/m365 environment.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/cisagov/untitledgoosetool">cisagov/untitledgoosetool</a></td>
+        <td>Untitled Goose Tool is a robust and flexible hunt and incident response tool that adds novel authentication and data gathering methods in order to run a full investigation against a customer’s Azure Active Directory (AzureAD), Azure, and M365 environments.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/cloud-sniper/cloud-sniper">cloud-sniper/cloud-sniper</a></td>
         <td>Cloud Security Operations Orchestrator</td>
     </tr>
