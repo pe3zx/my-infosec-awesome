@@ -2233,6 +2233,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td><b>Description</b></td>
     </tr>
     <tr>
+        <td><a href="https://github.com/Theldus/bread">Theldus/bread</a></td>
+        <td>🍞 BREAD: BIOS Reverse Engineering & Advanced Debugging</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/tothi/usbgadget-tool">tothi/usbgadget-tool</a></td>
         <td>Dumb USB HID gadget creator for Android (for triggering device driver install on Windows for LPE)</td>
     </tr>
