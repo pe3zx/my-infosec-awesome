@@ -1806,6 +1806,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Identifies physical locations where a laptop has been based upon wireless profiles and wireless data recorded in event logs</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/matanolabs/matano">matanolabs/matano</a></td>
+        <td>Open source cloud-native security lake platform (SIEM alternative) for threat hunting, detection & response, and cybersecurity analytics at petabyte scale on AWS</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/microsoft/avml">microsoft/avml</a></td>
         <td>AVML - Acquire Volatile Memory for Linux</td>
     </tr>
