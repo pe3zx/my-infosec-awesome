@@ -2237,6 +2237,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td><b>Description</b></td>
     </tr>
     <tr>
+        <td><a href="https://github.com/MaximeBeasse/KeyDecoder">MaximeBeasse/KeyDecoder</a></td>
+        <td>KeyDecoder app lets you use your smartphone or tablet to decode your mechanical keys in seconds.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/Theldus/bread">Theldus/bread</a></td>
         <td>🍞 BREAD: BIOS Reverse Engineering & Advanced Debugging</td>
     </tr>
