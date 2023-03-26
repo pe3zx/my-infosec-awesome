@@ -1340,8 +1340,8 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Automatically decode encryptions without a key, decode encodings, and crack hashes</td>
     </tr>
     <tr>
-        <td><a href="https://github.com/corkami/pocs/">corkami/pocs</a></td>
-        <td>Proof of Concepts (PE, PDF...)</td>
+        <td><a href="https://github.com/Demonslay335/CryptoTester">Demonslay335/CryptoTester</a></td>
+        <td>A utility for playing with cryptography, geared towards ransomware analysis.</td>
     </tr>
     <tr>
         <td><a href="https://github.com/mpgn/BEAST-PoC">mpgn/BEAST-PoC</a></td>
