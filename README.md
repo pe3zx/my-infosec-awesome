@@ -885,6 +885,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>A Microsoft Windows service to provide telemetry on Windows executable memory page changes to facilitate threat detection</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/netspooky/scare">netspooky/scare</a></td>
+        <td>A multi-arch assembly REPL and emulator for your command line.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/OALabs/hashdb-ida">OALabs/hashdb-ida</a></td>
         <td>HashDB API hash lookup plugin for IDA Pro</td>
     </tr>
