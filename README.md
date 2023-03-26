@@ -1412,6 +1412,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td><a href="https://github.com/splunk/attack_data">splunk/attack_data</a></td>
         <td>A Repository of curated datasets from various attacks</td>
     </tr>
+    <tr>
+        <td><a href="https://winbindex.m417z.com/">Winbindex</a></td>
+        <td>The Windows Binaries Index</td>
+    </tr>
 </table>
 
 ## Digital Forensics and Incident Response
