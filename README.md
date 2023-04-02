@@ -3820,6 +3820,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>This repository lists most of the challenges used in the Google CTF 2017. The missing challenges are not ready to be open-sourced, or contain third-party code.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/GoSecure/pyrdp">GoSecure/pyrdp</a></td>
+        <td>RDP monster-in-the-middle (mitm) and library for Python with the ability to watch connections live or after the fact</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/kmcquade/owasp-youtube-2021">kmcquade/owasp-youtube-2021</a></td>
         <td>Deliberately vulnerable AWS resources for security assessment demos</td>
     </tr>
