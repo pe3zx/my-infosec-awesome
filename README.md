@@ -3891,4 +3891,8 @@ This repository is created as an online bookmark for useful links, resources and
         <td><a href="https//github.com/vulhub/vulhub">vulhub/vulhub</a></td>
         <td>Pre-Built Vulnerable Environments Based on Docker-Compose</td>
     </tr>
+    <tr>
+        <td><a href="https://github.com/WazeHell/vulnerable-AD">WazeHell/vulnerable-AD</a></td>
+        <td>Create a vulnerable active directory that's allowing you to test most of the active directory attacks in a local lab</td>
+    </tr>
 </table>
