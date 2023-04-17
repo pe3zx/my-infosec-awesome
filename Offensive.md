@@ -970,6 +970,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>RunasCs - Csharp and open version of windows builtin runas.exe</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/BeichenDream/GodPotato">BeichenDream/GodPotato</a></td>
+        <td></td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite">carlospolop/privilege-escalation-awesome-scripts-suite</a>
         </td>
         <td>PEASS - Privilege Escalation Awesome Scripts SUITE (with colors)</td>
