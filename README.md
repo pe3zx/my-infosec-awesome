@@ -296,7 +296,7 @@ This repository is created as an online bookmark for useful links, resources and
     </tr>
     <tr>
         <td><a href="https://developers.google.com/assured-oss">Assured OSS</a></td>
-        <td>https://developers.google.com/assured-oss</td>
+        <td>Improve the security of your software supply chain by incorporating the same trusted open source software (OSS) packages that Google secures and uses into your own developer workflows.</td>
     </tr>
     <tr>
         <td><a href="https://github.com/barrracud4/image-upload-exploits">barrracud4/image-upload-exploits</a></td>
