@@ -2837,6 +2837,10 @@ Some tools can be categorized in more than one category. But because the current
             <td>GRAT2 is a Command and Control (C2) tool written in python3 and the client in .NET 4.5</td>
         </tr>
     <tr>
+        <td><a href="https://github.com/screamz2k/PhoenixC2">screamz2k/PhoenixC2</a></td>
+        <td>Command & Control-Framework created for collaboration in python3</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/sensepost/godoh">sensepost/goDoH</a></td>
         <td>godoh - A DNS-over-HTTPS C2</td>
     </tr>
