@@ -1926,6 +1926,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>FalconEye: Real-time detection software for Windows process injections</td>
     </tr>
     <tr>
+        <td><a href="https://redcanary.com/blog/mac-monitor/">Red Canary Mac Monitor</a></td>
+        <td>Red Canary Mac Monitor is a feature-rich dynamic analysis tool for macOS that leverages our extensive understanding of the platform and Apple’s latest APIs to collect and present relevant security events.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/refractionPOINT/limacharlie">refractionPOINT/limacharlie</a></td>
         <td>LC is an Open Source, cross-platform (Windows, MacOS, Linux ++), realtime Endpoint Detection and Response sensor. The extra-light sensor, once installed on a system provides Flight Data Recorder type information (telemetry on all aspects of the system like processes, DNS, network IO, file IO etc).</td>
     </tr>
