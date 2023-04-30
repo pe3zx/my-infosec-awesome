@@ -661,6 +661,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>ret-sync is a set of plugins that helps to synchronize a debugging session (WinDbg/GDB/LLDB/OllyDbg2/x64dbg) with IDA/Ghidra disassemblers.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/buzzer-re/Shinigami/">buzzer-re/Shinigami</a></td>
+        <td>Shinigami is an experimental tool designed to detect and unpack malware implants that are injected via process hollowing or generic packer routines.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/can1357/NoVmp">can1357/NoVmp</a></td>
         <td>A static devirtualizer for VMProtect x64 3.x. powered by VTIL.</td>
     </tr>
