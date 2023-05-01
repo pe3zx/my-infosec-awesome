@@ -1742,6 +1742,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>A parser of Windows Defender's DetectionHistory forensic artifact, containing substantial info about quarantined files and executables.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/joeavanzato/Trawler">joeavanzato/Trawler</a></td>
+        <td>PowerShell script to help Incident Responders discover adversary persistence mechanisms.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/JPCERTCC/LogonTracer">JPCERTCC/LogonTracer</a></td>
         <td>Investigate malicious Windows logon by visualizing and analyzing Windows event log</td>
     </tr>
