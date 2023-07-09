@@ -2728,6 +2728,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Domain Borrowing is a new method to hide your C2 traffic with CDN</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/DragoQCC/HardHatC2">DragoQCC/HardHatC2</a></td>
+        <td>A C# Command & Control framework</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/echtdefault/C2-GUI-Template">echtdefault/C2-GUI-Template</a></td>
         <td>Template for a C2 GUI coded in C++ using Win32 API</td>
     </tr>
