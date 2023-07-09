@@ -3554,6 +3554,10 @@ This repository is created as an online bookmark for useful links, resources and
 		<td>Muraena is an almost-transparent reverse proxy aimed at automating phishing and post-phishing activities.</td>
 	</tr>
     <tr>
+        <td><a href="https://github.com/Octoberfest7/TeamsPhisher">Octoberfest7/TeamPhisher</a></td>
+        <td>Send phishing messages and attachments to Microsoft Teams users</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/optiv/Microsoft365_devicePhish">optiv/Microsoft365_devicePhish</a></td>
         <td>A proof-of-concept script to conduct a phishing attack abusing Microsoft 365 OAuth Authorization Flow</td>
     </tr>
