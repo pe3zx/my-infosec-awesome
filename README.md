@@ -194,6 +194,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Virtual Machine for Adversary Emulation and Threat Hunting</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/RedTeamOperations/RedCloud-OS">RedTeamOperations/RedCloud-OS</a></td>
+        <td>RedCloudOS is a Cloud Adversary Simulation Operating System for Red Teams to assess the Cloud Security of Leading Cloud Service Providers (CSPs)</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/nickzer0/RedLab">nickzer0/RedLab</a></td>
         <td>Files for red team lab infrastructure.</td>
     </tr>
