@@ -1914,10 +1914,6 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Configuration files for the SOF-ELK VM, used in SANS FOR572</td>
     </tr>
     <tr>
-        <td><a href="https://github.com/polylogyx/PolyMon">polylogyx/PolyMon</a></td>
-        <td>PolyLogyx Monitoring Agent (PolyMon) is a Windows software that leverages the osquery tool and the PolyLogyx Extension to osquery, to provide a view into detailed information about process creations, network connections, file system changes and many other activities on the system.</td>
-    </tr>
-    <tr>
         <td><a href="https://github.com/PSGumshoe/PSGumshoe">PSGumshoe/PSGumshoe</a></td>
         <td>PSGumshoe is a Windows PowerShell module for the collection of OS and domain artifacts for the purposes of performing live response, hunt, and forensics.</td>
     </tr>
@@ -2775,10 +2771,6 @@ This repository is created as an online bookmark for useful links, resources and
         <td>A CLI interface to search for a MD-5/SHA-1/SHA-256 hash on multiple malware databases and download the sample from the first hit</td>
     </tr>
     <tr>
-        <td><a href="https://threatshare.io/">ThreatShare</a></td>
-        <td>ThreatShare is an advanced threat tracker that publicly tracks command & control servers for malware.</td>
-    </tr>
-    <tr>
         <td><a href="https://github.com/tklengyel/drakvuf">tklengyel/drakvuf</a></td>
         <td>DRAKVUF Black-box Binary Analysis</td>
     </tr>
@@ -2876,7 +2868,7 @@ This repository is created as an online bookmark for useful links, resources and
         <td>idb is a tool to simplify some common tasks for iOS pentesting and research</td>
     </tr>
     <tr>
-        <td><a href="https://labs.mwrinfosecurity.com/tools/drozer/">Drozer</a></td>
+        <td><a href="https://github.com/WithSecureLabs/drozer">Drozer</a></td>
         <td>Comprehensive security and attack framework for Android</td>
     </tr>
     <tr>
@@ -3173,10 +3165,6 @@ This repository is created as an online bookmark for useful links, resources and
     <tr>
         <td><a href="https://www.dargle.net/search">Dargle</a></td>
         <td>Dargle serves as a data aggregation platform for dark web domains. Hidden services on the dark web prove difficult to navigate, but by crawling the clear web, one can accumulate a directory of sorts for these hidden services.</td>
-    </tr>
-    <tr>
-        <td><a href="https://dark.fail/">dark.fail: Is a darknet site online?</a></td>
-        <td>dark.fail: Is a darknet site online?</td>
     </tr>
     <tr>
         <td><a href="https://darksearch.io/">DarkSearch</a></td>
