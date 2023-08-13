@@ -1538,6 +1538,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>RdpCacheStitcher is a tool that supports forensic analysts in reconstructing useful images out of RDP cache bitmaps.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/cado-security/varc">cado-security/varc</a></td>
+        <td>Volatile Artifact Collector collects a snapshot of volatile data from a system. It tells you what is happening on a system, and is of particular use when investigating a security incident.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/carmaa/inception">carmaa/inception</a></td>
         <td>Inception is a physical memory manipulation and hacking tool exploiting PCI-based DMA. The tool can attack over FireWire, Thunderbolt, ExpressCard, PC Card and any other PCI/PCIe interfaces.</td>
     </tr>
