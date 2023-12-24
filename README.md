@@ -953,6 +953,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Making GO reversing easier in IDA Pro</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/synacktiv/frinet">synacktive/frinet</a></td>
+        <td>Frida-based tracer for easier reverse-engineering on Android, iOS, Linux, Windows and most related architectures.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/taviso/loadlibrary">taviso/loadlibrary</a></td>
         <td>Porting Windows Dynamic Link Libraries to Linux</td>
     </tr>
