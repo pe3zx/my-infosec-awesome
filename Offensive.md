@@ -2666,6 +2666,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Open source C2 server created for stealth red team operations</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/APT64/EternalHushFramework">APT64/EternalHushFramework</a></td>
+        <td>EternalHush - new free advanced open-source c2 framework</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/bashexplode/cs2webconfig">bashexplode/cs2webconfig</a></td>
         <td>Convert Cobalt Strike profiles to IIS web.config files</td>
     </tr>
