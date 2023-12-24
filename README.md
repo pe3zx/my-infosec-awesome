@@ -1458,6 +1458,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Free Forensics Tool – \$I File Parser</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/0xrawsec/kunai">0xrawsec/kunai</a></td>
+        <td>Threat-hunting tool for Linux</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/3CORESec/Automata">3CORESec/Automata</a></td>
         <td>Automatic detection engineering technical state compliance</td>
     </tr>
