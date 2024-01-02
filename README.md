@@ -206,10 +206,6 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Sysmon event simulation utility which can be used to simulate the attacks to generate the Sysmon Event logs for testing the EDR detections and correlation rules by Blue teams.</td>
     </tr>
     <tr>
-        <td><a href="https://github.com/scythe-io/community-threats">scythe-io/community-threats</a></td>
-        <td>The GitHub of Adversary Emulation Plans in JSON. Share SCYTHE threats with the community. #ThreatThursday adversary emulation plans are shared here.</td>
-    </tr>
-    <tr>
         <td><a href="https://github.com/SecurityRiskAdvisors/VECTR">SecurityRiskAdvisors/VECTR</a></td>
         <td>VECTR is a tool that facilitates tracking of your red and blue team testing activities to measure detection and prevention capabilities across different attack scenarios</td>
     </tr>
@@ -544,10 +540,6 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Most advanced XSS detection suite</td>
     </tr>
     <tr>
-        <td><a href="https://github.com/salesforce/DazedAndConfused">salesforce/DazedAndConfused</a></td>
-        <td>DazedAndConfused is a tool to help determine dependency confusion exposure.</td>
-    </tr>
-    <tr>
         <td><a href="https://github.com/Screetsec/Sudomy">Screetsec/Sudomy</a></td>
         <td>Sudomy is a subdomain enumeration tool to collect subdomains and analyzing domains performing automated reconnaissance (recon) for bug hunting / pentesting</td>
     </tr>
@@ -847,10 +839,6 @@ This repository is created as an online bookmark for useful links, resources and
     <tr>
         <td><a href="https://github.com/loov/lensm">loov/lensm</a></td>
         <td>Go assembly and source viewer</td>
-    </tr>
-    <tr>
-        <td><a href="https://maat.re/index.html">Maat</a></td>
-        <td>Maat is an open-source symbolic execution framework that can be used for binary analysis, reverse-engineering, and vulnerability research.</td>
     </tr>
     <tr>
         <td><a href="https://github.com/mandiant/dncil">mandiant/dncli</a></td>
@@ -2338,10 +2326,6 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Malwoverview.py is a simple tool to perform an initial and quick triage on either a directory containing malware samples or a specific malware sample</td>
     </tr>
     <tr>
-        <td><a href="https://androscope.fortinet-cse.com/">Androscope</a></td>
-        <td>the Android Malware Microscope</td>
-    </tr>
-    <tr>
         <td><a href="https://cse.google.com/cse/publicurl?cx=003248445720253387346:turlh5vi4xc">APT Groups, Operations and Malware Search Engine</td>
         <td>APT Groups, Operations and Malware Search Engine</td>
     </tr>
@@ -3075,10 +3059,6 @@ This repository is created as an online bookmark for useful links, resources and
     <tr>
         <td><a href="https://github.com/nesfit/NetfoxDetective/">nesfit/NetfoxDetective</a></td>
         <td>NFX Detective is a novel Network forensic analysis tool that implements methods for extraction of application content from communication using supported protocols.</td>
-    </tr>
-    <tr>
-        <td><a href="https://scan.netlab.360.com">NetworkScan Mon</a></td>
-        <td>NetworkScan Monitor by Netlab 360</td>
     </tr>
     <tr>
         <td><a href="https://github.com/odedshimon/BruteShark">odedshimon/BruteShark</a></td>
