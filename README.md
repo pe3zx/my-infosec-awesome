@@ -713,6 +713,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Universal unpacker and fixer for a number of modded ConfuserEx protections</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/dragon-dreamer/binary-valentine">dragon-dreamer/binary-valentine</a></td>
+        <td>Binary Valentine is a cross-platform static analysis tool for Portable Executable files. Detects security, configuration, optimization, system and format issues.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/e-m-b-a/emba">e-m-b-a/emba</a></td>
         <td>EMBA - The firmware security analyzer</td>
     </tr>
