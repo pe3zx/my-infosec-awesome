@@ -1866,6 +1866,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>This is a GUI (for Windows 64 bit) for a procedure to virtualize your EWF(E01), DD(Raw), AFF disk image file without converting it, directly with VirtualBox, forensically proof.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/Neo23x0/god-mode-rules">Neo23x0/god-mode-rules</a></td>
+        <td>God Mode Detection Rules</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/Netflix/dispatch">Netflix/dispatch</a></td>
         <td>All of the ad-hoc things you're doing to manage incidents today, done for you, and much more!</td>
     </tr>
