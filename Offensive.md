@@ -1497,6 +1497,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>injdrv is a proof-of-concept Windows Driver for injecting DLL into user-mode processes using APC.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/hackerhouse-opensource/SignToolEx">hackerhouse-opensource/SignToolEx</a></td>
+        <td>Patching "signtool.exe" to accept expired certificates for code-signing.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/HackOvert/AntiDBG">HackOvert/AntiDBG</a></td>
         <td>A bunch of Windows anti-debugging tricks for x86 and x64.</td>
     </tr>
