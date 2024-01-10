@@ -1749,6 +1749,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>A fake AMSI Provider which can be used for persistence.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/netero1010/EDRSilencer">netero1010/EDRSilencer</a></td>
+        <td>A tool uses Windows Filtering Platform (WFP) to block Endpoint Detection and Response (EDR) agents from reporting security events to the server.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/netero1010/TrustedPath-UACBypass-BOF">netero1010/TrustedPath-UACBypass-BOF</a></td>
         <td>Cobalt Strike beacon object file implementation for trusted path UAC bypass. The target executable will be called without involving "cmd.exe" by using DCOM object.</td>
     </tr>
