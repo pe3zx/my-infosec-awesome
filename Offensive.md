@@ -1469,6 +1469,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>NimicStack is the pure Nim implementation of Call Stack Spoofing technique to mimic legitimate programs</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/gatariee/gocheck">gatariee/gocheck</a></td>
+        <td>DefenderCheck but blazingly fast™</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/GetRektBoy724/HalosUnhooker">GetRektBoy724/HalosUnhooker</a></td>
         <td>Halos Gate-based NTAPI Unhooker</td>
     </tr>
