@@ -2167,10 +2167,6 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Windows - Weaponizing privileged file writes with the Update Session Orchestrator service</td>
     </tr>
     <tr>
-        <td><a href="https://github.com/jollheef/out-of-tree">jollheef/out-of-tree</a></td>
-        <td>out-of-tree kernel {module, exploit} development tool</td>
-    </tr>
-    <tr>
         <td><a href="https://github.com/nomi-sec/PoC-in-GitHub">nomi-sec/PoC-in-GitHub</a></td>
         <td>📡 PoC auto collect from GitHub. ⚠️ Be careful Malware.</td>
     </tr>
@@ -2416,10 +2412,6 @@ This repository is created as an online bookmark for useful links, resources and
     <tr>
         <td><a href="https://github.com/DoctorWebLtd/malware-iocs">DoctorWebLtd/malware-iocs</a></td>
         <td>This repository contains Indicators of Compromise (IOCs) related to our investigations.</td>
-    </tr>
-    <tr>
-        <td><a href="https://dragonfly.certego.net/">Dragonfly</a></td>
-        <td>An automated sandbox to emulate and analyze malware</td>
     </tr>
     <tr>
         <td><a href="https://github.com/droidefense/engine">droidefense/engine</td>
@@ -2737,10 +2729,6 @@ This repository is created as an online bookmark for useful links, resources and
     <tr>
         <td><a href="https://github.com/SentineLabs/SentinelLabs_RevCore_Tools">SentineLabs/SentinelLabs_RevCore_Tools</a></td>
         <td>The Windows Malware Analysis Reversing Core Tools</td>
-    </tr>
-    <tr>
-        <td><a href="https://malware.sekoia.fr/new">SEKOIA Dropper Analysis</a></td>
-        <td>SEKOIA Dropper Analysis</td>
     </tr>
     <tr>
         <td><a href="https://github.com/slaughterjames/excelpeek">slaughterjames/excelpeek</a></td>
@@ -3552,10 +3540,6 @@ This repository is created as an online bookmark for useful links, resources and
     <tr>
         <td><a href="https://github.com/optiv/Microsoft365_devicePhish">optiv/Microsoft365_devicePhish</a></td>
         <td>A proof-of-concept script to conduct a phishing attack abusing Microsoft 365 OAuth Authorization Flow</td>
-    </tr>
-    <tr>
-        <td><a href="https://wanetty.github.io/tools/pofish">PoFish</a></td>
-        <td>A new docker for phishing (PoFish)</td>
     </tr>
     <tr>
         <td><a href="https://pretext-project.github.io/">Pretext Project</a></td>
