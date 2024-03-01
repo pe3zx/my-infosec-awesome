@@ -122,6 +122,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Automated Attack Simulation in the Cloud, complete with detection use cases.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/JonathanSalwan/Triton">JonathanSalwan/Triton</a></td>
+        <td>Triton is a dynamic binary analysis library. Build your own program analysis tools, automate your reverse engineering, perform software verification or just emulate code.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/jymcheong/AutoTTP">jymchoeng/AutoTTP</a></td>
         <td>Automated Tactics Techniques & Procedures</td>
     </tr>
