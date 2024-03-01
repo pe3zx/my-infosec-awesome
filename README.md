@@ -2394,6 +2394,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>snake - a malware storage zoo</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/csvl/SEMA-ToolChain">csvl/SEMA-ToolChain</a></td>
+        <td>ToolChain using Symbolic Execution for Malware Analysis.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/CybercentreCanada/CCCS-Yara">CybercentreCanada/CCCS-Yara</a></td>
         <td>YARA rule metadata specification and validation utility / Spécification et validation pour les règles YARA</td>
     </tr>
