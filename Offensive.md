@@ -1653,6 +1653,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>C# based tool which automates the process of discovering and exploiting DLL Hijacks in target binaries. The Hijacked paths discovered can later be weaponized during Red Team Operations to evade EDR's.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/Kudaes/Shelter">Kudaes/Shelter</a></td>
+        <td>ROP-based sleep obfuscation to evade memory scanners</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/kyleavery/inject-assembly">kyleavery/inject-assembly</a></td>
         <td>Inject .NET assemblies into an existing process</td>
     </tr>
