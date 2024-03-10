@@ -2885,6 +2885,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Shadow Workers is a free and open source C2 and proxy designed for penetration testers to help in the exploitation of XSS and malicious Service Workers (SW)</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/SpecterOps/Nemesis">SpecterOps/Nemesis</a></td>
+        <td>An offensive data enrichment pipeline</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/SpiderLabs/DoHC2">SpiderLabs/DoHC2</a></td>
         <td>DoHC2 allows the ExternalC2 library from Ryan Hanson (https://github.com/ryhanson/ExternalC2) to be
             leveraged for command and control (C2) via DNS over HTTPS (DoH).</td>
