@@ -1554,6 +1554,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Cerebrate is an open-source platform meant to act as a trusted contact information provider and interconnection orchestrator for other security tools (such as MISP).</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/cgosec/Blauhaunt">cgosec/Blauhaunt</a></td>
+        <td>A tool collection for filtering and visualizing logon events. Designed to help answering the "Cotton Eye Joe" question (Where did you come from where did you go) in Security Incidents and Threat Hunts</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/chrisandoryan/Nethive-Project">chrisandoryan/Nethive-Project</a></td>
         <td>Restructured and Collaborated SIEM and CVSS Infrastructure. Presented at Blackhat Asia Arsenal 2020.</td>
     </tr>
