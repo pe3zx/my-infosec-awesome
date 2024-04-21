@@ -3291,6 +3291,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>OpenCelliD - Largest Open Database of Cell Towers & Geolocation - by Unwired Labs</td>
     </tr>   
     <tr>
+        <td><a href="https://opencorporates.com/">OpenCorporates</a></td>
+        <td>Legal-entity data you can trust</td>
+    </tr>
+    <tr>
         <td><a href="https://osint.sh/">OSINT.SH</a></td>
         <td>ALL IN ONE INFORMATION GATHERING TOOLS</td>
     </tr>
