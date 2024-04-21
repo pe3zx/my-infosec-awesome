@@ -3376,6 +3376,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>AttackSurfaceMapper is a tool that aims to automate the reconnaissance process.</td>
     </tr>
     <tr>
+        <td><a href="https://ted.europa.eu/en/news/welcome-to-the-new-ted">TED</a></td>
+        <td>Tenders Electronic Daily</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/thewhiteh4t/nexfil">thewhiteh4t/nexfil</a></td>
         <td>OSINT tool for finding profiles by username</td>
     </tr>
