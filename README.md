@@ -3335,6 +3335,10 @@ This repository is created as an online bookmark for useful links, resources and
 		<td>Recon-ng is a reconnaissance tool with an interface similar to Metasploit. Running recon-ng from the command line you enter a shell like environment where you can configure options, perform recon and output results to different report types.</td>
 	</tr>
     <tr>
+        <td><a href="https://www.gov.uk/government/collections/register-of-overseas-entities">Register of Overseas Entities</a></td>
+        <td>Overseas entities who want to buy, sell or transfer property or land in the UK, must register with Companies House and tell us who their registrable beneficial owners or managing officers are.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/s-rah/onionscan">s-rah/onionscan</a></td>
         <td>OnionScan is a free and open source tool for investigating the Dark Web.</td>
     </tr>
