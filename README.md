@@ -3339,6 +3339,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Overseas entities who want to buy, sell or transfer property or land in the UK, must register with Companies House and tell us who their registrable beneficial owners or managing officers are.</td>
     </tr>
     <tr>
+        <td><a href="https://rupep.org/en/">RuPEP</a></td>
+        <td>Public Database of Domestic Politically Exposed Persons of Russia, Belarus and Kazakhstan</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/s-rah/onionscan">s-rah/onionscan</a></td>
         <td>OnionScan is a free and open source tool for investigating the Dark Web.</td>
     </tr>
