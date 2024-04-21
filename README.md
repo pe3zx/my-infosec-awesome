@@ -3299,6 +3299,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Legal-entity data you can trust</td>
     </tr>
     <tr>
+        <td><a href="https://www.openownership.org/en/">Open Ownership</a></td>
+        <td>Open Ownership drives the global shift towards transparency and accountability in corporate ownership and control</td>
+    </tr>
+    <tr>
         <td><a href="https://osint.sh/">OSINT.SH</a></td>
         <td>ALL IN ONE INFORMATION GATHERING TOOLS</td>
     </tr>
