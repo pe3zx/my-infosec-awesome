@@ -3283,6 +3283,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>A browser extension for OSINT search</td>
     </tr>
     <tr>
+        <td><a href="https://aleph.occrp.org/">OCCRP Aleph</a></td>
+        <td>The global archive of research material for investigative reporting.</td>
+    </tr>
+    <tr>
         <td><a href="https://data.occrp.org/">OCCRP Data</a></td>
         <td>Search 102m public records and leaks from 179 sources</td>
     </tr>
