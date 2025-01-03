@@ -1174,10 +1174,6 @@ This repository is created as an online bookmark for useful links, resources and
         <td>CloudScraper: Tool to enumerate targets in search of cloud resources. S3 Buckets, Azure Blobs, Digital Ocean Storage Space.</td>
     </tr>
     <tr>
-        <td><a href="https://github.com/kromtech/s3-inspector">kromtech/s3-inspector</a></td>
-        <td>Tool to check AWS S3 bucket permissions</td>
-    </tr>
-    <tr>
         <td><a href="https://github.com/lyft/metadataproxy">lyft/metadataproxy</a></td>
         <td>A proxy for AWS's metadata service that gives out scoped IAM credentials from STS</td>
     </tr>
@@ -2779,10 +2775,6 @@ This repository is created as an online bookmark for useful links, resources and
 		<td>Malcom - Malware Communications Analyzer</td>
 	</tr>
     <tr>
-        <td><a href="https://pan-unit42.github.io/playbook_viewer/">UNIT 42: Playbook Viewver</a></td>
-        <td>Viewing PAN Unit 42's adversary playbook via web interface</td>
-    </tr>
-    <tr>
         <td><a href="https://www.unpac.me/#/">UNPACME</a></td>
         <td>An automated malware unpacking service from OpenAnalysis</td>
     </tr>
@@ -3139,10 +3131,6 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Web Inventory tool, takes screenshots of webpages using Pyppeteer (headless Chrome/Chromium) and provides some extra bells & whistles to make life easier.</td>
     </tr>
     <tr>
-        <td><a href="https://cellidfinder.com/">CellID Finder</a></td>
-        <td>Find GSM base stations cell id coordinates</a></td>
-    </tr>
-    <tr>
         <td><a href="https://www.cellmapper.net">CellMapper</a></td>
         <td>Cellular Coverage and Tower Map</a></td>
     </tr>
@@ -3161,10 +3149,6 @@ This repository is created as an online bookmark for useful links, resources and
     <tr>
         <td><a href="https://www.dargle.net/search">Dargle</a></td>
         <td>Dargle serves as a data aggregation platform for dark web domains. Hidden services on the dark web prove difficult to navigate, but by crawling the clear web, one can accumulate a directory of sorts for these hidden services.</td>
-    </tr>
-    <tr>
-        <td><a href="https://darksearch.io/">DarkSearch</a></td>
-        <td>The 1st Real Dark Web Search Engine</td>
     </tr>
     <tr>
         <td><a href="https://github.com/danieliu/play-scraper">danieliu/play-scraper</a></td>
@@ -3406,10 +3390,6 @@ This repository is created as an online bookmark for useful links, resources and
     <tr>
         <td><a href="https://github.com/WebBreacher/WhatsMyName">WebBreacher/WhatsMyName</a></td>
         <td>This repository has the unified data required to perform user enumeration on various websites. Content is in a JSON file and can easily be used in other projects.</td>
-    </tr>
-    <tr>
-        <td><a href="https://whatsmyname.app/">WhatsMyName Web</a></td>
-        <td>This tool allows you to enumerate usernames across many websites</td>
     </tr>
 	<tr>
 		<td><a href="https://github.com/woj-ciech/kamerka">woj-ciech/kamerka</a></td>
@@ -3860,10 +3840,6 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Deliberately vulnerable AWS resources for security assessment demos</td>
     </tr>
     <tr>
-        <td><a href="https://tuts4you.com/download.php?list.17">Lenas Reversing for Newbies</a></td>
-        <td>Nice collection of tutorials aimed particularly for newbie reverse enginners...</td>
-    </tr>
-    <tr>
         <td><a href="https://github.com/InsiderPhD/Generic-University">InsiderPhD/Generic-University</a></td>
         <td>Vulnerable API</td>
     </tr>
@@ -3898,10 +3874,6 @@ This repository is created as an online bookmark for useful links, resources and
     <tr>
         <td><a href="https://github.com/rewanth1997/Damn-Vulnerable-Bank">rewanth1997/Damn-Vulnerable-Bank</a></td>
         <td>Vulnerable Banking Application for Android</td>
-    </tr>
-    <tr>
-        <td><a href="https://martin.uy/blog/projects/reverse-engineering/">Reverse Engineering</a></td>
-        <td>Welcome to the Reverse Engineering open course! This course is a journey into executable binaries and operating systems from 3 different angles: 1) Malware analysis, 2) Bug hunting and 3) Exploit writing. Both  Windows and Linux x86/x86_64 platforms are under scope.</td>
     </tr>
     <tr>
         <td><a href="https://github.com/sagishahar/lpeworkshop">sagishahar/lpeworkshop</a></td>
