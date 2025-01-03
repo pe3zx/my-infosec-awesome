@@ -2346,6 +2346,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Interesting apt report collection and some special ioc express</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/BlackSnufkin/LitterBox">BlackSnufkin/LitterBox</a></td>
+        <td>sandbox approach for malware developers and red teamers to test payloads against detection mechanisms before deployment</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/CapacitorSet/box-js">CapacitorSet/box-js</a></td>
         <td>A tool for studying JavaScript malware</td>
     </tr>
