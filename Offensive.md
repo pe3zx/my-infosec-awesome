@@ -411,6 +411,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Automated build for process hollowing shellcode loader. Build on top of TikiTorch and donut projects.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/DualHorizon/blackpill">DualHorizon/blackpill</a></td>
+        <td>A Linux kernel rootkit in Rust using a custom made type-2 hypervisor, eBPF XDP and TC programs</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/EddieIvan01/memexec">EddieIvan01/memexec</a></td>
         <td>A library for loading and executing PE (Portable Executable) from memory without ever touching the disk</td>
     </tr>
