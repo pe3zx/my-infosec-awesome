@@ -869,6 +869,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Various capabilities for static malware analysis.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/momo5502/emulator">momo5502/emulator</a></td>
+        <td>🪅 Windows User Space Emulator</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/moyix/gpt-wpre">moyix/gpt-wpre</a></td>
         <td>Whole-Program Reverse Engineering with GPT-3</td>
     </tr>
