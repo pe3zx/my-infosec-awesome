@@ -1174,6 +1174,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>CloudScraper: Tool to enumerate targets in search of cloud resources. S3 Buckets, Azure Blobs, Digital Ocean Storage Space.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/LuemmelSec/APEX">LuemmelSec/APEX</a></td>
+        <td>Azure Post Exploitation Framework</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/lyft/metadataproxy">lyft/metadataproxy</a></td>
         <td>A proxy for AWS's metadata service that gives out scoped IAM credentials from STS</td>
     </tr>
