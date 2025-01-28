@@ -992,6 +992,10 @@ This repository is created as an online bookmark for useful links, resources and
             Pure Python parser and analyzer for IDA Pro database files (.idb).
         </td>
     </tr>
+    <tr>
+        <td><a href="https://github.com/x86matthew/WinVisor">x86matthew/WinVisor</a></td>
+        <td>WinVisor - A hypervisor-based emulator for Windows x64 user-mode executables using Windows Hypervisor Platform API</td>
+    </tr>
 </table>
 
 ## Cloud Security
