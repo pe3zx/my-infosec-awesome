@@ -1067,6 +1067,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Cobalt Strike (CS) Beacon Object File (BOF) foundation for kernel exploitation using CVE-2021-21551.</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/p0dalirius/Coercer">p0dalirius/Coercer</a></td>
+        <td>A python script to automatically coerce a Windows server to authenticate on an arbitrary machine through 12 methods.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/ollypwn/Certipy">ollypwn/Certipy</a></td>
         <td>Python implementation for Active Directory certificate abuse</td>
     </tr>
