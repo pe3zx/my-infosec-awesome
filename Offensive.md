@@ -195,6 +195,10 @@ Some tools can be categorized in more than one category. But because the current
         <td>Check if MS-RPRN is remotely available with powershell/c#</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/xforcered/SoaPy">xforcered/SoaPy</a></td>
+        <td>SoaPy is a Proof of Concept (PoC) tool for conducting offensive interaction with Active Directory Web Services (ADWS) from Linux hosts.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/yogeshojha/rengine">yogeshojha/rengine</a></td>
         <td>reNgine is a reconnaissance engine(framework) that does end-to-end reconnaissance with the help of highly configurable scan engines and does information gathering about the target web application. reNgine makes use of various open-source tools and makes a configurable pipeline of reconnaissance.</td>
     </tr>
