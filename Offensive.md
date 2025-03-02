@@ -33,6 +33,9 @@ Some tools can be categorized in more than one category. But because the current
         <td><b>Description</b></td>
     </tr>
     <tr>
+        <td><a href="https://github.com/Arcanum-Sec/msftrecon">Arcanum-Sec/msftrecon</a></td>
+        <td>MSFTRecon is a reconnaissance tool designed for red teamers and security professionals to map Microsoft 365 and Azure tenant infrastructure. It performs comprehensive enumeration without requiring authentication, helping identify potential security misconfigurations and attack vectors.</td>
+    <tr>
         <td><a href="https://github.com/asaurusrex/Probatorum-EDR-Userland-Hook-Checker">asaurusrex/Probatorum-EDR-Userland-Hook-Checker</a>
         <td>Project to check which Nt/Zw functions your local EDR is hooking</td>
     </tr>
