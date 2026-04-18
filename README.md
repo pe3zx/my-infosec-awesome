@@ -3195,6 +3195,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>changedetection.io - The best and simplest self-hosted open source website change detection monitoring and notification service. An alternative to Visualping, Watchtower etc. Designed for simplicity - the main goal is to simply monitor which websites had a text change. Open source web page change detection - Now also includes JSON API change det…</td>
     </tr>
     <tr>
+        <td><a href="https://snaplert.com">Snaplert</a></td>
+        <td>Website change monitoring with visual pixel diffs, AI-powered change summaries, element-level zone picker, and before/after screenshot alerts. Free during open beta.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/felix83000/Watcher">felix83000/Watcher</a></td>
         <td>Watcher - Open Source Cybersecurity Threat Hunting Platform. Developed with Django & React JS.</td>
     </tr>
