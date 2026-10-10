@@ -257,6 +257,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td><a href="https://github.com/warhorse/warhorse">warhorse/warhorse</a></td>
         <td>Warhorse consists of a fully-featured Ansible playbook to deploy infrastructure in the cloud for conducting security assessments.</td>
     </tr>
+    <tr>
+        <td><a href="https://github.com/0xdnd/ctf-tracker">0xdnd/ctf-tracker</a></td>
+        <td>ZeroBox is an offline-first tactical CTF lab tracker, payload generator, and writeup studio for penetration testing and offensive security labs.</td>
+    </tr>
 </table>
 
 ## Application Security
