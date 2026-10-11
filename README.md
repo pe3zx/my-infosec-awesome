@@ -335,10 +335,6 @@ This repository is created as an online bookmark for useful links, resources and
         <td>A container analysis and exploitation tool for pentesters and engineers.</td>
     </tr>
     <tr>
-        <td><a href="https://bugbountyrecon.com/">Bug Bounty Recon</a></td>
-        <td>Bug Bounty Recon (bbrecon) is a Recon-as-a-Service for bug bounty hunters and security researchers. The API aims to provide a continuously up-to-date map of the Internet "safe harbor" attack surface, excluding out-of-scope targets.</td>
-    </tr>
-    <tr>
         <td><a href="https://github.com/Checkmarx/kics">Checkmarx/kics</a></td>
         <td>Find security vulnerabilities, compliance issues, and infrastructure misconfigurations early in the development cycle of your infrastructure-as-code with KICS by Checkmarx.</td>
     </tr>
@@ -2575,10 +2571,6 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Malware samples, analysis exercises and other interesting resources.</td>
     </tr>
     <tr>
-        <td><a href="https://github.com/KasperskyLab/klara">KasperskyLab/klara</a></td>
-        <td>Klara project is aimed at helping Threat Intelligence researechers hunt for new malware using Yara.</td>
-    </tr>
-    <tr>
         <td><a href="https://github.com/katjahahn/PortEx">katjahahn/PortEx</a></td>
         <td>Java library to analyse Portable Executable files with a special focus on malware analysis and PE malformation robustness</td>
     </tr>
@@ -2985,10 +2977,6 @@ This repository is created as an online bookmark for useful links, resources and
         <td>An analytical framework for network traffic and behavioral analytics</td>
     </tr>
     <tr>
-        <td><a href="https://github.com/Ben0xA/HoneyCreds">Ben0xA/HoneyCreds</a></td>
-        <td>HoneyCreds network credential injection to detect responder and other network poisoners.</td>
-    </tr>
-    <tr>
         <td><a href="https://github.com/certego/PcapMonkey">certego/PcapMonkey</a></td>
         <td>PcapMonkey will provide an easy way to analyze pcap using the latest version of Suricata and Zeek.</td>
     </tr>
@@ -3214,10 +3202,6 @@ This repository is created as an online bookmark for useful links, resources and
 		<td><a href="https://github.com/intelowlproject/IntelOwl">intelowlproject/IntelOwl</a></td>
 		<td>Intel Owl: analyze files, domains, IPs in multiple ways from a single API at scale</td>
 	</tr>
-    <tr>
-        <td><a href="https://blog.shodan.io/introducing-the-internetdb-api/">InternetDB</a></td>
-        <td>Fast IP Lookups for Open Ports and Vulnerabilities</td>
-    </tr>
     <tr>
         <td><a href="https://github.com/iptv-org/iptv">iptv-org/iptv</a></td>
         <td>Collection of 8000+ publicly available IPTV channels from all over the world</td>
@@ -3526,7 +3510,7 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Phishing Framework for Pentesters</td>
     </tr>
     <tr>
-        <td><a href="https://github.com/GemGeorge/SniperPhish/">GemGeorge/SniperPhish/</a></td>
+        <td><a href="https://sniperphish.com/">SniperPhish</a></td>
         <td>SniperPhish - The Web-Email Spear Phishing Toolkit</td>
     </tr>
     <tr>
@@ -3691,10 +3675,6 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Framework for cryptoeconomic contract security, decentralized security bounties. Live on Ethereum.</td>
     </tr>
     <tr>
-        <td><a href="https://lossless.cash/">Lossless</a></td>
-        <td>The first DeFi hack mitigation tool for token creators.</td>
-    </tr>
-    <tr>
         <td><a href="https://github.com/mikedeshazer/bricks">mikedeshazer/bricks</a></td>
         <td>Bricks is a sandbox and instruction manual collection for building smart contract exploits for Ethereum blockchains, designed to help developers think like hackers in a safe, fun environment.</td>
     </tr>
@@ -3796,7 +3776,7 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Very vulnerable ARM application (CTF style exploitation tutorial)</td>
     </tr>
     <tr>
-        <td><a href="https://github.com/bkimminich/juice-shop">bkimminich/juice-shop</a></td>
+        <td><a href="https://github.com/juice-shop/juice-shop">juice-shop/juice-shop</a></td>
         <td>OWASP Juice Shop is an intentionally insecure webapp for security trainings written entirely in Javascript which encompasses the entire OWASP Top Ten and other severe security flaws.</td>
     </tr>
     <tr>
