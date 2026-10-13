@@ -1342,6 +1342,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td><a href="https://github.com/specterops/at-ps">specterops/at-ps</a></td>
         <td>Adversary Tactics - PowerShell Training</td>
     </tr>
+    <tr>
+        <td><a href="https://ransomleak.com/learning/">RansomLeak</a></td>
+        <td>Free browser-based labs for the OWASP Web and API Top 10, cloud (S3, IAM, containers), Git and CI/CD, and AI security (LLM, agentic, MCP)</td>
+    </tr>
 </table>
 
 ## Cryptography
