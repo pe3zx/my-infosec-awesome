@@ -1453,6 +1453,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>A Repository of curated datasets from various attacks</td>
     </tr>
     <tr>
+        <td><a href="https://ichi.global">ICHI – Internet Cyber Health Index</a></td>
+        <td>Free, publicly accessible daily barometer of internet cyber health. Aggregates and synthesizes signals from 20+ named public sources (CISA KEV, Shodan, Censys, CVE/NVD, abuse.ch, US-CERT advisories, and others) into a composite daily index score. Every data point links to its named originating source. Historical index and dimension data exported as free JSON/CSV via <a href="https://ichi.global/data">https://ichi.global/data</a>.</td>
+    </tr>
+    <tr>
         <td><a href="https://winbindex.m417z.com/">Winbindex</a></td>
         <td>The Windows Binaries Index</td>
     </tr>
