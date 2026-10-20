@@ -536,6 +536,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Fast HTTP enumerator</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/RanaKhan77/Website-Vulnerability-Scanner">RanaKhan77/Website-Vulnerability-Scanner</a></td>
+        <td>Self-hosted web vulnerability scanner with 200 deterministic modules covering the OWASP Top 10, CMS and framework fingerprinting, TLS, DNS and email misconfigurations, exposed services and AI/LLM attack surfaces, with evidence-based PDF reporting and continuous monitoring.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/RhinoSecurityLabs/IPRotate_Burp_Extension">RhinoSecurityLabs/IPRotate_Burp_Extension</a></td>
         <td>Extension for Burp Suite which uses AWS API Gateway to rotate your IP on every request.</td>
     </tr>
