@@ -1454,7 +1454,7 @@ This repository is created as an online bookmark for useful links, resources and
     </tr>
     <tr>
         <td><a href="https://ichi.global">ICHI – Internet Cyber Health Index</a></td>
-        <td>Free, publicly accessible daily barometer of internet cyber health. Aggregates and synthesizes signals from 20+ named public sources (CISA KEV, Shodan, Censys, CVE/NVD, abuse.ch, US-CERT advisories, and others) into a composite daily index score. Every data point links to its named originating source. Historical index and dimension data exported as free JSON/CSV via <a href="https://ichi.global/data">https://ichi.global/data</a>.</td>
+        <td>Free, publicly accessible daily barometer of internet cyber health. Aggregates and synthesizes signals from 20+ named public sources (CISA KEV, Shodan, Censys, CVE/NVD, abuse.ch, US-CERT advisories, and others) into a composite daily index score. Every data point links to its named originating source. Historical index and dimension data exported as free JSON/CSV via https://ichi.global/data.</td>
     </tr>
     <tr>
         <td><a href="https://winbindex.m417z.com/">Winbindex</a></td>
@@ -3529,10 +3529,6 @@ This repository is created as an online bookmark for useful links, resources and
         <td><a href="https://github.com/kgretzky/evilginx2">kgretzky/evilginx2</a></td>
         <td>Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication</td>
     </tr>
-	<tr>
-		<td><a href="https://github.com/mdsecactivebreach/o365-attack-toolkit">mdsecactivebreach/o365-attack-toolkit</a></td>
-		<td>o365-attack-toolkit allows operators to perform an OAuth phishing attack and later on use the Microsoft Graph API to extract interesting information.</td>
-	</tr>
     <tr>
         <td><a href="https://github.com/Mr-Un1k0d3r/CatMyPhish">Mr-Un1k0d3r/CatMyPhish</a></td>
         <td>Search for categorized domain</td>

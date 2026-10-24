@@ -14,4 +14,4 @@ jobs:
     - name: Build and test with awesome_bot
       run: |
         gem install awesome_bot
-        awesome_bot README.md --white-list LICENSE,emailrep.io,dnsdumpster.com,"github.com/pe3zx/my-infosec-awesome/actions","tuts4you.com/download.php?list.17","ethtx.info",'osint.sh','start.me',www.secrepo.com,www.sleuthkit.org,ted.europa.eu --allow-ssl --allow-redirect --allow 429,403
+        awesome_bot README.md --white-list LICENSE,emailrep.io,dnsdumpster.com,"github.com/pe3zx/my-infosec-awesome/actions","tuts4you.com/download.php?list.17","ethtx.info",'osint.sh','start.me',www.secrepo.com,www.sleuthkit.org,ted.europa.eu,bots.splunk.com,antonioparata.blogspot.it,binaryforay.blogspot.com,contagiodump.blogspot.com,tor.taxi,virusshare.com,public.cyber.mil,nxlog.co --allow-ssl --allow-redirect --allow 429,403
