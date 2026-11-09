@@ -3360,6 +3360,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>SpiderFoot - Opensource Intelligence Automation</td>
     </tr>
     <tr>
+        <td><a href="https://spoof-me.com/">Spoof Me</a></td>
+        <td>Chrome/Firefox extension that keeps an investigation browser's identity consistent (User-Agent, language, timezone, screen), limits WebRTC IP leaks and flags fingerprinting scripts</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/sundowndev/PhoneInfoga">sundowndev/PhoneInfoga</a></td>
         <td>Advanced information gathering & OSINT framework for phone numbersAdvanced information gathering & OSINT framework for phone numbers</td>
     </tr>
