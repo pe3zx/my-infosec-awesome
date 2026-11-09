@@ -3295,6 +3295,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Open Ownership drives the global shift towards transparency and accountability in corporate ownership and control</td>
     </tr>
     <tr>
+        <td><a href="https://useopsis.com/">Opsis</a></td>
+        <td>Finds the accounts linked to an email address, username or domain across 1000+ source modules (reverse email lookup). Freemium.</td>
+    </tr>
+    <tr>
         <td><a href="https://osint.sh/">OSINT.SH</a></td>
         <td>ALL IN ONE INFORMATION GATHERING TOOLS</td>
     </tr>
