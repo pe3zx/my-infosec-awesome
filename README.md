@@ -3387,6 +3387,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td><a href="https://github.com/WebBreacher/WhatsMyName">WebBreacher/WhatsMyName</a></td>
         <td>This repository has the unified data required to perform user enumeration on various websites. Content is in a JSON file and can easily be used in other projects.</td>
     </tr>
+    <tr>
+        <td><a href="https://whatoblock.com/">Whatoblock</a></td>
+        <td>Honeypot-based threat intelligence: look up IPs seen scanning or attacking the internet, with the ports and services they target and botnet, proxy or Tor exit labels</td>
+    </tr>
 	<tr>
 		<td><a href="https://github.com/woj-ciech/kamerka">woj-ciech/kamerka</a></td>
 		<td>Build interactive map of cameras from Shodan</td>
